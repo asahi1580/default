@@ -1,0 +1,35 @@
+2022年12月23日 14:05:52
+default
+ひとくちのキス (SG)
+{"danceability": 0.79, "energy": 0.808, "key": 7, "loudness": -4.051, "mode": 1, "speechiness": 0.134, "acousticness": 0.0297, "instrumentalness": 0, "liveness": 0.06, "valence": 0.821, "tempo": 120.003, "type": "audio_features", "id": "1TYSgBF0FdqmiddlHsdRSk", "uri": "spotify:track:1TYSgBF0FdqmiddlHsdRSk", "track_href": "https://api.spotify.com/v1/tracks/1TYSgBF0FdqmiddlHsdRSk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1TYSgBF0FdqmiddlHsdRSk", "duration_ms": 197500, "time_signature": 4}
+Subtitle (Official HIGE DANdism)
+{"danceability": 0.649, "energy": 0.683, "key": 6, "loudness": -6.49, "mode": 1, "speechiness": 0.0424, "acousticness": 0.0313, "instrumentalness": 0, "liveness": 0.118, "valence": 0.381, "tempo": 130.0, "type": "audio_features", "id": "49F3htNmwzPKFycPdOrDvf", "uri": "spotify:track:49F3htNmwzPKFycPdOrDvf", "track_href": "https://api.spotify.com/v1/tracks/49F3htNmwzPKFycPdOrDvf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/49F3htNmwzPKFycPdOrDvf", "duration_ms": 305509, "time_signature": 4}
+Just be Blue (THREE1989)
+{"danceability": 0.722, "energy": 0.688, "key": 11, "loudness": -6.935, "mode": 1, "speechiness": 0.0714, "acousticness": 0.227, "instrumentalness": 0, "liveness": 0.116, "valence": 0.763, "tempo": 114.98, "type": "audio_features", "id": "40EILmSfgFpQb5c5LnHAiP", "uri": "spotify:track:40EILmSfgFpQb5c5LnHAiP", "track_href": "https://api.spotify.com/v1/tracks/40EILmSfgFpQb5c5LnHAiP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/40EILmSfgFpQb5c5LnHAiP", "duration_ms": 241451, "time_signature": 4}
+ラッキー・ドライブ (Gimgigam)
+{"danceability": 0.694, "energy": 0.792, "key": 9, "loudness": -7.86, "mode": 0, "speechiness": 0.0547, "acousticness": 0.0109, "instrumentalness": 0.0169, "liveness": 0.149, "valence": 0.782, "tempo": 119.952, "type": "audio_features", "id": "2YgT34Ztg37oBspiPey1ho", "uri": "spotify:track:2YgT34Ztg37oBspiPey1ho", "track_href": "https://api.spotify.com/v1/tracks/2YgT34Ztg37oBspiPey1ho", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YgT34Ztg37oBspiPey1ho", "duration_ms": 208853, "time_signature": 4}
+ダンボールの色 (MAISONdes)
+{"danceability": 0.64, "energy": 0.683, "key": 6, "loudness": -5.653, "mode": 1, "speechiness": 0.026, "acousticness": 0.238, "instrumentalness": 0, "liveness": 0.296, "valence": 0.649, "tempo": 95.968, "type": "audio_features", "id": "6wVhOIPXpNDMwzR6vJc775", "uri": "spotify:track:6wVhOIPXpNDMwzR6vJc775", "track_href": "https://api.spotify.com/v1/tracks/6wVhOIPXpNDMwzR6vJc775", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6wVhOIPXpNDMwzR6vJc775", "duration_ms": 227127, "time_signature": 4}
+彼女は旅に出る (sana)
+{"danceability": 0.66, "energy": 0.783, "key": 1, "loudness": -7.384, "mode": 1, "speechiness": 0.0311, "acousticness": 0.0121, "instrumentalness": 0.000864, "liveness": 0.069, "valence": 0.507, "tempo": 127.965, "type": "audio_features", "id": "69hfy1DpoHDZEwFGI93HsG", "uri": "spotify:track:69hfy1DpoHDZEwFGI93HsG", "track_href": "https://api.spotify.com/v1/tracks/69hfy1DpoHDZEwFGI93HsG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/69hfy1DpoHDZEwFGI93HsG", "duration_ms": 220506, "time_signature": 4}
+{"danceability": 0.692, "energy": 0.74, "speechiness": 0.06, "acousticness": 0.092, "liveness": 0.135, "valence": 0.65, "tempo": 0.401}
+--------------<recommend songs>-----------------
+name: Honey, You!(WATWING)    https://open.spotify.com/track/3cy6vq6TpG6759xOYi1uFG
+name: SONG 4 U(GReeeeN)    https://open.spotify.com/track/2wzolgBdhVFcfNXcQCxZgS
+name: あなたに会えてよかった(Kyoko Koizumi)    https://open.spotify.com/track/5FJho22sdsYoBFeuov4myw
+name: ロマンスの神様(Kohmi Hirose)    https://open.spotify.com/track/0xYSgQHddr1lh6IfqWgn2W
+name: HANABI(Mr.Children)    https://open.spotify.com/track/0AU7xhipAm9Saq0k8A9Iua
+--------------<recommend artists>-----------------
+"Superfly"
+"Remioromen"
+"YUZU"
+"Ketsumeishi"
+"DREAMS COME TRUE"
+"Misato Watanabe"
+"Miki Imai"
+"PRINCESS PRINCESS"
+"Kome Kome Club"
+"My Little Lover"
+"Every Little Thing"
+"CHEMISTRY"
+処理が終了しました。

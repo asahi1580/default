@@ -1,0 +1,20 @@
+2022年12月30日 10:38:09
+default
+Subtitle (OFFICIAL HIGE DANDISM)
+{"danceability": 0.649, "energy": 0.683, "key": 6, "loudness": -6.49, "mode": 1, "speechiness": 0.0424, "acousticness": 0.0313, "instrumentalness": 0, "liveness": 0.118, "valence": 0.381, "tempo": 130.0, "type": "audio_features", "id": "49F3htNmwzPKFycPdOrDvf", "uri": "spotify:track:49F3htNmwzPKFycPdOrDvf", "track_href": "https://api.spotify.com/v1/tracks/49F3htNmwzPKFycPdOrDvf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/49F3htNmwzPKFycPdOrDvf", "duration_ms": 305509, "time_signature": 4}
+ひとくちのキス (SG)
+{"danceability": 0.79, "energy": 0.808, "key": 7, "loudness": -4.051, "mode": 1, "speechiness": 0.134, "acousticness": 0.0297, "instrumentalness": 0, "liveness": 0.06, "valence": 0.821, "tempo": 120.003, "type": "audio_features", "id": "1TYSgBF0FdqmiddlHsdRSk", "uri": "spotify:track:1TYSgBF0FdqmiddlHsdRSk", "track_href": "https://api.spotify.com/v1/tracks/1TYSgBF0FdqmiddlHsdRSk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1TYSgBF0FdqmiddlHsdRSk", "duration_ms": 197500, "time_signature": 4}
+ラッキー・ドライブ (Gimgigam)
+{"danceability": 0.694, "energy": 0.792, "key": 9, "loudness": -7.86, "mode": 0, "speechiness": 0.0547, "acousticness": 0.0109, "instrumentalness": 0.0169, "liveness": 0.149, "valence": 0.782, "tempo": 119.952, "type": "audio_features", "id": "2YgT34Ztg37oBspiPey1ho", "uri": "spotify:track:2YgT34Ztg37oBspiPey1ho", "track_href": "https://api.spotify.com/v1/tracks/2YgT34Ztg37oBspiPey1ho", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YgT34Ztg37oBspiPey1ho", "duration_ms": 208853, "time_signature": 4}
+少年 (SOUTH BLUE)
+{"danceability": 0.59, "energy": 0.695, "key": 7, "loudness": -6.232, "mode": 1, "speechiness": 0.0412, "acousticness": 0.768, "instrumentalness": 0, "liveness": 0.121, "valence": 0.849, "tempo": 184.025, "type": "audio_features", "id": "5m0f8vdqvEElUgJRXnOxqy", "uri": "spotify:track:5m0f8vdqvEElUgJRXnOxqy", "track_href": "https://api.spotify.com/v1/tracks/5m0f8vdqvEElUgJRXnOxqy", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5m0f8vdqvEElUgJRXnOxqy", "duration_ms": 183531, "time_signature": 4}
+愛を解く (yama)
+{"danceability": 0.725, "energy": 0.818, "key": 7, "loudness": -4.201, "mode": 1, "speechiness": 0.0951, "acousticness": 0.0347, "instrumentalness": 0.000123, "liveness": 0.14, "valence": 0.758, "tempo": 130.085, "type": "audio_features", "id": "7DHatm4xHTDxQaTz83zf7V", "uri": "spotify:track:7DHatm4xHTDxQaTz83zf7V", "track_href": "https://api.spotify.com/v1/tracks/7DHatm4xHTDxQaTz83zf7V", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7DHatm4xHTDxQaTz83zf7V", "duration_ms": 181267, "time_signature": 4}
+After Kiss (Unknöwn Kun)
+{"danceability": 0.717, "energy": 0.751, "key": 11, "loudness": -5.007, "mode": 1, "speechiness": 0.0481, "acousticness": 0.188, "instrumentalness": 0, "liveness": 0.273, "valence": 0.914, "tempo": 116.981, "type": "audio_features", "id": "2RWTpvt4FvyKTZ6OtFYtFA", "uri": "spotify:track:2RWTpvt4FvyKTZ6OtFYtFA", "track_href": "https://api.spotify.com/v1/tracks/2RWTpvt4FvyKTZ6OtFYtFA", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2RWTpvt4FvyKTZ6OtFYtFA", "duration_ms": 250956, "time_signature": 4}
+{"danceability": 0.694, "energy": 0.758, "speechiness": 0.069, "acousticness": 0.177, "liveness": 0.144, "valence": 0.751, "tempo": 0.47}
+--------------<recommend songs>-----------------
+name: 群青(YOASOBI)    https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk
+name: 白い雲のように(Saruganseki)    https://open.spotify.com/track/6YIkR7cwUp21KPsoFunDxf
+--------------<recommend artists>-----------------
+処理が終了しました。
