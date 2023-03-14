@@ -1,0 +1,54 @@
+2023年01月14日 16:16:37
+default
+Subtitle (OFFICIAL HIGE DANDISM)
+{"danceability": 0.649, "energy": 0.683, "key": 6, "loudness": -6.49, "mode": 1, "speechiness": 0.0424, "acousticness": 0.0313, "instrumentalness": 0, "liveness": 0.118, "valence": 0.381, "tempo": 130.0, "type": "audio_features", "id": "49F3htNmwzPKFycPdOrDvf", "uri": "spotify:track:49F3htNmwzPKFycPdOrDvf", "track_href": "https://api.spotify.com/v1/tracks/49F3htNmwzPKFycPdOrDvf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/49F3htNmwzPKFycPdOrDvf", "duration_ms": 305509, "time_signature": 4}
+KICK BACK (Kenshi Yonezu)
+{"danceability": 0.577, "energy": 0.941, "key": 1, "loudness": -5.17, "mode": 1, "speechiness": 0.105, "acousticness": 0.00207, "instrumentalness": 3.36e-06, "liveness": 0.0891, "valence": 0.292, "tempo": 101.921, "type": "audio_features", "id": "3khEEPRyBeOUabbmOPJzAG", "uri": "spotify:track:3khEEPRyBeOUabbmOPJzAG", "track_href": "https://api.spotify.com/v1/tracks/3khEEPRyBeOUabbmOPJzAG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3khEEPRyBeOUabbmOPJzAG", "duration_ms": 193495, "time_signature": 4}
+Ditto (NewJeans)
+{"danceability": 0.814, "energy": 0.641, "key": 6, "loudness": -5.957, "mode": 0, "speechiness": 0.111, "acousticness": 0.027, "instrumentalness": 0, "liveness": 0.0993, "valence": 0.183, "tempo": 133.854, "type": "audio_features", "id": "3r8RuvgbX9s7ammBn07D3W", "uri": "spotify:track:3r8RuvgbX9s7ammBn07D3W", "track_href": "https://api.spotify.com/v1/tracks/3r8RuvgbX9s7ammBn07D3W", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3r8RuvgbX9s7ammBn07D3W", "duration_ms": 185507, "time_signature": 4}
+怪獣の花唄 (Vaundy)
+{"danceability": 0.425, "energy": 0.939, "key": 2, "loudness": -3.498, "mode": 1, "speechiness": 0.054, "acousticness": 0.00361, "instrumentalness": 0, "liveness": 0.331, "valence": 0.638, "tempo": 150.015, "type": "audio_features", "id": "10zz9RZt9DnqcxNWksRNrx", "uri": "spotify:track:10zz9RZt9DnqcxNWksRNrx", "track_href": "https://api.spotify.com/v1/tracks/10zz9RZt9DnqcxNWksRNrx", "analysis_url": "https://api.spotify.com/v1/audio-analysis/10zz9RZt9DnqcxNWksRNrx", "duration_ms": 224806, "time_signature": 4}
+Overdose (natori)
+{"danceability": 0.733, "energy": 0.598, "key": 4, "loudness": -9.453, "mode": 0, "speechiness": 0.0377, "acousticness": 0.0307, "instrumentalness": 1.7e-05, "liveness": 0.218, "valence": 0.831, "tempo": 118.012, "type": "audio_features", "id": "2Dzzhb1oV5ckgOjWZLraIB", "uri": "spotify:track:2Dzzhb1oV5ckgOjWZLraIB", "track_href": "https://api.spotify.com/v1/tracks/2Dzzhb1oV5ckgOjWZLraIB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Dzzhb1oV5ckgOjWZLraIB", "duration_ms": 197094, "time_signature": 4}
+W / X / Y (Tani Yuuki)
+{"danceability": 0.628, "energy": 0.775, "key": 2, "loudness": -4.479, "mode": 1, "speechiness": 0.0535, "acousticness": 0.159, "instrumentalness": 0, "liveness": 0.33, "valence": 0.674, "tempo": 106.382, "type": "audio_features", "id": "4IfrM44LofE9bSs6TDZS49", "uri": "spotify:track:4IfrM44LofE9bSs6TDZS49", "track_href": "https://api.spotify.com/v1/tracks/4IfrM44LofE9bSs6TDZS49", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4IfrM44LofE9bSs6TDZS49", "duration_ms": 278119, "time_signature": 3}
+{"danceability": 0.638, "energy": 0.763, "speechiness": 0.067, "acousticness": 0.042, "liveness": 0.198, "valence": 0.5, "tempo": 0.424}
+--------------<recommend songs>-----------------
+name: Subtitle(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf
+name: シンデレラボーイ(Saucy Dog)    https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V
+name: Under the skin(&TEAM)    https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7
+name: Hard Pool(Kroi)    https://open.spotify.com/track/4WVOYJcZi5QhrBVp7sSelj
+name: チーズケーキ・ファクトリー(ELLEGARDEN)    https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO
+name: daylight(Chilli Beans.)    https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf
+name: 夜間飛行(KAMI WA SAIKORO WO FURANAI)    https://open.spotify.com/track/68YvkhqAt2SVQUCjjIjtyX
+name: トロイメライ(Omoinotake)    https://open.spotify.com/track/3ilHK59gf2Rmw1QHr6bdnI
+name: TOMBI(Kvi Baba)    https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl
+name: buddy(Amber’s)    https://open.spotify.com/track/0LHtfCDgLj6iaTLVWg7dnl
+name: Love∞Vision(Yui Ogura)    https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH
+name: LOVE NO HATE - TV size.- TVアニメ「テクノロイド オーバーマインド」オープニングテーマ(浦 和希)    https://open.spotify.com/track/4QVTFiu6ky4SVVuhH1XISg
+name: あなたに会えてよかった(Kyoko Koizumi)    https://open.spotify.com/track/5FJho22sdsYoBFeuov4myw
+name: ロマンスの神様(Kohmi Hirose)    https://open.spotify.com/track/0xYSgQHddr1lh6IfqWgn2W
+name: 愛のために(Tamio Okuda)    https://open.spotify.com/track/4FcASwuOUEAfzgMEB8GJAD
+--------------<recommend artists>-----------------
+"sumika"
+"back number"
+"wacci"
+"Mrs. GREEN APPLE"
+"yonige"
+"the shes gone"
+"\u30de\u30eb\u30b7\u30a3"
+"YOAKE"
+"Maharajan"
+"Lucky Kilimanjaro"
+"chilldspot"
+"Fujifabric"
+"Kiro Akiyama"
+"I Don't Like Mondays."
+"whaledontsleep"
+"Misato Watanabe"
+"Miki Imai"
+"REBECCA"
+"Kome Kome Club"
+"My Little Lover"
+"LINDBERG"
+処理が終了しました。

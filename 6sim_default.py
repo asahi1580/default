@@ -4,6 +4,7 @@
 #プレイリストはdefault_playlist.txtの５つを参照
 #入力した6曲のアーティストに似ている人の表示を実装済
 #12/9時点で最新
+#参照プレイリスト 1.トップ50-日本  2.バイラルトップ50-日本  3.J-Rock Now  4.Anime Now  5.平成ポップヒストリー(プレイリスト５/LovePsychedelico)
 import pandas as pd
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -14,6 +15,7 @@ import sys
 import datetime
 import pytz
 import collections
+import matplotlib.pylab as plt
 
 client_id = '52daefbfe55b4f14baf2ca49a6ee745a'
 client_secret = '5329ddcdb1624154bf94c8c230390867'
@@ -91,6 +93,11 @@ def make_average_element(msc1,msc2,msc3,msc4,msc5,msc6):
     avg = round(avg,3)
     avg_dict[element] = avg
 make_average_element(m_list[0],m_list[1],m_list[2],m_list[3],m_list[4],m_list[5])
+avgList = avg_dict.items()
+avgList = sorted(avgList)
+x, y = zip(*avgList)
+plt.plot(x, y)
+plt.show()
 str_dict = json.dumps(avg_dict)
 file.write(str_dict+'\n')        #入力した６曲の平均の辞書リスト
 
@@ -115,7 +122,6 @@ for a in range(5):
    try:
     id = track['track']['id']
    except TypeError:
-     file.write('プレイリスト内に曲ではないものが含まれている可能性があります')
      continue
    id_list.append(id)
   features.extend(sp.audio_features(id_list))
