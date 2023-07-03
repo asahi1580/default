@@ -1,0 +1,41 @@
+2023年07月03日 13:03:38
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+Like Crazy (English Version) (Jimin)
+{"danceability": 0.623, "energy": 0.755, "key": 7, "loudness": -5.386, "mode": 1, "speechiness": 0.0415, "acousticness": 0.00306, "instrumentalness": 0, "liveness": 0.387, "valence": 0.32, "tempo": 119.957, "type": "audio_features", "id": "0u8rZGtXJrLtiSe34FPjGG", "uri": "spotify:track:0u8rZGtXJrLtiSe34FPjGG", "track_href": "https://api.spotify.com/v1/tracks/0u8rZGtXJrLtiSe34FPjGG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0u8rZGtXJrLtiSe34FPjGG", "duration_ms": 212254, "time_signature": 4}
+I Ain't Worried (OneRepublic)
+{"danceability": 0.704, "energy": 0.797, "key": 0, "loudness": -5.927, "mode": 1, "speechiness": 0.0475, "acousticness": 0.0826, "instrumentalness": 0.000745, "liveness": 0.0546, "valence": 0.825, "tempo": 139.994, "type": "audio_features", "id": "4h9wh7iOZ0GGn8QVp4RAOB", "uri": "spotify:track:4h9wh7iOZ0GGn8QVp4RAOB", "track_href": "https://api.spotify.com/v1/tracks/4h9wh7iOZ0GGn8QVp4RAOB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4h9wh7iOZ0GGn8QVp4RAOB", "duration_ms": 148486, "time_signature": 4}
+OTONABLUE (ATARASHII GAKKO!)
+{"danceability": 0.873, "energy": 0.797, "key": 11, "loudness": -5.596, "mode": 0, "speechiness": 0.0963, "acousticness": 0.0783, "instrumentalness": 0, "liveness": 0.0955, "valence": 0.753, "tempo": 130.015, "type": "audio_features", "id": "3h1XlHgx0m1dO6nNSO1kSV", "uri": "spotify:track:3h1XlHgx0m1dO6nNSO1kSV", "track_href": "https://api.spotify.com/v1/tracks/3h1XlHgx0m1dO6nNSO1kSV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3h1XlHgx0m1dO6nNSO1kSV", "duration_ms": 184773, "time_signature": 4}
+WARUNORI (DURDN)
+{"danceability": 0.789, "energy": 0.736, "key": 11, "loudness": -5.662, "mode": 0, "speechiness": 0.0436, "acousticness": 0.0163, "instrumentalness": 3.72e-05, "liveness": 0.0955, "valence": 0.357, "tempo": 114.974, "type": "audio_features", "id": "2D1NcVffFzsLqNFbz5Xdkx", "uri": "spotify:track:2D1NcVffFzsLqNFbz5Xdkx", "track_href": "https://api.spotify.com/v1/tracks/2D1NcVffFzsLqNFbz5Xdkx", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2D1NcVffFzsLqNFbz5Xdkx", "duration_ms": 259957, "time_signature": 4}
+Attention (NewJeans)
+{"danceability": 0.811, "energy": 0.648, "key": 10, "loudness": -3.684, "mode": 0, "speechiness": 0.0368, "acousticness": 0.236, "instrumentalness": 0, "liveness": 0.0761, "valence": 0.695, "tempo": 104.988, "type": "audio_features", "id": "2pIUpMhHL6L9Z5lnKxJJr9", "uri": "spotify:track:2pIUpMhHL6L9Z5lnKxJJr9", "track_href": "https://api.spotify.com/v1/tracks/2pIUpMhHL6L9Z5lnKxJJr9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2pIUpMhHL6L9Z5lnKxJJr9", "duration_ms": 180067, "time_signature": 4}
+Ditto (NewJeans)
+{"danceability": 0.814, "energy": 0.641, "key": 6, "loudness": -5.957, "mode": 0, "speechiness": 0.111, "acousticness": 0.027, "instrumentalness": 0, "liveness": 0.0993, "valence": 0.183, "tempo": 133.854, "type": "audio_features", "id": "3r8RuvgbX9s7ammBn07D3W", "uri": "spotify:track:3r8RuvgbX9s7ammBn07D3W", "track_href": "https://api.spotify.com/v1/tracks/3r8RuvgbX9s7ammBn07D3W", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3r8RuvgbX9s7ammBn07D3W", "duration_ms": 185507, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": 0.224, "energy": -0.052, "speechiness": -0.028, "acousticness": -0.063, "liveness": -0.133, "valence": -0.086, "tempo": -0.057}
+--------------<recommend songs>-----------------
+
+name: My self(O.A.KLAY)    https://open.spotify.com/track/02vBWiMWmoyHps6k84Wb9s
+name: YOU+ME=(竹内アンナ)    https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO
+name: エジソン(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS
+name: Edison(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE
+name: The 1st chapter(Uniolla)    https://open.spotify.com/track/4yhKrIVgnaQM3YD3dbDFc4
+name: Leave Before You Love Me (with Jonas Brothers)(Marshmello)    https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Loser(Shota Shimizu)    https://open.spotify.com/track/54GQKIuGKQ8SDh3qCfFhyU
+name: Fdf(cero)    https://open.spotify.com/track/2QAEoWebhc86vbYBUvexOv
+name: DAWN (feat. Aile The Shota)(MATZ)    https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A
+name: TOMBI(Kvi Baba)    https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl
+name: Rain Of Your Heart(Yogee New Waves)    https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O
+name: Lovesick Girls(BLACKPINK)    https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C
+name: Feel Good Too(Jason Mraz)    https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg
+name: TURN IT UP - feat. Candee & ZOT on the WAVE(LANA)    https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo
+name: サークル(Lilas Ikuta)    https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe
+name: 4EVA (feat. Pharrell Williams)(KAYTRAMINÉ)    https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v
+name: damn(Fujii Kaze)    https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy
+name: Rollerskates(End of the World)    https://open.spotify.com/track/2s4ErjWLSAVZSdYoqAhfcQ
+name: We'll be fine - English Version(ReN)    https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q
+------------------<score>-----------------------
+TURN IT UP - feat. Candee & ZOT on the WAVE  https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo
+score: 1

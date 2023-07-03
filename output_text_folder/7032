@@ -1,0 +1,42 @@
+2023年07月03日 13:04:21
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+n.o.y.b (feat. Furui Riho) (Shin Sakiura)
+{"danceability": 0.793, "energy": 0.664, "key": 10, "loudness": -5.476, "mode": 0, "speechiness": 0.05, "acousticness": 0.0515, "instrumentalness": 0.00116, "liveness": 0.0741, "valence": 0.596, "tempo": 103.983, "type": "audio_features", "id": "0znEN9HIkCXf4wZn16hVJD", "uri": "spotify:track:0znEN9HIkCXf4wZn16hVJD", "track_href": "https://api.spotify.com/v1/tracks/0znEN9HIkCXf4wZn16hVJD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0znEN9HIkCXf4wZn16hVJD", "duration_ms": 237115, "time_signature": 4}
+WARUNORI (DURDN)
+{"danceability": 0.789, "energy": 0.736, "key": 11, "loudness": -5.662, "mode": 0, "speechiness": 0.0436, "acousticness": 0.0163, "instrumentalness": 3.72e-05, "liveness": 0.0955, "valence": 0.357, "tempo": 114.974, "type": "audio_features", "id": "2D1NcVffFzsLqNFbz5Xdkx", "uri": "spotify:track:2D1NcVffFzsLqNFbz5Xdkx", "track_href": "https://api.spotify.com/v1/tracks/2D1NcVffFzsLqNFbz5Xdkx", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2D1NcVffFzsLqNFbz5Xdkx", "duration_ms": 259957, "time_signature": 4}
+Ditto (NewJeans)
+{"danceability": 0.814, "energy": 0.641, "key": 6, "loudness": -5.957, "mode": 0, "speechiness": 0.111, "acousticness": 0.027, "instrumentalness": 0, "liveness": 0.0993, "valence": 0.183, "tempo": 133.854, "type": "audio_features", "id": "3r8RuvgbX9s7ammBn07D3W", "uri": "spotify:track:3r8RuvgbX9s7ammBn07D3W", "track_href": "https://api.spotify.com/v1/tracks/3r8RuvgbX9s7ammBn07D3W", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3r8RuvgbX9s7ammBn07D3W", "duration_ms": 185507, "time_signature": 4}
+Fly Girl (feat. Missy Elliott) (FLO)
+{"danceability": 0.698, "energy": 0.846, "key": 8, "loudness": -3.735, "mode": 0, "speechiness": 0.0981, "acousticness": 0.406, "instrumentalness": 0, "liveness": 0.204, "valence": 0.726, "tempo": 103.968, "type": "audio_features", "id": "2sITbbWIOeg2Lwp4WN2jqr", "uri": "spotify:track:2sITbbWIOeg2Lwp4WN2jqr", "track_href": "https://api.spotify.com/v1/tracks/2sITbbWIOeg2Lwp4WN2jqr", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2sITbbWIOeg2Lwp4WN2jqr", "duration_ms": 205385, "time_signature": 4}
+Ditto (NewJeans)
+{"danceability": 0.814, "energy": 0.641, "key": 6, "loudness": -5.957, "mode": 0, "speechiness": 0.111, "acousticness": 0.027, "instrumentalness": 0, "liveness": 0.0993, "valence": 0.183, "tempo": 133.854, "type": "audio_features", "id": "3r8RuvgbX9s7ammBn07D3W", "uri": "spotify:track:3r8RuvgbX9s7ammBn07D3W", "track_href": "https://api.spotify.com/v1/tracks/3r8RuvgbX9s7ammBn07D3W", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3r8RuvgbX9s7ammBn07D3W", "duration_ms": 185507, "time_signature": 4}
+There's Nothing Holdin' Me Back (Shawn Mendes)
+{"danceability": 0.866, "energy": 0.813, "key": 11, "loudness": -4.063, "mode": 0, "speechiness": 0.0554, "acousticness": 0.38, "instrumentalness": 0, "liveness": 0.0779, "valence": 0.969, "tempo": 121.998, "type": "audio_features", "id": "7JJmb5XwzOO8jgpou264Ml", "uri": "spotify:track:7JJmb5XwzOO8jgpou264Ml", "track_href": "https://api.spotify.com/v1/tracks/7JJmb5XwzOO8jgpou264Ml", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7JJmb5XwzOO8jgpou264Ml", "duration_ms": 199440, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": 0.257, "energy": -0.061, "speechiness": 0.031, "acousticness": 0.024, "liveness": -0.187, "valence": -0.109, "tempo": -0.107}
+--------------<recommend songs>-----------------
+
+name: Feel Good Too(Jason Mraz)    https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg
+name: YOU+ME=(竹内アンナ)    https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO
+name: 4EVA (feat. Pharrell Williams)(KAYTRAMINÉ)    https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v
+name: Rain Of Your Heart(Yogee New Waves)    https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O
+name: I Like You (A Happier Song) (with Doja Cat)(Post Malone)    https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj
+name: Sweetie Sweety (feat. JiROMAN & RURU)(BLOOM VASE)    https://open.spotify.com/track/18mTz6iraTSIXIIt74zWN9
+name: ELEVEN(IVE)    https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr
+name: エジソン(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS
+name: Edison(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE
+name: Summer of Love (Shawn Mendes & Tainy)(Shawn Mendes)    https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6
+name: Numb(Marshmello)    https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL
+name: WARUNORI(DURDN)    https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx
+name: サークル(Lilas Ikuta)    https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe
+name: n.o.y.b (feat. Furui Riho)(Shin Sakiura)    https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD
+name: "Seishun Sick"(Fujii Kaze)    https://open.spotify.com/track/2PDtvT5DEamQTM5qeiTDsR
+name: friends(iri)    https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc
+name: The 1st chapter(Uniolla)    https://open.spotify.com/track/4yhKrIVgnaQM3YD3dbDFc4
+name: なんでも言っちゃって(LEX)    https://open.spotify.com/track/1ZGBwdBfy7M5XWGo4XoGlf
+name: My self(O.A.KLAY)    https://open.spotify.com/track/02vBWiMWmoyHps6k84Wb9s
+name: Mona Lisa (Spider-Man: Across the Spider-Verse)(Dominic Fike)    https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk
+------------------<score>-----------------------
+n.o.y.b (feat. Furui Riho)  https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD
+WARUNORI  https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx
+score: 2

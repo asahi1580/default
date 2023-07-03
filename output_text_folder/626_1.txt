@@ -1,0 +1,65 @@
+2023年06月26日 13:52:24
+remake.py
+Soranji (Mrs. GREEN APPLE)
+{"danceability": 0.476, "energy": 0.661, "key": 5, "loudness": -5.197, "mode": 1, "speechiness": 0.044, "acousticness": 0.0604, "instrumentalness": 0, "liveness": 0.144, "valence": 0.406, "tempo": 156.057, "type": "audio_features", "id": "6O4twzzHHIM6mmTqPpJNYE", "uri": "spotify:track:6O4twzzHHIM6mmTqPpJNYE", "track_href": "https://api.spotify.com/v1/tracks/6O4twzzHHIM6mmTqPpJNYE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6O4twzzHHIM6mmTqPpJNYE", "duration_ms": 341443, "time_signature": 4}
+僕のこと (Mrs. GREEN APPLE)
+{"danceability": 0.439, "energy": 0.708, "key": 7, "loudness": -3.825, "mode": 1, "speechiness": 0.0528, "acousticness": 0.0129, "instrumentalness": 0, "liveness": 0.147, "valence": 0.454, "tempo": 160.027, "type": "audio_features", "id": "0tnhoHUrHfcLi9hPknUFZ4", "uri": "spotify:track:0tnhoHUrHfcLi9hPknUFZ4", "track_href": "https://api.spotify.com/v1/tracks/0tnhoHUrHfcLi9hPknUFZ4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0tnhoHUrHfcLi9hPknUFZ4", "duration_ms": 321307, "time_signature": 4}
+春愁 (Mrs. GREEN APPLE)
+{"danceability": 0.724, "energy": 0.444, "key": 10, "loudness": -4.903, "mode": 1, "speechiness": 0.0412, "acousticness": 0.0121, "instrumentalness": 0, "liveness": 0.123, "valence": 0.739, "tempo": 129.962, "type": "audio_features", "id": "5SHguvOUbyPTINNjCvRo8K", "uri": "spotify:track:5SHguvOUbyPTINNjCvRo8K", "track_href": "https://api.spotify.com/v1/tracks/5SHguvOUbyPTINNjCvRo8K", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SHguvOUbyPTINNjCvRo8K", "duration_ms": 183800, "time_signature": 4}
+裸足でSummer (Nogizaka46)
+{"danceability": 0.525, "energy": 0.981, "key": 5, "loudness": -2.956, "mode": 1, "speechiness": 0.12, "acousticness": 0.125, "instrumentalness": 0, "liveness": 0.133, "valence": 0.523, "tempo": 139.973, "type": "audio_features", "id": "288SNOHYZizb3jZ6U6DByY", "uri": "spotify:track:288SNOHYZizb3jZ6U6DByY", "track_href": "https://api.spotify.com/v1/tracks/288SNOHYZizb3jZ6U6DByY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/288SNOHYZizb3jZ6U6DByY", "duration_ms": 277933, "time_signature": 4}
+Soranji (Mrs. GREEN APPLE)
+{"danceability": 0.476, "energy": 0.661, "key": 5, "loudness": -5.197, "mode": 1, "speechiness": 0.044, "acousticness": 0.0604, "instrumentalness": 0, "liveness": 0.144, "valence": 0.406, "tempo": 156.057, "type": "audio_features", "id": "6O4twzzHHIM6mmTqPpJNYE", "uri": "spotify:track:6O4twzzHHIM6mmTqPpJNYE", "track_href": "https://api.spotify.com/v1/tracks/6O4twzzHHIM6mmTqPpJNYE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6O4twzzHHIM6mmTqPpJNYE", "duration_ms": 341443, "time_signature": 4}
+Sing Out! (Nogizaka46)
+{"danceability": 0.52, "energy": 0.822, "key": 11, "loudness": -4.515, "mode": 1, "speechiness": 0.0367, "acousticness": 0.489, "instrumentalness": 2.38e-06, "liveness": 0.326, "valence": 0.7, "tempo": 89.957, "type": "audio_features", "id": "3sdIljU1Gej1Wry4dhqhEF", "uri": "spotify:track:3sdIljU1Gej1Wry4dhqhEF", "track_href": "https://api.spotify.com/v1/tracks/3sdIljU1Gej1Wry4dhqhEF", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3sdIljU1Gej1Wry4dhqhEF", "duration_ms": 325560, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": -0.079, "energy": -0.079, "speechiness": -0.052, "acousticness": -0.004, "liveness": -0.062, "valence": -0.069, "tempo": 0.083}
+--------------<recommend songs>-----------------
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+令和ポップス  https://open.spotify.com/playlist/37i9dQZF1DXdurasRmJgpJ
+J-Rock Now  https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp
+Anime Now  https://open.spotify.com/playlist/37i9dQZF1DWT8aqnwgRt92
+恋するプレイリスト  https://open.spotify.com/playlist/37i9dQZF1DX328xs24cFGI
+元気Booster  https://open.spotify.com/playlist/37i9dQZF1DX6UkADhBpEnE
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+都会の空と音楽と  https://open.spotify.com/playlist/37i9dQZF1DWTbkKlc06FmH
+夕方ジェネレーション  https://open.spotify.com/playlist/37i9dQZF1DXdxPR0maUKqu
+Summer Time - 夏のサウンドトラック  https://open.spotify.com/playlist/37i9dQZF1DWSUbEozh68df
+好きな曲  https://open.spotify.com/playlist/5zZiBa5WGwGR8eJmLZD84K
+プレイリスト#2  https://open.spotify.com/playlist/0r8thBud6xIfXJyLJ13wt4
+On Replay -メガヒット・リプレイ-  https://open.spotify.com/playlist/37i9dQZF1DX6rGPDxQsF1V
+Tokyo Rising  https://open.spotify.com/playlist/37i9dQZF1DWX9u2doQ8Q2L
+夜に聴きたいエモいプレイリスト  https://open.spotify.com/playlist/3zVxuAgsZxzVqlyudSeeyb
+仕事前にやる気をチャージするプレイリスト  https://open.spotify.com/playlist/6mQWtWOKvj3bqlcXdHVa9r
+Punk Japan  https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz
+Edge!  https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j
+好きな曲  https://open.spotify.com/playlist/0l2FWZwRjehOZy8WdrBtL6
+2023！流行りの曲  https://open.spotify.com/playlist/4BT9keed8kbSD6MeW0L20y
+
+name: メフィスト(QUEEN BEE)    https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG
+name: Soft(Singer's High)    https://open.spotify.com/track/46kf0DQPAwyhDd23ZM2JEf
+name: Yui(Saucy Dog)    https://open.spotify.com/track/3f8WNy5rgXq7J74qjExRkb
+name: 結(Saucy Dog)    https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd
+name: High(The Chainsmokers)    https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+name: SISTER(back number)    https://open.spotify.com/track/1ZmiUiQn7Q2qEKLlIznoXZ
+name: Shinunoga E-Wa(Fujii Kaze)    https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW
+name: カシスオレンジ(Laughing Hick)    https://open.spotify.com/track/78cNVXTGe2OGnno2dLzhzr
+name: 最低(れん)    https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt
+name: Michi-tono-Sogu(LAUSBUB)    https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13
+name: 足音 ~Be Strong(Mr.Children)    https://open.spotify.com/track/0hxitdpUBO7Bt1uJktICUC
+name: 1999(Hitsujibungaku)    https://open.spotify.com/track/2PnEC9i1XzXPQ9pgXDrDoC
+name: Actually...(Nogizaka46)    https://open.spotify.com/track/4pfJEUjNi65LLQcEBHaWAz
+name: 水平線(back number)    https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: Soranji(Mrs. GREEN APPLE)    https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE
+name: Stay Alive (Prod. SUGA of BTS)(Jung Kook)    https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep
+name: ベルベットの詩(back number)    https://open.spotify.com/track/7ELIV5p6Irk5MHsazeAFv6
+name: カワキヲアメク(美波)    https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB
+------------------<score>-----------------------
+水平線  https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L
+サヨナラの意味  https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+SISTER  https://open.spotify.com/track/1ZmiUiQn7Q2qEKLlIznoXZ
+Actually...  https://open.spotify.com/track/4pfJEUjNi65LLQcEBHaWAz
+Soranji  https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE
+ベルベットの詩  https://open.spotify.com/track/7ELIV5p6Irk5MHsazeAFv6
+score: 6

@@ -1,0 +1,79 @@
+2023年07月03日 11:02:21
+score.py
+空も飛べるはず (SPITZ)
+{"danceability": 0.593, "energy": 0.81, "key": 0, "loudness": -4.389, "mode": 1, "speechiness": 0.0278, "acousticness": 0.0424, "instrumentalness": 2.83e-06, "liveness": 0.119, "valence": 0.67, "tempo": 114.936, "type": "audio_features", "id": "3P2aSkjcbUYbcYr13EFE8n", "uri": "spotify:track:3P2aSkjcbUYbcYr13EFE8n", "track_href": "https://api.spotify.com/v1/tracks/3P2aSkjcbUYbcYr13EFE8n", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3P2aSkjcbUYbcYr13EFE8n", "duration_ms": 271400, "time_signature": 4}
+アイワナムチュー (MAISONdes)
+{"danceability": 0.576, "energy": 0.976, "key": 1, "loudness": -2.801, "mode": 1, "speechiness": 0.0624, "acousticness": 0.0391, "instrumentalness": 0, "liveness": 0.258, "valence": 0.928, "tempo": 158.104, "type": "audio_features", "id": "21zl36W7QoaVy5MMxAvfcv", "uri": "spotify:track:21zl36W7QoaVy5MMxAvfcv", "track_href": "https://api.spotify.com/v1/tracks/21zl36W7QoaVy5MMxAvfcv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/21zl36W7QoaVy5MMxAvfcv", "duration_ms": 205733, "time_signature": 4}
+Bi-Li-Li Emotion - 2013 Remastered Version (Superfly)
+{"danceability": 0.489, "energy": 0.971, "key": 1, "loudness": -1.007, "mode": 1, "speechiness": 0.0688, "acousticness": 0.0474, "instrumentalness": 0, "liveness": 0.0532, "valence": 0.766, "tempo": 157.97, "type": "audio_features", "id": "5cQIJ77LFHHo3JRkg8902T", "uri": "spotify:track:5cQIJ77LFHHo3JRkg8902T", "track_href": "https://api.spotify.com/v1/tracks/5cQIJ77LFHHo3JRkg8902T", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5cQIJ77LFHHo3JRkg8902T", "duration_ms": 284853, "time_signature": 4}
+Brave (Naoto Inti Raymi)
+{"danceability": 0.635, "energy": 0.84, "key": 7, "loudness": -3.627, "mode": 1, "speechiness": 0.0325, "acousticness": 0.00704, "instrumentalness": 0, "liveness": 0.3, "valence": 0.567, "tempo": 113.042, "type": "audio_features", "id": "4xELzY0yXfAqH07CUwJlct", "uri": "spotify:track:4xELzY0yXfAqH07CUwJlct", "track_href": "https://api.spotify.com/v1/tracks/4xELzY0yXfAqH07CUwJlct", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xELzY0yXfAqH07CUwJlct", "duration_ms": 256933, "time_signature": 4}
+ラッキー・ドライブ (Gimgigam)
+{"danceability": 0.694, "energy": 0.792, "key": 9, "loudness": -7.86, "mode": 0, "speechiness": 0.0547, "acousticness": 0.0109, "instrumentalness": 0.0169, "liveness": 0.149, "valence": 0.782, "tempo": 119.952, "type": "audio_features", "id": "5jVLMsrAd0gtx6UqlC0NMF", "uri": "spotify:track:5jVLMsrAd0gtx6UqlC0NMF", "track_href": "https://api.spotify.com/v1/tracks/5jVLMsrAd0gtx6UqlC0NMF", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5jVLMsrAd0gtx6UqlC0NMF", "duration_ms": 208853, "time_signature": 4}
+Bi-Li-Li Emotion - 2013 Remastered Version (Superfly)
+{"danceability": 0.489, "energy": 0.971, "key": 1, "loudness": -1.007, "mode": 1, "speechiness": 0.0688, "acousticness": 0.0474, "instrumentalness": 0, "liveness": 0.0532, "valence": 0.766, "tempo": 157.97, "type": "audio_features", "id": "5cQIJ77LFHHo3JRkg8902T", "uri": "spotify:track:5cQIJ77LFHHo3JRkg8902T", "track_href": "https://api.spotify.com/v1/tracks/5cQIJ77LFHHo3JRkg8902T", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5cQIJ77LFHHo3JRkg8902T", "duration_ms": 284853, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": -0.013, "energy": 0.222, "speechiness": -0.067, "acousticness": -0.11, "liveness": -0.091, "valence": 0.163, "tempo": 0.067}
+--------------<recommend songs>-----------------
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+令和ポップス  https://open.spotify.com/playlist/37i9dQZF1DXdurasRmJgpJ
+J-Rock Now  https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp
+Anime Now  https://open.spotify.com/playlist/37i9dQZF1DWT8aqnwgRt92
+恋するプレイリスト  https://open.spotify.com/playlist/37i9dQZF1DX328xs24cFGI
+元気Booster  https://open.spotify.com/playlist/37i9dQZF1DX6UkADhBpEnE
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+都会の空と音楽と  https://open.spotify.com/playlist/37i9dQZF1DWTbkKlc06FmH
+夕方ジェネレーション  https://open.spotify.com/playlist/37i9dQZF1DXdxPR0maUKqu
+Summer Time - 夏のサウンドトラック  https://open.spotify.com/playlist/37i9dQZF1DWSUbEozh68df
+好きな曲  https://open.spotify.com/playlist/5zZiBa5WGwGR8eJmLZD84K
+プレイリスト#2  https://open.spotify.com/playlist/0r8thBud6xIfXJyLJ13wt4
+On Replay -メガヒット・リプレイ-  https://open.spotify.com/playlist/37i9dQZF1DX6rGPDxQsF1V
+Tokyo Rising  https://open.spotify.com/playlist/37i9dQZF1DWX9u2doQ8Q2L
+夜に聴きたいエモいプレイリスト  https://open.spotify.com/playlist/3zVxuAgsZxzVqlyudSeeyb
+仕事前にやる気をチャージするプレイリスト  https://open.spotify.com/playlist/6mQWtWOKvj3bqlcXdHVa9r
+Punk Japan  https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz
+Edge!  https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j
+好きな曲  https://open.spotify.com/playlist/0l2FWZwRjehOZy8WdrBtL6
+2023！流行りの曲  https://open.spotify.com/playlist/4BT9keed8kbSD6MeW0L20y
+Gacha Pop  https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN
+Weekly Buzz Tokyo  https://open.spotify.com/playlist/37i9dQZF1DWZZbpkxU5t9L
+眠れぬ夜の音楽  https://open.spotify.com/playlist/37i9dQZF1DXaJxsaI3czLL
+Buzz Tracker #バズトラ  https://open.spotify.com/playlist/37i9dQZF1DXdTxsEGukhp4
+Rock Anthems Japan 90s  https://open.spotify.com/playlist/37i9dQZF1DXcpehQnGbWYD
+せきらら  https://open.spotify.com/playlist/37i9dQZF1DX5Q8nvtZqrFa
+Today's Top Hits   https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M
+City Pop: シティ・ポップの今  https://open.spotify.com/playlist/37i9dQZF1DXdY5tVYFPWb2
+Women's Voice  https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3
+Dance Pop: Japan  https://open.spotify.com/playlist/37i9dQZF1DXahYFr91pFvG
+マスクの下の君の笑顔が見たい  https://open.spotify.com/playlist/37i9dQZF1DX889DuwlJCDK
+City Pop '80s  https://open.spotify.com/playlist/37i9dQZF1DWW28hvtiO3j9
+JUICE  https://open.spotify.com/playlist/37i9dQZF1DXajjAvBz0cPm
+Authentic Covers  https://open.spotify.com/playlist/37i9dQZF1DWXAob3m4ESEB
+Soul Music Japan  https://open.spotify.com/playlist/37i9dQZF1DX7NPTn8GFbox
+孤独の音が聴こえる  https://open.spotify.com/playlist/37i9dQZF1DX9GQYELvBbt6
+Punk Japan  https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz
+Workout Mix: J-Hip-Hop  https://open.spotify.com/playlist/37i9dQZF1DWYmGh6c829GW
+Tokyo Rising  https://open.spotify.com/playlist/37i9dQZF1DWX9u2doQ8Q2L
+まどろみの中で  https://open.spotify.com/playlist/37i9dQZF1DX9rVeQ0kNLOd
+
+name: C7(GO!GO!7188)    https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT
+name: 風は西から(Tamio Okuda)    https://open.spotify.com/track/1wT5yu8yICXbwlr43f2JjE
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: ぐらでーしょん(KANA-BOON)    https://open.spotify.com/track/7a0XxV7vR9HwvbdhwQ5KSE
+name: 青春なんていらないわ(Sangatsu no Phantasia)    https://open.spotify.com/track/11ezEAvMZ4whN1ycoJsorS
+name: 名もなき詩(Mr.Children)    https://open.spotify.com/track/60ba7YZ3yqbCDGAkPNXzBh
+name: セプテンバーさん(Aimer)    https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv
+name: ターコイズ(SEKAI NO OWARI)    https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2
+name: GO!!!(20周年アニバーサリーバージョン)(FLOW)    https://open.spotify.com/track/2xviYduF3PGpFsxyGp4f0B
+name: チルチルクラブ(グソクムズ)    https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt
+name: 思い出のビーチクラブ(Junichi Inagaki)    https://open.spotify.com/track/6ynyyNv3m9ghqePgtDUQCE
+name: 05410-(ん)(RADWIMPS)    https://open.spotify.com/track/3pNgyJlJPop7VUbtwNrhaa
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: メロウ(須田景凪)    https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n
+name: Star overhead(the pillows)    https://open.spotify.com/track/3wTGLqNlD8nszqIouHeh8F
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/7jc1VLTIiYgREGfCpUg4ot
+name: Please Play-Bite(PinocchioP)    https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny
+name: 愛する人(FOMARE)    https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9
+name: シュガーソングとビターステップ(UNISON SQUARE GARDEN)    https://open.spotify.com/track/6uR92injo4PDzSrOPRFfHt
+name: In Your Life(Quruli)    https://open.spotify.com/track/5s94xrIDUhNwtZt26V0MiN
+------------------<score>-----------------------
+score: 0

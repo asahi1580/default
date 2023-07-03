@@ -96,8 +96,8 @@ make_average_element(m_list[0],m_list[1],m_list[2],m_list[3],m_list[4],m_list[5]
 avgList = avg_dict.items()
 avgList = sorted(avgList)
 x, y = zip(*avgList)
-plt.plot(x, y)
-plt.show()
+#plt.bar(x, y)
+#plt.show()
 str_dict = json.dumps(avg_dict)
 file.write(str_dict+'\n')        #入力した６曲の平均の辞書リスト
 
@@ -127,7 +127,9 @@ for a in range(5):
   features.extend(sp.audio_features(id_list))
  
   for feature in features:
-   feature[T] = t_normal(feature[T])
+   tmp = t_normal(feature[T])
+   feature[T] = tmp
+   #print(type(feature[T]))
    #print(sim_distance(avg_dict,feature))
    if(sim_distance(avg_dict,feature)) > 0.85:              #6曲の平均とプレイリスト内の曲のユークリッド距離が0.8以上のものを探す
        # 条件に合致した曲を取得

@@ -1,0 +1,44 @@
+2023年07月03日 13:05:42
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+Cupid - Twin Ver. (FIFTY FIFTY)
+{"danceability": 0.783, "energy": 0.592, "key": 11, "loudness": -8.332, "mode": 0, "speechiness": 0.0331, "acousticness": 0.435, "instrumentalness": 4.15e-06, "liveness": 0.347, "valence": 0.726, "tempo": 120.018, "type": "audio_features", "id": "7FbrGaHYVDmfr7KoLIZnQ7", "uri": "spotify:track:7FbrGaHYVDmfr7KoLIZnQ7", "track_href": "https://api.spotify.com/v1/tracks/7FbrGaHYVDmfr7KoLIZnQ7", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7FbrGaHYVDmfr7KoLIZnQ7", "duration_ms": 174253, "time_signature": 4}
+Nonsense (Sabrina Carpenter)
+{"danceability": 0.74, "energy": 0.697, "key": 8, "loudness": -4.912, "mode": 1, "speechiness": 0.034, "acousticness": 0.0268, "instrumentalness": 0, "liveness": 0.224, "valence": 0.732, "tempo": 138.992, "type": "audio_features", "id": "6dgUya35uo964z7GZXM07g", "uri": "spotify:track:6dgUya35uo964z7GZXM07g", "track_href": "https://api.spotify.com/v1/tracks/6dgUya35uo964z7GZXM07g", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6dgUya35uo964z7GZXM07g", "duration_ms": 163648, "time_signature": 4}
+Fly Girl (feat. Missy Elliott) (FLO)
+{"danceability": 0.698, "energy": 0.846, "key": 8, "loudness": -3.735, "mode": 0, "speechiness": 0.0981, "acousticness": 0.406, "instrumentalness": 0, "liveness": 0.204, "valence": 0.726, "tempo": 103.968, "type": "audio_features", "id": "2sITbbWIOeg2Lwp4WN2jqr", "uri": "spotify:track:2sITbbWIOeg2Lwp4WN2jqr", "track_href": "https://api.spotify.com/v1/tracks/2sITbbWIOeg2Lwp4WN2jqr", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2sITbbWIOeg2Lwp4WN2jqr", "duration_ms": 205385, "time_signature": 4}
+All Of The Girls You Loved Before (Taylor Swift)
+{"danceability": 0.718, "energy": 0.467, "key": 2, "loudness": -9.66, "mode": 1, "speechiness": 0.0398, "acousticness": 0.707, "instrumentalness": 6.92e-05, "liveness": 0.126, "valence": 0.396, "tempo": 95.96, "type": "audio_features", "id": "4P9Q0GojKVXpRTJCaL3kyy", "uri": "spotify:track:4P9Q0GojKVXpRTJCaL3kyy", "track_href": "https://api.spotify.com/v1/tracks/4P9Q0GojKVXpRTJCaL3kyy", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4P9Q0GojKVXpRTJCaL3kyy", "duration_ms": 221407, "time_signature": 3}
+Burning Friday Night (Lucky Kilimanjaro)
+{"danceability": 0.818, "energy": 0.562, "key": 10, "loudness": -3.831, "mode": 1, "speechiness": 0.0303, "acousticness": 0.0345, "instrumentalness": 3.65e-06, "liveness": 0.0706, "valence": 0.816, "tempo": 114.979, "type": "audio_features", "id": "1NlkoYEA1ndLQIKzXTPh9V", "uri": "spotify:track:1NlkoYEA1ndLQIKzXTPh9V", "track_href": "https://api.spotify.com/v1/tracks/1NlkoYEA1ndLQIKzXTPh9V", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1NlkoYEA1ndLQIKzXTPh9V", "duration_ms": 255408, "time_signature": 4}
+There's Nothing Holdin' Me Back (Shawn Mendes)
+{"danceability": 0.866, "energy": 0.813, "key": 11, "loudness": -4.063, "mode": 0, "speechiness": 0.0554, "acousticness": 0.38, "instrumentalness": 0, "liveness": 0.0779, "valence": 0.969, "tempo": 121.998, "type": "audio_features", "id": "7JJmb5XwzOO8jgpou264Ml", "uri": "spotify:track:7JJmb5XwzOO8jgpou264Ml", "track_href": "https://api.spotify.com/v1/tracks/7JJmb5XwzOO8jgpou264Ml", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7JJmb5XwzOO8jgpou264Ml", "duration_ms": 199440, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": 0.226, "energy": -0.162, "speechiness": -0.083, "acousticness": 0.226, "liveness": -0.051, "valence": 0.142, "tempo": -0.133}
+--------------<recommend songs>-----------------
+
+name: 数センチメンタル(こはならむ)    https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf
+name: 空とぶ東京(CHO CO PA CO CHO CO QUIN QUIN)    https://open.spotify.com/track/54iqv0TgZtmR0ChN7MWjXv
+name: Kiss Me More (feat. SZA)(Doja Cat)    https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz
+name: Bad example(たかやん)    https://open.spotify.com/track/1ji3cJU0sobtsiNEZRvNVz
+name: Sunroof(Nicky Youre)    https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8
+name: 土曜の夜はパラダイス(EPO)    https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe
+name: Venus Flytrap feat. Chiaki Sato(haruno)    https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3
+name: Too Bad Day But... - Remix(Kvi Baba)    https://open.spotify.com/track/5DiEDM4NkVg05iIlSFyXrM
+name: dramatic(sloppy dim)    https://open.spotify.com/track/2YRu4BEYEtPv9GM53lL0I0
+name: Love Trip(Miki Asakura)    https://open.spotify.com/track/4dxRUlwCaI9nHUGrfWbLqT
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+name: Peso Pluma: Bzrp Music Sessions, Vol. 55(Bizarrap)    https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV
+name: OMG(NewJeans)    https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE
+name: Perfume(NCT DOJAEJUNG)    https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD
+name: Real Time (feat. JiROMAN & ove)(BLOOM VASE)    https://open.spotify.com/track/4nil7PoggcJgEozbYdI7U2
+name: 夜に駆ける (feat. 紫 今)(AFTER HOURS)    https://open.spotify.com/track/5iETzofYOQXudhFmgwsNgI
+name: Attention(NewJeans)    https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9
+name: Fly-day Chinatown(泰葉)    https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn
+name: リサイズ(CYNHN)    https://open.spotify.com/track/2FHkVE7Bhkiy09O0lG4jyc
+name: Konyawa Boogie Back nice vocal × Suisei(kZm × Chiaki Sato)    https://open.spotify.com/track/3KEwPJAkbXWevCVEjr5dLi
+------------------<score>-----------------------
+OMG  https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE
+Angel (From Barbie The Album)  https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+Sunroof  https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8
+Attention  https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9
+score: 4

@@ -1,0 +1,41 @@
+2023年07月03日 13:06:03
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+COCONUT (NiziU)
+{"danceability": 0.744, "energy": 0.911, "key": 4, "loudness": -2.554, "mode": 0, "speechiness": 0.0536, "acousticness": 0.23, "instrumentalness": 0, "liveness": 0.283, "valence": 0.73, "tempo": 115.053, "type": "audio_features", "id": "1BSnc9wwUe2RecyDJFQne0", "uri": "spotify:track:1BSnc9wwUe2RecyDJFQne0", "track_href": "https://api.spotify.com/v1/tracks/1BSnc9wwUe2RecyDJFQne0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1BSnc9wwUe2RecyDJFQne0", "duration_ms": 178427, "time_signature": 4}
+Cupid - Twin Ver. (FIFTY FIFTY)
+{"danceability": 0.783, "energy": 0.592, "key": 11, "loudness": -8.332, "mode": 0, "speechiness": 0.0331, "acousticness": 0.435, "instrumentalness": 4.15e-06, "liveness": 0.347, "valence": 0.726, "tempo": 120.018, "type": "audio_features", "id": "7FbrGaHYVDmfr7KoLIZnQ7", "uri": "spotify:track:7FbrGaHYVDmfr7KoLIZnQ7", "track_href": "https://api.spotify.com/v1/tracks/7FbrGaHYVDmfr7KoLIZnQ7", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7FbrGaHYVDmfr7KoLIZnQ7", "duration_ms": 174253, "time_signature": 4}
+Marshmallow (MISAMO)
+{"danceability": 0.753, "energy": 0.651, "key": 1, "loudness": -6.546, "mode": 0, "speechiness": 0.0458, "acousticness": 0.447, "instrumentalness": 0, "liveness": 0.187, "valence": 0.809, "tempo": 90.022, "type": "audio_features", "id": "1xAlI4oMjz8lJXO4iXik84", "uri": "spotify:track:1xAlI4oMjz8lJXO4iXik84", "track_href": "https://api.spotify.com/v1/tracks/1xAlI4oMjz8lJXO4iXik84", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1xAlI4oMjz8lJXO4iXik84", "duration_ms": 182321, "time_signature": 4}
+Super (SEVENTEEN)
+{"danceability": 0.771, "energy": 0.88, "key": 8, "loudness": -4.091, "mode": 1, "speechiness": 0.0857, "acousticness": 0.162, "instrumentalness": 1.41e-06, "liveness": 0.167, "valence": 0.347, "tempo": 137.018, "type": "audio_features", "id": "3AOf6YEpxQ894FmrwI9k96", "uri": "spotify:track:3AOf6YEpxQ894FmrwI9k96", "track_href": "https://api.spotify.com/v1/tracks/3AOf6YEpxQ894FmrwI9k96", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3AOf6YEpxQ894FmrwI9k96", "duration_ms": 200387, "time_signature": 4}
+The Planet (BTS)
+{"danceability": 0.665, "energy": 0.848, "key": 0, "loudness": -3.619, "mode": 1, "speechiness": 0.0708, "acousticness": 0.000482, "instrumentalness": 0, "liveness": 0.2, "valence": 0.687, "tempo": 119.986, "type": "audio_features", "id": "4IJsVXbSeGPUrgwpVoHmlg", "uri": "spotify:track:4IJsVXbSeGPUrgwpVoHmlg", "track_href": "https://api.spotify.com/v1/tracks/4IJsVXbSeGPUrgwpVoHmlg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4IJsVXbSeGPUrgwpVoHmlg", "duration_ms": 178156, "time_signature": 4}
+All Of The Girls You Loved Before (Taylor Swift)
+{"danceability": 0.718, "energy": 0.467, "key": 2, "loudness": -9.66, "mode": 1, "speechiness": 0.0398, "acousticness": 0.707, "instrumentalness": 6.92e-05, "liveness": 0.126, "valence": 0.396, "tempo": 95.96, "type": "audio_features", "id": "4P9Q0GojKVXpRTJCaL3kyy", "uri": "spotify:track:4P9Q0GojKVXpRTJCaL3kyy", "track_href": "https://api.spotify.com/v1/tracks/4P9Q0GojKVXpRTJCaL3kyy", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4P9Q0GojKVXpRTJCaL3kyy", "duration_ms": 221407, "time_signature": 3}
+正規化後のパラメータの平均{"danceability": 0.186, "energy": -0.059, "speechiness": -0.058, "acousticness": 0.225, "liveness": 0.037, "valence": 0.018, "tempo": -0.162}
+--------------<recommend songs>-----------------
+
+name: 夜に駆ける (feat. 紫 今)(AFTER HOURS)    https://open.spotify.com/track/5iETzofYOQXudhFmgwsNgI
+name: 数センチメンタル(こはならむ)    https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf
+name: eden(ひかりとだいち love SOIL&"PIMP"SESSIONS)    https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB
+name: Fly-day Chinatown(泰葉)    https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+name: Too Bad Day But... - Remix(Kvi Baba)    https://open.spotify.com/track/5DiEDM4NkVg05iIlSFyXrM
+name: You & Me(佐藤ミキ)    https://open.spotify.com/track/6j04uewYlGesO1udV72rv8
+name: セプテンバーさん(八木海莉)    https://open.spotify.com/track/7i4cIvPwJi8mUs5GP0wr3E
+name: ロビンソン(SPITZ)    https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws
+name: Perfume(NCT DOJAEJUNG)    https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD
+name: 花瓶(Tele)    https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi
+name: Konyawa Boogie Back nice vocal × Suisei(kZm × Chiaki Sato)    https://open.spotify.com/track/3KEwPJAkbXWevCVEjr5dLi
+name: 空とぶ東京(CHO CO PA CO CHO CO QUIN QUIN)    https://open.spotify.com/track/54iqv0TgZtmR0ChN7MWjXv
+name: Bad example(たかやん)    https://open.spotify.com/track/1ji3cJU0sobtsiNEZRvNVz
+name: 土曜の夜はパラダイス(EPO)    https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe
+name: Future(STAR SEEED)    https://open.spotify.com/track/2WC9vOon0XlvT9zYGCtKj7
+name: ホワイトキス(鈴木鈴木)    https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+name: FINE LINE (feat. Skaai) (Prod. uin)(SIRUP)    https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY
+name: サマーヌード(Magokoro Brothers)    https://open.spotify.com/track/7eNTFaExmnzkud4vCILtEm
+------------------<score>-----------------------
+Angel (From Barbie The Album)  https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+score: 1

@@ -1,0 +1,60 @@
+2023年06月26日 13:53:02
+remake.py
+MAD HEAD LOVE (Kenshi Yonezu)
+{"danceability": 0.611, "energy": 0.963, "key": 11, "loudness": -2.5, "mode": 0, "speechiness": 0.0643, "acousticness": 0.0098, "instrumentalness": 0, "liveness": 0.121, "valence": 0.825, "tempo": 106.061, "type": "audio_features", "id": "52hQcHZh1RwZ8fX9BOwtZa", "uri": "spotify:track:52hQcHZh1RwZ8fX9BOwtZa", "track_href": "https://api.spotify.com/v1/tracks/52hQcHZh1RwZ8fX9BOwtZa", "analysis_url": "https://api.spotify.com/v1/audio-analysis/52hQcHZh1RwZ8fX9BOwtZa", "duration_ms": 217253, "time_signature": 4}
+夜明けまで強がらなくてもいい (Nogizaka46)
+{"danceability": 0.439, "energy": 0.855, "key": 11, "loudness": -2.476, "mode": 1, "speechiness": 0.043, "acousticness": 0.186, "instrumentalness": 0, "liveness": 0.257, "valence": 0.633, "tempo": 134.059, "type": "audio_features", "id": "6fLq9e3IPdHUwIeSR49n5e", "uri": "spotify:track:6fLq9e3IPdHUwIeSR49n5e", "track_href": "https://api.spotify.com/v1/tracks/6fLq9e3IPdHUwIeSR49n5e", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6fLq9e3IPdHUwIeSR49n5e", "duration_ms": 260560, "time_signature": 4}
+きっかけ (Nogizaka46)
+{"danceability": 0.591, "energy": 0.812, "key": 1, "loudness": -3.599, "mode": 1, "speechiness": 0.0333, "acousticness": 0.562, "instrumentalness": 0, "liveness": 0.0694, "valence": 0.601, "tempo": 139.992, "type": "audio_features", "id": "0cJ8TAagHiLE5Hir5eTzO0", "uri": "spotify:track:0cJ8TAagHiLE5Hir5eTzO0", "track_href": "https://api.spotify.com/v1/tracks/0cJ8TAagHiLE5Hir5eTzO0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0cJ8TAagHiLE5Hir5eTzO0", "duration_ms": 320093, "time_signature": 4}
+栞 (Creep Hyp)
+{"danceability": 0.505, "energy": 0.883, "key": 6, "loudness": -3.094, "mode": 1, "speechiness": 0.0481, "acousticness": 0.0117, "instrumentalness": 0, "liveness": 0.0578, "valence": 0.666, "tempo": 100.496, "type": "audio_features", "id": "2Bsg6EfrmEx0x0eC8v4vuG", "uri": "spotify:track:2Bsg6EfrmEx0x0eC8v4vuG", "track_href": "https://api.spotify.com/v1/tracks/2Bsg6EfrmEx0x0eC8v4vuG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Bsg6EfrmEx0x0eC8v4vuG", "duration_ms": 261547, "time_signature": 4}
+MAD HEAD LOVE (Kenshi Yonezu)
+{"danceability": 0.611, "energy": 0.963, "key": 11, "loudness": -2.5, "mode": 0, "speechiness": 0.0643, "acousticness": 0.0098, "instrumentalness": 0, "liveness": 0.121, "valence": 0.825, "tempo": 106.061, "type": "audio_features", "id": "52hQcHZh1RwZ8fX9BOwtZa", "uri": "spotify:track:52hQcHZh1RwZ8fX9BOwtZa", "track_href": "https://api.spotify.com/v1/tracks/52hQcHZh1RwZ8fX9BOwtZa", "analysis_url": "https://api.spotify.com/v1/audio-analysis/52hQcHZh1RwZ8fX9BOwtZa", "duration_ms": 217253, "time_signature": 4}
+雨とカプチーノ (ヨルシカ)
+{"danceability": 0.485, "energy": 0.781, "key": 6, "loudness": -5.755, "mode": 1, "speechiness": 0.0531, "acousticness": 0.35, "instrumentalness": 0.000542, "liveness": 0.249, "valence": 0.745, "tempo": 199.961, "type": "audio_features", "id": "7lRCvofuqk5YZinCcxiYXK", "uri": "spotify:track:7lRCvofuqk5YZinCcxiYXK", "track_href": "https://api.spotify.com/v1/tracks/7lRCvofuqk5YZinCcxiYXK", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7lRCvofuqk5YZinCcxiYXK", "duration_ms": 272293, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": -0.062, "energy": 0.194, "speechiness": -0.073, "acousticness": 0.065, "liveness": -0.11, "valence": 0.129, "tempo": 0.011}
+--------------<recommend songs>-----------------
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+令和ポップス  https://open.spotify.com/playlist/37i9dQZF1DXdurasRmJgpJ
+J-Rock Now  https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp
+Anime Now  https://open.spotify.com/playlist/37i9dQZF1DWT8aqnwgRt92
+恋するプレイリスト  https://open.spotify.com/playlist/37i9dQZF1DX328xs24cFGI
+元気Booster  https://open.spotify.com/playlist/37i9dQZF1DX6UkADhBpEnE
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+都会の空と音楽と  https://open.spotify.com/playlist/37i9dQZF1DWTbkKlc06FmH
+夕方ジェネレーション  https://open.spotify.com/playlist/37i9dQZF1DXdxPR0maUKqu
+Summer Time - 夏のサウンドトラック  https://open.spotify.com/playlist/37i9dQZF1DWSUbEozh68df
+好きな曲  https://open.spotify.com/playlist/5zZiBa5WGwGR8eJmLZD84K
+プレイリスト#2  https://open.spotify.com/playlist/0r8thBud6xIfXJyLJ13wt4
+On Replay -メガヒット・リプレイ-  https://open.spotify.com/playlist/37i9dQZF1DX6rGPDxQsF1V
+Tokyo Rising  https://open.spotify.com/playlist/37i9dQZF1DWX9u2doQ8Q2L
+夜に聴きたいエモいプレイリスト  https://open.spotify.com/playlist/3zVxuAgsZxzVqlyudSeeyb
+仕事前にやる気をチャージするプレイリスト  https://open.spotify.com/playlist/6mQWtWOKvj3bqlcXdHVa9r
+Punk Japan  https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz
+Edge!  https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j
+好きな曲  https://open.spotify.com/playlist/0l2FWZwRjehOZy8WdrBtL6
+2023！流行りの曲  https://open.spotify.com/playlist/4BT9keed8kbSD6MeW0L20y
+
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/7jc1VLTIiYgREGfCpUg4ot
+name: 月曜日の憂鬱(Amatsuki)    https://open.spotify.com/track/0fsPqL15FO6l5zuf7h19LX
+name: スパイダー(SPITZ)    https://open.spotify.com/track/42QYe0dWubzpMtEkmjM9l1
+name: JET(POLKADOT STINGRAY)    https://open.spotify.com/track/3iqOLTGhIJOxV1P0W6Exmr
+name: 棒人間(RADWIMPS)    https://open.spotify.com/track/2wsyebeX4ptSxKIpJtWE6B
+name: 青春なんていらないわ(Sangatsu no Phantasia)    https://open.spotify.com/track/11ezEAvMZ4whN1ycoJsorS
+name: Day After Day feat. Mei Takahashi(パソコン音楽クラブ)    https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO
+name: セプテンバーさん(Aimer)    https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv
+name: さくらぼっち(COALAMODE.)    https://open.spotify.com/track/5hhFy54NMlpNyTE8Tb7L4Q
+name: C7(GO!GO!7188)    https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT
+name: 風は西から(Tamio Okuda)    https://open.spotify.com/track/1wT5yu8yICXbwlr43f2JjE
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: 風の向きが変わって(MONO NO AWARE)    https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt
+name: ターコイズ(SEKAI NO OWARI)    https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2
+name: Sunday Eve(Nagakumo)    https://open.spotify.com/track/0sY5dIMKpHGlF4uXmJQqMv
+name: メロウ(須田景凪)    https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n
+name: 小さな惑星(King Gnu)    https://open.spotify.com/track/6Sk8FdL95YNN8Xru87BWez
+name: きかいにおまかせ(家主)    https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG
+name: チルチルクラブ(グソクムズ)    https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt
+name: Running In The Dark - Image Song for Arknights mobile game(Monkey Majik)    https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA
+------------------<score>-----------------------
+セプテンバーさん  https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv
+score: 1

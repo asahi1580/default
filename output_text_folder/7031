@@ -1,0 +1,40 @@
+2023年07月03日 13:04:00
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+Angel (From Barbie The Album) (PinkPantheress)
+{"danceability": 0.676, "energy": 0.693, "key": 2, "loudness": -6.322, "mode": 1, "speechiness": 0.0548, "acousticness": 0.18, "instrumentalness": 0.108, "liveness": 0.194, "valence": 0.617, "tempo": 115.015, "type": "audio_features", "id": "0CpfO9VNiW0OGIaZO6zO3n", "uri": "spotify:track:0CpfO9VNiW0OGIaZO6zO3n", "track_href": "https://api.spotify.com/v1/tracks/0CpfO9VNiW0OGIaZO6zO3n", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0CpfO9VNiW0OGIaZO6zO3n", "duration_ms": 123821, "time_signature": 4}
+Attention (NewJeans)
+{"danceability": 0.811, "energy": 0.648, "key": 10, "loudness": -3.684, "mode": 0, "speechiness": 0.0368, "acousticness": 0.236, "instrumentalness": 0, "liveness": 0.0761, "valence": 0.695, "tempo": 104.988, "type": "audio_features", "id": "2pIUpMhHL6L9Z5lnKxJJr9", "uri": "spotify:track:2pIUpMhHL6L9Z5lnKxJJr9", "track_href": "https://api.spotify.com/v1/tracks/2pIUpMhHL6L9Z5lnKxJJr9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2pIUpMhHL6L9Z5lnKxJJr9", "duration_ms": 180067, "time_signature": 4}
+What Makes You Beautiful (One Direction)
+{"danceability": 0.726, "energy": 0.787, "key": 4, "loudness": -2.494, "mode": 1, "speechiness": 0.0737, "acousticness": 0.009, "instrumentalness": 0, "liveness": 0.0596, "valence": 0.888, "tempo": 124.99, "type": "audio_features", "id": "4cluDES4hQEUhmXj6TXkSo", "uri": "spotify:track:4cluDES4hQEUhmXj6TXkSo", "track_href": "https://api.spotify.com/v1/tracks/4cluDES4hQEUhmXj6TXkSo", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4cluDES4hQEUhmXj6TXkSo", "duration_ms": 199987, "time_signature": 4}
+UNFORGIVEN (feat. Nile Rodgers) (LE SSERAFIM)
+{"danceability": 0.795, "energy": 0.875, "key": 4, "loudness": -4.079, "mode": 0, "speechiness": 0.0525, "acousticness": 0.111, "instrumentalness": 8.94e-05, "liveness": 0.107, "valence": 0.375, "tempo": 104.008, "type": "audio_features", "id": "51vRumtqbkNW9wrKfESwfu", "uri": "spotify:track:51vRumtqbkNW9wrKfESwfu", "track_href": "https://api.spotify.com/v1/tracks/51vRumtqbkNW9wrKfESwfu", "analysis_url": "https://api.spotify.com/v1/audio-analysis/51vRumtqbkNW9wrKfESwfu", "duration_ms": 182149, "time_signature": 4}
+GRL GVNG (XG)
+{"danceability": 0.765, "energy": 0.65, "key": 6, "loudness": -6.043, "mode": 1, "speechiness": 0.0372, "acousticness": 0.0669, "instrumentalness": 0, "liveness": 0.204, "valence": 0.409, "tempo": 131.022, "type": "audio_features", "id": "5OqMZ8In8CkCa0SbknnDPl", "uri": "spotify:track:5OqMZ8In8CkCa0SbknnDPl", "track_href": "https://api.spotify.com/v1/tracks/5OqMZ8In8CkCa0SbknnDPl", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5OqMZ8In8CkCa0SbknnDPl", "duration_ms": 188093, "time_signature": 4}
+スマイルあげない (ano)
+{"danceability": 0.757, "energy": 0.773, "key": 1, "loudness": -6.178, "mode": 1, "speechiness": 0.0445, "acousticness": 0.0113, "instrumentalness": 7.75e-05, "liveness": 0.0376, "valence": 0.849, "tempo": 152.054, "type": "audio_features", "id": "4LKpngNUdNSWMSewkMkKzL", "uri": "spotify:track:4LKpngNUdNSWMSewkMkKzL", "track_href": "https://api.spotify.com/v1/tracks/4LKpngNUdNSWMSewkMkKzL", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4LKpngNUdNSWMSewkMkKzL", "duration_ms": 197723, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": 0.206, "energy": -0.037, "speechiness": -0.077, "acousticness": -0.031, "liveness": -0.177, "valence": 0.043, "tempo": -0.076}
+--------------<recommend songs>-----------------
+
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Leave Before You Love Me (with Jonas Brothers)(Marshmello)    https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1
+name: ピクトグラム(dramastore)    https://open.spotify.com/track/3H9uf3sWoygzTXiU5sdn6a
+name: YELLOW(Yoh kamiyama)    https://open.spotify.com/track/73wJWOtr5sh2FfJS6XoHnn
+name: 蝉ダンスフロア(Maharajan)    https://open.spotify.com/track/2o7cOj0V9YziUyLR8F1qpV
+name: クロノスタシス(BUMP OF CHICKEN)    https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp
+name: We'll be fine - English Version(ReN)    https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q
+name: Loser(Shota Shimizu)    https://open.spotify.com/track/54GQKIuGKQ8SDh3qCfFhyU
+name: damn(Fujii Kaze)    https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy
+name: YOU+ME=(竹内アンナ)    https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO
+name: Rain Of Your Heart(Yogee New Waves)    https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O
+name: Bluma to Lunch(BLOOM VASE)    https://open.spotify.com/track/0eQkbjPz6eQvhI3sfpshVK
+name: Bluma to Lunch(BLOOM VASE)    https://open.spotify.com/track/3EYWY7XBj1BkCKX3R3hoZk
+name: Hirune no Kuni(chilldspot)    https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG
+name: Rollerskates(End of the World)    https://open.spotify.com/track/2s4ErjWLSAVZSdYoqAhfcQ
+name: Fdf(cero)    https://open.spotify.com/track/2QAEoWebhc86vbYBUvexOv
+name: なんでも言っちゃって(LEX)    https://open.spotify.com/track/1ZGBwdBfy7M5XWGo4XoGlf
+name: エジソン(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS
+name: Edison(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE
+name: 甘い記憶(the shes gone)    https://open.spotify.com/track/1on9AvcasLbviJdJLysfGt
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,41 @@
+2023年07月03日 13:04:41
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+Hype Boy (NewJeans)
+{"danceability": 0.593, "energy": 0.935, "key": 4, "loudness": -3.43, "mode": 0, "speechiness": 0.225, "acousticness": 0.268, "instrumentalness": 0, "liveness": 0.286, "valence": 0.783, "tempo": 99.976, "type": "audio_features", "id": "0a4MMyCrzT0En247IhqZbD", "uri": "spotify:track:0a4MMyCrzT0En247IhqZbD", "track_href": "https://api.spotify.com/v1/tracks/0a4MMyCrzT0En247IhqZbD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0a4MMyCrzT0En247IhqZbD", "duration_ms": 179027, "time_signature": 4}
+S-Class (Stray Kids)
+{"danceability": 0.886, "energy": 0.781, "key": 5, "loudness": -1.837, "mode": 0, "speechiness": 0.333, "acousticness": 0.0895, "instrumentalness": 0, "liveness": 0.0715, "valence": 0.672, "tempo": 104.996, "type": "audio_features", "id": "3gTQwwDNJ42CCLo3Sf4JDd", "uri": "spotify:track:3gTQwwDNJ42CCLo3Sf4JDd", "track_href": "https://api.spotify.com/v1/tracks/3gTQwwDNJ42CCLo3Sf4JDd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3gTQwwDNJ42CCLo3Sf4JDd", "duration_ms": 195689, "time_signature": 4}
+STAY (with Justin Bieber) (The Kid LAROI)
+{"danceability": 0.591, "energy": 0.764, "key": 1, "loudness": -5.484, "mode": 1, "speechiness": 0.0483, "acousticness": 0.0383, "instrumentalness": 0, "liveness": 0.103, "valence": 0.478, "tempo": 169.928, "type": "audio_features", "id": "5HCyWlXZPP0y6Gqq8TgA20", "uri": "spotify:track:5HCyWlXZPP0y6Gqq8TgA20", "track_href": "https://api.spotify.com/v1/tracks/5HCyWlXZPP0y6Gqq8TgA20", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5HCyWlXZPP0y6Gqq8TgA20", "duration_ms": 141806, "time_signature": 4}
+Hype Boy (NewJeans)
+{"danceability": 0.593, "energy": 0.935, "key": 4, "loudness": -3.43, "mode": 0, "speechiness": 0.225, "acousticness": 0.268, "instrumentalness": 0, "liveness": 0.286, "valence": 0.783, "tempo": 99.976, "type": "audio_features", "id": "0a4MMyCrzT0En247IhqZbD", "uri": "spotify:track:0a4MMyCrzT0En247IhqZbD", "track_href": "https://api.spotify.com/v1/tracks/0a4MMyCrzT0En247IhqZbD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0a4MMyCrzT0En247IhqZbD", "duration_ms": 179027, "time_signature": 4}
+Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo) (Jon Batiste)
+{"danceability": 0.657, "energy": 0.875, "key": 2, "loudness": -4.206, "mode": 1, "speechiness": 0.089, "acousticness": 0.0328, "instrumentalness": 0, "liveness": 0.267, "valence": 0.745, "tempo": 143.884, "type": "audio_features", "id": "7fcZk7OXeFWD7DWybltVVf", "uri": "spotify:track:7fcZk7OXeFWD7DWybltVVf", "track_href": "https://api.spotify.com/v1/tracks/7fcZk7OXeFWD7DWybltVVf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7fcZk7OXeFWD7DWybltVVf", "duration_ms": 189714, "time_signature": 4}
+After LIKE (IVE)
+{"danceability": 0.68, "energy": 0.922, "key": 0, "loudness": -1.215, "mode": 1, "speechiness": 0.121, "acousticness": 0.103, "instrumentalness": 0, "liveness": 0.0877, "valence": 0.799, "tempo": 125.014, "type": "audio_features", "id": "2gYj9lubBorOPIVWsTXugG", "uri": "spotify:track:2gYj9lubBorOPIVWsTXugG", "track_href": "https://api.spotify.com/v1/tracks/2gYj9lubBorOPIVWsTXugG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gYj9lubBorOPIVWsTXugG", "duration_ms": 176973, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": 0.096, "energy": 0.181, "speechiness": 0.398, "acousticness": 0.004, "liveness": -0.034, "valence": 0.122, "tempo": -0.058}
+--------------<recommend songs>-----------------
+
+name: 夜のピエロ(Ado)    https://open.spotify.com/track/59bPgyrdKgjWkcjxcYoaox
+name: The Hard Way(PNAU)    https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8
+name: Expressions (feat. Daichi Yamamoto, Campanella, Ryugo Ishida, 北里彰久, SANTAWORLDVIEW, NENE, 仙人掌, 鎮座DOPENESS)(STUTS)    https://open.spotify.com/track/4WaMI9YYcDda2FmhA0qWqp
+name: Slidin' (feat. Kodak Black)(Jason Derulo)    https://open.spotify.com/track/173ff06by7Ujur3An4cHWf
+name: After LIKE(IVE)    https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG
+name: PEEK-A-BOO - feat. 鈴木優人 & かてぃん(角野隼斗) with 麻布学園OB+オーケストラ(PIKOTARO)    https://open.spotify.com/track/0BghOAtqgizpuVtJFUCFxn
+name: Habit(SEKAI NO OWARI)    https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE
+name: スターマイン(Da-iCE)    https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy
+name: Kimochy(Lucky Kilimanjaro)    https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF
+name: Verbal Justice(ヒプノシスマイク -D.R.B- (中王区 言の葉党))    https://open.spotify.com/track/6H3uKz8oNZcNbzbZmfS0av
+name: Classic(MKTO)    https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg
+name: SET ME FREE(TWICE)    https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1
+name: いちごミルク(Tomggg)    https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO
+name: 元彼女として(My Hair is Bad)    https://open.spotify.com/track/61ljG8KY152M7NbRcXXAes
+name: Seimei Oka(NEE)    https://open.spotify.com/track/1X0ryvast6yk2en45qhvKl
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: Green Green Grass - Sped-Up(George Ezra)    https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N
+name: 綺羅綺羅(Reol)    https://open.spotify.com/track/1PYf8NPd7Q9xjtfjVCgPw1
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: Balloon(SKRYU)    https://open.spotify.com/track/2rNmK2rpNgIVGsc93SF7ov
+------------------<score>-----------------------
+After LIKE  https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG
+score: 1

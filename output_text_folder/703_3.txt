@@ -1,0 +1,43 @@
+2023年07月03日 11:22:50
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+Baby Don't Hurt Me (David Guetta)
+{"danceability": 0.602, "energy": 0.91, "key": 7, "loudness": -3.404, "mode": 1, "speechiness": 0.0308, "acousticness": 0.00126, "instrumentalness": 0.000174, "liveness": 0.12, "valence": 0.228, "tempo": 127.944, "type": "audio_features", "id": "3BKD1PwArikchz2Zrlp1qi", "uri": "spotify:track:3BKD1PwArikchz2Zrlp1qi", "track_href": "https://api.spotify.com/v1/tracks/3BKD1PwArikchz2Zrlp1qi", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3BKD1PwArikchz2Zrlp1qi", "duration_ms": 140018, "time_signature": 4}
+ANTIFRAGILE (LE SSERAFIM)
+{"danceability": 0.882, "energy": 0.797, "key": 10, "loudness": -3.299, "mode": 0, "speechiness": 0.0819, "acousticness": 0.0821, "instrumentalness": 0, "liveness": 0.113, "valence": 0.824, "tempo": 105.025, "type": "audio_features", "id": "4fsQ0K37TOXa3hEQfjEic1", "uri": "spotify:track:4fsQ0K37TOXa3hEQfjEic1", "track_href": "https://api.spotify.com/v1/tracks/4fsQ0K37TOXa3hEQfjEic1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fsQ0K37TOXa3hEQfjEic1", "duration_ms": 184444, "time_signature": 4}
+I Ain't Worried (OneRepublic)
+{"danceability": 0.704, "energy": 0.797, "key": 0, "loudness": -5.927, "mode": 1, "speechiness": 0.0475, "acousticness": 0.0826, "instrumentalness": 0.000745, "liveness": 0.0546, "valence": 0.825, "tempo": 139.994, "type": "audio_features", "id": "4h9wh7iOZ0GGn8QVp4RAOB", "uri": "spotify:track:4h9wh7iOZ0GGn8QVp4RAOB", "track_href": "https://api.spotify.com/v1/tracks/4h9wh7iOZ0GGn8QVp4RAOB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4h9wh7iOZ0GGn8QVp4RAOB", "duration_ms": 148486, "time_signature": 4}
+Hype Boy (NewJeans)
+{"danceability": 0.593, "energy": 0.935, "key": 4, "loudness": -3.43, "mode": 0, "speechiness": 0.225, "acousticness": 0.268, "instrumentalness": 0, "liveness": 0.286, "valence": 0.783, "tempo": 99.976, "type": "audio_features", "id": "0a4MMyCrzT0En247IhqZbD", "uri": "spotify:track:0a4MMyCrzT0En247IhqZbD", "track_href": "https://api.spotify.com/v1/tracks/0a4MMyCrzT0En247IhqZbD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0a4MMyCrzT0En247IhqZbD", "duration_ms": 179027, "time_signature": 4}
+2002 (Anne-Marie)
+{"danceability": 0.697, "energy": 0.683, "key": 1, "loudness": -2.881, "mode": 0, "speechiness": 0.117, "acousticness": 0.0372, "instrumentalness": 0, "liveness": 0.137, "valence": 0.603, "tempo": 96.133, "type": "audio_features", "id": "2BgEsaKNfHUdlh97KmvFyo", "uri": "spotify:track:2BgEsaKNfHUdlh97KmvFyo", "track_href": "https://api.spotify.com/v1/tracks/2BgEsaKNfHUdlh97KmvFyo", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2BgEsaKNfHUdlh97KmvFyo", "duration_ms": 186987, "time_signature": 4}
+I Ain't Worried (OneRepublic)
+{"danceability": 0.704, "energy": 0.797, "key": 0, "loudness": -5.927, "mode": 1, "speechiness": 0.0475, "acousticness": 0.0826, "instrumentalness": 0.000745, "liveness": 0.0546, "valence": 0.825, "tempo": 139.994, "type": "audio_features", "id": "4h9wh7iOZ0GGn8QVp4RAOB", "uri": "spotify:track:4h9wh7iOZ0GGn8QVp4RAOB", "track_href": "https://api.spotify.com/v1/tracks/4h9wh7iOZ0GGn8QVp4RAOB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4h9wh7iOZ0GGn8QVp4RAOB", "duration_ms": 148486, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": 0.134, "energy": 0.1, "speechiness": 0.083, "acousticness": -0.042, "liveness": -0.148, "valence": 0.09, "tempo": -0.113}
+--------------<recommend songs>-----------------
+
+name: バースデイ(Tele)    https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE
+name: Pacific Line(Kidella)    https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: TOMBOY((G)I-DLE)    https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm
+name: Dynamite(BTS)    https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+name: Pacific Line(Kidella)    https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: 棒人間(RADWIMPS)    https://open.spotify.com/track/2wsyebeX4ptSxKIpJtWE6B
+name: Motion(Ty Dolla $ign)    https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh
+name: The Planet(BTS)    https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: 蝉ダンスフロア(Maharajan)    https://open.spotify.com/track/2o7cOj0V9YziUyLR8F1qpV
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Coast (feat. Anderson .Paak)(Hailee Steinfeld)    https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/7jc1VLTIiYgREGfCpUg4ot
+name: Reconnect(Yaffle)    https://open.spotify.com/track/0GPQ8dUnusAgl8Rxu686bI
+name: ルージュ(オレンジスパイニクラブ)    https://open.spotify.com/track/7g6lGyhKD2OYByD6YJq4im
+name: Classic(MKTO)    https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg
+name: アイオライト(Inori Minase)    https://open.spotify.com/track/3aEkoZxIUDLgca5DQaZr5r
+------------------<score>-----------------------
+Hare Hare  https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+The Planet  https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+Dynamite  https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+score: 3

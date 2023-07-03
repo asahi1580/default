@@ -1,0 +1,30 @@
+2023年07月03日 13:14:24
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.182, "energy": 0.039, "speechiness": -0.061, "acousticness": -0.007, "liveness": -0.026, "valence": 0.101, "tempo": -0.013}
+--------------<recommend songs>-----------------
+
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: ばらの花 × ネイティブダンサー(yui (FLOWER FLOWER) × ミゾベリョウ (odol))    https://open.spotify.com/track/48TPAQGjRuGzARTHAaiWkD
+name: 蝉ダンスフロア(Maharajan)    https://open.spotify.com/track/2o7cOj0V9YziUyLR8F1qpV
+name: HIT MAKER !!!(MUKADE)    https://open.spotify.com/track/7wwrSDeyJcfV5RGvFEnTSn
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Future(STAR SEEED)    https://open.spotify.com/track/2WC9vOon0XlvT9zYGCtKj7
+name: クロノスタシス(BUMP OF CHICKEN)    https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp
+name: LA・LA・LA LOVE SONG(ayaka)    https://open.spotify.com/track/1UzG2NHHXIlNbS3sCWUA9u
+name: You for Me(Sigala)    https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp
+name: ピクトグラム(dramastore)    https://open.spotify.com/track/3H9uf3sWoygzTXiU5sdn6a
+name: 辻(Lucky Kilimanjaro)    https://open.spotify.com/track/5ip9EK6iTSIdhRSHTRcCPr
+name: Loser(Shota Shimizu)    https://open.spotify.com/track/54GQKIuGKQ8SDh3qCfFhyU
+name: The Planet(BTS)    https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+name: damn(Fujii Kaze)    https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: Call My Name(Bullet Train)    https://open.spotify.com/track/6GkT8PTDQgeHGOWHyOYrSb
+name: Bluma to Lunch(BLOOM VASE)    https://open.spotify.com/track/0eQkbjPz6eQvhI3sfpshVK
+name: Bluma to Lunch(BLOOM VASE)    https://open.spotify.com/track/3EYWY7XBj1BkCKX3R3hoZk
+name: けーたいみしてよ(MAISONdes)    https://open.spotify.com/track/2lM1Qox6qq2bU7zKJyVt9p
+------------------<score>-----------------------
+Hare Hare  https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+The Planet  https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+score: 2

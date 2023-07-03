@@ -1,0 +1,42 @@
+2023年07月03日 11:09:29
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+Burning Friday Night (Lucky Kilimanjaro)
+{"danceability": 0.818, "energy": 0.562, "key": 10, "loudness": -3.831, "mode": 1, "speechiness": 0.0303, "acousticness": 0.0345, "instrumentalness": 3.65e-06, "liveness": 0.0706, "valence": 0.816, "tempo": 114.979, "type": "audio_features", "id": "1NlkoYEA1ndLQIKzXTPh9V", "uri": "spotify:track:1NlkoYEA1ndLQIKzXTPh9V", "track_href": "https://api.spotify.com/v1/tracks/1NlkoYEA1ndLQIKzXTPh9V", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1NlkoYEA1ndLQIKzXTPh9V", "duration_ms": 255408, "time_signature": 4}
+There's Nothing Holdin' Me Back (Shawn Mendes)
+{"danceability": 0.866, "energy": 0.813, "key": 11, "loudness": -4.063, "mode": 0, "speechiness": 0.0554, "acousticness": 0.38, "instrumentalness": 0, "liveness": 0.0779, "valence": 0.969, "tempo": 121.998, "type": "audio_features", "id": "7JJmb5XwzOO8jgpou264Ml", "uri": "spotify:track:7JJmb5XwzOO8jgpou264Ml", "track_href": "https://api.spotify.com/v1/tracks/7JJmb5XwzOO8jgpou264Ml", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7JJmb5XwzOO8jgpou264Ml", "duration_ms": 199440, "time_signature": 4}
+Super (SEVENTEEN)
+{"danceability": 0.771, "energy": 0.88, "key": 8, "loudness": -4.091, "mode": 1, "speechiness": 0.0857, "acousticness": 0.162, "instrumentalness": 1.41e-06, "liveness": 0.167, "valence": 0.347, "tempo": 137.018, "type": "audio_features", "id": "3AOf6YEpxQ894FmrwI9k96", "uri": "spotify:track:3AOf6YEpxQ894FmrwI9k96", "track_href": "https://api.spotify.com/v1/tracks/3AOf6YEpxQ894FmrwI9k96", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3AOf6YEpxQ894FmrwI9k96", "duration_ms": 200387, "time_signature": 4}
+Nonsense (Sabrina Carpenter)
+{"danceability": 0.74, "energy": 0.697, "key": 8, "loudness": -4.912, "mode": 1, "speechiness": 0.034, "acousticness": 0.0268, "instrumentalness": 0, "liveness": 0.224, "valence": 0.732, "tempo": 138.992, "type": "audio_features", "id": "6dgUya35uo964z7GZXM07g", "uri": "spotify:track:6dgUya35uo964z7GZXM07g", "track_href": "https://api.spotify.com/v1/tracks/6dgUya35uo964z7GZXM07g", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6dgUya35uo964z7GZXM07g", "duration_ms": 163648, "time_signature": 4}
+ANTIFRAGILE (LE SSERAFIM)
+{"danceability": 0.882, "energy": 0.797, "key": 10, "loudness": -3.299, "mode": 0, "speechiness": 0.0819, "acousticness": 0.0821, "instrumentalness": 0, "liveness": 0.113, "valence": 0.824, "tempo": 105.025, "type": "audio_features", "id": "4fsQ0K37TOXa3hEQfjEic1", "uri": "spotify:track:4fsQ0K37TOXa3hEQfjEic1", "track_href": "https://api.spotify.com/v1/tracks/4fsQ0K37TOXa3hEQfjEic1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fsQ0K37TOXa3hEQfjEic1", "duration_ms": 184444, "time_signature": 4}
+Dynamite (BTS)
+{"danceability": 0.746, "energy": 0.765, "key": 6, "loudness": -4.41, "mode": 0, "speechiness": 0.0993, "acousticness": 0.0112, "instrumentalness": 0, "liveness": 0.0936, "valence": 0.737, "tempo": 114.044, "type": "audio_features", "id": "5QDLhrAOJJdNAmCTJ8xMyW", "uri": "spotify:track:5QDLhrAOJJdNAmCTJ8xMyW", "track_href": "https://api.spotify.com/v1/tracks/5QDLhrAOJJdNAmCTJ8xMyW", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5QDLhrAOJJdNAmCTJ8xMyW", "duration_ms": 199054, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": 0.267, "energy": -0.013, "speechiness": -0.021, "acousticness": -0.016, "liveness": -0.154, "valence": 0.153, "tempo": -0.076}
+--------------<recommend songs>-----------------
+
+name: 蝉ダンスフロア(Maharajan)    https://open.spotify.com/track/2o7cOj0V9YziUyLR8F1qpV
+name: Bluma to Lunch(BLOOM VASE)    https://open.spotify.com/track/0eQkbjPz6eQvhI3sfpshVK
+name: Bluma to Lunch(BLOOM VASE)    https://open.spotify.com/track/3EYWY7XBj1BkCKX3R3hoZk
+name: BREAKTHROUGH(Cosmo's Midnight)    https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: ピクトグラム(dramastore)    https://open.spotify.com/track/3H9uf3sWoygzTXiU5sdn6a
+name: 線香花火 - feat. 幾田りら(CHIAKI SATO)    https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ
+name: 線香花火 - feat. 幾田りら(CHIAKI SATO)    https://open.spotify.com/track/3R7A7GF0YC3BlYyPoIMiR4
+name: そして僕は途方に暮れる (feat. 黒川沙良)(Tokimeki Records)    https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC
+name: merry-go-round(tonun)    https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf
+name: YELLOW(Yoh kamiyama)    https://open.spotify.com/track/73wJWOtr5sh2FfJS6XoHnn
+name: OTONABLUE(ATARASHII GAKKO!)    https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV
+name: Numb(Marshmello)    https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL
+name: Side Effects(Becky Hill)    https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp
+name: Endless Etude(Base Ball Bear)    https://open.spotify.com/track/7KQSQIp6HjMywrbBQcRK8k
+name: エジソン(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS
+name: Edison(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE
+name: Dynamite(BTS)    https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+name: 土曜の夜はパラダイス(EPO)    https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe
+name: Pacific Line(Kidella)    https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi
+------------------<score>-----------------------
+OTONABLUE  https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV
+Dynamite  https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+score: 2

@@ -1,0 +1,61 @@
+2023年06月26日 13:53:53
+remake.py
+君と羊と青 (RADWIMPS)
+{"danceability": 0.413, "energy": 0.962, "key": 8, "loudness": -2.274, "mode": 1, "speechiness": 0.103, "acousticness": 0.000111, "instrumentalness": 0.000519, "liveness": 0.157, "valence": 0.784, "tempo": 164.049, "type": "audio_features", "id": "7omUuXZu2DVHqYRUkdOENh", "uri": "spotify:track:7omUuXZu2DVHqYRUkdOENh", "track_href": "https://api.spotify.com/v1/tracks/7omUuXZu2DVHqYRUkdOENh", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7omUuXZu2DVHqYRUkdOENh", "duration_ms": 158187, "time_signature": 4}
+トドカナイカラ (Ken Hirai)
+{"danceability": 0.733, "energy": 0.467, "key": 5, "loudness": -6.994, "mode": 1, "speechiness": 0.0379, "acousticness": 0.794, "instrumentalness": 0, "liveness": 0.339, "valence": 0.368, "tempo": 102.088, "type": "audio_features", "id": "10vmqpUG6H8tZYVnSjgT5X", "uri": "spotify:track:10vmqpUG6H8tZYVnSjgT5X", "track_href": "https://api.spotify.com/v1/tracks/10vmqpUG6H8tZYVnSjgT5X", "analysis_url": "https://api.spotify.com/v1/audio-analysis/10vmqpUG6H8tZYVnSjgT5X", "duration_ms": 247067, "time_signature": 4}
+Permission to Dance (BTS)
+{"danceability": 0.702, "energy": 0.741, "key": 9, "loudness": -5.33, "mode": 1, "speechiness": 0.0427, "acousticness": 0.00544, "instrumentalness": 0, "liveness": 0.337, "valence": 0.646, "tempo": 124.925, "type": "audio_features", "id": "5eXBXreN3d1zdj6Sa8dS0u", "uri": "spotify:track:5eXBXreN3d1zdj6Sa8dS0u", "track_href": "https://api.spotify.com/v1/tracks/5eXBXreN3d1zdj6Sa8dS0u", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5eXBXreN3d1zdj6Sa8dS0u", "duration_ms": 187585, "time_signature": 4}
+君と羊と青 (RADWIMPS)
+{"danceability": 0.413, "energy": 0.962, "key": 8, "loudness": -2.274, "mode": 1, "speechiness": 0.103, "acousticness": 0.000111, "instrumentalness": 0.000519, "liveness": 0.157, "valence": 0.784, "tempo": 164.049, "type": "audio_features", "id": "7omUuXZu2DVHqYRUkdOENh", "uri": "spotify:track:7omUuXZu2DVHqYRUkdOENh", "track_href": "https://api.spotify.com/v1/tracks/7omUuXZu2DVHqYRUkdOENh", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7omUuXZu2DVHqYRUkdOENh", "duration_ms": 158187, "time_signature": 4}
+又三郎 (ヨルシカ)
+{"danceability": 0.472, "energy": 0.919, "key": 4, "loudness": -3.513, "mode": 0, "speechiness": 0.149, "acousticness": 0.00308, "instrumentalness": 0.000492, "liveness": 0.212, "valence": 0.548, "tempo": 199.972, "type": "audio_features", "id": "3WtIXrla0ovC9MOIY78Vr8", "uri": "spotify:track:3WtIXrla0ovC9MOIY78Vr8", "track_href": "https://api.spotify.com/v1/tracks/3WtIXrla0ovC9MOIY78Vr8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3WtIXrla0ovC9MOIY78Vr8", "duration_ms": 227732, "time_signature": 4}
+帰り道は遠回りしたくなる (Nogizaka46)
+{"danceability": 0.51, "energy": 0.857, "key": 1, "loudness": -2.715, "mode": 1, "speechiness": 0.0403, "acousticness": 0.457, "instrumentalness": 0, "liveness": 0.0794, "valence": 0.693, "tempo": 138.064, "type": "audio_features", "id": "4RWJxm0Vn83uE0TIhwnABv", "uri": "spotify:track:4RWJxm0Vn83uE0TIhwnABv", "track_href": "https://api.spotify.com/v1/tracks/4RWJxm0Vn83uE0TIhwnABv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4RWJxm0Vn83uE0TIhwnABv", "duration_ms": 269707, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": -0.062, "energy": 0.097, "speechiness": 0.036, "acousticness": 0.09, "liveness": 0.028, "valence": 0.041, "tempo": 0.18}
+--------------<recommend songs>-----------------
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+令和ポップス  https://open.spotify.com/playlist/37i9dQZF1DXdurasRmJgpJ
+J-Rock Now  https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp
+Anime Now  https://open.spotify.com/playlist/37i9dQZF1DWT8aqnwgRt92
+恋するプレイリスト  https://open.spotify.com/playlist/37i9dQZF1DX328xs24cFGI
+元気Booster  https://open.spotify.com/playlist/37i9dQZF1DX6UkADhBpEnE
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+都会の空と音楽と  https://open.spotify.com/playlist/37i9dQZF1DWTbkKlc06FmH
+夕方ジェネレーション  https://open.spotify.com/playlist/37i9dQZF1DXdxPR0maUKqu
+Summer Time - 夏のサウンドトラック  https://open.spotify.com/playlist/37i9dQZF1DWSUbEozh68df
+好きな曲  https://open.spotify.com/playlist/5zZiBa5WGwGR8eJmLZD84K
+プレイリスト#2  https://open.spotify.com/playlist/0r8thBud6xIfXJyLJ13wt4
+On Replay -メガヒット・リプレイ-  https://open.spotify.com/playlist/37i9dQZF1DX6rGPDxQsF1V
+Tokyo Rising  https://open.spotify.com/playlist/37i9dQZF1DWX9u2doQ8Q2L
+夜に聴きたいエモいプレイリスト  https://open.spotify.com/playlist/3zVxuAgsZxzVqlyudSeeyb
+仕事前にやる気をチャージするプレイリスト  https://open.spotify.com/playlist/6mQWtWOKvj3bqlcXdHVa9r
+Punk Japan  https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz
+Edge!  https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j
+好きな曲  https://open.spotify.com/playlist/0l2FWZwRjehOZy8WdrBtL6
+2023！流行りの曲  https://open.spotify.com/playlist/4BT9keed8kbSD6MeW0L20y
+
+name: 月曜日の憂鬱(Amatsuki)    https://open.spotify.com/track/0fsPqL15FO6l5zuf7h19LX
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: Shinunoga E-Wa(Fujii Kaze)    https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW
+name: 夜明けまで強がらなくてもいい(Nogizaka46)    https://open.spotify.com/track/6fLq9e3IPdHUwIeSR49n5e
+name: Kick Six 2019(BEK & Moberg)    https://open.spotify.com/track/6r7nsu3WsBgb5W0UwhX7dp
+name: Life Is Still Going On(NCT DREAM)    https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0
+name: Sunday Eve(Nagakumo)    https://open.spotify.com/track/0sY5dIMKpHGlF4uXmJQqMv
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: Cantabile(Novelbright)    https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58
+name: JET(POLKADOT STINGRAY)    https://open.spotify.com/track/3iqOLTGhIJOxV1P0W6Exmr
+name: メフィスト(QUEEN BEE)    https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG
+name: Soft(Singer's High)    https://open.spotify.com/track/46kf0DQPAwyhDd23ZM2JEf
+name: GOLD(PEOPLE 1)    https://open.spotify.com/track/5VTYSiBAkyZ4DCqilSU40y
+name: Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)(Jon Batiste)    https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf
+name: ハッピーエンドへの期待は(Macaroni Empitsu)    https://open.spotify.com/track/7LwC5DmwJmbkdWV7ekpx8i
+name: シャルル(Rib)    https://open.spotify.com/track/0TUQE5j6H2GOfhMxw4JMnE
+name: Blue Bird (feat. Maika Loubté)(Shin Sakiura)    https://open.spotify.com/track/6KJW2wfW3iKbOinXZTbf3v
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: Runaway World(fhána)    https://open.spotify.com/track/5oaQkUTBFrLjqJJ4fd3eAe
+name: Yui(Saucy Dog)    https://open.spotify.com/track/3f8WNy5rgXq7J74qjExRkb
+------------------<score>-----------------------
+夜明けまで強がらなくてもいい  https://open.spotify.com/track/6fLq9e3IPdHUwIeSR49n5e
+Kick Six 2019  https://open.spotify.com/track/6r7nsu3WsBgb5W0UwhX7dp
+score: 2

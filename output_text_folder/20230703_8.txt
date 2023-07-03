@@ -1,0 +1,29 @@
+2023年07月03日 13:15:26
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.176, "energy": 0.046, "speechiness": -0.023, "acousticness": 0.004, "liveness": -0.091, "valence": -0.028, "tempo": -0.137}
+--------------<recommend songs>-----------------
+
+name: ヨワネハキ(MAISONdes)    https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw
+name: 辻(Lucky Kilimanjaro)    https://open.spotify.com/track/5ip9EK6iTSIdhRSHTRcCPr
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+name: "Seishun Sick"(Fujii Kaze)    https://open.spotify.com/track/2PDtvT5DEamQTM5qeiTDsR
+name: LA・LA・LA LOVE SONG(ayaka)    https://open.spotify.com/track/1UzG2NHHXIlNbS3sCWUA9u
+name: Motion(Ty Dolla $ign)    https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh
+name: クロノスタシス(BUMP OF CHICKEN)    https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Loser(Shota Shimizu)    https://open.spotify.com/track/54GQKIuGKQ8SDh3qCfFhyU
+name: サンキュー神様(SUDA MASAKI)    https://open.spotify.com/track/6gNPjYLH4K4m81vE0gotPk
+name: Perfume(NCT DOJAEJUNG)    https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD
+name: Leave Before You Love Me (with Jonas Brothers)(Marshmello)    https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1
+name: ばらの花 × ネイティブダンサー(yui (FLOWER FLOWER) × ミゾベリョウ (odol))    https://open.spotify.com/track/48TPAQGjRuGzARTHAaiWkD
+name: YOU+ME=(竹内アンナ)    https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO
+name: ピクトグラム(dramastore)    https://open.spotify.com/track/3H9uf3sWoygzTXiU5sdn6a
+name: あたしが死んでも(Koresawa)    https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: Reconnect(Yaffle)    https://open.spotify.com/track/0GPQ8dUnusAgl8Rxu686bI
+name: Rain Of Your Heart(Yogee New Waves)    https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O
+name: 蝉ダンスフロア(Maharajan)    https://open.spotify.com/track/2o7cOj0V9YziUyLR8F1qpV
+------------------<score>-----------------------
+Angel (From Barbie The Album)  https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+score: 1

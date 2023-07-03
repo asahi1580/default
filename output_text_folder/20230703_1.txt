@@ -1,0 +1,31 @@
+2023年07月03日 13:13:07
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.111, "energy": 0.119, "speechiness": 0.102, "acousticness": -0.027, "liveness": 0.054, "valence": 0.055, "tempo": -0.053}
+--------------<recommend songs>-----------------
+
+name: The Planet(BTS)    https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: WA DA DA(Kep1er)    https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq
+name: NO TIME(VivaOla)    https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc
+name: Call My Name(Bullet Train)    https://open.spotify.com/track/6GkT8PTDQgeHGOWHyOYrSb
+name: Sugar Rush Ride - Japanese Ver.(TOMORROW X TOGETHER)    https://open.spotify.com/track/7hQwG47K0xxgxdJN1aXRGu
+name: Blue Bird (feat. Maika Loubté)(Shin Sakiura)    https://open.spotify.com/track/6KJW2wfW3iKbOinXZTbf3v
+name: 辻(Lucky Kilimanjaro)    https://open.spotify.com/track/5ip9EK6iTSIdhRSHTRcCPr
+name: LA・LA・LA LOVE SONG(ayaka)    https://open.spotify.com/track/1UzG2NHHXIlNbS3sCWUA9u
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)(Jon Batiste)    https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf
+name: ミスター(YOASOBI)    https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np
+name: You for Me(Sigala)    https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: ホワイトキス(鈴木鈴木)    https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo
+name: HIT MAKER !!!(MUKADE)    https://open.spotify.com/track/7wwrSDeyJcfV5RGvFEnTSn
+name: ...and Rescue Me(Rainy。)    https://open.spotify.com/track/3v3D4RG9khRQjuJlyWSQOb
+name: 瞳惚れ(Vaundy)    https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z
+------------------<score>-----------------------
+Hare Hare  https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)  https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf
+The Planet  https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+score: 3

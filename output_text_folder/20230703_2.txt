@@ -1,0 +1,32 @@
+2023年07月03日 13:13:26
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.162, "energy": -0.02, "speechiness": 0.239, "acousticness": -0.045, "liveness": 0.071, "valence": 0.008, "tempo": -0.01}
+--------------<recommend songs>-----------------
+
+name: ティンカーベル(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv
+name: 夜のピエロ(Ado)    https://open.spotify.com/track/59bPgyrdKgjWkcjxcYoaox
+name: NO TIME(VivaOla)    https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: Balloon(SKRYU)    https://open.spotify.com/track/2rNmK2rpNgIVGsc93SF7ov
+name: Blue Bird (feat. Maika Loubté)(Shin Sakiura)    https://open.spotify.com/track/6KJW2wfW3iKbOinXZTbf3v
+name: Call My Name(Bullet Train)    https://open.spotify.com/track/6GkT8PTDQgeHGOWHyOYrSb
+name: Summer of Love (Shawn Mendes & Tainy)(Shawn Mendes)    https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6
+name: TURN IT UP - feat. Candee & ZOT on the WAVE(LANA)    https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: The Planet(BTS)    https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+name: WA DA DA(Kep1er)    https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq
+name: The Hard Way(PNAU)    https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8
+name: Classic(MKTO)    https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg
+name: FINE LINE (feat. Skaai) (Prod. uin)(SIRUP)    https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY
+name: Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)(Jon Batiste)    https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+name: SCORPION(Reol)    https://open.spotify.com/track/1pZmdVqhzMuEV0quFA0q01
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+------------------<score>-----------------------
+TURN IT UP - feat. Candee & ZOT on the WAVE  https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo
+Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)  https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf
+Angel (From Barbie The Album)  https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+The Planet  https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+score: 4

@@ -1,0 +1,45 @@
+2023年07月03日 13:06:24
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+Makuhari (Bonbero)
+{"danceability": 0.715, "energy": 0.759, "key": 8, "loudness": -5.135, "mode": 1, "speechiness": 0.284, "acousticness": 0.0396, "instrumentalness": 3.45e-05, "liveness": 0.0992, "valence": 0.49, "tempo": 148.107, "type": "audio_features", "id": "6AaePXUruO3297PugyiDwT", "uri": "spotify:track:6AaePXUruO3297PugyiDwT", "track_href": "https://api.spotify.com/v1/tracks/6AaePXUruO3297PugyiDwT", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6AaePXUruO3297PugyiDwT", "duration_ms": 250951, "time_signature": 4}
+Super (SEVENTEEN)
+{"danceability": 0.771, "energy": 0.88, "key": 8, "loudness": -4.091, "mode": 1, "speechiness": 0.0857, "acousticness": 0.162, "instrumentalness": 1.41e-06, "liveness": 0.167, "valence": 0.347, "tempo": 137.018, "type": "audio_features", "id": "3AOf6YEpxQ894FmrwI9k96", "uri": "spotify:track:3AOf6YEpxQ894FmrwI9k96", "track_href": "https://api.spotify.com/v1/tracks/3AOf6YEpxQ894FmrwI9k96", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3AOf6YEpxQ894FmrwI9k96", "duration_ms": 200387, "time_signature": 4}
+Like Crazy (English Version) (Jimin)
+{"danceability": 0.623, "energy": 0.755, "key": 7, "loudness": -5.386, "mode": 1, "speechiness": 0.0415, "acousticness": 0.00306, "instrumentalness": 0, "liveness": 0.387, "valence": 0.32, "tempo": 119.957, "type": "audio_features", "id": "0u8rZGtXJrLtiSe34FPjGG", "uri": "spotify:track:0u8rZGtXJrLtiSe34FPjGG", "track_href": "https://api.spotify.com/v1/tracks/0u8rZGtXJrLtiSe34FPjGG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0u8rZGtXJrLtiSe34FPjGG", "duration_ms": 212254, "time_signature": 4}
+Yume wa Sametemo (TOMOO)
+{"danceability": 0.709, "energy": 0.753, "key": 8, "loudness": -6.304, "mode": 1, "speechiness": 0.0408, "acousticness": 0.0654, "instrumentalness": 3.25e-05, "liveness": 0.0924, "valence": 0.83, "tempo": 134.044, "type": "audio_features", "id": "2rqgyouAVrWeRjGvFKnqLm", "uri": "spotify:track:2rqgyouAVrWeRjGvFKnqLm", "track_href": "https://api.spotify.com/v1/tracks/2rqgyouAVrWeRjGvFKnqLm", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rqgyouAVrWeRjGvFKnqLm", "duration_ms": 221773, "time_signature": 4}
+ANTIFRAGILE (LE SSERAFIM)
+{"danceability": 0.882, "energy": 0.797, "key": 10, "loudness": -3.299, "mode": 0, "speechiness": 0.0819, "acousticness": 0.0821, "instrumentalness": 0, "liveness": 0.113, "valence": 0.824, "tempo": 105.025, "type": "audio_features", "id": "4fsQ0K37TOXa3hEQfjEic1", "uri": "spotify:track:4fsQ0K37TOXa3hEQfjEic1", "track_href": "https://api.spotify.com/v1/tracks/4fsQ0K37TOXa3hEQfjEic1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fsQ0K37TOXa3hEQfjEic1", "duration_ms": 184444, "time_signature": 4}
+I Ain't Worried (OneRepublic)
+{"danceability": 0.704, "energy": 0.797, "key": 0, "loudness": -5.927, "mode": 1, "speechiness": 0.0475, "acousticness": 0.0826, "instrumentalness": 0.000745, "liveness": 0.0546, "valence": 0.825, "tempo": 139.994, "type": "audio_features", "id": "4h9wh7iOZ0GGn8QVp4RAOB", "uri": "spotify:track:4h9wh7iOZ0GGn8QVp4RAOB", "track_href": "https://api.spotify.com/v1/tracks/4h9wh7iOZ0GGn8QVp4RAOB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4h9wh7iOZ0GGn8QVp4RAOB", "duration_ms": 148486, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": 0.18, "energy": 0.05, "speechiness": 0.103, "acousticness": -0.065, "liveness": -0.098, "valence": 0.007, "tempo": 0.007}
+--------------<recommend songs>-----------------
+
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: Summer of Love (Shawn Mendes & Tainy)(Shawn Mendes)    https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: TOMBOY((G)I-DLE)    https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm
+name: エジソン(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS
+name: Edison(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE
+name: Pacific Line(Kidella)    https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM
+name: Balloon(SKRYU)    https://open.spotify.com/track/2rNmK2rpNgIVGsc93SF7ov
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: バースデイ(Tele)    https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE
+name: 蝉ダンスフロア(Maharajan)    https://open.spotify.com/track/2o7cOj0V9YziUyLR8F1qpV
+name: TURN IT UP - feat. Candee & ZOT on the WAVE(LANA)    https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo
+name: Pacific Line(Kidella)    https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi
+name: The Planet(BTS)    https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+name: Loser(Shota Shimizu)    https://open.spotify.com/track/54GQKIuGKQ8SDh3qCfFhyU
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: Dynamite(BTS)    https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+name: OTONABLUE(ATARASHII GAKKO!)    https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV
+name: 辻(Lucky Kilimanjaro)    https://open.spotify.com/track/5ip9EK6iTSIdhRSHTRcCPr
+------------------<score>-----------------------
+TURN IT UP - feat. Candee & ZOT on the WAVE  https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo
+Hare Hare  https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+OTONABLUE  https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV
+The Planet  https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+Dynamite  https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+score: 5

@@ -1,0 +1,32 @@
+2023年07月03日 13:13:45
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.117, "energy": 0.045, "speechiness": 0.138, "acousticness": -0.005, "liveness": -0.019, "valence": 0.042, "tempo": -0.088}
+--------------<recommend songs>-----------------
+
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: The Planet(BTS)    https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: いちごミルク(Tomggg)    https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO
+name: Call My Name(Bullet Train)    https://open.spotify.com/track/6GkT8PTDQgeHGOWHyOYrSb
+name: Classic(MKTO)    https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+name: Pacific Line(Kidella)    https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM
+name: バースデイ(Tele)    https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+name: 辻(Lucky Kilimanjaro)    https://open.spotify.com/track/5ip9EK6iTSIdhRSHTRcCPr
+name: Sugar Rush Ride - Japanese Ver.(TOMORROW X TOGETHER)    https://open.spotify.com/track/7hQwG47K0xxgxdJN1aXRGu
+name: Pacific Line(Kidella)    https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi
+name: Dynamite(BTS)    https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+name: LA・LA・LA LOVE SONG(ayaka)    https://open.spotify.com/track/1UzG2NHHXIlNbS3sCWUA9u
+name: WA DA DA(Kep1er)    https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq
+name: JET(POLKADOT STINGRAY)    https://open.spotify.com/track/3iqOLTGhIJOxV1P0W6Exmr
+------------------<score>-----------------------
+Hare Hare  https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+Angel (From Barbie The Album)  https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+The Planet  https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+Dynamite  https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+score: 4

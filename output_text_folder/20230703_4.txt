@@ -1,0 +1,30 @@
+2023年07月03日 13:14:05
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.218, "energy": -0.036, "speechiness": 0.018, "acousticness": 0.175, "liveness": -0.2, "valence": 0.037, "tempo": -0.056}
+--------------<recommend songs>-----------------
+
+name: OMG(NewJeans)    https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE
+name: 空とぶ東京(CHO CO PA CO CHO CO QUIN QUIN)    https://open.spotify.com/track/54iqv0TgZtmR0ChN7MWjXv
+name: Rain Of Your Heart(Yogee New Waves)    https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: It's all about you(Ovall)    https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr
+name: 群青(YOASOBI)    https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk
+name: _WORLD(SEVENTEEN)    https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC
+name: ピクトグラム(dramastore)    https://open.spotify.com/track/3H9uf3sWoygzTXiU5sdn6a
+name: KIMINOMAMA(MUKADE)    https://open.spotify.com/track/69lJz2fXXptw0YU5hF3L47
+name: 君のまま(百足)    https://open.spotify.com/track/78NUnAsLzE6azxvuPDy9M7
+name: Heart Beat(JiROMAN)    https://open.spotify.com/track/3W9yDLtPIE2PiHavoUyFIh
+name: Feel Good Too(Jason Mraz)    https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg
+name: かいじゅうのマーチ(Kenshi Yonezu)    https://open.spotify.com/track/6yv4uty2hl96Wu0RFoYsxO
+name: コインランドリー(Kyanai)    https://open.spotify.com/track/4RvJFc81XNZkQWHefs66FD
+name: Kiss Me More (feat. SZA)(Doja Cat)    https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+name: Perfume(NCT DOJAEJUNG)    https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD
+name: Fly-day Chinatown(泰葉)    https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn
+name: Peso Pluma: Bzrp Music Sessions, Vol. 55(Bizarrap)    https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV
+------------------<score>-----------------------
+OMG  https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE
+Angel (From Barbie The Album)  https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+score: 2

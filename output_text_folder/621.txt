@@ -1,0 +1,57 @@
+2023年06月25日 17:17:05
+remake.py
+アルペジオ ([Alexandros])
+{"danceability": 0.51, "energy": 0.925, "key": 1, "loudness": -3.687, "mode": 1, "speechiness": 0.0585, "acousticness": 0.00269, "instrumentalness": 0.0126, "liveness": 0.31, "valence": 0.495, "tempo": 107.982, "type": "audio_features", "id": "1RI9DeYuc16mTzr94zGjfC", "uri": "spotify:track:1RI9DeYuc16mTzr94zGjfC", "track_href": "https://api.spotify.com/v1/tracks/1RI9DeYuc16mTzr94zGjfC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1RI9DeYuc16mTzr94zGjfC", "duration_ms": 231253, "time_signature": 4}
+桜恋 (もさを。)
+{"danceability": 0.525, "energy": 0.435, "key": 5, "loudness": -6.093, "mode": 1, "speechiness": 0.0274, "acousticness": 0.646, "instrumentalness": 0, "liveness": 0.0988, "valence": 0.489, "tempo": 151.828, "type": "audio_features", "id": "2XrFQdiYSSxHXpK7lawqvp", "uri": "spotify:track:2XrFQdiYSSxHXpK7lawqvp", "track_href": "https://api.spotify.com/v1/tracks/2XrFQdiYSSxHXpK7lawqvp", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2XrFQdiYSSxHXpK7lawqvp", "duration_ms": 246840, "time_signature": 4}
+せっかちなかたつむり (Nogizaka46)
+{"danceability": 0.572, "energy": 0.829, "key": 9, "loudness": -3.895, "mode": 1, "speechiness": 0.0371, "acousticness": 0.162, "instrumentalness": 0, "liveness": 0.117, "valence": 0.89, "tempo": 179.996, "type": "audio_features", "id": "6ZXDTVm8ed26O3QZlQeiii", "uri": "spotify:track:6ZXDTVm8ed26O3QZlQeiii", "track_href": "https://api.spotify.com/v1/tracks/6ZXDTVm8ed26O3QZlQeiii", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ZXDTVm8ed26O3QZlQeiii", "duration_ms": 306987, "time_signature": 4}
+カメレオン (King Gnu)
+{"danceability": 0.628, "energy": 0.533, "key": 0, "loudness": -7.235, "mode": 1, "speechiness": 0.0417, "acousticness": 0.643, "instrumentalness": 0, "liveness": 0.0733, "valence": 0.459, "tempo": 79.953, "type": "audio_features", "id": "0J0P8iSE6l3pYHbUdNFYdS", "uri": "spotify:track:0J0P8iSE6l3pYHbUdNFYdS", "track_href": "https://api.spotify.com/v1/tracks/0J0P8iSE6l3pYHbUdNFYdS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0J0P8iSE6l3pYHbUdNFYdS", "duration_ms": 193990, "time_signature": 4}
+ワタリドリ ([Alexandros])
+{"danceability": 0.508, "energy": 0.964, "key": 9, "loudness": -4.077, "mode": 1, "speechiness": 0.0831, "acousticness": 0.00141, "instrumentalness": 0, "liveness": 0.197, "valence": 0.609, "tempo": 134.982, "type": "audio_features", "id": "0ve9Tpz8Yw0I4eXhWsy21o", "uri": "spotify:track:0ve9Tpz8Yw0I4eXhWsy21o", "track_href": "https://api.spotify.com/v1/tracks/0ve9Tpz8Yw0I4eXhWsy21o", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ve9Tpz8Yw0I4eXhWsy21o", "duration_ms": 248707, "time_signature": 4}
+水平線 (back number)
+{"danceability": 0.419, "energy": 0.75, "key": 10, "loudness": -3.546, "mode": 1, "speechiness": 0.0316, "acousticness": 0.011, "instrumentalness": 0, "liveness": 0.159, "valence": 0.436, "tempo": 145.867, "type": "audio_features", "id": "5m1i6hq7dmRlp3c1utE48L", "uri": "spotify:track:5m1i6hq7dmRlp3c1utE48L", "track_href": "https://api.spotify.com/v1/tracks/5m1i6hq7dmRlp3c1utE48L", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5m1i6hq7dmRlp3c1utE48L", "duration_ms": 285396, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": -0.079, "energy": -0.034, "speechiness": -0.09, "acousticness": 0.128, "liveness": -0.083, "valence": -0.041, "tempo": 0.033}
+--------------<recommend songs>-----------------
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+令和ポップス  https://open.spotify.com/playlist/37i9dQZF1DXdurasRmJgpJ
+J-Rock Now  https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp
+Anime Now  https://open.spotify.com/playlist/37i9dQZF1DWT8aqnwgRt92
+恋するプレイリスト  https://open.spotify.com/playlist/37i9dQZF1DX328xs24cFGI
+元気Booster  https://open.spotify.com/playlist/37i9dQZF1DX6UkADhBpEnE
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+都会の空と音楽と  https://open.spotify.com/playlist/37i9dQZF1DWTbkKlc06FmH
+夕方ジェネレーション  https://open.spotify.com/playlist/37i9dQZF1DXdxPR0maUKqu
+Summer Time - 夏のサウンドトラック  https://open.spotify.com/playlist/37i9dQZF1DWSUbEozh68df
+好きな曲  https://open.spotify.com/playlist/5zZiBa5WGwGR8eJmLZD84K
+プレイリスト#2  https://open.spotify.com/playlist/0r8thBud6xIfXJyLJ13wt4
+On Replay -メガヒット・リプレイ-  https://open.spotify.com/playlist/37i9dQZF1DX6rGPDxQsF1V
+Tokyo Rising  https://open.spotify.com/playlist/37i9dQZF1DWX9u2doQ8Q2L
+夜に聴きたいエモいプレイリスト  https://open.spotify.com/playlist/3zVxuAgsZxzVqlyudSeeyb
+仕事前にやる気をチャージするプレイリスト  https://open.spotify.com/playlist/6mQWtWOKvj3bqlcXdHVa9r
+Punk Japan  https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz
+Edge!  https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j
+好きな曲  https://open.spotify.com/playlist/0l2FWZwRjehOZy8WdrBtL6
+2023！流行りの曲  https://open.spotify.com/playlist/4BT9keed8kbSD6MeW0L20y
+
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+name: Stay Alive (Prod. SUGA of BTS)(Jung Kook)    https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep
+name: Michi-tono-Sogu(LAUSBUB)    https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13
+name: ラッキー(Hitsujibungaku)    https://open.spotify.com/track/5hNHGRXOhyHlUjk2WYHvBm
+name: 1999(Hitsujibungaku)    https://open.spotify.com/track/2PnEC9i1XzXPQ9pgXDrDoC
+name: Yui(Saucy Dog)    https://open.spotify.com/track/3f8WNy5rgXq7J74qjExRkb
+name: 結(Saucy Dog)    https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd
+name: ときめきpart1(SPITZ)    https://open.spotify.com/track/5lGNDmdvtbvwaXLkalxA9r
+name: High(The Chainsmokers)    https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL
+name: メフィスト(QUEEN BEE)    https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG
+name: Shinunoga E-Wa(Fujii Kaze)    https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW
+name: スパイダー(SPITZ)    https://open.spotify.com/track/42QYe0dWubzpMtEkmjM9l1
+name: SISTER(back number)    https://open.spotify.com/track/1ZmiUiQn7Q2qEKLlIznoXZ
+name: カシスオレンジ(Laughing Hick)    https://open.spotify.com/track/78cNVXTGe2OGnno2dLzhzr
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+name: 月曜日の憂鬱(Amatsuki)    https://open.spotify.com/track/0fsPqL15FO6l5zuf7h19LX
+name: さくらぼっち(COALAMODE.)    https://open.spotify.com/track/5hhFy54NMlpNyTE8Tb7L4Q
+name: Cantabile(Novelbright)    https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58
+name: Actually...(Nogizaka46)    https://open.spotify.com/track/4pfJEUjNi65LLQcEBHaWAz
+name: サンキュー神様(SUDA MASAKI)    https://open.spotify.com/track/6gNPjYLH4K4m81vE0gotPk
