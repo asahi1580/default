@@ -1,0 +1,21 @@
+2023年08月30日 11:39:22
+remake.py
+春夏秋冬 (Hilcrhyme)
+{"danceability": 0.501, "energy": 0.783, "key": 7, "loudness": -4.607, "mode": 1, "speechiness": 0.0684, "acousticness": 0.66, "instrumentalness": 0, "liveness": 0.206, "valence": 0.458, "tempo": 139.887, "type": "audio_features", "id": "6WYirtXQjDJpCQkv4XTBxY", "uri": "spotify:track:6WYirtXQjDJpCQkv4XTBxY", "track_href": "https://api.spotify.com/v1/tracks/6WYirtXQjDJpCQkv4XTBxY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6WYirtXQjDJpCQkv4XTBxY", "duration_ms": 297640, "time_signature": 4}
+Lovers Again (EXILE)
+{"danceability": 0.649, "energy": 0.842, "key": 8, "loudness": -4.599, "mode": 0, "speechiness": 0.0622, "acousticness": 0.577, "instrumentalness": 0, "liveness": 0.116, "valence": 0.653, "tempo": 91.983, "type": "audio_features", "id": "4wLQr28uORriOx5rNM8by7", "uri": "spotify:track:4wLQr28uORriOx5rNM8by7", "track_href": "https://api.spotify.com/v1/tracks/4wLQr28uORriOx5rNM8by7", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4wLQr28uORriOx5rNM8by7", "duration_ms": 277367, "time_signature": 4}
+Bi-Li-Li Emotion (Superfly)
+{"danceability": 0.491, "energy": 0.966, "key": 1, "loudness": -1.934, "mode": 1, "speechiness": 0.0754, "acousticness": 0.0242, "instrumentalness": 3.63e-06, "liveness": 0.0903, "valence": 0.738, "tempo": 157.963, "type": "audio_features", "id": "6kcPHT9gzdayCzTn4l4z9P", "uri": "spotify:track:6kcPHT9gzdayCzTn4l4z9P", "track_href": "https://api.spotify.com/v1/tracks/6kcPHT9gzdayCzTn4l4z9P", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6kcPHT9gzdayCzTn4l4z9P", "duration_ms": 285587, "time_signature": 4}
+ただ声一つ (ロクデナシ)
+{"danceability": 0.707, "energy": 0.5, "key": 1, "loudness": -5.78, "mode": 1, "speechiness": 0.0296, "acousticness": 0.895, "instrumentalness": 4e-05, "liveness": 0.234, "valence": 0.583, "tempo": 129.97, "type": "audio_features", "id": "2e1gUS6Wv8GS8ZT6FMeE1J", "uri": "spotify:track:2e1gUS6Wv8GS8ZT6FMeE1J", "track_href": "https://api.spotify.com/v1/tracks/2e1gUS6Wv8GS8ZT6FMeE1J", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2e1gUS6Wv8GS8ZT6FMeE1J", "duration_ms": 161561, "time_signature": 4}
+Cupid - Twin Ver. (FIFTY FIFTY)
+{"danceability": 0.783, "energy": 0.592, "key": 11, "loudness": -8.332, "mode": 0, "speechiness": 0.0331, "acousticness": 0.435, "instrumentalness": 4.15e-06, "liveness": 0.347, "valence": 0.726, "tempo": 120.018, "type": "audio_features", "id": "7FbrGaHYVDmfr7KoLIZnQ7", "uri": "spotify:track:7FbrGaHYVDmfr7KoLIZnQ7", "track_href": "https://api.spotify.com/v1/tracks/7FbrGaHYVDmfr7KoLIZnQ7", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7FbrGaHYVDmfr7KoLIZnQ7", "duration_ms": 174253, "time_signature": 4}
+スターマイン (Da-iCE)
+{"danceability": 0.725, "energy": 0.895, "key": 6, "loudness": -3.554, "mode": 1, "speechiness": 0.183, "acousticness": 0.295, "instrumentalness": 0, "liveness": 0.0665, "valence": 0.746, "tempo": 131.986, "type": "audio_features", "id": "0akvgdebTkERlRqNKJZuFy", "uri": "spotify:track:0akvgdebTkERlRqNKJZuFy", "track_href": "https://api.spotify.com/v1/tracks/0akvgdebTkERlRqNKJZuFy", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0akvgdebTkERlRqNKJZuFy", "duration_ms": 227662, "time_signature": 4}
+正規化後のパラメータの平均{"danceability": 0.066, "energy": 0.005, "speechiness": 0.02, "acousticness": 0.394, "liveness": -0.048, "valence": 0.056, "tempo": -0.013}
+--------------<recommend songs>-----------------
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+令和ポップス  https://open.spotify.com/playlist/37i9dQZF1DXdurasRmJgpJ
+J-Rock Now  https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp
+Anime Now  https://open.spotify.com/playlist/37i9dQZF1DWT8aqnwgRt92
+恋するプレイリスト  https://open.spotify.com/playlist/37i9dQZF1DX328xs24cFGI

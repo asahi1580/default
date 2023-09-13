@@ -1,0 +1,29 @@
+2023年07月04日 11:12:26
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.166, "energy": 0.068, "speechiness": -0.054, "acousticness": -0.015, "liveness": -0.123, "valence": 0.039, "tempo": -0.018}
+--------------<recommend songs>-----------------
+
+name: 蝉ダンスフロア(Maharajan)    https://open.spotify.com/track/2o7cOj0V9YziUyLR8F1qpV
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Loser(Shota Shimizu)    https://open.spotify.com/track/54GQKIuGKQ8SDh3qCfFhyU
+name: ばらの花 × ネイティブダンサー(yui (FLOWER FLOWER) × ミゾベリョウ (odol))    https://open.spotify.com/track/48TPAQGjRuGzARTHAaiWkD
+name: 辻(Lucky Kilimanjaro)    https://open.spotify.com/track/5ip9EK6iTSIdhRSHTRcCPr
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: damn(Fujii Kaze)    https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy
+name: Hirune no Kuni(chilldspot)    https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG
+name: クロノスタシス(BUMP OF CHICKEN)    https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp
+name: Motion(Ty Dolla $ign)    https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh
+name: Leave Before You Love Me (with Jonas Brothers)(Marshmello)    https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1
+name: ピクトグラム(dramastore)    https://open.spotify.com/track/3H9uf3sWoygzTXiU5sdn6a
+name: You for Me(Sigala)    https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp
+name: Moshimo(Kaneyorimasaru)    https://open.spotify.com/track/3uZzMt1nqThXn5K16a6R8N
+name: 青春なんていらないわ(Sangatsu no Phantasia)    https://open.spotify.com/track/11ezEAvMZ4whN1ycoJsorS
+name: LA・LA・LA LOVE SONG(ayaka)    https://open.spotify.com/track/1UzG2NHHXIlNbS3sCWUA9u
+name: PING PONG! (feat. YMCK)(CHAI)    https://open.spotify.com/track/3J7aROvcIXinMbZd2LzL3B
+name: スパイダー(SPITZ)    https://open.spotify.com/track/42QYe0dWubzpMtEkmjM9l1
+name: 甘い記憶(the shes gone)    https://open.spotify.com/track/1on9AvcasLbviJdJLysfGt
+------------------<score>-----------------------
+Hare Hare  https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+score: 1

@@ -1,0 +1,30 @@
+2023年07月04日 11:13:05
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.199, "energy": -0.047, "speechiness": -0.055, "acousticness": 0.193, "liveness": -0.091, "valence": 0.04, "tempo": -0.159}
+--------------<recommend songs>-----------------
+
+name: 空とぶ東京(CHO CO PA CO CHO CO QUIN QUIN)    https://open.spotify.com/track/54iqv0TgZtmR0ChN7MWjXv
+name: Too Bad Day But... - Remix(Kvi Baba)    https://open.spotify.com/track/5DiEDM4NkVg05iIlSFyXrM
+name: Perfume(NCT DOJAEJUNG)    https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+name: 数センチメンタル(こはならむ)    https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf
+name: Fly-day Chinatown(泰葉)    https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn
+name: 夜に駆ける (feat. 紫 今)(AFTER HOURS)    https://open.spotify.com/track/5iETzofYOQXudhFmgwsNgI
+name: Kiss Me More (feat. SZA)(Doja Cat)    https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz
+name: OMG(NewJeans)    https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE
+name: 最後のキスなら(はらかなこ)    https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk
+name: セプテンバーさん(八木海莉)    https://open.spotify.com/track/7i4cIvPwJi8mUs5GP0wr3E
+name: 土曜の夜はパラダイス(EPO)    https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe
+name: リンジュー・ラヴ(Macaroni Empitsu)    https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX
+name: Konyawa Boogie Back nice vocal × Suisei(kZm × Chiaki Sato)    https://open.spotify.com/track/3KEwPJAkbXWevCVEjr5dLi
+name: ピクトグラム(dramastore)    https://open.spotify.com/track/3H9uf3sWoygzTXiU5sdn6a
+name: Diamond(VIGORMAN)    https://open.spotify.com/track/5qxBm2Eb3QvOWHJpQKkGVa
+name: _WORLD(SEVENTEEN)    https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC
+name: ロビンソン(SPITZ)    https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws
+name: かいじゅうのマーチ(Kenshi Yonezu)    https://open.spotify.com/track/6yv4uty2hl96Wu0RFoYsxO
+name: asphalt(Lot)    https://open.spotify.com/track/4Zsp5lrpONEvUzY75rIsRK
+------------------<score>-----------------------
+OMG  https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE
+Angel (From Barbie The Album)  https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+score: 2

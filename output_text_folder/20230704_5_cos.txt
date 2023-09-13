@@ -1,0 +1,28 @@
+2023年07月04日 11:17:00
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.17, "energy": 0.031, "speechiness": -0.043, "acousticness": 0.238, "liveness": -0.15, "valence": -0.084, "tempo": -0.122}
+--------------<recommend songs>-----------------
+
+name: Water(Sincere)    https://open.spotify.com/track/4sba5qIowhVDigPPykIP5U
+name: 何年後も(DURDN)    https://open.spotify.com/track/4QzLOmfT6TzxAGAA7oCfCE
+name: 中央フリーウェイ(Miki Imai)    https://open.spotify.com/track/1lMGLaB2VE5lYc52OTnbFy
+name: Wonderland(iri)    https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i
+name: harunosyura feat. SHIOTSUKA MOEKA(STRANGE REITARO)    https://open.spotify.com/track/6E67br9IJncxk8f5R3j3YI
+name: FLOOR IS MINE(Skaai)    https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3
+name: MIND CIRCUS (feat. ひかり)(Tokimeki Records)    https://open.spotify.com/track/3Q1oUYeVsvR3dGAdFN3nTf
+name: THE MOMENT(AI)    https://open.spotify.com/track/2LjUXunDvyWR2YrKGgMWpT
+name: Bye(Peso Pluma)    https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb
+name: SUPER HERO(Lil King)    https://open.spotify.com/track/0yFCR3aduuHyZ9G6m87NZb
+name: Back To Life(Poolside)    https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w
+name: 最後のキスなら(はらかなこ)    https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk
+name: yonaki(BREIMEN)    https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ
+name: BREAK TIME - IDEA ver.(MAY-DOG)    https://open.spotify.com/track/2EuYEBAkLK2jMdhCqORXMR
+name: Sweetie Sweety (feat. JiROMAN & RURU)(BLOOM VASE)    https://open.spotify.com/track/18mTz6iraTSIXIIt74zWN9
+name: DARARI(TREASURE)    https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n
+name: DOCUMENT - 2023(TENDRE)    https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg
+name: ロビンソン(SPITZ)    https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws
+name: One More Last Time(Henry Young)    https://open.spotify.com/track/2EPQXOr3VLvDImQnoHOYO3
+name: 空とぶ東京(CHO CO PA CO CHO CO QUIN QUIN)    https://open.spotify.com/track/54iqv0TgZtmR0ChN7MWjXv
+------------------<score>-----------------------
+score: 0

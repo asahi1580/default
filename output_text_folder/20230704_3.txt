@@ -1,0 +1,30 @@
+2023年07月04日 11:12:45
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.194, "energy": -0.024, "speechiness": 0.016, "acousticness": 0.054, "liveness": -0.13, "valence": 0.132, "tempo": -0.177}
+--------------<recommend songs>-----------------
+
+name: Perfume(NCT DOJAEJUNG)    https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD
+name: アイオライト(Inori Minase)    https://open.spotify.com/track/3aEkoZxIUDLgca5DQaZr5r
+name: ピクトグラム(dramastore)    https://open.spotify.com/track/3H9uf3sWoygzTXiU5sdn6a
+name: Green Green Grass(George Ezra)    https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB
+name: 土曜の夜はパラダイス(EPO)    https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe
+name: merry-go-round(tonun)    https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf
+name: すきにやる(HENTAI SHINSHI CLUB)    https://open.spotify.com/track/1zLe4IUbEVDYa1UudvdT9G
+name: Where we go(DOBERMAN INFINITY)    https://open.spotify.com/track/4kIMVNglunayFE9wWXlK1J
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+name: BREAKTHROUGH(Cosmo's Midnight)    https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M
+name: 蝉ダンスフロア(Maharajan)    https://open.spotify.com/track/2o7cOj0V9YziUyLR8F1qpV
+name: It's all about you(Ovall)    https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr
+name: Kiss Me More (feat. SZA)(Doja Cat)    https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Uzu(iri)    https://open.spotify.com/track/2g1UVAVre7oHc9ebMnRu0k
+name: Dynamite(BTS)    https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+name: Potion (with Dua Lipa & Young Thug)(Calvin Harris)    https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06
+name: AURORA TOKIO(Aile The Shota)    https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4
+name: Potion (with Dua Lipa & Young Thug)(Calvin Harris)    https://open.spotify.com/track/3h8tI65xdfpQyTAy7Grqwa
+name: _WORLD(SEVENTEEN)    https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC
+------------------<score>-----------------------
+Angel (From Barbie The Album)  https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+Green Green Grass  https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB
+score: 2

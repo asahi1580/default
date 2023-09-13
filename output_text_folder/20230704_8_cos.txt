@@ -1,0 +1,29 @@
+2023年07月04日 11:18:00
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.214, "energy": -0.084, "speechiness": 0.001, "acousticness": -0.053, "liveness": -0.165, "valence": -0.013, "tempo": -0.011}
+--------------<recommend songs>-----------------
+
+name: エジソン(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS
+name: Edison(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE
+name: 4EVA (feat. Pharrell Williams)(KAYTRAMINÉ)    https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v
+name: YOU+ME=(竹内アンナ)    https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO
+name: ELEVEN(IVE)    https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr
+name: からっぽ (feat. さらさ)(Shin Sakiura)    https://open.spotify.com/track/7HfAvBz7Vy4nlgqk5n4HbK
+name: Feel Good Too(Jason Mraz)    https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: Numb(Marshmello)    https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL
+name: 「あの娘は誰?」とか言わせたい(KIRINJI)    https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4
+name: We'll be fine - English Version(ReN)    https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q
+name: なんでも言っちゃって(LEX)    https://open.spotify.com/track/1ZGBwdBfy7M5XWGo4XoGlf
+name: YELLOW(Yoh kamiyama)    https://open.spotify.com/track/73wJWOtr5sh2FfJS6XoHnn
+name: Flowers(Miley Cyrus)    https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn
+name: n.o.y.b (feat. Furui Riho)(Shin Sakiura)    https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD
+name: そして僕は途方に暮れる (feat. 黒川沙良)(Tokimeki Records)    https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC
+name: Pre-Romance(eill)    https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I
+name: Work from Home (feat. Ty Dolla $ign)(Fifth Harmony)    https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb
+name: ANTI-HERO(SEKAI NO OWARI)    https://open.spotify.com/track/60O3RVuGCMoWwWuQFySKwX
+name: タイミング ~Timing~(Klang Ruler)    https://open.spotify.com/track/5Y0JbLOPLfWdWTQHJPJtEx
+------------------<score>-----------------------
+n.o.y.b (feat. Furui Riho)  https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD
+score: 1

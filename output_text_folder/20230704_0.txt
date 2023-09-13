@@ -1,0 +1,28 @@
+2023年07月04日 11:11:49
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.1, "energy": -0.011, "speechiness": 0.031, "acousticness": 0.119, "liveness": 0.166, "valence": 0.159, "tempo": -0.293}
+--------------<recommend songs>-----------------
+
+name: sazan(SHO-SENSEI!!)    https://open.spotify.com/track/3wwsQ3mS57glVe69Y5TgAT
+name: W / X / Y(Tani Yuuki)    https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP
+name: W / X / Y(Tani Yuuki)    https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49
+name: トリック・アート(Ryujin Kiyoshi)    https://open.spotify.com/track/466WrVxdpRXkuRDU4vF16l
+name: 雨とカプチーノ(ヨルシカ)    https://open.spotify.com/track/7rX3Gw6nyUuMjiZqe5jyr5
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+name: ホワイトキス(鈴木鈴木)    https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo
+name: B-Side(Khruangbin)    https://open.spotify.com/track/2DccHqTquzubziHAPZRdct
+name: ダンボールの色(MAISONdes)    https://open.spotify.com/track/6wVhOIPXpNDMwzR6vJc775
+name: サマーヌード(Magokoro Brothers)    https://open.spotify.com/track/7eNTFaExmnzkud4vCILtEm
+name: Obsessed (with Charlie Puth & Shenseea)(Calvin Harris)    https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2
+name: レイディ・ブルース(LUCKY TAPES)    https://open.spotify.com/track/6AKoio5a5qRiIK6QvYJJrr
+name: 花瓶(Tele)    https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi
+name: 海のリビング(鈴木鈴木)    https://open.spotify.com/track/0CZB07xMxIGRfCZT93ynFj
+name: All to Myself(ako)    https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g
+name: grace(Fujii Kaze)    https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2
+name: Cheers(MAISONdes)    https://open.spotify.com/track/1BjNUu608nOEvEtMETFnlB
+name: Cheshire(ITZY)    https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha
+name: FLYME(dawgss)    https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN
+name: 夜撫でるメノウ(Ayase)    https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F
+------------------<score>-----------------------
+score: 0

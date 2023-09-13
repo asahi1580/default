@@ -1,0 +1,29 @@
+2023年07月04日 11:18:20
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.163, "energy": -0.062, "speechiness": -0.039, "acousticness": 0.177, "liveness": 0.078, "valence": 0.058, "tempo": -0.063}
+--------------<recommend songs>-----------------
+
+name: Bad example(たかやん)    https://open.spotify.com/track/1ji3cJU0sobtsiNEZRvNVz
+name: Pink Hair(Furui Riho)    https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s
+name: Cupid - Twin Ver.(FIFTY FIFTY)    https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7
+name: 夜に駆ける (feat. 紫 今)(AFTER HOURS)    https://open.spotify.com/track/5iETzofYOQXudhFmgwsNgI
+name: nirvana(dodo)    https://open.spotify.com/track/0fhW9WT8OFwWoJXxaylQfE
+name: 39 Minutes(kiki vivi lily)    https://open.spotify.com/track/0JIjfO9NM6HDv4MsqsPi3W
+name: 39 Minutes(kiki vivi lily)    https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq
+name: 数センチメンタル(こはならむ)    https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf
+name: lonely night(7co)    https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp
+name: ダンスフロア(LAYRUS LOOP)    https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF
+name: bye bye(AYANE)    https://open.spotify.com/track/5o4OTjF8ef2QJpA4v759ng
+name: DRAMA(iri)    https://open.spotify.com/track/6n5LDeiPqFCcAp7RwdkwL9
+name: Say So - Japanese Version(Rainych)    https://open.spotify.com/track/6HibhGOvkFN74gWRTr6w2i
+name: Summum Bonum(落日飛車 Sunset Rollercoaster)    https://open.spotify.com/track/1QYoKJcQyYDlXXrNRJMk6q
+name: 黄昏のBAY CITY(Junko Yagami)    https://open.spotify.com/track/4wUQvovMEkByMvZNCecZ9v
+name: おめかし(Guiba)    https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD
+name: Polaroid Love(ENHYPEN)    https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1
+name: 風を食む(ヨルシカ)    https://open.spotify.com/track/68OYaxreTGmAuD9cAztr2p
+name: アリス(Local Campione)    https://open.spotify.com/track/1zz3SznRrDWIEOzK6QoPpx
+name: Fly-day Chinatown(泰葉)    https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn
+------------------<score>-----------------------
+Cupid - Twin Ver.  https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7
+score: 1

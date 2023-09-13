@@ -1,0 +1,32 @@
+2023年07月04日 11:14:21
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.149, "energy": 0.082, "speechiness": 0.171, "acousticness": 0.001, "liveness": -0.041, "valence": 0.174, "tempo": -0.127}
+--------------<recommend songs>-----------------
+
+name: Classic(MKTO)    https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: いちごミルク(Tomggg)    https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO
+name: Habit(SEKAI NO OWARI)    https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE
+name: バースデイ(Tele)    https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: Sugar Rush Ride - Japanese Ver.(TOMORROW X TOGETHER)    https://open.spotify.com/track/7hQwG47K0xxgxdJN1aXRGu
+name: Pacific Line(Kidella)    https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: Pacific Line(Kidella)    https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi
+name: Dynamite(BTS)    https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: The Planet(BTS)    https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+name: Coast (feat. Anderson .Paak)(Hailee Steinfeld)    https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+name: Sugar Magic(tonun)    https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK
+name: Green Green Grass(George Ezra)    https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB
+name: WA DA DA(Kep1er)    https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq
+name: After LIKE(IVE)    https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG
+name: Samsa(Teniwoha)    https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP
+------------------<score>-----------------------
+Hare Hare  https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+The Planet  https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+After LIKE  https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG
+Green Green Grass  https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB
+score: 4

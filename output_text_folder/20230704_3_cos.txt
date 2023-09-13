@@ -1,0 +1,30 @@
+2023年07月04日 11:16:20
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.181, "energy": 0.008, "speechiness": 0.031, "acousticness": 0.099, "liveness": 0.024, "valence": 0.078, "tempo": -0.178}
+--------------<recommend songs>-----------------
+
+name: いちごミルク(Tomggg)    https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO
+name: Too Bad Day But... - Remix(Kvi Baba)    https://open.spotify.com/track/5DiEDM4NkVg05iIlSFyXrM
+name: Pink Hair(Furui Riho)    https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s
+name: Amber Bare Skin(tonun)    https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1
+name: Where we go(DOBERMAN INFINITY)    https://open.spotify.com/track/4kIMVNglunayFE9wWXlK1J
+name: Fly Girl (feat. Missy Elliott)(FLO)    https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr
+name: Marshmallow(MISAMO)    https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84
+name: YourSong(15MUS)    https://open.spotify.com/track/3a0WnRbyfI5zDyYWw4tkYd
+name: 雨(Kei Ishiguro)    https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD
+name: スクランブルメンタル(ASOBOiSM)    https://open.spotify.com/track/1G5JckF6iOrR6ElpaZpZQi
+name: I Need You(Nissy)    https://open.spotify.com/track/16GmwXr8eice4keZxd1iov
+name: Talk Night(TOSHIKI HAYASHI(%C))    https://open.spotify.com/track/1Ij8y1EWxYdeWml3h22YbH
+name: Cheshire(ITZY)    https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha
+name: 東京cruisin'(tonun)    https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399
+name: ENDLESS(TENDRE)    https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1
+name: Cheers!Cheers!(CHIAKI SATO)    https://open.spotify.com/track/1AQ4UPkGibo0ELl4zvPoZj
+name: Konyawa Boogie Back nice vocal × Suisei(kZm × Chiaki Sato)    https://open.spotify.com/track/3KEwPJAkbXWevCVEjr5dLi
+name: 風を食む(ヨルシカ)    https://open.spotify.com/track/68OYaxreTGmAuD9cAztr2p
+name: DRAMA(iri)    https://open.spotify.com/track/6n5LDeiPqFCcAp7RwdkwL9
+name: bye bye(AYANE)    https://open.spotify.com/track/5o4OTjF8ef2QJpA4v759ng
+------------------<score>-----------------------
+Marshmallow  https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84
+Fly Girl (feat. Missy Elliott)  https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr
+score: 2

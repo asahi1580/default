@@ -1,0 +1,30 @@
+2023年07月04日 11:17:20
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.219, "energy": -0.031, "speechiness": 0.065, "acousticness": -0.007, "liveness": -0.084, "valence": 0.192, "tempo": -0.072}
+--------------<recommend songs>-----------------
+
+name: ANTIFRAGILE(LE SSERAFIM)    https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1
+name: Talkin' Talkin'(Awesome City Club)    https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta
+name: Sugar Magic(tonun)    https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK
+name: NIGHT DANCER(imase)    https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro
+name: Don't like summer(C.O.S.A.)    https://open.spotify.com/track/7uSk16r78Ejl0f7ZxqJzdH
+name: NIGHT DANCER(imase)    https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX
+name: OTONABLUE(ATARASHII GAKKO!)    https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV
+name: 線香花火 - feat. 幾田りら(CHIAKI SATO)    https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ
+name: 線香花火 - feat. 幾田りら(CHIAKI SATO)    https://open.spotify.com/track/3R7A7GF0YC3BlYyPoIMiR4
+name: Summer Baby(Jonas Brothers)    https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U
+name: planA(the huckleberries)    https://open.spotify.com/track/3nTKE5rbdcLcsCFc0RCQUB
+name: merry-go-round(tonun)    https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf
+name: WAVEBODY (feat. OZworld & LEX)(JP THE WAVY)    https://open.spotify.com/track/4KDuAbtpteWI4a3flG5gMM
+name: BREAKTHROUGH(Cosmo's Midnight)    https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M
+name: Super Star(Furui Riho)    https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE
+name: 化け猫(キタニタツヤ)    https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9
+name: Like A Seraph(haruno)    https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s
+name: Late summer waves(7co)    https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu
+name: Drink!(DURDN)    https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b
+name: WAVEBODY (Remix) feat. OZworld, LEX & ¥ellow Bucks(JP THE WAVY)    https://open.spotify.com/track/5t9aACNhF1IWKID3rkWPQM
+------------------<score>-----------------------
+ANTIFRAGILE  https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1
+OTONABLUE  https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV
+score: 2

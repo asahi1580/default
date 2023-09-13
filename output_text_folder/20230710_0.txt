@@ -1,0 +1,22 @@
+2023年07月10日 13:39:48
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.224, "energy": 0.019, "speechiness": 0.128, "acousticness": 0.076, "liveness": -0.152, "valence": 0.012, "tempo": -0.036}
+--------------<recommend songs>-----------------
+
+name: Summer of Love (Shawn Mendes & Tainy)(Shawn Mendes)    https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6
+name: n.o.y.b (feat. Furui Riho)(Shin Sakiura)    https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD
+name: COCONUT(NiziU)    https://open.spotify.com/track/1BSnc9wwUe2RecyDJFQne0
+name: COCONUT(NiziU)    https://open.spotify.com/track/3xgxEgp7Cd69RqbkK374Mm
+name: TOMATO(7co)    https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt
+name: lonely night(7co)    https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp
+name: There's Nothing Holdin' Me Back(Shawn Mendes)    https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml
+name: からっぽ (feat. さらさ)(Shin Sakiura)    https://open.spotify.com/track/7HfAvBz7Vy4nlgqk5n4HbK
+name: FINE LINE (feat. Skaai) (Prod. uin)(SIRUP)    https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY
+name: bud(Shin Sakiura)    https://open.spotify.com/track/6G2Y1XUqHlx3FMMML9Eczm
+------------------<score>-----------------------
+COCONUT  https://open.spotify.com/track/1BSnc9wwUe2RecyDJFQne0
+n.o.y.b (feat. Furui Riho)  https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD
+TOMATO  https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt
+There's Nothing Holdin' Me Back  https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml
+score: 4

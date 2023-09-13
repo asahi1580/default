@@ -1,0 +1,29 @@
+2023年07月04日 11:17:40
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.212, "energy": 0.003, "speechiness": 0.019, "acousticness": 0.083, "liveness": -0.058, "valence": 0.23, "tempo": -0.238}
+--------------<recommend songs>-----------------
+
+name: スクランブルメンタル(ASOBOiSM)    https://open.spotify.com/track/1G5JckF6iOrR6ElpaZpZQi
+name: 土曜の夜はパラダイス(EPO)    https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe
+name: Zurukunai?(ぷにぷに電機)    https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH
+name: ラヴ・ソング(PEOPLE 1)    https://open.spotify.com/track/7koIq91PsDK55W71AAVKtO
+name: ANTIFRAGILE(LE SSERAFIM)    https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1
+name: アイオライト(Inori Minase)    https://open.spotify.com/track/3aEkoZxIUDLgca5DQaZr5r
+name: Cheers!Cheers!(CHIAKI SATO)    https://open.spotify.com/track/1AQ4UPkGibo0ELl4zvPoZj
+name: Where we go(DOBERMAN INFINITY)    https://open.spotify.com/track/4kIMVNglunayFE9wWXlK1J
+name: 雨(Kei Ishiguro)    https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD
+name: I Want You Closer(Funkindustry)    https://open.spotify.com/track/3Yx5UHdgCfbrhXB4df3C7q
+name: Summer Situation(STUTS)    https://open.spotify.com/track/7Da7crN49ehmABnxJuo52J
+name: WAVEBODY (feat. OZworld & LEX)(JP THE WAVY)    https://open.spotify.com/track/4KDuAbtpteWI4a3flG5gMM
+name: Bewitched (Are You Leaving Soon)(Naomi Akimoto)    https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy
+name: Ocean Side(Momoko Kikuchi)    https://open.spotify.com/track/6eyiIH5DfjHkqRQMZvdLUV
+name: Light It Up(Banty Foot)    https://open.spotify.com/track/7ixhNFk4xFfiqst5ePi16C
+name: Potion (with Dua Lipa & Young Thug)(Calvin Harris)    https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06
+name: Potion (with Dua Lipa & Young Thug)(Calvin Harris)    https://open.spotify.com/track/3h8tI65xdfpQyTAy7Grqwa
+name: Calm Down (with Selena Gomez)(Rema)    https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8
+name: Samsa(Teniwoha)    https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP
+name: すきにやる(HENTAI SHINSHI CLUB)    https://open.spotify.com/track/1zLe4IUbEVDYa1UudvdT9G
+------------------<score>-----------------------
+ANTIFRAGILE  https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1
+score: 1

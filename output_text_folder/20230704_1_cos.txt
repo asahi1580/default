@@ -1,0 +1,28 @@
+2023年07月04日 11:15:40
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.109, "energy": 0.087, "speechiness": 0.09, "acousticness": 0.016, "liveness": -0.001, "valence": 0.016, "tempo": 0.041}
+--------------<recommend songs>-----------------
+
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: NO WAY(DONGURIZU)    https://open.spotify.com/track/08TD3JtW8nc3NEgxaSBNbL
+name: Balloon(SKRYU)    https://open.spotify.com/track/2rNmK2rpNgIVGsc93SF7ov
+name: WA DA DA(Kep1er)    https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq
+name: 綺羅綺羅(Reol)    https://open.spotify.com/track/1PYf8NPd7Q9xjtfjVCgPw1
+name: Special(Rude-α)    https://open.spotify.com/track/3cTWVE7kXImgujVLP1S2V3
+name: Verbal Justice(ヒプノシスマイク -D.R.B- (中王区 言の葉党))    https://open.spotify.com/track/6H3uKz8oNZcNbzbZmfS0av
+name: スターマイン(Da-iCE)    https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy
+name: GIOTF (feat. JP THE WAVY)(¥ellow Bucks)    https://open.spotify.com/track/11HUvojdq0GOZAHyxKzfZ0
+name: I’m a Controversy(Ado)    https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM
+name: Little Things(Jorja Smith)    https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM
+name: Kick Six 2019(BEK & Moberg)    https://open.spotify.com/track/6r7nsu3WsBgb5W0UwhX7dp
+name: 梅田ナイトフィーバー19' - From THE FIRST TAKE(梅田サイファー)    https://open.spotify.com/track/5g9ie4IcY8P7M00VcWRq9C
+name: Dodonpa(Kyary Pamyu Pamyu)    https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y
+name: Fighting (Feat. Lee Young Ji)(BSS)    https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS
+name: Expressions (feat. Daichi Yamamoto, Campanella, Ryugo Ishida, 北里彰久, SANTAWORLDVIEW, NENE, 仙人掌, 鎮座DOPENESS)(STUTS)    https://open.spotify.com/track/4WaMI9YYcDda2FmhA0qWqp
+name: Nyamboree de Moffy!!(DIALOGUE+)    https://open.spotify.com/track/1NYDPB36pncEVVndu7vbcI
+name: The Hard Way(PNAU)    https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8
+name: なにやってもうまくいかない(meiyo)    https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt
+name: Kimochy(Lucky Kilimanjaro)    https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF
+------------------<score>-----------------------
+score: 0

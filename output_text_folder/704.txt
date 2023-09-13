@@ -1,0 +1,30 @@
+2023年07月04日 10:57:45
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.223, "energy": -0.136, "speechiness": 0.155, "acousticness": 0.016, "liveness": -0.215, "valence": -0.169, "tempo": -0.078}
+--------------<recommend songs>-----------------
+
+name: friends(iri)    https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc
+name: FEARLESS(LE SSERAFIM)    https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj
+name: Mona Lisa (Spider-Man: Across the Spider-Verse)(Dominic Fike)    https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk
+name: ELEVEN(IVE)    https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr
+name: Ditto(NewJeans)    https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W
+name: She Don’t Want - ft. HMLT(Otomodatchi)    https://open.spotify.com/track/0ccMXvrfYJrH8K4EJyIb4N
+name: Pre-Romance(eill)    https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I
+name: 夏の幻(Omoinotake)    https://open.spotify.com/track/146zb0nugZtzyLcuZ2UJYz
+name: 4EVA (feat. Pharrell Williams)(KAYTRAMINÉ)    https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v
+name: Doctor(CHANMINA)    https://open.spotify.com/track/3qz3m46mqtWEaq4XFthhOs
+name: LONGINESS REMIX(SugLawd Familiar)    https://open.spotify.com/track/2ECrDpRYc2dV0xw0abViF8
+name: Feel Good Too(Jason Mraz)    https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg
+name: ダーリン(須田景凪)    https://open.spotify.com/track/1dRZX4cj6zGKKylcAydIG1
+name: ダーリン(須田景凪)    https://open.spotify.com/track/3mkRGh8v7AOH31yQ38SVdt
+name: PARA PARA(CHAI)    https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN
+name: CUFF IT(Beyoncé)    https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS
+name: I Like You (A Happier Song) (with Doja Cat)(Post Malone)    https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj
+name: Every One Minute(MONONKVL)    https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI
+name: YOU+ME=(竹内アンナ)    https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO
+name: Summer of Love (Shawn Mendes & Tainy)(Shawn Mendes)    https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6
+------------------<score>-----------------------
+LONGINESS REMIX  https://open.spotify.com/track/2ECrDpRYc2dV0xw0abViF8
+Ditto  https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W
+score: 2

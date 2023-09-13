@@ -1,3 +1,5 @@
+#cos類似度で比較
+#10times_cos.pyで10回実行
 import pandas as pd
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -45,7 +47,7 @@ with open('default_playlist.txt') as d:
 file = open("output_text_folder/" + sys.argv[1], 'w')
 dt_now = datetime.datetime.now(pytz.timezone('Asia/Tokyo'))
 file.write(dt_now.strftime('%Y年%m月%d日 %H:%M:%S')+'\n')
-file.write('score.py'+'\n')
+file.write('score_cos.py'+'\n')
 file.write(pl_data['name']+'  '+'https://open.spotify.com/playlist/'+pl_data['id']+'\n')
 
 playlist_list = [pdl['p1'],pdl['p2'],pdl['p3'],pdl['p4'],pdl['p5'],pdl['p6'],pdl['p7'],pdl['p8'],pdl['p9'],pdl['p10'],
@@ -55,26 +57,17 @@ playlist_list = [pdl['p1'],pdl['p2'],pdl['p3'],pdl['p4'],pdl['p5'],pdl['p6'],pdl
                 pdl['p41'],pdl['p42'],pdl['p43'],pdl['p44'],pdl['p45'],pdl['p46'],pdl['p47']]
 playlist_id_list = []
 m_list = []
-related_artists_id = []  #似ているアーティストのID  レコメンドされた曲のアーティストがここに含まれていたら、ユークリッド距離をマイナスする
-artists = []
 
 for i in music_id_list:
     result = sp.audio_features(i) #パラメータのデータ
     x = sp.track(i) #曲名やアーティスト名など
     #file.write(x['name']+' ('+x['artists'][0]['name']+')'+'\n')      #曲名の表示
-    artists.append(x['artists'][0]['id'])
     m = result[0]
     #print(m)
     m_list.append(m)
     m_str = json.dumps(m)           #ファイルに書き込むためにdictからstringに変換
-    
-    r = sp.artist_related_artists(x['artists'][0]['id'])
-    for artist in r['artists']:
-        related_artists_id.append(artist['id'])
     #file.write(m_str)               #曲のパラメーターの表示
     #file.write('\n')
-#print(related_artists_id)
-print(artists)
 
 D = 'danceability'
 E = 'energy'
@@ -218,7 +211,7 @@ file.write('正規化後のパラメータの平均'+str_dict+'\n')        #入�
 #平均パラメータとプレイリスト内の曲のユークリッド距離の計算 
 def sim_distance(avg,music):
     music = np.array(music)
-    distance = np.linalg.norm(avg-music)
+    distance = np.dot(avg, music) / (np.linalg.norm(avg) * np.linalg.norm(music))
     return distance
 #print(sim_distance(import_music_average,a))
 
@@ -236,8 +229,8 @@ real_a = []
 real_li = []
 real_v = []
 real_t = []
-music_count = 0
-testcount = 0
+
+musiccount = 0
 file.write('--------------<recommend songs>-----------------\n')
 for a in range(47):
     playlist_data = sp.user_playlist('31ljsv2irs6y7cgnfg737awxg2fe',playlist_list[a])     ##引数１：自分のユーザーID　引数２：プレイリストID
@@ -255,13 +248,8 @@ for a in range(47):
     
     #正規化前のパラメータの取得
     #パラメータの正規化
-    
     for feature in features:
-        i = sp.track(feature['id'])
-        artist_id = i['artists'][0]['id']
-        print(i['artists'][0]['name'])
-        testcount = testcount + 1
-        music_count = music_count + 1
+        musiccount = musiccount + 1
         for e in element_list:
             if(e == D):
                 real_d.append(feature[e])
@@ -292,15 +280,9 @@ for a in range(47):
                 feature[e] = t_normal(feature[e])
                 feature_list.append(feature[e])
         id_yuk[feature['id']] = sim_distance(import_music_average,feature_list)
-        #print(id_yuk[feature['id']])
-        same_artists_result = artist_id in artists
-        if(same_artists_result == True):
-            id_yuk[feature['id']] = id_yuk[feature['id']] - 0.4
-        result = artist_id in related_artists_id
-        if(result == True):
-            id_yuk[feature['id']] = id_yuk[feature['id']] - 0.2
         feature_list.clear()
 file.write('\n')
+#print(musiccount)
 
 real_d_avarege = np.mean(real_d)
 real_e_avarege = np.mean(real_d)
@@ -313,10 +295,10 @@ real_t_avarege = np.mean(real_d)
 recommned_real_params = [real_d_avarege,real_e_avarege,real_s_avarege,real_a_avarege,real_li_avarege,real_v_avarege,real_t_avarege]
 #print('recommned_real_params: ', recommned_real_params)
 
-#ユークリッド距離が近い順に並んだリスト
-sorted_id_yuk = sorted(id_yuk.items(), key = lambda x:x[1])
+#cos類似度が大きい(1に近い)順に並んだリスト
+sorted_id_yuk = sorted(id_yuk.items(), key = lambda x:x[1], reverse=True)
 
-for i in range(10):
+for i in range(20):
     match_list.append(sorted_id_yuk[i][0])
 
 
@@ -341,7 +323,3 @@ for i in idl:
 score = str(score)
 file.write('score: '+score)
 print('score: ',score)
-
-print('music_count: ',music_count)
-
-print('testcount: ',testcount)

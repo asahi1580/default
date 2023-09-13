@@ -1,0 +1,29 @@
+2023年07月04日 11:15:20
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.178, "energy": -0.112, "speechiness": -0.029, "acousticness": -0.011, "liveness": -0.037, "valence": 0.056, "tempo": 0.028}
+--------------<recommend songs>-----------------
+
+name: KAMEHAMEHA - Remix(Carz)    https://open.spotify.com/track/5JlOC3MCRM59MNjePtvnWf
+name: からっぽ (feat. さらさ)(Shin Sakiura)    https://open.spotify.com/track/7HfAvBz7Vy4nlgqk5n4HbK
+name: NIGHT DANCER(imase)    https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro
+name: Friday Night(tonun)    https://open.spotify.com/track/59O01qCMVHWOsyJRHpKPNL
+name: NIGHT DANCER(imase)    https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX
+name: NIGHT DANCER - BIG Naughty Remix(imase)    https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U
+name: MOON NIGHT(I Don't Like Mondays.)    https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5
+name: Peso Pluma: Bzrp Music Sessions, Vol. 55(Bizarrap)    https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV
+name: Cookie(NewJeans)    https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg
+name: どきどきしてる(20th Century)    https://open.spotify.com/track/65cVCZdX6LtCbnsjTIWwmS
+name: Like A Seraph(haruno)    https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s
+name: 春泥棒(ヨルシカ)    https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf
+name: 幸せについて(Chippoke Ohashi)    https://open.spotify.com/track/0xbyMirie6wPMoIKH0RH9V
+name: Here I Stand(TREASURE)    https://open.spotify.com/track/2muMPwLTvz3tnGg5Jz4rjA
+name: We're Good(Dua Lipa)    https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh
+name: Burning Friday Night(Lucky Kilimanjaro)    https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V
+name: 天国にいちばん近い島(Asako Toki)    https://open.spotify.com/track/67wpz675S04tMcORr36Psb
+name: PARA PARA(CHAI)    https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN
+name: Made You Look(Meghan Trainor)    https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u
+name: Rauw Alejandro: Bzrp Music Sessions, Vol. 56(Bizarrap)    https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr
+------------------<score>-----------------------
+Burning Friday Night  https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V
+score: 1

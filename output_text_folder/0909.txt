@@ -1,0 +1,27 @@
+2023年09月09日 14:15:45
+yuk_score.py
+地雷系‪‪❤︎‬個人的お気に入り‪‪❤︎‬  https://open.spotify.com/playlist/6jen6UnBM6QKu5oNOcgTfQ
+Remember Heart (0xanar!)
+{"danceability": 0.838, "energy": 0.497, "key": 8, "loudness": -12.171, "mode": 1, "speechiness": 0.1, "acousticness": 0.335, "instrumentalness": 0.00659, "liveness": 0.103, "valence": 0.567, "tempo": 92.949, "type": "audio_features", "id": "7CIbjpeX9en9WKzJtKCSos", "uri": "spotify:track:7CIbjpeX9en9WKzJtKCSos", "track_href": "https://api.spotify.com/v1/tracks/7CIbjpeX9en9WKzJtKCSos", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CIbjpeX9en9WKzJtKCSos", "duration_ms": 167056, "time_signature": 4}
+アイカ (rerulili)
+{"danceability": 0.542, "energy": 0.933, "key": 11, "loudness": -6.09, "mode": 0, "speechiness": 0.0932, "acousticness": 0.00215, "instrumentalness": 3.02e-05, "liveness": 0.0596, "valence": 0.506, "tempo": 180.08, "type": "audio_features", "id": "2H6Tet0rvynY7En4eZ8fX2", "uri": "spotify:track:2H6Tet0rvynY7En4eZ8fX2", "track_href": "https://api.spotify.com/v1/tracks/2H6Tet0rvynY7En4eZ8fX2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2H6Tet0rvynY7En4eZ8fX2", "duration_ms": 204000, "time_signature": 4}
+えれくとりっく・えんじぇぅ (Yasuo)
+{"danceability": 0.366, "energy": 0.987, "key": 1, "loudness": -2.301, "mode": 0, "speechiness": 0.115, "acousticness": 0.27, "instrumentalness": 0.0129, "liveness": 0.392, "valence": 0.726, "tempo": 150.027, "type": "audio_features", "id": "2NuZgqzYhbvoP2IHpt1W7D", "uri": "spotify:track:2NuZgqzYhbvoP2IHpt1W7D", "track_href": "https://api.spotify.com/v1/tracks/2NuZgqzYhbvoP2IHpt1W7D", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2NuZgqzYhbvoP2IHpt1W7D", "duration_ms": 197167, "time_signature": 4}
+妄想アスパルテーム - feat. picco,初音ミク (ESHIKARA)
+{"danceability": 0.575, "energy": 0.957, "key": 8, "loudness": -3.669, "mode": 1, "speechiness": 0.177, "acousticness": 0.0271, "instrumentalness": 3.76e-06, "liveness": 0.339, "valence": 0.858, "tempo": 170.007, "type": "audio_features", "id": "5dcHPVb27nDK94mEFSSpug", "uri": "spotify:track:5dcHPVb27nDK94mEFSSpug", "track_href": "https://api.spotify.com/v1/tracks/5dcHPVb27nDK94mEFSSpug", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5dcHPVb27nDK94mEFSSpug", "duration_ms": 147000, "time_signature": 4}
+恋愛脳 (Nanawoakari)
+{"danceability": 0.682, "energy": 0.941, "key": 0, "loudness": -3.294, "mode": 1, "speechiness": 0.0371, "acousticness": 0.0289, "instrumentalness": 0.00899, "liveness": 0.25, "valence": 0.922, "tempo": 156.099, "type": "audio_features", "id": "3qcUDGkYYQPvWEvLfpr9FD", "uri": "spotify:track:3qcUDGkYYQPvWEvLfpr9FD", "track_href": "https://api.spotify.com/v1/tracks/3qcUDGkYYQPvWEvLfpr9FD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3qcUDGkYYQPvWEvLfpr9FD", "duration_ms": 189839, "time_signature": 4}
+さよならプリンセス (Kai)
+{"danceability": 0.726, "energy": 0.859, "key": 10, "loudness": -6.964, "mode": 0, "speechiness": 0.0694, "acousticness": 0.166, "instrumentalness": 0, "liveness": 0.138, "valence": 0.886, "tempo": 97.566, "type": "audio_features", "id": "7fiifn5oMDg4krDyAnd9SB", "uri": "spotify:track:7fiifn5oMDg4krDyAnd9SB", "track_href": "https://api.spotify.com/v1/tracks/7fiifn5oMDg4krDyAnd9SB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7fiifn5oMDg4krDyAnd9SB", "duration_ms": 126609, "time_signature": 4}
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+name: キテレツサクレツ(WONDER∞WANDER)    https://open.spotify.com/track/6Fp3w8mGfAnZiibKGG9Lur
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: ドラマツルギー(Eve)    https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: ミチヲユケ(Ryokuoushoku Shakai)    https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv
+name: Shock!(sakanaction)    https://open.spotify.com/track/2PVprWefdSve2wSuzMWq8b
+name: ショック!(sakanaction)    https://open.spotify.com/track/5JptX8WFwejyeb6OuKL7wG
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/4hWI3r78IDOhPXSHd2f0Az
+------------------<score>-----------------------
+score: 0

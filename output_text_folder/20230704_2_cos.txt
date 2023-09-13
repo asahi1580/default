@@ -1,0 +1,28 @@
+2023年07月04日 11:16:00
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.14, "energy": 0.094, "speechiness": -0.019, "acousticness": 0.072, "liveness": 0.083, "valence": -0.082, "tempo": -0.227}
+--------------<recommend songs>-----------------
+
+name: Unreachable love song(Tani Yuuki)    https://open.spotify.com/track/7dthn3tyJkotnxTRih1LMo
+name: ホワイトキス(鈴木鈴木)    https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo
+name: 自由(tofubeats)    https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M
+name: eden(ひかりとだいち love SOIL&"PIMP"SESSIONS)    https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB
+name: Hearth(Sam is Ohm)    https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz
+name: 雫(マルシィ)    https://open.spotify.com/track/3Hz43cK6fefi8QY2LbEnHH
+name: ブレーメン feat. 優里(BAK)    https://open.spotify.com/track/5zUVDALiILv9EvbvZydVXu
+name: Cheshire(ITZY)    https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha
+name: 奇縁ロマンス(Nanawoakari)    https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH
+name: First Love(Matt Cab)    https://open.spotify.com/track/66qxgF2M6rfGGMWjUMUmVZ
+name: Tormenta (feat. Bad Bunny)(Gorillaz)    https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL
+name: 瞳惚れ(Vaundy)    https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z
+name: Last Train(Ink Waruntorn)    https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa
+name: BIJIN(CHANMINA)    https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9
+name: Summer Too Hot(Chris Brown)    https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp
+name: ONGAESHI(VIGORMAN)    https://open.spotify.com/track/3VZ3paolrdVDA639zjuDGh
+name: Easy Breezy(chelmico)    https://open.spotify.com/track/4B0iIMQz88iQiMlRP47fJ1
+name: Kiss My (Uh Oh)(Anne-Marie)    https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp
+name: apart(DURDN)    https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry
+name: Dominoes(Jungle)    https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9
+------------------<score>-----------------------
+score: 0

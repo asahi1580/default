@@ -1,0 +1,5 @@
+2023年07月10日 13:45:49
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.201, "energy": 0.044, "speechiness": 0.15, "acousticness": 0.053, "liveness": -0.137, "valence": 0.009, "tempo": -0.095}
+--------------<recommend songs>-----------------

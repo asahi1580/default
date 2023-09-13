@@ -1,0 +1,30 @@
+2023年07月04日 11:16:40
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.159, "energy": 0.03, "speechiness": 0.006, "acousticness": -0.008, "liveness": -0.102, "valence": 0.059, "tempo": -0.095}
+--------------<recommend songs>-----------------
+
+name: ANTIFRAGILE(LE SSERAFIM)    https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1
+name: ANTI-HERO(SEKAI NO OWARI)    https://open.spotify.com/track/60O3RVuGCMoWwWuQFySKwX
+name: Red Eye (feat. TroyBoi)(Justin Bieber)    https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT
+name: Boom Boom Back(BE:FIRST)    https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB
+name: Numb(Marshmello)    https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL
+name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)(DJ Snake)    https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy
+name: Sittin' On Top Of The World(Burna Boy)    https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf
+name: Where we go(DOBERMAN INFINITY)    https://open.spotify.com/track/4kIMVNglunayFE9wWXlK1J
+name: Best Friend Ever(NCT DREAM)    https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu
+name: Potion (with Dua Lipa & Young Thug)(Calvin Harris)    https://open.spotify.com/track/3h8tI65xdfpQyTAy7Grqwa
+name: Potion (with Dua Lipa & Young Thug)(Calvin Harris)    https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06
+name: 線香花火 - feat. 幾田りら(CHIAKI SATO)    https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ
+name: 線香花火 - feat. 幾田りら(CHIAKI SATO)    https://open.spotify.com/track/3R7A7GF0YC3BlYyPoIMiR4
+name: かつて天才だった俺たちへ(Creepy Nuts)    https://open.spotify.com/track/4qjpey2aljl28C40NmTcgQ
+name: HARD(SHINee)    https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB
+name: Change My Life(THE RAMPAGE from EXILE TRIBE)    https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6
+name: merry-go-round(tonun)    https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf
+name: OTONABLUE(ATARASHII GAKKO!)    https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV
+name: Dynamite(BTS)    https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+name: Side Effects(Becky Hill)    https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp
+------------------<score>-----------------------
+ANTIFRAGILE  https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1
+OTONABLUE  https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV
+score: 2

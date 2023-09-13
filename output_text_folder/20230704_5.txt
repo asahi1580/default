@@ -1,0 +1,29 @@
+2023年07月04日 11:13:24
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.146, "energy": -0.069, "speechiness": 0.133, "acousticness": -0.084, "liveness": 0.005, "valence": -0.03, "tempo": 0.184}
+--------------<recommend songs>-----------------
+
+name: PULL UP(LANA)    https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo
+name: Pale Rain(imase with PUNPEE & Toby Fox)    https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF
+name: Balloon(SKRYU)    https://open.spotify.com/track/2rNmK2rpNgIVGsc93SF7ov
+name: TURN IT UP - feat. Candee & ZOT on the WAVE(LANA)    https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo
+name: Blue Bird (feat. Maika Loubté)(Shin Sakiura)    https://open.spotify.com/track/6KJW2wfW3iKbOinXZTbf3v
+name: NO TIME(VivaOla)    https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: Heart Eyes (feat. $HOR1 WINBOY & VILLSHANA)($HOR1 WINBOY)    https://open.spotify.com/track/5WSpWl2cBCYmdkAoRgbBpo
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+name: メフィスト(QUEEN BEE)    https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG
+name: Shinunoga E-Wa(Fujii Kaze)    https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW
+name: GOLD(PEOPLE 1)    https://open.spotify.com/track/5VTYSiBAkyZ4DCqilSU40y
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: We're Good(Dua Lipa)    https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh
+name: SHOOTING STAR(XG)    https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV
+name: Umbrella(I Don't Like Mondays.)    https://open.spotify.com/track/2MDLGy4BtseAtlT9dg3cyK
+name: Soft(Singer's High)    https://open.spotify.com/track/46kf0DQPAwyhDd23ZM2JEf
+name: エジソン(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS
+name: Edison(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE
+------------------<score>-----------------------
+TURN IT UP - feat. Candee & ZOT on the WAVE  https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo
+score: 1

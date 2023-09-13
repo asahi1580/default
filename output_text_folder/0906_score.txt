@@ -1,0 +1,28 @@
+2023年09月06日 11:59:32
+yuk_score.py
+好きな曲  https://open.spotify.com/playlist/0l2FWZwRjehOZy8WdrBtL6
+Henceforth (Orangestar)
+{"danceability": 0.587, "energy": 0.885, "key": 6, "loudness": -4.181, "mode": 1, "speechiness": 0.0441, "acousticness": 0.329, "instrumentalness": 3.71e-05, "liveness": 0.067, "valence": 0.684, "tempo": 157.999, "type": "audio_features", "id": "4gLC5fds3QR3w7f5TmuNjh", "uri": "spotify:track:4gLC5fds3QR3w7f5TmuNjh", "track_href": "https://api.spotify.com/v1/tracks/4gLC5fds3QR3w7f5TmuNjh", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4gLC5fds3QR3w7f5TmuNjh", "duration_ms": 235823, "time_signature": 4}
+不可幸力 (Vaundy)
+{"danceability": 0.68, "energy": 0.741, "key": 0, "loudness": -6.457, "mode": 1, "speechiness": 0.0369, "acousticness": 0.0197, "instrumentalness": 0, "liveness": 0.0795, "valence": 0.533, "tempo": 94.015, "type": "audio_features", "id": "0SEWYV75oHzTssW1NL1hjo", "uri": "spotify:track:0SEWYV75oHzTssW1NL1hjo", "track_href": "https://api.spotify.com/v1/tracks/0SEWYV75oHzTssW1NL1hjo", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0SEWYV75oHzTssW1NL1hjo", "duration_ms": 199787, "time_signature": 4}
+Hug (空音)
+{"danceability": 0.727, "energy": 0.83, "key": 1, "loudness": -3.129, "mode": 0, "speechiness": 0.164, "acousticness": 0.871, "instrumentalness": 0, "liveness": 0.0907, "valence": 0.839, "tempo": 91.859, "type": "audio_features", "id": "4cHB6U8fasfxq7XD8uNxuK", "uri": "spotify:track:4cHB6U8fasfxq7XD8uNxuK", "track_href": "https://api.spotify.com/v1/tracks/4cHB6U8fasfxq7XD8uNxuK", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4cHB6U8fasfxq7XD8uNxuK", "duration_ms": 184728, "time_signature": 4}
+天体観測 (BUMP OF CHICKEN)
+{"danceability": 0.366, "energy": 0.949, "key": 1, "loudness": -3.552, "mode": 1, "speechiness": 0.11, "acousticness": 0.381, "instrumentalness": 0, "liveness": 0.0902, "valence": 0.467, "tempo": 164.979, "type": "audio_features", "id": "3hRRYgBeunE3PTmnzATTS0", "uri": "spotify:track:3hRRYgBeunE3PTmnzATTS0", "track_href": "https://api.spotify.com/v1/tracks/3hRRYgBeunE3PTmnzATTS0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3hRRYgBeunE3PTmnzATTS0", "duration_ms": 263600, "time_signature": 4}
+DAYBREAK FRONTLINE (MARY)
+{"danceability": 0.628, "energy": 0.928, "key": 0, "loudness": -2.421, "mode": 1, "speechiness": 0.0452, "acousticness": 0.543, "instrumentalness": 6.81e-06, "liveness": 0.152, "valence": 0.545, "tempo": 136.014, "type": "audio_features", "id": "5NJKIFLOLa6Oc9auYeJmtx", "uri": "spotify:track:5NJKIFLOLa6Oc9auYeJmtx", "track_href": "https://api.spotify.com/v1/tracks/5NJKIFLOLa6Oc9auYeJmtx", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5NJKIFLOLa6Oc9auYeJmtx", "duration_ms": 216000, "time_signature": 4}
+Attitude (Mrs. GREEN APPLE)
+{"danceability": 0.655, "energy": 0.792, "key": 2, "loudness": -2.453, "mode": 1, "speechiness": 0.0722, "acousticness": 0.0246, "instrumentalness": 0, "liveness": 0.0805, "valence": 0.793, "tempo": 140.016, "type": "audio_features", "id": "7zbsxhqTb3yDICWuNBCodY", "uri": "spotify:track:7zbsxhqTb3yDICWuNBCodY", "track_href": "https://api.spotify.com/v1/tracks/7zbsxhqTb3yDICWuNBCodY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7zbsxhqTb3yDICWuNBCodY", "duration_ms": 228600, "time_signature": 4}
+name: 帰り道は遠回りしたくなる(Nogizaka46)    https://open.spotify.com/track/4RWJxm0Vn83uE0TIhwnABv
+name: Stay Alive (Prod. SUGA of BTS)(Jung Kook)    https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep
+name: 僕は僕を好きになる(Nogizaka46)    https://open.spotify.com/track/7z6wfRDM09uY5x5HUoqSjV
+name: Party O'Clock(NMIXX)    https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH
+name: _WORLD(SEVENTEEN)    https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC
+name: PRIDE(チョーキューメイ)    https://open.spotify.com/track/6YSiCQPEEEimysown5ad19
+name: きっかけ(Nogizaka46)    https://open.spotify.com/track/0cJ8TAagHiLE5Hir5eTzO0
+name: DAYBREAK FRONTLINE(MARY)    https://open.spotify.com/track/5NJKIFLOLa6Oc9auYeJmtx
+name: ヤングアダルト(Macaroni Empitsu)    https://open.spotify.com/track/3IanNVIcOMlKFr329uhNcA
+name: かいじゅうのマーチ(Kenshi Yonezu)    https://open.spotify.com/track/6yv4uty2hl96Wu0RFoYsxO
+------------------<score>-----------------------
+DAYBREAK FRONTLINE  https://open.spotify.com/track/5NJKIFLOLa6Oc9auYeJmtx
+score: 1

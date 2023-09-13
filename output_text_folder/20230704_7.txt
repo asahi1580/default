@@ -1,0 +1,31 @@
+2023年07月04日 11:14:02
+score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+正規化後のパラメータの平均{"danceability": 0.214, "energy": 0.011, "speechiness": 0.102, "acousticness": 0.056, "liveness": -0.033, "valence": 0.022, "tempo": -0.11}
+--------------<recommend songs>-----------------
+
+name: Baby Boo(Muni Long)    https://open.spotify.com/track/36UY111WEuMBKpF189a6m1
+name: いちごミルク(Tomggg)    https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: Angel (From Barbie The Album)(PinkPantheress)    https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: 愛をやめない(フレンズ)    https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+name: 夜に駆ける (feat. 紫 今)(AFTER HOURS)    https://open.spotify.com/track/5iETzofYOQXudhFmgwsNgI
+name: Where we go(DOBERMAN INFINITY)    https://open.spotify.com/track/4kIMVNglunayFE9wWXlK1J
+name: YOU+ME=(竹内アンナ)    https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO
+name: 蝉ダンスフロア(Maharajan)    https://open.spotify.com/track/2o7cOj0V9YziUyLR8F1qpV
+name: Perfume(NCT DOJAEJUNG)    https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD
+name: HIT MAKER !!!(MUKADE)    https://open.spotify.com/track/7wwrSDeyJcfV5RGvFEnTSn
+name: Call My Name(Bullet Train)    https://open.spotify.com/track/6GkT8PTDQgeHGOWHyOYrSb
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: LA・LA・LA LOVE SONG(ayaka)    https://open.spotify.com/track/1UzG2NHHXIlNbS3sCWUA9u
+name: Dynamite(BTS)    https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+name: Summer of Love (Shawn Mendes & Tainy)(Shawn Mendes)    https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6
+name: ホワイトキス(鈴木鈴木)    https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo
+name: The Planet(BTS)    https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+------------------<score>-----------------------
+Hare Hare  https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+Angel (From Barbie The Album)  https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n
+The Planet  https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg
+score: 3

@@ -1,0 +1,28 @@
+2023年09月04日 11:41:20
+yuk_score.py
+ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
+SHOOTING STAR (XG)
+{"danceability": 0.625, "energy": 0.712, "key": 2, "loudness": -5.996, "mode": 1, "speechiness": 0.0539, "acousticness": 0.0229, "instrumentalness": 0, "liveness": 0.252, "valence": 0.398, "tempo": 163.015, "type": "audio_features", "id": "3IelG5zYpWWCZIH4cqWlPV", "uri": "spotify:track:3IelG5zYpWWCZIH4cqWlPV", "track_href": "https://api.spotify.com/v1/tracks/3IelG5zYpWWCZIH4cqWlPV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3IelG5zYpWWCZIH4cqWlPV", "duration_ms": 203557, "time_signature": 4}
+Cupid - Twin Ver. (FIFTY FIFTY)
+{"danceability": 0.783, "energy": 0.592, "key": 11, "loudness": -8.332, "mode": 0, "speechiness": 0.0331, "acousticness": 0.435, "instrumentalness": 4.15e-06, "liveness": 0.347, "valence": 0.726, "tempo": 120.018, "type": "audio_features", "id": "7FbrGaHYVDmfr7KoLIZnQ7", "uri": "spotify:track:7FbrGaHYVDmfr7KoLIZnQ7", "track_href": "https://api.spotify.com/v1/tracks/7FbrGaHYVDmfr7KoLIZnQ7", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7FbrGaHYVDmfr7KoLIZnQ7", "duration_ms": 174253, "time_signature": 4}
+Bad Bitch Bigaku Remix (Awich)
+{"danceability": 0.757, "energy": 0.839, "key": 1, "loudness": -5.189, "mode": 1, "speechiness": 0.272, "acousticness": 0.0831, "instrumentalness": 1.74e-06, "liveness": 0.636, "valence": 0.59, "tempo": 104.97, "type": "audio_features", "id": "7HBhfTW2zcldEs0qsXuvT2", "uri": "spotify:track:7HBhfTW2zcldEs0qsXuvT2", "track_href": "https://api.spotify.com/v1/tracks/7HBhfTW2zcldEs0qsXuvT2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7HBhfTW2zcldEs0qsXuvT2", "duration_ms": 369112, "time_signature": 4}
+CAKE (ITZY)
+{"danceability": 0.801, "energy": 0.758, "key": 7, "loudness": -4.31, "mode": 1, "speechiness": 0.0445, "acousticness": 0.0663, "instrumentalness": 4.1e-06, "liveness": 0.0431, "valence": 0.576, "tempo": 103.07, "type": "audio_features", "id": "3syxwxJqX5jpgjNYmvzdW6", "uri": "spotify:track:3syxwxJqX5jpgjNYmvzdW6", "track_href": "https://api.spotify.com/v1/tracks/3syxwxJqX5jpgjNYmvzdW6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3syxwxJqX5jpgjNYmvzdW6", "duration_ms": 198887, "time_signature": 4}
+Miss You feat. Vernon of SEVENTEEN ((sic)boy)
+{"danceability": 0.684, "energy": 0.827, "key": 2, "loudness": -4.375, "mode": 1, "speechiness": 0.0396, "acousticness": 0.0279, "instrumentalness": 0, "liveness": 0.139, "valence": 0.621, "tempo": 105.988, "type": "audio_features", "id": "6MrNcToqeejjpYcstmKBHi", "uri": "spotify:track:6MrNcToqeejjpYcstmKBHi", "track_href": "https://api.spotify.com/v1/tracks/6MrNcToqeejjpYcstmKBHi", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6MrNcToqeejjpYcstmKBHi", "duration_ms": 184760, "time_signature": 4}
+Eve, Psyche & The Bluebeard’s wife (LE SSERAFIM)
+{"danceability": 0.663, "energy": 0.872, "key": 11, "loudness": -5.056, "mode": 1, "speechiness": 0.2, "acousticness": 0.0153, "instrumentalness": 0, "liveness": 0.0519, "valence": 0.626, "tempo": 142.951, "type": "audio_features", "id": "4QhnNyKDsAkXPwHkSnuc89", "uri": "spotify:track:4QhnNyKDsAkXPwHkSnuc89", "track_href": "https://api.spotify.com/v1/tracks/4QhnNyKDsAkXPwHkSnuc89", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QhnNyKDsAkXPwHkSnuc89", "duration_ms": 185539, "time_signature": 4}
+name: TGIF(XG)    https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P
+name: ホワイトキス(鈴木鈴木)    https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo
+name: Magic(Mrs. GREEN APPLE)    https://open.spotify.com/track/0csHMdBheTvp9Oay1hM1WF
+name: 夜のピエロ(Ado)    https://open.spotify.com/track/59bPgyrdKgjWkcjxcYoaox
+name: Rivals!(ヒプノシスマイク -D.R.B- (有栖川帝統))    https://open.spotify.com/track/4otyBXYhh2gmvZ8mStOIUn
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: Queencard((G)I-DLE)    https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC
+name: ハピネス オブ ザ デッド(シユイ)    https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ
+name: King of Light(Seraphilight)    https://open.spotify.com/track/6LyqX3djXJ58kCoSqmXLCf
+name: Party O'Clock(NMIXX)    https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH
+------------------<score>-----------------------
+TGIF  https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P
+score: 1
