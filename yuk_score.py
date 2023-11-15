@@ -27,7 +27,7 @@ file.write('yuk_score.py'+'\n')
 
 idl = []  #指定したプレイリストの曲のID
 count = -1
-pl_data = sp.user_playlist('31ljsv2irs6y7cgnfg737awxg2fe','6jen6UnBM6QKu5oNOcgTfQ')     ##引数１：自分のユーザーID　引数２：プレイリストID
+pl_data = sp.user_playlist('31ljsv2irs6y7cgnfg737awxg2fe','7Beiqu1Ua5nmCrLm4fx7oc')     ##引数１：自分のユーザーID　引数２：プレイリストID
 for track in pl_data['tracks']['items']:
         try:
             id = track['track']['id']
@@ -36,9 +36,9 @@ for track in pl_data['tracks']['items']:
             continue
         idl.append(id)
 
-#入力に使う6曲を決めるために、乱数を生成し、music_id_listに入れる
+#入力に使う5曲を決めるために、乱数を生成し、music_id_listに入れる
 music_id_list = []
-for i in range(6):
+for i in range(5):
     n = random.randint(0,count)
     #print(n)
     music_id_list.append(idl[n])
@@ -68,60 +68,88 @@ T = 'tempo'
 element_list = [D,E,S,A,Li,V,T]
 
 #入力曲の正規化前のパラメータの平均
-def real_params(msc1,msc2,msc3,msc4,msc5,msc6):
+def real_params(msc1,msc2,msc3,msc4,msc5):
     for element in element_list:
         if(element == D):
-            dd = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]+msc6[element]) / 6 #正規化前のパラメータの平均
+            dd = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]) / 5 #正規化前のパラメータの平均
         elif(element == E):
-            ee = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]+msc6[element]) / 6 #正規化前のパラメータの平均
+            ee = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]) / 5 #正規化前のパラメータの平均
         elif(element == S):
-            ss = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]+msc6[element]) / 6 #正規化前のパラメータの平均
+            ss = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]) / 5 #正規化前のパラメータの平均
         elif(element == A):
-            aa = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]+msc6[element]) / 6 #正規化前のパラメータの平均
+            aa = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]) / 5 #正規化前のパラメータの平均
         elif(element == Li):
-            ll = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]+msc6[element]) / 6 #正規化前のパラメータの平均
+            ll = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]) / 5 #正規化前のパラメータの平均
         elif(element == V):
-            vv = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]+msc6[element]) / 6 #正規化前のパラメータの平均
+            vv = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]) / 5 #正規化前のパラメータの平均
         elif (element == T):
-            tt = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]+msc6[element]) / 6 #正規化前のパラメータの平均
+            tt = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]) / 5 #正規化前のパラメータの平均
     real = [dd,ee,ss,aa,ll,vv,tt]
     return real
-import_real_params = real_params(m_list[0],m_list[1],m_list[2],m_list[3],m_list[4],m_list[5])   #入力曲の正規化前のパラメータの平均
+import_real_params = real_params(m_list[0],m_list[1],m_list[2],m_list[3],m_list[4])   #入力曲の正規化前のパラメータの平均
 print('import_real_params: ',import_real_params)
 
 #正規化   Mean Normalization
 def d_normal(a):
-    i = (a-0.59)/(0.9-0.1)
+    i = (a-0.33)/(0.89-0.33)
+    if(i > 1):
+        i = 1
+    if(i < 0):
+        i = 0
     return i
 
 def e_normal(a):
-    i = (a-0.76)/(1.0-0.4)
+    i = (a-0.36)/(1.11-0.36)
+    if(i > 1):
+        i = 1
+    if(i < 0):
+        i = 0
     return i
 
 def s_normal(a):
-    i = (a-0.07)/(0.28-0.02)
+    i = (a-0.01)/(0.2-0.01)
+    if(i > 1):
+        i = 1
+    if(i < 0):
+        i = 0
     return i
 
 def a_normal(a):
-    i = (a-0.13)/(0.9-0.01)
+    i = (a-0.01)/(0.68-0.01)
+    if(i > 1):
+        i = 1
+    if(i < 0):
+        i = 0
     return i
 
 def Li_normal(a):
-    i = (a-0.2)/(0.5-0.01)
+    i = (a-0.01)/(0.4-0.01)
+    if(i < 0):
+        i = 0
+    if i > 1:
+        i = 1
     return i
 
 def v_normal(a):
-    i = (a-0.6)/(1-0.1)
+    i = (a-0.17)/(1.02-0.17)
+    if(i > 1):
+        i = 1
+    if(i < 0):
+        i = 0
     return i
 
 def t_normal(a):                 
-    i = (a-130.0)/(180.0-75.0)
+    i = (a-64.23)/(186.6-64.23)
+    if(i > 1):
+        i = 1
+    if(i < 0):
+        i = 0
     return i
 
 avg_dict = {}
 
 #入力曲のパラメータの正規化とそれらの平均を求める
-def make_seikika_element(msc1,msc2,msc3,msc4,msc5,msc6):   
+def make_seikika_element(msc1,msc2,msc3,msc4,msc5):   
     for element in element_list:
         if(element == D):
             msc1[element] = d_normal(msc1[element])
@@ -129,55 +157,47 @@ def make_seikika_element(msc1,msc2,msc3,msc4,msc5,msc6):
             msc3[element] = d_normal(msc3[element])
             msc4[element] = d_normal(msc4[element])
             msc5[element] = d_normal(msc5[element])
-            msc6[element] = d_normal(msc6[element])
         elif(element == E):
             msc1[element] = e_normal(msc1[element])
             msc2[element] = e_normal(msc2[element])
             msc3[element] = e_normal(msc3[element])
             msc4[element] = e_normal(msc4[element])
             msc5[element] = e_normal(msc5[element])
-            msc6[element] = e_normal(msc6[element])
         elif(element == S):
             msc1[element] = s_normal(msc1[element])
             msc2[element] = s_normal(msc2[element])
             msc3[element] = s_normal(msc3[element])
             msc4[element] = s_normal(msc4[element])
             msc5[element] = s_normal(msc5[element])
-            msc6[element] = s_normal(msc6[element])
         elif(element == A):
-            aa = (msc1[element]+msc2[element]+msc3[element]+msc4[element]+msc5[element]+msc6[element]) / 6 #正規化前のパラメータの平均
             msc1[element] = a_normal(msc1[element])
             msc2[element] = a_normal(msc2[element])
             msc3[element] = a_normal(msc3[element])
             msc4[element] = a_normal(msc4[element])
             msc5[element] = a_normal(msc5[element])
-            msc6[element] = a_normal(msc6[element])
         elif(element == Li):
             msc1[element] = Li_normal(msc1[element])
             msc2[element] = Li_normal(msc2[element])
             msc3[element] = Li_normal(msc3[element])
             msc4[element] = Li_normal(msc4[element])
             msc5[element] = Li_normal(msc5[element])
-            msc6[element] = Li_normal(msc6[element])
         elif(element == V):
             msc1[element] = v_normal(msc1[element])
             msc2[element] = v_normal(msc2[element])
             msc3[element] = v_normal(msc3[element])
             msc4[element] = v_normal(msc4[element])
             msc5[element] = v_normal(msc5[element])
-            msc6[element] = v_normal(msc6[element])
         elif (element == T):
             msc1[element] = t_normal(msc1[element])
             msc2[element] = t_normal(msc2[element])
             msc3[element] = t_normal(msc3[element])
             msc4[element] = t_normal(msc4[element])
             msc5[element] = t_normal(msc5[element])
-            msc6[element] = t_normal(msc6[element])
-        element_data = [msc1[element], msc2[element],msc3[element],msc4[element],msc5[element],msc6[element]]
+        element_data = [msc1[element], msc2[element],msc3[element],msc4[element],msc5[element]]
         avg = np.mean(element_data)
         avg = round(avg,3)
         avg_dict[element] = avg #正規化後の平均のリスト
-make_seikika_element(m_list[0],m_list[1],m_list[2],m_list[3],m_list[4],m_list[5])
+make_seikika_element(m_list[0],m_list[1],m_list[2],m_list[3],m_list[4])
 print("avg_dict:", avg_dict)
 #それぞれのパラメータの正規化後の平均
 D_avg = avg_dict[D]
@@ -294,8 +314,8 @@ recommend_average_V = np.mean(recommend_V_list)
 recommend_average_T = np.mean(recommend_T_list)
 
 recommend_music_average = [recommend_average_D,recommend_average_E,recommend_average_S,recommend_average_A,recommend_average_Li,recommend_average_V,recommend_average_T]
+print('recommend_music_average: ',recommend_music_average)
 
-print(recommend_D_list)
 #グラフ生成
 x_1 = [0, 1, 2, 3, 4, 5, 6]            # 系列 1 をプロットするx座標
 x_2 = [0.2, 1.2, 2.2, 3.2, 4.2, 5.2, 6.2]  # 系列 2 をプロットするx座標
@@ -304,7 +324,7 @@ plt.bar(x_2, recommend_music_average, label='recommend',width = -0.2)
 plt.xticks(x_1, element_list)
 plt.grid(True)
 plt.legend()
-plt.show()
+#plt.show()
 
 music_id = '6WYirtXQjDJpCQkv4XTBxY'
 result = sp.audio_features(music_id)

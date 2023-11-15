@@ -1,0 +1,25 @@
+2023年10月02日 13:57:19
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+粉雪 (Remioromen)
+{"danceability": 0.482, "energy": 0.702, "key": 7, "loudness": -4.761, "mode": 1, "speechiness": 0.0256, "acousticness": 0.246, "instrumentalness": 3.31e-05, "liveness": 0.233, "valence": 0.232, "tempo": 82.031, "type": "audio_features", "id": "1Vimcaq6kgTq6xgHSnr4pS", "uri": "spotify:track:1Vimcaq6kgTq6xgHSnr4pS", "track_href": "https://api.spotify.com/v1/tracks/1Vimcaq6kgTq6xgHSnr4pS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Vimcaq6kgTq6xgHSnr4pS", "duration_ms": 325773, "time_signature": 4}
+恋 (back number)
+{"danceability": 0.446, "energy": 0.72, "key": 9, "loudness": -2.9, "mode": 1, "speechiness": 0.0329, "acousticness": 0.103, "instrumentalness": 0, "liveness": 0.307, "valence": 0.524, "tempo": 152.075, "type": "audio_features", "id": "7f9DsQEsIoeTwKxV6shsom", "uri": "spotify:track:7f9DsQEsIoeTwKxV6shsom", "track_href": "https://api.spotify.com/v1/tracks/7f9DsQEsIoeTwKxV6shsom", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7f9DsQEsIoeTwKxV6shsom", "duration_ms": 253307, "time_signature": 4}
+SISTER (back number)
+{"danceability": 0.572, "energy": 0.756, "key": 3, "loudness": -3.155, "mode": 0, "speechiness": 0.0317, "acousticness": 0.0272, "instrumentalness": 0, "liveness": 0.102, "valence": 0.507, "tempo": 133.815, "type": "audio_features", "id": "1ZmiUiQn7Q2qEKLlIznoXZ", "uri": "spotify:track:1ZmiUiQn7Q2qEKLlIznoXZ", "track_href": "https://api.spotify.com/v1/tracks/1ZmiUiQn7Q2qEKLlIznoXZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZmiUiQn7Q2qEKLlIznoXZ", "duration_ms": 246880, "time_signature": 4}
+愛し君へ (GReeeeN)
+{"danceability": 0.499, "energy": 0.823, "key": 9, "loudness": -2.909, "mode": 1, "speechiness": 0.0551, "acousticness": 0.226, "instrumentalness": 0, "liveness": 0.369, "valence": 0.548, "tempo": 158.124, "type": "audio_features", "id": "1JLi1LOHt6dDTiMrwejsd1", "uri": "spotify:track:1JLi1LOHt6dDTiMrwejsd1", "track_href": "https://api.spotify.com/v1/tracks/1JLi1LOHt6dDTiMrwejsd1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1JLi1LOHt6dDTiMrwejsd1", "duration_ms": 257853, "time_signature": 4}
+粉雪 (Remioromen)
+{"danceability": 0.482, "energy": 0.702, "key": 7, "loudness": -4.761, "mode": 1, "speechiness": 0.0256, "acousticness": 0.246, "instrumentalness": 3.31e-05, "liveness": 0.233, "valence": 0.232, "tempo": 82.031, "type": "audio_features", "id": "1Vimcaq6kgTq6xgHSnr4pS", "uri": "spotify:track:1Vimcaq6kgTq6xgHSnr4pS", "track_href": "https://api.spotify.com/v1/tracks/1Vimcaq6kgTq6xgHSnr4pS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Vimcaq6kgTq6xgHSnr4pS", "duration_ms": 325773, "time_signature": 4}
+name: キラーチューン(Tokyo Incidents)    https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS
+name: さすらい(SPITZ)    https://open.spotify.com/track/3BE3yo3u2CcOac7CY1kvIR
+name: Sleeping in Waking(Rina Sawayama)    https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+name: Stay Alive (Prod. SUGA of BTS)(Jung Kook)    https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep
+name: ANGRY ANGRY(HARU NEMURI)    https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR
+name: 夏を抱きしめて(TUBE)    https://open.spotify.com/track/5lKYNdiGaR6n68ALW4SCxU
+name: ダンデライオン(Da-iCE)    https://open.spotify.com/track/5BQ2xOi9ZLwLS79VHYsGzk
+name: MELTDOWN (feat. Drake)(Travis Scott)    https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb
+name: Marigold(Aimyon)    https://open.spotify.com/track/5NqGfELjcdvRIUuhgZJ34W
+------------------<score>-----------------------
+score: 0

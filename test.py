@@ -16,6 +16,8 @@ client_secret = '5329ddcdb1624154bf94c8c230390867'
 client_credentials_manager = spotipy.oauth2.SpotifyClientCredentials(client_id, client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
+
+'''
 pdl = {}
 with open('default_playlist.txt') as d:
     for line in d:
@@ -59,3 +61,6 @@ for a in range(1):
         #print(artist_id)
 #result = sp.track('1TYSgBF0FdqmiddlHsdRSk')
 #print(result['album']['artists'][0]['name'])
+'''
+
+print(sp.audio_features('1gACe11pZiy8Xv3SY0ocyz'))

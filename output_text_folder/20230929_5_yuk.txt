@@ -1,0 +1,27 @@
+2023年09月29日 14:10:44
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+イケナイ太陽 (ORANGE RANGE)
+{"danceability": 0.512, "energy": 0.942, "key": 4, "loudness": -4.336, "mode": 0, "speechiness": 0.0451, "acousticness": 0.000301, "instrumentalness": 1.26e-06, "liveness": 0.133, "valence": 0.833, "tempo": 145.062, "type": "audio_features", "id": "7emibp3qHeqNNYqZ2Y09xb", "uri": "spotify:track:7emibp3qHeqNNYqZ2Y09xb", "track_href": "https://api.spotify.com/v1/tracks/7emibp3qHeqNNYqZ2Y09xb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7emibp3qHeqNNYqZ2Y09xb", "duration_ms": 239187, "time_signature": 4}
+ヒカリアレ (BURNOUT SYNDROMES)
+{"danceability": 0.313, "energy": 0.941, "key": 7, "loudness": -1.741, "mode": 1, "speechiness": 0.133, "acousticness": 0.0112, "instrumentalness": 0, "liveness": 0.363, "valence": 0.35, "tempo": 178.061, "type": "audio_features", "id": "5WLaJoYalaASb9JB7Yk5U6", "uri": "spotify:track:5WLaJoYalaASb9JB7Yk5U6", "track_href": "https://api.spotify.com/v1/tracks/5WLaJoYalaASb9JB7Yk5U6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5WLaJoYalaASb9JB7Yk5U6", "duration_ms": 244787, "time_signature": 4}
+君の神様になりたい (カンザキイオリ)
+{"danceability": 0.473, "energy": 0.888, "key": 5, "loudness": -5.491, "mode": 1, "speechiness": 0.0657, "acousticness": 0.102, "instrumentalness": 0.0539, "liveness": 0.292, "valence": 0.962, "tempo": 190.036, "type": "audio_features", "id": "0SaFvT8yBgA3d7wJsQbvLT", "uri": "spotify:track:0SaFvT8yBgA3d7wJsQbvLT", "track_href": "https://api.spotify.com/v1/tracks/0SaFvT8yBgA3d7wJsQbvLT", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0SaFvT8yBgA3d7wJsQbvLT", "duration_ms": 255533, "time_signature": 4}
+ピースサイン (Kenshi Yonezu)
+{"danceability": 0.593, "energy": 0.935, "key": 10, "loudness": -3.853, "mode": 0, "speechiness": 0.0684, "acousticness": 0.00221, "instrumentalness": 0, "liveness": 0.315, "valence": 0.618, "tempo": 100.003, "type": "audio_features", "id": "364JzOajs76bJymjHm3sVY", "uri": "spotify:track:364JzOajs76bJymjHm3sVY", "track_href": "https://api.spotify.com/v1/tracks/364JzOajs76bJymjHm3sVY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/364JzOajs76bJymjHm3sVY", "duration_ms": 238533, "time_signature": 4}
+DOGLAND (PEOPLE 1)
+{"danceability": 0.599, "energy": 0.899, "key": 4, "loudness": -4.816, "mode": 0, "speechiness": 0.124, "acousticness": 0.00494, "instrumentalness": 0.0026, "liveness": 0.337, "valence": 0.608, "tempo": 139.977, "type": "audio_features", "id": "6CMjaUiyl7WLPop2AoLbn6", "uri": "spotify:track:6CMjaUiyl7WLPop2AoLbn6", "track_href": "https://api.spotify.com/v1/tracks/6CMjaUiyl7WLPop2AoLbn6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6CMjaUiyl7WLPop2AoLbn6", "duration_ms": 175217, "time_signature": 4}
+name: My SunShine(ROCK'A'TRENCH)    https://open.spotify.com/track/5AplfXQJgaj3lsGj1ShWAW
+name: シャルル(Rib)    https://open.spotify.com/track/0TUQE5j6H2GOfhMxw4JMnE
+name: 関白宣言(My Hair is Bad)    https://open.spotify.com/track/2KSlWmvOhZzAz0ByZWeo6C
+name: GO!!! 〜15th Anniversary ver.〜(FLOW)    https://open.spotify.com/track/0MqEHknhIF88dJmcT3AXrI
+name: Believe(Kana Nishino)    https://open.spotify.com/track/523WF9wUHTDD47lNlJZf40
+name: Mixed Nuts(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ
+name: ミックスナッツ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ
+name: I'm a mess(MY FIRST STORY)    https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg
+name: CHAINSAW BLOOD(Vaundy)    https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+name: Anoko Secret(Eve)    https://open.spotify.com/track/7bc1kPQrtVyZ38ysZ3dJxf
+------------------<score>-----------------------
+GO!!! 〜15th Anniversary ver.〜  https://open.spotify.com/track/0MqEHknhIF88dJmcT3AXrI
+CHAINSAW BLOOD  https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+score: 2

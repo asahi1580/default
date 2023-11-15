@@ -1,0 +1,25 @@
+2023年11月10日 11:40:08
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+Shout Baby (Ryokuoushoku Shakai)
+{"danceability": 0.475, "energy": 0.881, "key": 7, "loudness": -1.846, "mode": 1, "speechiness": 0.0407, "acousticness": 0.033, "instrumentalness": 0, "liveness": 0.0513, "valence": 0.582, "tempo": 180.05, "type": "audio_features", "id": "3SNczkrn6bUm6zZM8i5XDe", "uri": "spotify:track:3SNczkrn6bUm6zZM8i5XDe", "track_href": "https://api.spotify.com/v1/tracks/3SNczkrn6bUm6zZM8i5XDe", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3SNczkrn6bUm6zZM8i5XDe", "duration_ms": 265987, "time_signature": 4}
+ピーターパン (Yuuri)
+{"danceability": 0.633, "energy": 0.889, "key": 11, "loudness": -4.285, "mode": 0, "speechiness": 0.0482, "acousticness": 0.0251, "instrumentalness": 0, "liveness": 0.11, "valence": 0.448, "tempo": 111.977, "type": "audio_features", "id": "5MLIlPL6L8RVqL7YSpFdgr", "uri": "spotify:track:5MLIlPL6L8RVqL7YSpFdgr", "track_href": "https://api.spotify.com/v1/tracks/5MLIlPL6L8RVqL7YSpFdgr", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5MLIlPL6L8RVqL7YSpFdgr", "duration_ms": 214213, "time_signature": 4}
+三原色 (YOASOBI)
+{"danceability": 0.443, "energy": 0.893, "key": 5, "loudness": -3.496, "mode": 0, "speechiness": 0.154, "acousticness": 0.128, "instrumentalness": 0, "liveness": 0.328, "valence": 0.826, "tempo": 127.999, "type": "audio_features", "id": "3FUCuf498nFHJXFYR1V9Bd", "uri": "spotify:track:3FUCuf498nFHJXFYR1V9Bd", "track_href": "https://api.spotify.com/v1/tracks/3FUCuf498nFHJXFYR1V9Bd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FUCuf498nFHJXFYR1V9Bd", "duration_ms": 224067, "time_signature": 4}
+Love me, Love you (Mrs. GREEN APPLE)
+{"danceability": 0.762, "energy": 0.943, "key": 0, "loudness": -2.881, "mode": 1, "speechiness": 0.045, "acousticness": 0.0502, "instrumentalness": 0, "liveness": 0.275, "valence": 0.806, "tempo": 129.999, "type": "audio_features", "id": "4MqqZRjZVkheBor570C2yt", "uri": "spotify:track:4MqqZRjZVkheBor570C2yt", "track_href": "https://api.spotify.com/v1/tracks/4MqqZRjZVkheBor570C2yt", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4MqqZRjZVkheBor570C2yt", "duration_ms": 283240, "time_signature": 4}
+アポトーシス (OFFICIAL HIGE DANDISM)
+{"danceability": 0.463, "energy": 0.691, "key": 8, "loudness": -6.154, "mode": 1, "speechiness": 0.045, "acousticness": 0.047, "instrumentalness": 0, "liveness": 0.115, "valence": 0.379, "tempo": 155.898, "type": "audio_features", "id": "222BlW44cS9nOM6C369IB2", "uri": "spotify:track:222BlW44cS9nOM6C369IB2", "track_href": "https://api.spotify.com/v1/tracks/222BlW44cS9nOM6C369IB2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/222BlW44cS9nOM6C369IB2", "duration_ms": 389707, "time_signature": 4}
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: これからのこと、それからのこと(Ryokuoushoku Shakai)    https://open.spotify.com/track/3ee3P6E34IetUo60gwR0hw
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: カワキヲアメク(美波)    https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB
+name: Happy Birthday(EXILE TAKAHIRO)    https://open.spotify.com/track/4ckO7g4ekD7hmfhKzs0nMm
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: 風吹けば恋(Chatmonchy)    https://open.spotify.com/track/2MkAcO7UzpWpOyxdMzjabH
+name: アンビリーバーズ(Kenshi Yonezu)    https://open.spotify.com/track/1YCHalpMsHDWcVmRwMxwYQ
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+------------------<score>-----------------------
+score: 0

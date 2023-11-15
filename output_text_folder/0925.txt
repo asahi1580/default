@@ -1,0 +1,25 @@
+2023年09月25日 10:25:09
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/6voz4rUMJWkwpKnjPNYV4z
+Boy With Luv - Japanese ver. (BTS)
+{"danceability": 0.673, "energy": 0.855, "key": 11, "loudness": -4.65, "mode": 0, "speechiness": 0.089, "acousticness": 0.0661, "instrumentalness": 0, "liveness": 0.209, "valence": 0.78, "tempo": 119.917, "type": "audio_features", "id": "1GAAUZBTaIM1LwNpOJQJrZ", "uri": "spotify:track:1GAAUZBTaIM1LwNpOJQJrZ", "track_href": "https://api.spotify.com/v1/tracks/1GAAUZBTaIM1LwNpOJQJrZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1GAAUZBTaIM1LwNpOJQJrZ", "duration_ms": 230013, "time_signature": 4}
+Ice Cream (TOMORROW X TOGETHER)
+{"danceability": 0.823, "energy": 0.526, "key": 1, "loudness": -5.256, "mode": 1, "speechiness": 0.0692, "acousticness": 0.0327, "instrumentalness": 0, "liveness": 0.0825, "valence": 0.698, "tempo": 97.969, "type": "audio_features", "id": "5OvpZeRmZEBPp7Vgp0n6oj", "uri": "spotify:track:5OvpZeRmZEBPp7Vgp0n6oj", "track_href": "https://api.spotify.com/v1/tracks/5OvpZeRmZEBPp7Vgp0n6oj", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5OvpZeRmZEBPp7Vgp0n6oj", "duration_ms": 204358, "time_signature": 4}
+フォニイ (ツミキ)
+{"danceability": 0.624, "energy": 0.897, "key": 4, "loudness": -6.651, "mode": 0, "speechiness": 0.106, "acousticness": 0.0724, "instrumentalness": 2.57e-05, "liveness": 0.53, "valence": 0.609, "tempo": 169.903, "type": "audio_features", "id": "5pBIavXhjzTi0u7pkOK71N", "uri": "spotify:track:5pBIavXhjzTi0u7pkOK71N", "track_href": "https://api.spotify.com/v1/tracks/5pBIavXhjzTi0u7pkOK71N", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5pBIavXhjzTi0u7pkOK71N", "duration_ms": 189885, "time_signature": 4}
+愛情と矛先 (Mrs. GREEN APPLE)
+{"danceability": 0.446, "energy": 0.778, "key": 6, "loudness": -2.221, "mode": 1, "speechiness": 0.0999, "acousticness": 0.000812, "instrumentalness": 0, "liveness": 0.0332, "valence": 0.926, "tempo": 189.873, "type": "audio_features", "id": "5aIKhCBeXldSbLUZUKdx9j", "uri": "spotify:track:5aIKhCBeXldSbLUZUKdx9j", "track_href": "https://api.spotify.com/v1/tracks/5aIKhCBeXldSbLUZUKdx9j", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5aIKhCBeXldSbLUZUKdx9j", "duration_ms": 235067, "time_signature": 4}
+ロストワンの号哭 (Neru)
+{"danceability": 0.382, "energy": 0.892, "key": 7, "loudness": -1.073, "mode": 1, "speechiness": 0.184, "acousticness": 0.0968, "instrumentalness": 0, "liveness": 0.549, "valence": 0.806, "tempo": 161.846, "type": "audio_features", "id": "7bjO3BMl5ps63mpPMfhPDC", "uri": "spotify:track:7bjO3BMl5ps63mpPMfhPDC", "track_href": "https://api.spotify.com/v1/tracks/7bjO3BMl5ps63mpPMfhPDC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7bjO3BMl5ps63mpPMfhPDC", "duration_ms": 214147, "time_signature": 4}
+name: シャルル(Rib)    https://open.spotify.com/track/0TUQE5j6H2GOfhMxw4JMnE
+name: シャルル (self cover)(balloon)    https://open.spotify.com/track/09949OWxtlSFXlw3lSGOpb
+name: 八月の陽炎(Macaroni Empitsu)    https://open.spotify.com/track/7a7lvYsKBCsZfuMfVsn5tw
+name: 怪物(YOASOBI)    https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi
+name: Mixed Nuts(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ
+name: ミックスナッツ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/4hWI3r78IDOhPXSHd2f0Az
+name: メルトシティ(R+...)    https://open.spotify.com/track/0PaphhsiFcynmB2pZEhLlX
+name: 波乗りジョニー(Keisuke Kuwata)    https://open.spotify.com/track/3hjHUf3frPoh9jcYDkqXUV
+name: Believe(Kana Nishino)    https://open.spotify.com/track/523WF9wUHTDD47lNlJZf40
+------------------<score>-----------------------
+score: 0

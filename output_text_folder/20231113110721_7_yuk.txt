@@ -1,0 +1,25 @@
+2023年11月13日 11:07:49
+yuk_score.py
+お気に入り20220921  https://open.spotify.com/playlist/7Beiqu1Ua5nmCrLm4fx7oc
+きのくに線 (塩乃華織)
+{"danceability": 0.312, "energy": 0.639, "key": 7, "loudness": -5.044, "mode": 0, "speechiness": 0.0388, "acousticness": 0.0644, "instrumentalness": 2.43e-05, "liveness": 0.155, "valence": 0.392, "tempo": 119.806, "type": "audio_features", "id": "5fhmq8JZgXKqW04wnzSfHa", "uri": "spotify:track:5fhmq8JZgXKqW04wnzSfHa", "track_href": "https://api.spotify.com/v1/tracks/5fhmq8JZgXKqW04wnzSfHa", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5fhmq8JZgXKqW04wnzSfHa", "duration_ms": 229947, "time_signature": 3}
+あずさ2号 - 2015 Remaster (Karyudo)
+{"danceability": 0.26, "energy": 0.557, "key": 4, "loudness": -5.056, "mode": 0, "speechiness": 0.0379, "acousticness": 0.637, "instrumentalness": 0, "liveness": 0.322, "valence": 0.262, "tempo": 82.549, "type": "audio_features", "id": "67CiY5IDvXqZznPaDgDD63", "uri": "spotify:track:67CiY5IDvXqZznPaDgDD63", "track_href": "https://api.spotify.com/v1/tracks/67CiY5IDvXqZznPaDgDD63", "analysis_url": "https://api.spotify.com/v1/audio-analysis/67CiY5IDvXqZznPaDgDD63", "duration_ms": 299773, "time_signature": 4}
+I AM YOUR SINGER (サザンオールスターズ)
+{"danceability": 0.686, "energy": 0.816, "key": 0, "loudness": -5.22, "mode": 1, "speechiness": 0.0271, "acousticness": 0.558, "instrumentalness": 4.74e-06, "liveness": 0.16, "valence": 0.942, "tempo": 129.975, "type": "audio_features", "id": "52mKiP16FYA0C8X6gTr4zK", "uri": "spotify:track:52mKiP16FYA0C8X6gTr4zK", "track_href": "https://api.spotify.com/v1/tracks/52mKiP16FYA0C8X6gTr4zK", "analysis_url": "https://api.spotify.com/v1/audio-analysis/52mKiP16FYA0C8X6gTr4zK", "duration_ms": 271067, "time_signature": 4}
+Heaven Is A Place On Earth (Belinda Carlisle)
+{"danceability": 0.634, "energy": 0.901, "key": 4, "loudness": -6.508, "mode": 1, "speechiness": 0.0333, "acousticness": 0.0061, "instrumentalness": 9.01e-06, "liveness": 0.0419, "valence": 0.687, "tempo": 122.851, "type": "audio_features", "id": "4V9BTST4BSkvOL4xIQNHuS", "uri": "spotify:track:4V9BTST4BSkvOL4xIQNHuS", "track_href": "https://api.spotify.com/v1/tracks/4V9BTST4BSkvOL4xIQNHuS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4V9BTST4BSkvOL4xIQNHuS", "duration_ms": 247093, "time_signature": 4}
+Spirits on Fire (TOKYO MONSTERS)
+{"danceability": 0.432, "energy": 0.988, "key": 2, "loudness": -3.15, "mode": 0, "speechiness": 0.134, "acousticness": 0.00233, "instrumentalness": 3.94e-06, "liveness": 0.317, "valence": 0.515, "tempo": 159.942, "type": "audio_features", "id": "6rkQ9TeRLVSzOhUtgDZK4m", "uri": "spotify:track:6rkQ9TeRLVSzOhUtgDZK4m", "track_href": "https://api.spotify.com/v1/tracks/6rkQ9TeRLVSzOhUtgDZK4m", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6rkQ9TeRLVSzOhUtgDZK4m", "duration_ms": 219259, "time_signature": 4}
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+name: 五月雨よ(櫻坂46)    https://open.spotify.com/track/60JARyaZiozH00NeLWhcgt
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/5T1WB7ybJEf90xPUR0Yqa7
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/685IX0kJOYsV254JpHnMdi
+name: 夜明けまで強がらなくてもいい(Nogizaka46)    https://open.spotify.com/track/6fLq9e3IPdHUwIeSR49n5e
+name: Stay Alive (Prod. SUGA of BTS)(Jung Kook)    https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep
+name: ダンデライオン(Da-iCE)    https://open.spotify.com/track/5BQ2xOi9ZLwLS79VHYsGzk
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: 100万回の「I love you」(Rake)    https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF
+name: 僕は僕を好きになる(Nogizaka46)    https://open.spotify.com/track/7z6wfRDM09uY5x5HUoqSjV
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,25 @@
+2023年11月13日 10:53:31
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+Runaway Baby (Bruno Mars)
+{"danceability": 0.658, "energy": 0.762, "key": 10, "loudness": -3.028, "mode": 0, "speechiness": 0.0425, "acousticness": 0.263, "instrumentalness": 0, "liveness": 0.127, "valence": 0.823, "tempo": 163.864, "type": "audio_features", "id": "7hCNBVRhHzcsRAv0TQnOzq", "uri": "spotify:track:7hCNBVRhHzcsRAv0TQnOzq", "track_href": "https://api.spotify.com/v1/tracks/7hCNBVRhHzcsRAv0TQnOzq", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7hCNBVRhHzcsRAv0TQnOzq", "duration_ms": 148448, "time_signature": 4}
+ヨワネハキ (MAISONdes)
+{"danceability": 0.78, "energy": 0.814, "key": 7, "loudness": -3.617, "mode": 1, "speechiness": 0.0291, "acousticness": 0.0432, "instrumentalness": 8.28e-05, "liveness": 0.168, "valence": 0.59, "tempo": 108.025, "type": "audio_features", "id": "0FOVGBW0RpVRuDuUuN4ZVw", "uri": "spotify:track:0FOVGBW0RpVRuDuUuN4ZVw", "track_href": "https://api.spotify.com/v1/tracks/0FOVGBW0RpVRuDuUuN4ZVw", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0FOVGBW0RpVRuDuUuN4ZVw", "duration_ms": 166967, "time_signature": 4}
+アイム・ア・ビリーバー -ハイキュー!!セカンドシーズン Edit- (SPYAIR)
+{"danceability": 0.395, "energy": 0.941, "key": 0, "loudness": -2.642, "mode": 0, "speechiness": 0.0629, "acousticness": 0.000129, "instrumentalness": 0, "liveness": 0.0651, "valence": 0.693, "tempo": 193.982, "type": "audio_features", "id": "0HtFAYnQmuj4fegWqiGyQs", "uri": "spotify:track:0HtFAYnQmuj4fegWqiGyQs", "track_href": "https://api.spotify.com/v1/tracks/0HtFAYnQmuj4fegWqiGyQs", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0HtFAYnQmuj4fegWqiGyQs", "duration_ms": 90216, "time_signature": 4}
+Black Catcher (Vicke Blanka)
+{"danceability": 0.592, "energy": 0.894, "key": 11, "loudness": -4.71, "mode": 0, "speechiness": 0.042, "acousticness": 0.00358, "instrumentalness": 5.32e-06, "liveness": 0.0721, "valence": 0.642, "tempo": 100.026, "type": "audio_features", "id": "2y7f8qkrgIqY5KsfPNcuix", "uri": "spotify:track:2y7f8qkrgIqY5KsfPNcuix", "track_href": "https://api.spotify.com/v1/tracks/2y7f8qkrgIqY5KsfPNcuix", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2y7f8qkrgIqY5KsfPNcuix", "duration_ms": 196947, "time_signature": 4}
+MAD HEAD LOVE (Kenshi Yonezu)
+{"danceability": 0.602, "energy": 0.959, "key": 11, "loudness": -2.937, "mode": 0, "speechiness": 0.0653, "acousticness": 0.00636, "instrumentalness": 0, "liveness": 0.0813, "valence": 0.811, "tempo": 106.052, "type": "audio_features", "id": "1jE1zTvEffFZfNDZ21T8kI", "uri": "spotify:track:1jE1zTvEffFZfNDZ21T8kI", "track_href": "https://api.spotify.com/v1/tracks/1jE1zTvEffFZfNDZ21T8kI", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1jE1zTvEffFZfNDZ21T8kI", "duration_ms": 218227, "time_signature": 4}
+name: Starry Night(Yuzo Koshiro)    https://open.spotify.com/track/2h4pGR4iSR6Pe47x7hgmJN
+name: 銀河鉄道999 - EXILE CATCHY BEST(EXILE)    https://open.spotify.com/track/5BnUsu7JzV5nH3udqqPbLY
+name: 私以外私じゃないの(Gesu No Kiwami Otome)    https://open.spotify.com/track/3iKJWOQJtENE3kFWMXh8JM
+name: 愛する人(FOMARE)    https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9
+name: 風は西から(Tamio Okuda)    https://open.spotify.com/track/1wT5yu8yICXbwlr43f2JjE
+name: 808(Suchmos)    https://open.spotify.com/track/0HzvHunf8VF1TlE3VEg6r4
+name: さわやか会社員(Soutaiseiriron)    https://open.spotify.com/track/7wAhg1bclLYzOjAn2eCxPz
+name: Natsuiro(YUZU)    https://open.spotify.com/track/4PdYyw2zDCNdmrlBKcNP9K
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/7jc1VLTIiYgREGfCpUg4ot
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/2im8jqte4utp2s1ZI52OFv
+------------------<score>-----------------------
+score: 0

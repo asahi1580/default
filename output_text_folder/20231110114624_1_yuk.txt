@@ -1,0 +1,27 @@
+2023年11月10日 11:46:29
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+春を告げる (yama)
+{"danceability": 0.548, "energy": 0.871, "key": 11, "loudness": -5.377, "mode": 1, "speechiness": 0.123, "acousticness": 0.0397, "instrumentalness": 0, "liveness": 0.357, "valence": 0.487, "tempo": 120.009, "type": "audio_features", "id": "2Gmyw5Vg2X5YW2lM3OC7nD", "uri": "spotify:track:2Gmyw5Vg2X5YW2lM3OC7nD", "track_href": "https://api.spotify.com/v1/tracks/2Gmyw5Vg2X5YW2lM3OC7nD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Gmyw5Vg2X5YW2lM3OC7nD", "duration_ms": 196497, "time_signature": 4}
+麻痺 (yama)
+{"danceability": 0.532, "energy": 0.932, "key": 5, "loudness": -4.303, "mode": 0, "speechiness": 0.0522, "acousticness": 0.0661, "instrumentalness": 0, "liveness": 0.38, "valence": 0.738, "tempo": 100.1, "type": "audio_features", "id": "1LwSnnsoKcAUv9TPFEZ7iQ", "uri": "spotify:track:1LwSnnsoKcAUv9TPFEZ7iQ", "track_href": "https://api.spotify.com/v1/tracks/1LwSnnsoKcAUv9TPFEZ7iQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1LwSnnsoKcAUv9TPFEZ7iQ", "duration_ms": 198100, "time_signature": 4}
+イエスタデイ (OFFICIAL HIGE DANDISM)
+{"danceability": 0.541, "energy": 0.8, "key": 6, "loudness": -3.687, "mode": 1, "speechiness": 0.0382, "acousticness": 0.0442, "instrumentalness": 0, "liveness": 0.398, "valence": 0.56, "tempo": 129.939, "type": "audio_features", "id": "53WuztMfY1VH3rLIm0zApQ", "uri": "spotify:track:53WuztMfY1VH3rLIm0zApQ", "track_href": "https://api.spotify.com/v1/tracks/53WuztMfY1VH3rLIm0zApQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/53WuztMfY1VH3rLIm0zApQ", "duration_ms": 299164, "time_signature": 4}
+Love me, Love you (Mrs. GREEN APPLE)
+{"danceability": 0.762, "energy": 0.943, "key": 0, "loudness": -2.881, "mode": 1, "speechiness": 0.045, "acousticness": 0.0502, "instrumentalness": 0, "liveness": 0.275, "valence": 0.806, "tempo": 129.999, "type": "audio_features", "id": "4MqqZRjZVkheBor570C2yt", "uri": "spotify:track:4MqqZRjZVkheBor570C2yt", "track_href": "https://api.spotify.com/v1/tracks/4MqqZRjZVkheBor570C2yt", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4MqqZRjZVkheBor570C2yt", "duration_ms": 283240, "time_signature": 4}
+寝れない夜に (whaledontsleep)
+{"danceability": 0.574, "energy": 0.416, "key": 1, "loudness": -6.291, "mode": 1, "speechiness": 0.028, "acousticness": 0.57, "instrumentalness": 4.37e-06, "liveness": 0.186, "valence": 0.361, "tempo": 139.882, "type": "audio_features", "id": "2CuTFXDSN9xke0mS2ezywb", "uri": "spotify:track:2CuTFXDSN9xke0mS2ezywb", "track_href": "https://api.spotify.com/v1/tracks/2CuTFXDSN9xke0mS2ezywb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CuTFXDSN9xke0mS2ezywb", "duration_ms": 320571, "time_signature": 4}
+name: W / X / Y(Tani Yuuki)    https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP
+name: W / X / Y(Tani Yuuki)    https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49
+name: ミックス(マルシィ)    https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: BOY(King Gnu)    https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID
+name: 懺悔参り(Maigo Hanyuu)    https://open.spotify.com/track/2IlbsAPqtXP9hLR4PESh7x
+name: CHEERS(Mrs. GREEN APPLE)    https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+name: 空の青さを知る人よ(Aimyon)    https://open.spotify.com/track/3u0e8pyoVc7l2u3T5thohY
+name: KANASHIBARI(RADWIMPS)    https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO
+name: キャラクター(Ryokuoushoku Shakai)    https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi
+------------------<score>-----------------------
+CHEERS  https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+BOY  https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID
+score: 2

@@ -1,0 +1,26 @@
+2023年11月10日 11:40:03
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+あいつら全員同窓会 (ZUTOMAYO)
+{"danceability": 0.724, "energy": 0.913, "key": 2, "loudness": -2.836, "mode": 0, "speechiness": 0.118, "acousticness": 0.453, "instrumentalness": 0, "liveness": 0.052, "valence": 0.913, "tempo": 130.968, "type": "audio_features", "id": "2VIK6jaaKghS4QPHr6sAkv", "uri": "spotify:track:2VIK6jaaKghS4QPHr6sAkv", "track_href": "https://api.spotify.com/v1/tracks/2VIK6jaaKghS4QPHr6sAkv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VIK6jaaKghS4QPHr6sAkv", "duration_ms": 254507, "time_signature": 4}
+又三郎 (ヨルシカ)
+{"danceability": 0.472, "energy": 0.919, "key": 4, "loudness": -3.513, "mode": 0, "speechiness": 0.149, "acousticness": 0.00308, "instrumentalness": 0.000492, "liveness": 0.212, "valence": 0.548, "tempo": 199.972, "type": "audio_features", "id": "3WtIXrla0ovC9MOIY78Vr8", "uri": "spotify:track:3WtIXrla0ovC9MOIY78Vr8", "track_href": "https://api.spotify.com/v1/tracks/3WtIXrla0ovC9MOIY78Vr8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3WtIXrla0ovC9MOIY78Vr8", "duration_ms": 227732, "time_signature": 4}
+怪獣の花唄 (Vaundy)
+{"danceability": 0.425, "energy": 0.939, "key": 2, "loudness": -3.498, "mode": 1, "speechiness": 0.054, "acousticness": 0.00361, "instrumentalness": 0, "liveness": 0.331, "valence": 0.638, "tempo": 150.015, "type": "audio_features", "id": "65zCSX2CSQXp1vr4hNtHDv", "uri": "spotify:track:65zCSX2CSQXp1vr4hNtHDv", "track_href": "https://api.spotify.com/v1/tracks/65zCSX2CSQXp1vr4hNtHDv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/65zCSX2CSQXp1vr4hNtHDv", "duration_ms": 224806, "time_signature": 4}
+ロマンチシズム (Mrs. GREEN APPLE)
+{"danceability": 0.606, "energy": 0.881, "key": 10, "loudness": -3.141, "mode": 1, "speechiness": 0.0647, "acousticness": 0.00505, "instrumentalness": 0, "liveness": 0.0412, "valence": 0.886, "tempo": 125.479, "type": "audio_features", "id": "7BwkDMUfGl0yttRXS13SAO", "uri": "spotify:track:7BwkDMUfGl0yttRXS13SAO", "track_href": "https://api.spotify.com/v1/tracks/7BwkDMUfGl0yttRXS13SAO", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BwkDMUfGl0yttRXS13SAO", "duration_ms": 213747, "time_signature": 4}
+怪物 (YOASOBI)
+{"danceability": 0.598, "energy": 0.847, "key": 1, "loudness": -2.54, "mode": 1, "speechiness": 0.205, "acousticness": 0.0655, "instrumentalness": 9.92e-05, "liveness": 0.307, "valence": 0.728, "tempo": 169.959, "type": "audio_features", "id": "6uhIF5J5Txaie0is2nXdxU", "uri": "spotify:track:6uhIF5J5Txaie0is2nXdxU", "track_href": "https://api.spotify.com/v1/tracks/6uhIF5J5Txaie0is2nXdxU", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6uhIF5J5Txaie0is2nXdxU", "duration_ms": 205480, "time_signature": 4}
+name: 元彼女として(My Hair is Bad)    https://open.spotify.com/track/61ljG8KY152M7NbRcXXAes
+name: 恋は渾沌の隷也(Ushirokarahaiyoritai G)    https://open.spotify.com/track/2g1k9DguVUrZSPIVzcphlQ
+name: Common World Domination(PinocchioP)    https://open.spotify.com/track/1A0k6cjkrCxH3Hx7Awb2G2
+name: ありふれたせかいせいふく feat.初音ミク(PinocchioP)    https://open.spotify.com/track/6Cxzd8UyB28Grofsy17tfF
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: ドラマツルギー(Eve)    https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+name: ミチヲユケ(Ryokuoushoku Shakai)    https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+name: 女だから(Laughing Hick)    https://open.spotify.com/track/7CHiHRLcVqNpyaSNRJqxPu
+------------------<score>-----------------------
+ドラマツルギー  https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+score: 1

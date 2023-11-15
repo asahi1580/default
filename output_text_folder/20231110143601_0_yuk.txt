@@ -1,0 +1,35 @@
+2023年11月10日 14:36:02
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+脱げばいいってモンじゃない! (DeadballP)
+{"danceability": 0.525, "energy": 0.961, "key": 8, "loudness": -3.497, "mode": 1, "speechiness": 0.069, "acousticness": 0.0011, "instrumentalness": 0, "liveness": 0.192, "valence": 0.742, "tempo": 154.878, "type": "audio_features", "id": "6tLKnnoWA6uDJAuHBBTKvb", "uri": "spotify:track:6tLKnnoWA6uDJAuHBBTKvb", "track_href": "https://api.spotify.com/v1/tracks/6tLKnnoWA6uDJAuHBBTKvb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6tLKnnoWA6uDJAuHBBTKvb", "duration_ms": 262548, "time_signature": 4}
+ポジティヴ・ハラスメント!!! (和田たけあき)
+{"danceability": 0.547, "energy": 0.964, "key": 11, "loudness": -2.865, "mode": 0, "speechiness": 0.239, "acousticness": 0.0158, "instrumentalness": 2.86e-06, "liveness": 0.0403, "valence": 0.735, "tempo": 165.072, "type": "audio_features", "id": "6zuN9qTxvJy548HfHNa7L8", "uri": "spotify:track:6zuN9qTxvJy548HfHNa7L8", "track_href": "https://api.spotify.com/v1/tracks/6zuN9qTxvJy548HfHNa7L8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zuN9qTxvJy548HfHNa7L8", "duration_ms": 201320, "time_signature": 4}
+おはようオーパーツ (Soutaiseiriron)
+{"danceability": 0.661, "energy": 0.607, "key": 0, "loudness": -7.505, "mode": 1, "speechiness": 0.0315, "acousticness": 0.444, "instrumentalness": 0.000241, "liveness": 0.0785, "valence": 0.936, "tempo": 123.016, "type": "audio_features", "id": "5gIlEaXHDlVu7eRo8mRtuE", "uri": "spotify:track:5gIlEaXHDlVu7eRo8mRtuE", "track_href": "https://api.spotify.com/v1/tracks/5gIlEaXHDlVu7eRo8mRtuE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5gIlEaXHDlVu7eRo8mRtuE", "duration_ms": 208893, "time_signature": 4}
+ヒガン (John)
+{"danceability": 0.56, "energy": 0.968, "key": 1, "loudness": -2.572, "mode": 1, "speechiness": 0.0416, "acousticness": 0.011, "instrumentalness": 0.00387, "liveness": 0.0729, "valence": 0.59, "tempo": 89.99, "type": "audio_features", "id": "6ar2xVifUQwjHXyRGThlrw", "uri": "spotify:track:6ar2xVifUQwjHXyRGThlrw", "track_href": "https://api.spotify.com/v1/tracks/6ar2xVifUQwjHXyRGThlrw", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ar2xVifUQwjHXyRGThlrw", "duration_ms": 214000, "time_signature": 4}
+匿名希望(album ver.) (Shino)
+{"danceability": 0.6, "energy": 0.862, "key": 9, "loudness": -2.997, "mode": 1, "speechiness": 0.0327, "acousticness": 0.00108, "instrumentalness": 9.4e-05, "liveness": 0.0289, "valence": 0.2, "tempo": 139.968, "type": "audio_features", "id": "6s9DcnGMmyvP6wXNFkxgN2", "uri": "spotify:track:6s9DcnGMmyvP6wXNFkxgN2", "track_href": "https://api.spotify.com/v1/tracks/6s9DcnGMmyvP6wXNFkxgN2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6s9DcnGMmyvP6wXNFkxgN2", "duration_ms": 192737, "time_signature": 4}
+name: A面で恋をして(NIAGARA TRIANGLE)    https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH
+name: いいわけ(Sharam Q)    https://open.spotify.com/track/0WslHz0nNPgbzTYYG50v24
+name: Let Me(Re:name)    https://open.spotify.com/track/6xa6JADVDyEVKV4QsMWj8U
+name: MoonWalker(yama)    https://open.spotify.com/track/4ELSoW5BZzs7rV8ac0Cpit
+name: 愛する人(FOMARE)    https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9
+name: かいこ(Creepy Nuts)    https://open.spotify.com/track/4D77oQdWDKJxNsiSP4AVBZ
+name: 僕らまだアンダーグラウンド(Eve)    https://open.spotify.com/track/2G4pRFifFAlzozdqOq56uw
+name: ノンブレス・オブリージュ(PinocchioP)    https://open.spotify.com/track/5blgKDJ31u2C27jOcya3k9
+name: LOST IN PARADISE(ALI)    https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX
+name: 未来で逢いたい(ケプラ)    https://open.spotify.com/track/7ECQe4BiTGhWxI8sq7AXbm
+name: 愛する人(FOMARE)    https://open.spotify.com/track/2lDhR9QqOBemCc5RWXnWNK
+name: 銀河鉄道999 - EXILE CATCHY BEST(EXILE)    https://open.spotify.com/track/5BnUsu7JzV5nH3udqqPbLY
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/7jc1VLTIiYgREGfCpUg4ot
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/2im8jqte4utp2s1ZI52OFv
+name: キライダー(13.3g)    https://open.spotify.com/track/0gM6zWJPNNZCfoCDuCRQ2L
+name: Actually...(Nogizaka46)    https://open.spotify.com/track/4pfJEUjNi65LLQcEBHaWAz
+name: ズルい女(Sharam Q)    https://open.spotify.com/track/1bOd6GsU7fidp4DUB0z5Oq
+name: ズルい女(Sharam Q)    https://open.spotify.com/track/3P5xrT2QevrFfjTXTkJOcC
+name: 赤(れん)    https://open.spotify.com/track/2w1bCPZVl8nZ0FT2BG6bkt
+name: Hyper(Kroi)    https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW
+------------------<score>-----------------------
+score: 0

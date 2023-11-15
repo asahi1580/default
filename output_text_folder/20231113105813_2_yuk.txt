@@ -1,0 +1,25 @@
+2023年11月13日 10:58:22
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/5wbUwYagqn4FW8uC5mpOlo
+唱 (Ado)
+{"danceability": 0.616, "energy": 0.975, "key": 10, "loudness": -0.425, "mode": 0, "speechiness": 0.208, "acousticness": 0.172, "instrumentalness": 1.62e-06, "liveness": 0.143, "valence": 0.742, "tempo": 132.054, "type": "audio_features", "id": "2tlOVDJ3lQsUxz22vPJ4c4", "uri": "spotify:track:2tlOVDJ3lQsUxz22vPJ4c4", "track_href": "https://api.spotify.com/v1/tracks/2tlOVDJ3lQsUxz22vPJ4c4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tlOVDJ3lQsUxz22vPJ4c4", "duration_ms": 189773, "time_signature": 4}
+そんなbitterな話 (Vaundy)
+{"danceability": 0.427, "energy": 0.689, "key": 9, "loudness": -4.35, "mode": 1, "speechiness": 0.0354, "acousticness": 0.0918, "instrumentalness": 0, "liveness": 0.102, "valence": 0.733, "tempo": 178.077, "type": "audio_features", "id": "4QlSFkbRxZWkHDF1MqBaEY", "uri": "spotify:track:4QlSFkbRxZWkHDF1MqBaEY", "track_href": "https://api.spotify.com/v1/tracks/4QlSFkbRxZWkHDF1MqBaEY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QlSFkbRxZWkHDF1MqBaEY", "duration_ms": 276083, "time_signature": 4}
+シャッター (Yuuri)
+{"danceability": 0.606, "energy": 0.525, "key": 5, "loudness": -7.432, "mode": 1, "speechiness": 0.0356, "acousticness": 0.511, "instrumentalness": 0, "liveness": 0.33, "valence": 0.665, "tempo": 74.979, "type": "audio_features", "id": "6VwpOZpqx8IqoF201VGAp8", "uri": "spotify:track:6VwpOZpqx8IqoF201VGAp8", "track_href": "https://api.spotify.com/v1/tracks/6VwpOZpqx8IqoF201VGAp8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VwpOZpqx8IqoF201VGAp8", "duration_ms": 247333, "time_signature": 4}
+シャッター (Yuuri)
+{"danceability": 0.606, "energy": 0.525, "key": 5, "loudness": -7.432, "mode": 1, "speechiness": 0.0356, "acousticness": 0.511, "instrumentalness": 0, "liveness": 0.33, "valence": 0.665, "tempo": 74.979, "type": "audio_features", "id": "6VwpOZpqx8IqoF201VGAp8", "uri": "spotify:track:6VwpOZpqx8IqoF201VGAp8", "track_href": "https://api.spotify.com/v1/tracks/6VwpOZpqx8IqoF201VGAp8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VwpOZpqx8IqoF201VGAp8", "duration_ms": 247333, "time_signature": 4}
+Oz. (yama)
+{"danceability": 0.403, "energy": 0.723, "key": 7, "loudness": -4.609, "mode": 1, "speechiness": 0.0339, "acousticness": 0.0422, "instrumentalness": 7.48e-06, "liveness": 0.374, "valence": 0.441, "tempo": 75.989, "type": "audio_features", "id": "2VRcLEvQCMByWBuvM9gaJ2", "uri": "spotify:track:2VRcLEvQCMByWBuvM9gaJ2", "track_href": "https://api.spotify.com/v1/tracks/2VRcLEvQCMByWBuvM9gaJ2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VRcLEvQCMByWBuvM9gaJ2", "duration_ms": 194274, "time_signature": 4}
+name: 空の青さを知る人よ(Aimyon)    https://open.spotify.com/track/3u0e8pyoVc7l2u3T5thohY
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/5T1WB7ybJEf90xPUR0Yqa7
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/685IX0kJOYsV254JpHnMdi
+name: W / X / Y(Tani Yuuki)    https://open.spotify.com/track/6ybLgHBGIxR8R6IIVmaipO
+name: キラキラ(Kazumasa Oda)    https://open.spotify.com/track/6CVOXT79mSNWlahndeRtpq
+name: さっきはごめんね、ありがとう(Creep Hyp)    https://open.spotify.com/track/7CvLWQ30ggnHucKGA7KZN6
+name: TSUNAMI(サザンオールスターズ)    https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv
+name: I miss you -refrain-(Shota Shimizu)    https://open.spotify.com/track/080sJ3SvQBXeGO6q1oIF6z
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO
+name: 夢にならないように(グソクムズ)    https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2
+------------------<score>-----------------------
+score: 0

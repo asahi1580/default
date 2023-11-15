@@ -1,0 +1,26 @@
+2023年11月10日 14:35:10
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+イノコリ先生 (HoneyWorks)
+{"danceability": 0.609, "energy": 0.847, "key": 6, "loudness": -3.902, "mode": 0, "speechiness": 0.0878, "acousticness": 0.0292, "instrumentalness": 0, "liveness": 0.0678, "valence": 0.713, "tempo": 162.035, "type": "audio_features", "id": "6dYTeDLK4YUTJLnKpVdwBL", "uri": "spotify:track:6dYTeDLK4YUTJLnKpVdwBL", "track_href": "https://api.spotify.com/v1/tracks/6dYTeDLK4YUTJLnKpVdwBL", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6dYTeDLK4YUTJLnKpVdwBL", "duration_ms": 310360, "time_signature": 4}
+わたしの線香 (花譜)
+{"danceability": 0.726, "energy": 0.736, "key": 7, "loudness": -8.944, "mode": 1, "speechiness": 0.0293, "acousticness": 0.563, "instrumentalness": 0.0177, "liveness": 0.091, "valence": 0.763, "tempo": 134.019, "type": "audio_features", "id": "15ekICXVvIVyOV7YWuaC6H", "uri": "spotify:track:15ekICXVvIVyOV7YWuaC6H", "track_href": "https://api.spotify.com/v1/tracks/15ekICXVvIVyOV7YWuaC6H", "analysis_url": "https://api.spotify.com/v1/audio-analysis/15ekICXVvIVyOV7YWuaC6H", "duration_ms": 154285, "time_signature": 4}
+回る空うさぎ (DAZBEE)
+{"danceability": 0.764, "energy": 0.339, "key": 1, "loudness": -7.459, "mode": 1, "speechiness": 0.0336, "acousticness": 0.545, "instrumentalness": 0, "liveness": 0.116, "valence": 0.74, "tempo": 119.992, "type": "audio_features", "id": "5NITYjCmkHJEm03GUor1R1", "uri": "spotify:track:5NITYjCmkHJEm03GUor1R1", "track_href": "https://api.spotify.com/v1/tracks/5NITYjCmkHJEm03GUor1R1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5NITYjCmkHJEm03GUor1R1", "duration_ms": 172753, "time_signature": 4}
+一騎当千 (luz)
+{"danceability": 0.582, "energy": 0.921, "key": 6, "loudness": -4.998, "mode": 1, "speechiness": 0.367, "acousticness": 0.0296, "instrumentalness": 0, "liveness": 0.0783, "valence": 0.692, "tempo": 136.163, "type": "audio_features", "id": "53FkRMKtHCFIr958GuQ0Gw", "uri": "spotify:track:53FkRMKtHCFIr958GuQ0Gw", "track_href": "https://api.spotify.com/v1/tracks/53FkRMKtHCFIr958GuQ0Gw", "analysis_url": "https://api.spotify.com/v1/audio-analysis/53FkRMKtHCFIr958GuQ0Gw", "duration_ms": 206920, "time_signature": 4}
+嗤うマネキン (MI8k)
+{"danceability": 0.471, "energy": 0.924, "key": 5, "loudness": -3.714, "mode": 0, "speechiness": 0.0868, "acousticness": 0.196, "instrumentalness": 6e-06, "liveness": 0.0901, "valence": 0.548, "tempo": 171.057, "type": "audio_features", "id": "5rlufCxBIuIJEmsfJgYVZ8", "uri": "spotify:track:5rlufCxBIuIJEmsfJgYVZ8", "track_href": "https://api.spotify.com/v1/tracks/5rlufCxBIuIJEmsfJgYVZ8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rlufCxBIuIJEmsfJgYVZ8", "duration_ms": 210585, "time_signature": 4}
+name: JET(POLKADOT STINGRAY)    https://open.spotify.com/track/3iqOLTGhIJOxV1P0W6Exmr
+name: ジェリーフィッシュ (feat. ローラーガール)(Yunomi)    https://open.spotify.com/track/6kIivltIxJscvk682sTXoV
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+name: 幽霊船((sic)boy)    https://open.spotify.com/track/4O1RQ3hmsGrQ4zM00EO0VY
+name: Never Be Us(HRVY)    https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov
+name: Traffic (select)(ZUNTATA)    https://open.spotify.com/track/7nTOJUcZ2TdrjEMZdf30tu
+name: Kura Kura(TWICE)    https://open.spotify.com/track/0SiX8tNiIZskZrPiAh6XxX
+name: flos(R Sound Design)    https://open.spotify.com/track/0qEvefkCUltXldv8EPOSDV
+name: 群青(YOASOBI)    https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk
+name: Hachimitsu(Shikao Suga)    https://open.spotify.com/track/5LDRDXk27BnOD1jp5sjmds
+------------------<score>-----------------------
+flos  https://open.spotify.com/track/0qEvefkCUltXldv8EPOSDV
+score: 1

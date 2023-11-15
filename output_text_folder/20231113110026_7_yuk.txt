@@ -1,0 +1,25 @@
+2023年11月13日 11:00:54
+yuk_score.py
+お気に入り  https://open.spotify.com/playlist/6z1Fbn53QQUgu1YuBgM72y
+勘冴えて悔しいわ (ZUTOMAYO)
+{"danceability": 0.632, "energy": 0.924, "key": 5, "loudness": -1.829, "mode": 1, "speechiness": 0.129, "acousticness": 0.212, "instrumentalness": 3.04e-06, "liveness": 0.0901, "valence": 0.762, "tempo": 149.84, "type": "audio_features", "id": "7zbfS30vKiHU8oBs6Wi1Qp", "uri": "spotify:track:7zbfS30vKiHU8oBs6Wi1Qp", "track_href": "https://api.spotify.com/v1/tracks/7zbfS30vKiHU8oBs6Wi1Qp", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7zbfS30vKiHU8oBs6Wi1Qp", "duration_ms": 236960, "time_signature": 4}
+君のまま (百足)
+{"danceability": 0.836, "energy": 0.771, "key": 7, "loudness": -4.441, "mode": 1, "speechiness": 0.106, "acousticness": 0.435, "instrumentalness": 0, "liveness": 0.172, "valence": 0.664, "tempo": 123.977, "type": "audio_features", "id": "78NUnAsLzE6azxvuPDy9M7", "uri": "spotify:track:78NUnAsLzE6azxvuPDy9M7", "track_href": "https://api.spotify.com/v1/tracks/78NUnAsLzE6azxvuPDy9M7", "analysis_url": "https://api.spotify.com/v1/audio-analysis/78NUnAsLzE6azxvuPDy9M7", "duration_ms": 177581, "time_signature": 4}
+ア・プリオリ (Mrs. GREEN APPLE)
+{"danceability": 0.459, "energy": 0.859, "key": 0, "loudness": -2.484, "mode": 1, "speechiness": 0.0815, "acousticness": 0.00389, "instrumentalness": 0, "liveness": 0.484, "valence": 0.559, "tempo": 100.051, "type": "audio_features", "id": "77K5xrAkNxulIx7x5phIhy", "uri": "spotify:track:77K5xrAkNxulIx7x5phIhy", "track_href": "https://api.spotify.com/v1/tracks/77K5xrAkNxulIx7x5phIhy", "analysis_url": "https://api.spotify.com/v1/audio-analysis/77K5xrAkNxulIx7x5phIhy", "duration_ms": 202867, "time_signature": 4}
+ちゅ、多様性。 (ano)
+{"danceability": 0.583, "energy": 0.957, "key": 11, "loudness": -3.439, "mode": 1, "speechiness": 0.0429, "acousticness": 0.00885, "instrumentalness": 0.000411, "liveness": 0.0727, "valence": 0.87, "tempo": 153.023, "type": "audio_features", "id": "5KLL3cZEyuSJRvyS84o4Df", "uri": "spotify:track:5KLL3cZEyuSJRvyS84o4Df", "track_href": "https://api.spotify.com/v1/tracks/5KLL3cZEyuSJRvyS84o4Df", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KLL3cZEyuSJRvyS84o4Df", "duration_ms": 185753, "time_signature": 4}
+HERO (The Sketchbook)
+{"danceability": 0.499, "energy": 0.885, "key": 0, "loudness": -1.872, "mode": 1, "speechiness": 0.0382, "acousticness": 0.00809, "instrumentalness": 0, "liveness": 0.122, "valence": 0.325, "tempo": 104.948, "type": "audio_features", "id": "4sK5L9czysQKIWJtJlYc86", "uri": "spotify:track:4sK5L9czysQKIWJtJlYc86", "track_href": "https://api.spotify.com/v1/tracks/4sK5L9czysQKIWJtJlYc86", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4sK5L9czysQKIWJtJlYc86", "duration_ms": 267720, "time_signature": 4}
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: Don't Leave Yet(Eric Nam)    https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD
+name: かいこ(Creepy Nuts)    https://open.spotify.com/track/4D77oQdWDKJxNsiSP4AVBZ
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/7jc1VLTIiYgREGfCpUg4ot
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/2im8jqte4utp2s1ZI52OFv
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: 棒人間(RADWIMPS)    https://open.spotify.com/track/2wsyebeX4ptSxKIpJtWE6B
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: 愛してみてよ減るもんじゃないし(neguse.)    https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS
+------------------<score>-----------------------
+score: 0

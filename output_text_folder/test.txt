@@ -1,22 +1,13 @@
-2023年07月10日 13:31:57
-score.py
-ガールズ・ナイト  https://open.spotify.com/playlist/37i9dQZF1DWXX3HHYIWJwh
-正規化後のパラメータの平均{"danceability": 0.272, "energy": 0.014, "speechiness": 0.151, "acousticness": -0.069, "liveness": -0.199, "valence": 0.156, "tempo": -0.109}
---------------<recommend songs>-----------------
-
-name: ANTIFRAGILE(LE SSERAFIM)    https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1
-name: LEFT RIGHT REMIXX - FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS(XG)    https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar
-name: LEFT RIGHT(XG)    https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ
-name: What Makes You Beautiful(One Direction)    https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo
-name: GRL GVNG(XG)    https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl
-name: I Ain't Worried(OneRepublic)    https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB
-name: ELEVEN(IVE)    https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr
-name: Best Friend Ever(NCT DREAM)    https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu
-name: FEARLESS(LE SSERAFIM)    https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj
-name: Summer of Love (Shawn Mendes & Tainy)(Shawn Mendes)    https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6
-------------------<score>-----------------------
-GRL GVNG  https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl
-ANTIFRAGILE  https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1
-I Ain't Worried  https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB
-What Makes You Beautiful  https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo
-score: 4
+2023年10月06日 10:57:15
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+枯れそうな恋 (鈴木鈴木)
+{"danceability": 0.357, "energy": 0.745, "key": 1, "loudness": -3.321, "mode": 1, "speechiness": 0.0593, "acousticness": 0.0805, "instrumentalness": 0, "liveness": 0.363, "valence": 0.468, "tempo": 139.489, "type": "audio_features", "id": "4Go5IefRZ6tFrqRuvUyCoi", "uri": "spotify:track:4Go5IefRZ6tFrqRuvUyCoi", "track_href": "https://api.spotify.com/v1/tracks/4Go5IefRZ6tFrqRuvUyCoi", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Go5IefRZ6tFrqRuvUyCoi", "duration_ms": 222910, "time_signature": 3}
+ただ、ありがとう (Monkey Majik)
+{"danceability": 0.554, "energy": 0.712, "key": 9, "loudness": -4.306, "mode": 1, "speechiness": 0.0277, "acousticness": 0.474, "instrumentalness": 0, "liveness": 0.34, "valence": 0.683, "tempo": 87.02, "type": "audio_features", "id": "3ayTR482XA5dvsAiPU3di6", "uri": "spotify:track:3ayTR482XA5dvsAiPU3di6", "track_href": "https://api.spotify.com/v1/tracks/3ayTR482XA5dvsAiPU3di6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ayTR482XA5dvsAiPU3di6", "duration_ms": 223000, "time_signature": 4}
+必ず何かの天才 (Berry Goodman)
+{"danceability": 0.583, "energy": 0.802, "key": 11, "loudness": -4.649, "mode": 1, "speechiness": 0.111, "acousticness": 0.31, "instrumentalness": 0, "liveness": 0.0807, "valence": 0.528, "tempo": 88.182, "type": "audio_features", "id": "3JYBTC75xZAgYOs3pKiHX7", "uri": "spotify:track:3JYBTC75xZAgYOs3pKiHX7", "track_href": "https://api.spotify.com/v1/tracks/3JYBTC75xZAgYOs3pKiHX7", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JYBTC75xZAgYOs3pKiHX7", "duration_ms": 253052, "time_signature": 4}
+ゼロのままでいられたら (OFFICIAL HIGE DANDISM)
+{"danceability": 0.446, "energy": 0.614, "key": 0, "loudness": -5.738, "mode": 0, "speechiness": 0.027, "acousticness": 0.121, "instrumentalness": 0.000164, "liveness": 0.199, "valence": 0.509, "tempo": 152.047, "type": "audio_features", "id": "0M8fLDERc37U2HoQGcXyOT", "uri": "spotify:track:0M8fLDERc37U2HoQGcXyOT", "track_href": "https://api.spotify.com/v1/tracks/0M8fLDERc37U2HoQGcXyOT", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0M8fLDERc37U2HoQGcXyOT", "duration_ms": 325647, "time_signature": 4}
+あぁ、もう。 (Saucy Dog)
+{"danceability": 0.706, "energy": 0.672, "key": 4, "loudness": -4.696, "mode": 1, "speechiness": 0.029, "acousticness": 0.248, "instrumentalness": 0, "liveness": 0.177, "valence": 0.632, "tempo": 112.126, "type": "audio_features", "id": "7G4rZHIBiXJNFmLYXtWCPm", "uri": "spotify:track:7G4rZHIBiXJNFmLYXtWCPm", "track_href": "https://api.spotify.com/v1/tracks/7G4rZHIBiXJNFmLYXtWCPm", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7G4rZHIBiXJNFmLYXtWCPm", "duration_ms": 284330, "time_signature": 4}

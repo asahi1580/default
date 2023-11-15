@@ -1,0 +1,25 @@
+2023年09月28日 10:58:44
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+天地ガエシ (Album Mix) (NICO Touches the Walls)
+{"danceability": 0.306, "energy": 0.938, "key": 2, "loudness": -3.679, "mode": 1, "speechiness": 0.0701, "acousticness": 0.00705, "instrumentalness": 0, "liveness": 0.227, "valence": 0.701, "tempo": 120.543, "type": "audio_features", "id": "2Gw2VhDNZiPKd8rRcLHP68", "uri": "spotify:track:2Gw2VhDNZiPKd8rRcLHP68", "track_href": "https://api.spotify.com/v1/tracks/2Gw2VhDNZiPKd8rRcLHP68", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Gw2VhDNZiPKd8rRcLHP68", "duration_ms": 283907, "time_signature": 4}
+Black Catcher (Vicke Blanka)
+{"danceability": 0.592, "energy": 0.894, "key": 11, "loudness": -4.71, "mode": 0, "speechiness": 0.042, "acousticness": 0.00358, "instrumentalness": 5.32e-06, "liveness": 0.0721, "valence": 0.642, "tempo": 100.026, "type": "audio_features", "id": "2y7f8qkrgIqY5KsfPNcuix", "uri": "spotify:track:2y7f8qkrgIqY5KsfPNcuix", "track_href": "https://api.spotify.com/v1/tracks/2y7f8qkrgIqY5KsfPNcuix", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2y7f8qkrgIqY5KsfPNcuix", "duration_ms": 196947, "time_signature": 4}
+アイドル (YOASOBI)
+{"danceability": 0.574, "energy": 0.935, "key": 1, "loudness": -2.783, "mode": 1, "speechiness": 0.0926, "acousticness": 0.112, "instrumentalness": 1.07e-06, "liveness": 0.367, "valence": 0.836, "tempo": 166.008, "type": "audio_features", "id": "7ovUcF5uHTBRzUpB6ZOmvt", "uri": "spotify:track:7ovUcF5uHTBRzUpB6ZOmvt", "track_href": "https://api.spotify.com/v1/tracks/7ovUcF5uHTBRzUpB6ZOmvt", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ovUcF5uHTBRzUpB6ZOmvt", "duration_ms": 213234, "time_signature": 4}
+シルエット (KANA-BOON)
+{"danceability": 0.436, "energy": 0.934, "key": 2, "loudness": -2.685, "mode": 1, "speechiness": 0.0507, "acousticness": 1.03e-05, "instrumentalness": 0.14, "liveness": 0.321, "valence": 0.384, "tempo": 91.481, "type": "audio_features", "id": "1di1C0QI6Y92yZPYn6XYAZ", "uri": "spotify:track:1di1C0QI6Y92yZPYn6XYAZ", "track_href": "https://api.spotify.com/v1/tracks/1di1C0QI6Y92yZPYn6XYAZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1di1C0QI6Y92yZPYn6XYAZ", "duration_ms": 240133, "time_signature": 4}
+なんでもないや - movie ver. (RADWIMPS)
+{"danceability": 0.489, "energy": 0.461, "key": 6, "loudness": -6.164, "mode": 1, "speechiness": 0.032, "acousticness": 0.254, "instrumentalness": 0, "liveness": 0.284, "valence": 0.487, "tempo": 168.126, "type": "audio_features", "id": "3SMpsXpVrFju2OUzFtJPws", "uri": "spotify:track:3SMpsXpVrFju2OUzFtJPws", "track_href": "https://api.spotify.com/v1/tracks/3SMpsXpVrFju2OUzFtJPws", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3SMpsXpVrFju2OUzFtJPws", "duration_ms": 344053, "time_signature": 4}
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: 波乗りジョニー(Keisuke Kuwata)    https://open.spotify.com/track/3hjHUf3frPoh9jcYDkqXUV
+name: CHEERS(Mrs. GREEN APPLE)    https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: 魔法のコトバ(SPITZ)    https://open.spotify.com/track/6o6XNRr7tosVpTk6Ijuzbf
+name: クラシックハイ(Genie High)    https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9
+name: LITTLE BUSTERS(the pillows)    https://open.spotify.com/track/3drkMusU7U9CDCovDTGixk
+name: 名もなき詩(Mr.Children)    https://open.spotify.com/track/60ba7YZ3yqbCDGAkPNXzBh
+name: WILD ANGEL(ALI)    https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM
+name: Love so sweet(ARASHI)    https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm
+------------------<score>-----------------------
+score: 0

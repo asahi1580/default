@@ -1,0 +1,35 @@
+2023年11月10日 14:36:41
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+ジェヘナ (feat. 初音ミク) (wotaku)
+{"danceability": 0.702, "energy": 0.938, "key": 11, "loudness": -2.723, "mode": 1, "speechiness": 0.0665, "acousticness": 0.356, "instrumentalness": 0, "liveness": 0.359, "valence": 0.962, "tempo": 128.001, "type": "audio_features", "id": "2PBvI8nr1GSMEt43TIV2f2", "uri": "spotify:track:2PBvI8nr1GSMEt43TIV2f2", "track_href": "https://api.spotify.com/v1/tracks/2PBvI8nr1GSMEt43TIV2f2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2PBvI8nr1GSMEt43TIV2f2", "duration_ms": 246438, "time_signature": 4}
+鎖の少女-Re Alive- (Noboru)
+{"danceability": 0.516, "energy": 0.951, "key": 4, "loudness": -3.795, "mode": 0, "speechiness": 0.0574, "acousticness": 0.000316, "instrumentalness": 0.0145, "liveness": 0.303, "valence": 0.452, "tempo": 134.996, "type": "audio_features", "id": "2cdGB5MpBf58Gl2bnKyTdC", "uri": "spotify:track:2cdGB5MpBf58Gl2bnKyTdC", "track_href": "https://api.spotify.com/v1/tracks/2cdGB5MpBf58Gl2bnKyTdC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2cdGB5MpBf58Gl2bnKyTdC", "duration_ms": 285827, "time_signature": 4}
+脱げばいいってモンじゃない! (DeadballP)
+{"danceability": 0.525, "energy": 0.961, "key": 8, "loudness": -3.497, "mode": 1, "speechiness": 0.069, "acousticness": 0.0011, "instrumentalness": 0, "liveness": 0.192, "valence": 0.742, "tempo": 154.878, "type": "audio_features", "id": "6tLKnnoWA6uDJAuHBBTKvb", "uri": "spotify:track:6tLKnnoWA6uDJAuHBBTKvb", "track_href": "https://api.spotify.com/v1/tracks/6tLKnnoWA6uDJAuHBBTKvb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6tLKnnoWA6uDJAuHBBTKvb", "duration_ms": 262548, "time_signature": 4}
+とても素敵な六月でした (Eight)
+{"danceability": 0.599, "energy": 0.947, "key": 8, "loudness": -3.37, "mode": 1, "speechiness": 0.0651, "acousticness": 0.0606, "instrumentalness": 0, "liveness": 0.314, "valence": 0.582, "tempo": 104.98, "type": "audio_features", "id": "77HJqStuYCz0gk9bg4VAvD", "uri": "spotify:track:77HJqStuYCz0gk9bg4VAvD", "track_href": "https://api.spotify.com/v1/tracks/77HJqStuYCz0gk9bg4VAvD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/77HJqStuYCz0gk9bg4VAvD", "duration_ms": 283427, "time_signature": 4}
+Flying Get (AKB48)
+{"danceability": 0.523, "energy": 0.977, "key": 0, "loudness": -1.896, "mode": 0, "speechiness": 0.144, "acousticness": 0.0594, "instrumentalness": 4.89e-06, "liveness": 0.37, "valence": 0.6, "tempo": 131.043, "type": "audio_features", "id": "5FtItNJFW1l7ZIFDshy466", "uri": "spotify:track:5FtItNJFW1l7ZIFDshy466", "track_href": "https://api.spotify.com/v1/tracks/5FtItNJFW1l7ZIFDshy466", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5FtItNJFW1l7ZIFDshy466", "duration_ms": 254587, "time_signature": 4}
+name: I'm a mess(MY FIRST STORY)    https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg
+name: WILD ANGEL(ALI)    https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM
+name: NE-TAXI(Creep Hyp)    https://open.spotify.com/track/6OpAP8bcAgizcLl5e6RISs
+name: Mela!(Ryokuoushoku Shakai)    https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD
+name: Mela!(Ryokuoushoku Shakai)    https://open.spotify.com/track/6fF4cFFiKsb2T2IFHaXezn
+name: 陽はまた昇るから(Ryokuoushoku Shakai)    https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7
+name: No More Cry(D-51)    https://open.spotify.com/track/6OitPk0ZtxFg2ixRKV6Y1h
+name: PHOENIX(BURNOUT SYNDROMES)    https://open.spotify.com/track/2c6LZVF5Q0rKAGmWOB0yM3
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: 極楽浄土(GARNiDELiA)    https://open.spotify.com/track/0A5OmgH04i4mmV4HDzaIgc
+name: King of Light(Seraphilight)    https://open.spotify.com/track/6LyqX3djXJ58kCoSqmXLCf
+name: すきなことだけでいいです(PinocchioP)    https://open.spotify.com/track/4xA8U5glXvRKG7td2JbFmN
+name: Believe(Kana Nishino)    https://open.spotify.com/track/523WF9wUHTDD47lNlJZf40
+name: キャラクター(Ryokuoushoku Shakai)    https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi
+name: キャラクター(Ryokuoushoku Shakai)    https://open.spotify.com/track/0O4YelF6Zneq7sk1Ye73N2
+name: 一斉ノ喝采(LiSA)    https://open.spotify.com/track/1rZxzheHxWqFG7f58kXZrm
+name: タイミング~Timing~ フレンズcover ver.(フレンズ)    https://open.spotify.com/track/5Oi8XtvciTQo6vmffKI31Z
+name: KOIHANABI(BMK)    https://open.spotify.com/track/5wT0zXznbieJoRJHNS442t
+name: SPECIALZ(King Gnu)    https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF
+name: 関白宣言(My Hair is Bad)    https://open.spotify.com/track/2KSlWmvOhZzAz0ByZWeo6C
+------------------<score>-----------------------
+score: 0

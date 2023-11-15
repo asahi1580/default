@@ -1,0 +1,25 @@
+2023年11月13日 11:00:50
+yuk_score.py
+お気に入り  https://open.spotify.com/playlist/6z1Fbn53QQUgu1YuBgM72y
+笑顔 (Ikimonogakari)
+{"danceability": 0.56, "energy": 0.778, "key": 2, "loudness": -3.223, "mode": 1, "speechiness": 0.0289, "acousticness": 0.154, "instrumentalness": 0, "liveness": 0.0843, "valence": 0.589, "tempo": 151.942, "type": "audio_features", "id": "1dYFiDCkODoBht8HtTuW7E", "uri": "spotify:track:1dYFiDCkODoBht8HtTuW7E", "track_href": "https://api.spotify.com/v1/tracks/1dYFiDCkODoBht8HtTuW7E", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dYFiDCkODoBht8HtTuW7E", "duration_ms": 298933, "time_signature": 4}
+夜撫でるメノウ (Ayase)
+{"danceability": 0.702, "energy": 0.732, "key": 10, "loudness": -6.803, "mode": 1, "speechiness": 0.0266, "acousticness": 0.0749, "instrumentalness": 0, "liveness": 0.297, "valence": 0.636, "tempo": 100.0, "type": "audio_features", "id": "6IHWPY5iBUI1AOUclbtE6F", "uri": "spotify:track:6IHWPY5iBUI1AOUclbtE6F", "track_href": "https://api.spotify.com/v1/tracks/6IHWPY5iBUI1AOUclbtE6F", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6IHWPY5iBUI1AOUclbtE6F", "duration_ms": 262800, "time_signature": 4}
+恋におちたら (Crystal Kay)
+{"danceability": 0.559, "energy": 0.89, "key": 8, "loudness": -4.788, "mode": 1, "speechiness": 0.0431, "acousticness": 0.0265, "instrumentalness": 0, "liveness": 0.0607, "valence": 0.561, "tempo": 101.982, "type": "audio_features", "id": "5DbmxTOAedNgCI1demnPkR", "uri": "spotify:track:5DbmxTOAedNgCI1demnPkR", "track_href": "https://api.spotify.com/v1/tracks/5DbmxTOAedNgCI1demnPkR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DbmxTOAedNgCI1demnPkR", "duration_ms": 270187, "time_signature": 4}
+夜撫でるメノウ (Ayase)
+{"danceability": 0.702, "energy": 0.732, "key": 10, "loudness": -6.803, "mode": 1, "speechiness": 0.0266, "acousticness": 0.0749, "instrumentalness": 0, "liveness": 0.297, "valence": 0.636, "tempo": 100.0, "type": "audio_features", "id": "6IHWPY5iBUI1AOUclbtE6F", "uri": "spotify:track:6IHWPY5iBUI1AOUclbtE6F", "track_href": "https://api.spotify.com/v1/tracks/6IHWPY5iBUI1AOUclbtE6F", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6IHWPY5iBUI1AOUclbtE6F", "duration_ms": 262800, "time_signature": 4}
+ファジーネーブル (Conton Candy)
+{"danceability": 0.563, "energy": 0.645, "key": 1, "loudness": -4.53, "mode": 1, "speechiness": 0.0457, "acousticness": 0.00845, "instrumentalness": 8.06e-05, "liveness": 0.295, "valence": 0.476, "tempo": 135.022, "type": "audio_features", "id": "7gUuCeZLFynSj28GCjoiGG", "uri": "spotify:track:7gUuCeZLFynSj28GCjoiGG", "track_href": "https://api.spotify.com/v1/tracks/7gUuCeZLFynSj28GCjoiGG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7gUuCeZLFynSj28GCjoiGG", "duration_ms": 237400, "time_signature": 4}
+name: 虹(Saucy Dog)    https://open.spotify.com/track/49KOXnzn11WDaQNoqnnHUJ
+name: 道の途中(グソクムズ)    https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu
+name: LA・LA・LA LOVE SONG(ayaka)    https://open.spotify.com/track/1UzG2NHHXIlNbS3sCWUA9u
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/3719B6zxJvxpfrnC5rvItf
+name: Hug(Mrs. GREEN APPLE)    https://open.spotify.com/track/3pROyCFF6WyVtmCnbwLPxr
+name: more than words(Hitsujibungaku)    https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk
+name: more than words(Hitsujibungaku)    https://open.spotify.com/track/7tL8VoLHJJy58DEwt5AaH7
+name: シンデレラボーイ(Saucy Dog)    https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V
+name: Cinderella Boy(Saucy Dog)    https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV
+name: spiral(LONGMAN)    https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE
+------------------<score>-----------------------
+score: 0

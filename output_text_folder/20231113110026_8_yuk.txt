@@ -1,0 +1,25 @@
+2023年11月13日 11:00:57
+yuk_score.py
+お気に入り  https://open.spotify.com/playlist/6z1Fbn53QQUgu1YuBgM72y
+バイマイフレンド (bokula.)
+{"danceability": 0.604, "energy": 0.793, "key": 0, "loudness": -4.22, "mode": 1, "speechiness": 0.0326, "acousticness": 0.0122, "instrumentalness": 0, "liveness": 0.121, "valence": 0.854, "tempo": 105.994, "type": "audio_features", "id": "73qkznNMToO2Xfa7VzyBvm", "uri": "spotify:track:73qkznNMToO2Xfa7VzyBvm", "track_href": "https://api.spotify.com/v1/tracks/73qkznNMToO2Xfa7VzyBvm", "analysis_url": "https://api.spotify.com/v1/audio-analysis/73qkznNMToO2Xfa7VzyBvm", "duration_ms": 241693, "time_signature": 4}
+トウキョウ・シャンディ・ランデヴ (MAISONdes)
+{"danceability": 0.734, "energy": 0.973, "key": 6, "loudness": -1.789, "mode": 0, "speechiness": 0.0754, "acousticness": 0.0435, "instrumentalness": 0.000548, "liveness": 0.0718, "valence": 0.91, "tempo": 137.024, "type": "audio_features", "id": "2MmgGuQzr0kkiA04lMdPXW", "uri": "spotify:track:2MmgGuQzr0kkiA04lMdPXW", "track_href": "https://api.spotify.com/v1/tracks/2MmgGuQzr0kkiA04lMdPXW", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2MmgGuQzr0kkiA04lMdPXW", "duration_ms": 184767, "time_signature": 4}
+Yummy (Justin Bieber)
+{"danceability": 0.687, "energy": 0.514, "key": 9, "loudness": -6.612, "mode": 0, "speechiness": 0.0897, "acousticness": 0.366, "instrumentalness": 0, "liveness": 0.116, "valence": 0.494, "tempo": 145.921, "type": "audio_features", "id": "41L3O37CECZt3N7ziG2z7l", "uri": "spotify:track:41L3O37CECZt3N7ziG2z7l", "track_href": "https://api.spotify.com/v1/tracks/41L3O37CECZt3N7ziG2z7l", "analysis_url": "https://api.spotify.com/v1/audio-analysis/41L3O37CECZt3N7ziG2z7l", "duration_ms": 210427, "time_signature": 4}
+流れ (Yusuke)
+{"danceability": 0.616, "energy": 0.639, "key": 7, "loudness": -4.828, "mode": 1, "speechiness": 0.025, "acousticness": 0.38, "instrumentalness": 0, "liveness": 0.383, "valence": 0.409, "tempo": 75.994, "type": "audio_features", "id": "3Zv5Ztwk2v70k5Nbeqmrwk", "uri": "spotify:track:3Zv5Ztwk2v70k5Nbeqmrwk", "track_href": "https://api.spotify.com/v1/tracks/3Zv5Ztwk2v70k5Nbeqmrwk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Zv5Ztwk2v70k5Nbeqmrwk", "duration_ms": 246440, "time_signature": 4}
+君色 (Da-iCE)
+{"danceability": 0.625, "energy": 0.823, "key": 4, "loudness": -3.606, "mode": 1, "speechiness": 0.0354, "acousticness": 0.316, "instrumentalness": 0, "liveness": 0.364, "valence": 0.592, "tempo": 97.028, "type": "audio_features", "id": "7u2JWq3KvyzNMJr91nn9E4", "uri": "spotify:track:7u2JWq3KvyzNMJr91nn9E4", "track_href": "https://api.spotify.com/v1/tracks/7u2JWq3KvyzNMJr91nn9E4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7u2JWq3KvyzNMJr91nn9E4", "duration_ms": 273067, "time_signature": 4}
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: Happier(Marshmello)    https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99
+name: Hug(Mrs. GREEN APPLE)    https://open.spotify.com/track/3pROyCFF6WyVtmCnbwLPxr
+name: あなたの好きなところ(Kana Nishino)    https://open.spotify.com/track/5k24cAgfb6WH5YxEYgU3fm
+name: あぁ、もう。(Saucy Dog)    https://open.spotify.com/track/7G4rZHIBiXJNFmLYXtWCPm
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/0tlp9m2rIsY4R6d9ZIuhfn
+name: Future(STAR SEEED)    https://open.spotify.com/track/2WC9vOon0XlvT9zYGCtKj7
+name: Fast(Sugar Goose)    https://open.spotify.com/track/6gWhs3VSUpZtm2tcDPVPXI
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO
+------------------<score>-----------------------
+score: 0

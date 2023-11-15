@@ -1,0 +1,25 @@
+2023年11月10日 11:39:47
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+怪獣の花唄 (Vaundy)
+{"danceability": 0.425, "energy": 0.939, "key": 2, "loudness": -3.498, "mode": 1, "speechiness": 0.054, "acousticness": 0.00361, "instrumentalness": 0, "liveness": 0.331, "valence": 0.638, "tempo": 150.015, "type": "audio_features", "id": "65zCSX2CSQXp1vr4hNtHDv", "uri": "spotify:track:65zCSX2CSQXp1vr4hNtHDv", "track_href": "https://api.spotify.com/v1/tracks/65zCSX2CSQXp1vr4hNtHDv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/65zCSX2CSQXp1vr4hNtHDv", "duration_ms": 224806, "time_signature": 4}
+春を告げる (yama)
+{"danceability": 0.548, "energy": 0.871, "key": 11, "loudness": -5.377, "mode": 1, "speechiness": 0.123, "acousticness": 0.0397, "instrumentalness": 0, "liveness": 0.357, "valence": 0.487, "tempo": 120.009, "type": "audio_features", "id": "2Gmyw5Vg2X5YW2lM3OC7nD", "uri": "spotify:track:2Gmyw5Vg2X5YW2lM3OC7nD", "track_href": "https://api.spotify.com/v1/tracks/2Gmyw5Vg2X5YW2lM3OC7nD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Gmyw5Vg2X5YW2lM3OC7nD", "duration_ms": 196497, "time_signature": 4}
+ナンセンス文学 (Eve)
+{"danceability": 0.525, "energy": 0.942, "key": 11, "loudness": -1.498, "mode": 0, "speechiness": 0.0509, "acousticness": 0.0111, "instrumentalness": 0, "liveness": 0.0727, "valence": 0.859, "tempo": 154.224, "type": "audio_features", "id": "6zvnmyKMWPhpJWxk2DSerR", "uri": "spotify:track:6zvnmyKMWPhpJWxk2DSerR", "track_href": "https://api.spotify.com/v1/tracks/6zvnmyKMWPhpJWxk2DSerR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zvnmyKMWPhpJWxk2DSerR", "duration_ms": 203760, "time_signature": 4}
+HELLO (OFFICIAL HIGE DANDISM)
+{"danceability": 0.526, "energy": 0.883, "key": 1, "loudness": -4.335, "mode": 0, "speechiness": 0.035, "acousticness": 0.000764, "instrumentalness": 0, "liveness": 0.37, "valence": 0.538, "tempo": 126.968, "type": "audio_features", "id": "2SzXlu48l0sqApK9hBWZtg", "uri": "spotify:track:2SzXlu48l0sqApK9hBWZtg", "track_href": "https://api.spotify.com/v1/tracks/2SzXlu48l0sqApK9hBWZtg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SzXlu48l0sqApK9hBWZtg", "duration_ms": 280453, "time_signature": 4}
+Anarchy (OFFICIAL HIGE DANDISM)
+{"danceability": 0.7, "energy": 0.716, "key": 11, "loudness": -7.834, "mode": 0, "speechiness": 0.0307, "acousticness": 0.000311, "instrumentalness": 0.00254, "liveness": 0.101, "valence": 0.471, "tempo": 133.968, "type": "audio_features", "id": "0ZPYvSJZ1feuhUcG17PHqP", "uri": "spotify:track:0ZPYvSJZ1feuhUcG17PHqP", "track_href": "https://api.spotify.com/v1/tracks/0ZPYvSJZ1feuhUcG17PHqP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZPYvSJZ1feuhUcG17PHqP", "duration_ms": 268431, "time_signature": 4}
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: ライラック(美波)    https://open.spotify.com/track/3WePQc3e2le4Vmh5W2idln
+name: 恋愛ミリフィルム(halca)    https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: JUMP(Lilas Ikuta)    https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es
+name: Desire (with Sam Smith)(Calvin Harris)    https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz
+name: ラヴ・クラウド(Perfume)    https://open.spotify.com/track/066FlsZYTfxPIgLlFoAsNI
+name: Rising Sun(EXILE)    https://open.spotify.com/track/4ux6NjzqD98nXZs4hMPrxA
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+------------------<score>-----------------------
+score: 0

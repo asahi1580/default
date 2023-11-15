@@ -1,0 +1,25 @@
+2023年11月10日 14:39:45
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+Blue Spring (Sky Filter) (心之助)
+{"danceability": 0.704, "energy": 0.836, "key": 11, "loudness": -6.188, "mode": 1, "speechiness": 0.154, "acousticness": 0.0213, "instrumentalness": 0, "liveness": 0.0742, "valence": 0.839, "tempo": 90.011, "type": "audio_features", "id": "7w40ZhnQZKfD0Mikcvhkcj", "uri": "spotify:track:7w40ZhnQZKfD0Mikcvhkcj", "track_href": "https://api.spotify.com/v1/tracks/7w40ZhnQZKfD0Mikcvhkcj", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7w40ZhnQZKfD0Mikcvhkcj", "duration_ms": 207033, "time_signature": 4}
+スターマーカー (KANA-BOON)
+{"danceability": 0.498, "energy": 0.846, "key": 4, "loudness": -3.196, "mode": 1, "speechiness": 0.0419, "acousticness": 0.019, "instrumentalness": 0, "liveness": 0.302, "valence": 0.764, "tempo": 133.955, "type": "audio_features", "id": "0pQm5AbAaVy9XrOLf7rgSF", "uri": "spotify:track:0pQm5AbAaVy9XrOLf7rgSF", "track_href": "https://api.spotify.com/v1/tracks/0pQm5AbAaVy9XrOLf7rgSF", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0pQm5AbAaVy9XrOLf7rgSF", "duration_ms": 213433, "time_signature": 4}
+New street, New world (ROF-MAO)
+{"danceability": 0.612, "energy": 0.987, "key": 1, "loudness": -2.383, "mode": 0, "speechiness": 0.158, "acousticness": 0.0093, "instrumentalness": 0, "liveness": 0.209, "valence": 0.543, "tempo": 103.992, "type": "audio_features", "id": "2hCdomEPduZ1Ew2OfdbaaX", "uri": "spotify:track:2hCdomEPduZ1Ew2OfdbaaX", "track_href": "https://api.spotify.com/v1/tracks/2hCdomEPduZ1Ew2OfdbaaX", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2hCdomEPduZ1Ew2OfdbaaX", "duration_ms": 220000, "time_signature": 4}
+スターマーカー (KANA-BOON)
+{"danceability": 0.498, "energy": 0.846, "key": 4, "loudness": -3.196, "mode": 1, "speechiness": 0.0419, "acousticness": 0.019, "instrumentalness": 0, "liveness": 0.302, "valence": 0.764, "tempo": 133.955, "type": "audio_features", "id": "0pQm5AbAaVy9XrOLf7rgSF", "uri": "spotify:track:0pQm5AbAaVy9XrOLf7rgSF", "track_href": "https://api.spotify.com/v1/tracks/0pQm5AbAaVy9XrOLf7rgSF", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0pQm5AbAaVy9XrOLf7rgSF", "duration_ms": 213433, "time_signature": 4}
+Tokyo (Leat'eq)
+{"danceability": 0.743, "energy": 0.879, "key": 5, "loudness": -2.717, "mode": 0, "speechiness": 0.0339, "acousticness": 0.0725, "instrumentalness": 0.00141, "liveness": 0.081, "valence": 0.636, "tempo": 101.968, "type": "audio_features", "id": "2Anpk7AihEt38POoMEDqRb", "uri": "spotify:track:2Anpk7AihEt38POoMEDqRb", "track_href": "https://api.spotify.com/v1/tracks/2Anpk7AihEt38POoMEDqRb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Anpk7AihEt38POoMEDqRb", "duration_ms": 174118, "time_signature": 4}
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: Don't Leave Yet(Eric Nam)    https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD
+name: Falling Down((sic)boy)    https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe
+name: 棒人間(RADWIMPS)    https://open.spotify.com/track/2wsyebeX4ptSxKIpJtWE6B
+name: 煽動海獣ダイパンダ(笹木咲)    https://open.spotify.com/track/4ZhRmL9viOvvkZ7hfxa4i5
+name: MANINGEN(ATARASHII GAKKO!)    https://open.spotify.com/track/1nXJ9tQgg3f3NzxHiQLooI
+name: MANINGEN(ATARASHII GAKKO!)    https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: Born to be(NANO)    https://open.spotify.com/track/11IAIDVqilWB31eiz8lrbN
+------------------<score>-----------------------
+score: 0

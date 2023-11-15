@@ -1,0 +1,25 @@
+2023年11月13日 10:55:00
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+君の恋人になったら (back number)
+{"danceability": 0.417, "energy": 0.886, "key": 5, "loudness": -2.06, "mode": 1, "speechiness": 0.0655, "acousticness": 0.00166, "instrumentalness": 0, "liveness": 0.125, "valence": 0.393, "tempo": 140.075, "type": "audio_features", "id": "0k4KaqElLVjdR6sVHPTS6h", "uri": "spotify:track:0k4KaqElLVjdR6sVHPTS6h", "track_href": "https://api.spotify.com/v1/tracks/0k4KaqElLVjdR6sVHPTS6h", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0k4KaqElLVjdR6sVHPTS6h", "duration_ms": 244067, "time_signature": 4}
+オールドファッション (back number)
+{"danceability": 0.386, "energy": 0.806, "key": 6, "loudness": -3.647, "mode": 1, "speechiness": 0.0499, "acousticness": 0.0788, "instrumentalness": 0, "liveness": 0.104, "valence": 0.394, "tempo": 175.953, "type": "audio_features", "id": "0Xn30nT5EKFPsWvpiJ2Iav", "uri": "spotify:track:0Xn30nT5EKFPsWvpiJ2Iav", "track_href": "https://api.spotify.com/v1/tracks/0Xn30nT5EKFPsWvpiJ2Iav", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Xn30nT5EKFPsWvpiJ2Iav", "duration_ms": 254440, "time_signature": 4}
+スパークル (Lilas Ikuta)
+{"danceability": 0.614, "energy": 0.579, "key": 11, "loudness": -4.937, "mode": 1, "speechiness": 0.038, "acousticness": 0.417, "instrumentalness": 0, "liveness": 0.0666, "valence": 0.692, "tempo": 149.831, "type": "audio_features", "id": "6EuubEs5qOmJdpNhkU47OZ", "uri": "spotify:track:6EuubEs5qOmJdpNhkU47OZ", "track_href": "https://api.spotify.com/v1/tracks/6EuubEs5qOmJdpNhkU47OZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6EuubEs5qOmJdpNhkU47OZ", "duration_ms": 213600, "time_signature": 4}
+YOU&I (Shota Shimizu)
+{"danceability": 0.602, "energy": 0.725, "key": 11, "loudness": -5.052, "mode": 1, "speechiness": 0.0667, "acousticness": 0.0582, "instrumentalness": 0, "liveness": 0.0867, "valence": 0.366, "tempo": 95.928, "type": "audio_features", "id": "1fkubS6hqNi6PC8hyCtSGt", "uri": "spotify:track:1fkubS6hqNi6PC8hyCtSGt", "track_href": "https://api.spotify.com/v1/tracks/1fkubS6hqNi6PC8hyCtSGt", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1fkubS6hqNi6PC8hyCtSGt", "duration_ms": 222413, "time_signature": 4}
+ただ、ありがとう (Monkey Majik)
+{"danceability": 0.554, "energy": 0.712, "key": 9, "loudness": -4.306, "mode": 1, "speechiness": 0.0277, "acousticness": 0.474, "instrumentalness": 0, "liveness": 0.34, "valence": 0.683, "tempo": 87.02, "type": "audio_features", "id": "3ayTR482XA5dvsAiPU3di6", "uri": "spotify:track:3ayTR482XA5dvsAiPU3di6", "track_href": "https://api.spotify.com/v1/tracks/3ayTR482XA5dvsAiPU3di6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ayTR482XA5dvsAiPU3di6", "duration_ms": 223000, "time_signature": 4}
+name: ダンデライオン(Da-iCE)    https://open.spotify.com/track/5BQ2xOi9ZLwLS79VHYsGzk
+name: Stay Alive (Prod. SUGA of BTS)(Jung Kook)    https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+name: 高架線(マカロニえんぴつ)    https://open.spotify.com/track/03VQWHRWN9CQejftfWDXX3
+name: 結(Saucy Dog)    https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd
+name: 五月雨よ(櫻坂46)    https://open.spotify.com/track/60JARyaZiozH00NeLWhcgt
+name: ギュッと(Little Glee Monster)    https://open.spotify.com/track/7cyViQmj1Vp2C5PA0ojtFB
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: PRIDE(チョーキューメイ)    https://open.spotify.com/track/6YSiCQPEEEimysown5ad19
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/5T1WB7ybJEf90xPUR0Yqa7
+------------------<score>-----------------------
+score: 0

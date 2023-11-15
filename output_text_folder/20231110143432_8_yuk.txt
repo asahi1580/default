@@ -1,0 +1,25 @@
+2023年11月10日 14:35:06
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+脱げばいいってモンじゃない! (DeadballP)
+{"danceability": 0.525, "energy": 0.961, "key": 8, "loudness": -3.497, "mode": 1, "speechiness": 0.069, "acousticness": 0.0011, "instrumentalness": 0, "liveness": 0.192, "valence": 0.742, "tempo": 154.878, "type": "audio_features", "id": "6tLKnnoWA6uDJAuHBBTKvb", "uri": "spotify:track:6tLKnnoWA6uDJAuHBBTKvb", "track_href": "https://api.spotify.com/v1/tracks/6tLKnnoWA6uDJAuHBBTKvb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6tLKnnoWA6uDJAuHBBTKvb", "duration_ms": 262548, "time_signature": 4}
+さわやか会社員 (Soutaiseiriron)
+{"danceability": 0.641, "energy": 0.843, "key": 1, "loudness": -3.898, "mode": 0, "speechiness": 0.0404, "acousticness": 0.12, "instrumentalness": 2.92e-05, "liveness": 0.0989, "valence": 0.69, "tempo": 121.963, "type": "audio_features", "id": "7wAhg1bclLYzOjAn2eCxPz", "uri": "spotify:track:7wAhg1bclLYzOjAn2eCxPz", "track_href": "https://api.spotify.com/v1/tracks/7wAhg1bclLYzOjAn2eCxPz", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7wAhg1bclLYzOjAn2eCxPz", "duration_ms": 263627, "time_signature": 4}
+社会の窓 (Creep Hyp)
+{"danceability": 0.576, "energy": 0.881, "key": 9, "loudness": -2.359, "mode": 0, "speechiness": 0.172, "acousticness": 0.173, "instrumentalness": 0, "liveness": 0.171, "valence": 0.644, "tempo": 129.739, "type": "audio_features", "id": "42Nb21D2QsxTS3GbqxP7Yg", "uri": "spotify:track:42Nb21D2QsxTS3GbqxP7Yg", "track_href": "https://api.spotify.com/v1/tracks/42Nb21D2QsxTS3GbqxP7Yg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/42Nb21D2QsxTS3GbqxP7Yg", "duration_ms": 207645, "time_signature": 4}
+ラプンツェル (n-buna)
+{"danceability": 0.566, "energy": 0.507, "key": 7, "loudness": -6.03, "mode": 1, "speechiness": 0.0278, "acousticness": 0.234, "instrumentalness": 1.71e-05, "liveness": 0.147, "valence": 0.399, "tempo": 160.044, "type": "audio_features", "id": "35FGdwyP86tUBRXLNGbUlG", "uri": "spotify:track:35FGdwyP86tUBRXLNGbUlG", "track_href": "https://api.spotify.com/v1/tracks/35FGdwyP86tUBRXLNGbUlG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/35FGdwyP86tUBRXLNGbUlG", "duration_ms": 266576, "time_signature": 4}
+心做し (majiko)
+{"danceability": 0.528, "energy": 0.593, "key": 1, "loudness": -3.68, "mode": 1, "speechiness": 0.0545, "acousticness": 0.289, "instrumentalness": 0.00054, "liveness": 0.0724, "valence": 0.351, "tempo": 167.238, "type": "audio_features", "id": "7iYdGuVLqb5bwOlgA6oKGs", "uri": "spotify:track:7iYdGuVLqb5bwOlgA6oKGs", "track_href": "https://api.spotify.com/v1/tracks/7iYdGuVLqb5bwOlgA6oKGs", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7iYdGuVLqb5bwOlgA6oKGs", "duration_ms": 273583, "time_signature": 4}
+name: GOKU VIBES(DJ CHARI)    https://open.spotify.com/track/3ONpcsH0VHshaLqnghaq0S
+name: コーヒーとシロップ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/6l1P9avGqv8oHBjwxp2ABq
+name: ノンブレス・オブリージュ(PinocchioP)    https://open.spotify.com/track/5blgKDJ31u2C27jOcya3k9
+name: メフィスト(QUEEN BEE)    https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG
+name: Shinunoga E-Wa(Fujii Kaze)    https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW
+name: 死ぬのがいいわ(Fujii Kaze)    https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6
+name: MIRROR MIRROR(HIRAIDAI)    https://open.spotify.com/track/3nFxkwyRpr4xYBR9Z0ywjo
+name: MIRROR MIRROR(HIRAIDAI)    https://open.spotify.com/track/0Sp31BXc9dedQnfKYCiojE
+name: Actually...(Nogizaka46)    https://open.spotify.com/track/4pfJEUjNi65LLQcEBHaWAz
+name: A面で恋をして(NIAGARA TRIANGLE)    https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH
+------------------<score>-----------------------
+score: 0

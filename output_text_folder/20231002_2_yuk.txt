@@ -1,0 +1,26 @@
+2023年10月02日 13:56:55
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+真夏の果実 (サザンオールスターズ)
+{"danceability": 0.466, "energy": 0.541, "key": 2, "loudness": -7.687, "mode": 1, "speechiness": 0.0447, "acousticness": 0.825, "instrumentalness": 0.00304, "liveness": 0.0903, "valence": 0.436, "tempo": 201.295, "type": "audio_features", "id": "3AVLsBieDGotYuo5RPEL64", "uri": "spotify:track:3AVLsBieDGotYuo5RPEL64", "track_href": "https://api.spotify.com/v1/tracks/3AVLsBieDGotYuo5RPEL64", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3AVLsBieDGotYuo5RPEL64", "duration_ms": 279300, "time_signature": 4}
+ホワイトキス (鈴木鈴木)
+{"danceability": 0.704, "energy": 0.797, "key": 1, "loudness": -4.7, "mode": 1, "speechiness": 0.0505, "acousticness": 0.133, "instrumentalness": 0, "liveness": 0.284, "valence": 0.619, "tempo": 110.003, "type": "audio_features", "id": "7sRYDTjWTX00fd9BCOflLo", "uri": "spotify:track:7sRYDTjWTX00fd9BCOflLo", "track_href": "https://api.spotify.com/v1/tracks/7sRYDTjWTX00fd9BCOflLo", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7sRYDTjWTX00fd9BCOflLo", "duration_ms": 274860, "time_signature": 4}
+あーあ。 (ReN)
+{"danceability": 0.636, "energy": 0.509, "key": 1, "loudness": -8.079, "mode": 1, "speechiness": 0.0639, "acousticness": 0.208, "instrumentalness": 0, "liveness": 0.108, "valence": 0.379, "tempo": 169.896, "type": "audio_features", "id": "5sNFmrc2sbS3LZ4WNxHFej", "uri": "spotify:track:5sNFmrc2sbS3LZ4WNxHFej", "track_href": "https://api.spotify.com/v1/tracks/5sNFmrc2sbS3LZ4WNxHFej", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5sNFmrc2sbS3LZ4WNxHFej", "duration_ms": 168762, "time_signature": 4}
+Dear My Boo (MIREI)
+{"danceability": 0.666, "energy": 0.634, "key": 6, "loudness": -5.582, "mode": 1, "speechiness": 0.0404, "acousticness": 0.412, "instrumentalness": 0, "liveness": 0.138, "valence": 0.34, "tempo": 78.989, "type": "audio_features", "id": "3GP5aLCLIODRjo3563TD3b", "uri": "spotify:track:3GP5aLCLIODRjo3563TD3b", "track_href": "https://api.spotify.com/v1/tracks/3GP5aLCLIODRjo3563TD3b", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GP5aLCLIODRjo3563TD3b", "duration_ms": 261493, "time_signature": 4}
+私たち (Kana Nishino)
+{"danceability": 0.554, "energy": 0.671, "key": 6, "loudness": -3.907, "mode": 1, "speechiness": 0.0303, "acousticness": 0.416, "instrumentalness": 0, "liveness": 0.273, "valence": 0.456, "tempo": 89.986, "type": "audio_features", "id": "4ZGI27l5Vs1zrrrEZIWxZa", "uri": "spotify:track:4ZGI27l5Vs1zrrrEZIWxZa", "track_href": "https://api.spotify.com/v1/tracks/4ZGI27l5Vs1zrrrEZIWxZa", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ZGI27l5Vs1zrrrEZIWxZa", "duration_ms": 349587, "time_signature": 4}
+name: All Night(Georgia)    https://open.spotify.com/track/2iYGhKqO7kNYXebhHf0b9m
+name: if(Kana Nishino)    https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P
+name: Kings & Queens(Ava Max)    https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI
+name: マジックアワー(れん)    https://open.spotify.com/track/5KFwt828Q8lPpUSs69TWZV
+name: ファジーネーブル(Conton Candy)    https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG
+name: 私は猫の目(Sheena Ringo)    https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd
+name: 金木犀の夜(Kinokoteikoku)    https://open.spotify.com/track/27udJcfu06TvbbOpgfxIlw
+name: Dandelions(Ruth B.)    https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV
+name: ベニクラゲ(POLKADOT STINGRAY)    https://open.spotify.com/track/4h2Sy2PxRowigzLCzeqoqP
+name: Boukenroku(Eve)    https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5
+------------------<score>-----------------------
+if  https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P
+score: 1

@@ -1,0 +1,25 @@
+2023年11月13日 11:07:58
+yuk_score.py
+お気に入り20220921  https://open.spotify.com/playlist/7Beiqu1Ua5nmCrLm4fx7oc
+しんちゃんマ－チ～オラといっしょにあるこうよ！～ (Haruo Minami)
+{"danceability": 0.743, "energy": 0.786, "key": 11, "loudness": -6.395, "mode": 0, "speechiness": 0.117, "acousticness": 0.606, "instrumentalness": 0, "liveness": 0.0465, "valence": 0.676, "tempo": 120.009, "type": "audio_features", "id": "5Yq3Y1VVejFxrBe1gmTa7F", "uri": "spotify:track:5Yq3Y1VVejFxrBe1gmTa7F", "track_href": "https://api.spotify.com/v1/tracks/5Yq3Y1VVejFxrBe1gmTa7F", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Yq3Y1VVejFxrBe1gmTa7F", "duration_ms": 276307, "time_signature": 4}
+輝きながら・・・ (Hideaki Tokunaga)
+{"danceability": 0.504, "energy": 0.472, "key": 4, "loudness": -7.271, "mode": 1, "speechiness": 0.0253, "acousticness": 0.719, "instrumentalness": 4.61e-06, "liveness": 0.322, "valence": 0.235, "tempo": 136.999, "type": "audio_features", "id": "6LC9KShjA4VGFQ8PIaVqkk", "uri": "spotify:track:6LC9KShjA4VGFQ8PIaVqkk", "track_href": "https://api.spotify.com/v1/tracks/6LC9KShjA4VGFQ8PIaVqkk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6LC9KShjA4VGFQ8PIaVqkk", "duration_ms": 269947, "time_signature": 4}
+三百六十五歩のマーチ (Kiyoko Suizenji)
+{"danceability": 0.675, "energy": 0.518, "key": 0, "loudness": -4.741, "mode": 1, "speechiness": 0.0319, "acousticness": 0.631, "instrumentalness": 0, "liveness": 0.0649, "valence": 0.875, "tempo": 114.106, "type": "audio_features", "id": "6eASPIpkKrgiOBdg9ZBpuX", "uri": "spotify:track:6eASPIpkKrgiOBdg9ZBpuX", "track_href": "https://api.spotify.com/v1/tracks/6eASPIpkKrgiOBdg9ZBpuX", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6eASPIpkKrgiOBdg9ZBpuX", "duration_ms": 177080, "time_signature": 4}
+Burning Emotion #5 (ドリフトスピリッツ)
+{"danceability": 0.533, "energy": 0.901, "key": 10, "loudness": -4.153, "mode": 0, "speechiness": 0.051, "acousticness": 0.000184, "instrumentalness": 0.968, "liveness": 0.33, "valence": 0.734, "tempo": 127.907, "type": "audio_features", "id": "6lS6KlKkHI85GSnGRil05Z", "uri": "spotify:track:6lS6KlKkHI85GSnGRil05Z", "track_href": "https://api.spotify.com/v1/tracks/6lS6KlKkHI85GSnGRil05Z", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lS6KlKkHI85GSnGRil05Z", "duration_ms": 69615, "time_signature": 4}
+Black Phoenix (Yuzo Koshiro)
+{"danceability": 0.507, "energy": 0.995, "key": 5, "loudness": -7.346, "mode": 0, "speechiness": 0.098, "acousticness": 0.00022, "instrumentalness": 0.966, "liveness": 0.382, "valence": 0.179, "tempo": 147.962, "type": "audio_features", "id": "3HB1z9gPrktBNM4glam6xB", "uri": "spotify:track:3HB1z9gPrktBNM4glam6xB", "track_href": "https://api.spotify.com/v1/tracks/3HB1z9gPrktBNM4glam6xB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3HB1z9gPrktBNM4glam6xB", "duration_ms": 348884, "time_signature": 4}
+name: 幽霊船((sic)boy)    https://open.spotify.com/track/4O1RQ3hmsGrQ4zM00EO0VY
+name: キラキラ(Kazumasa Oda)    https://open.spotify.com/track/6CVOXT79mSNWlahndeRtpq
+name: Harajuku Boy(City Cyndrome)    https://open.spotify.com/track/1542ftkCri5kDj7xKUC4OL
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/0tlp9m2rIsY4R6d9ZIuhfn
+name: ここにはないもの(Nogizaka46)    https://open.spotify.com/track/1lZyM0j1iFa4vB9xSkpjur
+name: Happiness(Che'Nelle)    https://open.spotify.com/track/55JlyXw6KeFeVC9d9uCZ2K
+name: You & Me(佐藤ミキ)    https://open.spotify.com/track/6j04uewYlGesO1udV72rv8
+name: if(Kana Nishino)    https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO
+------------------<score>-----------------------
+score: 0

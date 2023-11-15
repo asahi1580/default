@@ -1,0 +1,26 @@
+2023年11月10日 14:39:37
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+アンノウン・マザーグース (Hitorie)
+{"danceability": 0.652, "energy": 0.847, "key": 6, "loudness": -5.555, "mode": 0, "speechiness": 0.0559, "acousticness": 0.118, "instrumentalness": 0.00309, "liveness": 0.372, "valence": 0.717, "tempo": 111.007, "type": "audio_features", "id": "6SAj7hyttV1vKAsFvAo3D1", "uri": "spotify:track:6SAj7hyttV1vKAsFvAo3D1", "track_href": "https://api.spotify.com/v1/tracks/6SAj7hyttV1vKAsFvAo3D1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6SAj7hyttV1vKAsFvAo3D1", "duration_ms": 284020, "time_signature": 4}
+テレキャスタービーボーイ (すりぃ)
+{"danceability": 0.557, "energy": 0.793, "key": 8, "loudness": -5.043, "mode": 0, "speechiness": 0.0647, "acousticness": 0.116, "instrumentalness": 0, "liveness": 0.253, "valence": 0.961, "tempo": 181.97, "type": "audio_features", "id": "2rkSQrbwRoH82pA40rTQf3", "uri": "spotify:track:2rkSQrbwRoH82pA40rTQf3", "track_href": "https://api.spotify.com/v1/tracks/2rkSQrbwRoH82pA40rTQf3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rkSQrbwRoH82pA40rTQf3", "duration_ms": 165307, "time_signature": 4}
+かくれんぼ (AliA)
+{"danceability": 0.403, "energy": 0.946, "key": 2, "loudness": -3.008, "mode": 1, "speechiness": 0.0699, "acousticness": 0.00255, "instrumentalness": 0.00148, "liveness": 0.124, "valence": 0.548, "tempo": 180.144, "type": "audio_features", "id": "5wo2JjhTXS5fWV5myzuv1O", "uri": "spotify:track:5wo2JjhTXS5fWV5myzuv1O", "track_href": "https://api.spotify.com/v1/tracks/5wo2JjhTXS5fWV5myzuv1O", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5wo2JjhTXS5fWV5myzuv1O", "duration_ms": 297253, "time_signature": 4}
+美人 (CHANMINA)
+{"danceability": 0.796, "energy": 0.733, "key": 1, "loudness": -5.995, "mode": 1, "speechiness": 0.0986, "acousticness": 0.0109, "instrumentalness": 4.16e-06, "liveness": 0.24, "valence": 0.412, "tempo": 94.998, "type": "audio_features", "id": "6N19sHUX9ND67L4IBPR9yD", "uri": "spotify:track:6N19sHUX9ND67L4IBPR9yD", "track_href": "https://api.spotify.com/v1/tracks/6N19sHUX9ND67L4IBPR9yD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6N19sHUX9ND67L4IBPR9yD", "duration_ms": 158621, "time_signature": 4}
+エゴロック - long ver. (すりぃ)
+{"danceability": 0.537, "energy": 0.99, "key": 0, "loudness": -2.534, "mode": 0, "speechiness": 0.199, "acousticness": 0.0435, "instrumentalness": 0, "liveness": 0.257, "valence": 0.433, "tempo": 112.574, "type": "audio_features", "id": "2FRMwFXODegegRrfLAeVwx", "uri": "spotify:track:2FRMwFXODegegRrfLAeVwx", "track_href": "https://api.spotify.com/v1/tracks/2FRMwFXODegegRrfLAeVwx", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2FRMwFXODegegRrfLAeVwx", "duration_ms": 169529, "time_signature": 4}
+name: シャルル(balloon)    https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: CHAINSAW BLOOD(Vaundy)    https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+name: キテレツサクレツ(WONDER∞WANDER)    https://open.spotify.com/track/6Fp3w8mGfAnZiibKGG9Lur
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: 一斉ノ喝采(LiSA)    https://open.spotify.com/track/1rZxzheHxWqFG7f58kXZrm
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: 恋愛ミリフィルム(halca)    https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: ラブチーノ(Junky)    https://open.spotify.com/track/2TOylxahT43wtvKgcO41y0
+------------------<score>-----------------------
+CHAINSAW BLOOD  https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+score: 1

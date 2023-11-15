@@ -1,0 +1,25 @@
+2023年11月10日 14:31:35
+yuk_score.py
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+水平線 (back number)
+{"danceability": 0.419, "energy": 0.75, "key": 10, "loudness": -3.546, "mode": 1, "speechiness": 0.0316, "acousticness": 0.011, "instrumentalness": 0, "liveness": 0.159, "valence": 0.436, "tempo": 145.867, "type": "audio_features", "id": "5m1i6hq7dmRlp3c1utE48L", "uri": "spotify:track:5m1i6hq7dmRlp3c1utE48L", "track_href": "https://api.spotify.com/v1/tracks/5m1i6hq7dmRlp3c1utE48L", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5m1i6hq7dmRlp3c1utE48L", "duration_ms": 285396, "time_signature": 4}
+アンビリーバーズ (Kenshi Yonezu)
+{"danceability": 0.583, "energy": 0.963, "key": 1, "loudness": -3.053, "mode": 1, "speechiness": 0.0615, "acousticness": 0.00897, "instrumentalness": 0.000988, "liveness": 0.151, "valence": 0.581, "tempo": 133.026, "type": "audio_features", "id": "1YCHalpMsHDWcVmRwMxwYQ", "uri": "spotify:track:1YCHalpMsHDWcVmRwMxwYQ", "track_href": "https://api.spotify.com/v1/tracks/1YCHalpMsHDWcVmRwMxwYQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YCHalpMsHDWcVmRwMxwYQ", "duration_ms": 282880, "time_signature": 4}
+春愁 (Mrs. GREEN APPLE)
+{"danceability": 0.724, "energy": 0.444, "key": 10, "loudness": -4.903, "mode": 1, "speechiness": 0.0412, "acousticness": 0.0121, "instrumentalness": 0, "liveness": 0.123, "valence": 0.739, "tempo": 129.962, "type": "audio_features", "id": "5SHguvOUbyPTINNjCvRo8K", "uri": "spotify:track:5SHguvOUbyPTINNjCvRo8K", "track_href": "https://api.spotify.com/v1/tracks/5SHguvOUbyPTINNjCvRo8K", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SHguvOUbyPTINNjCvRo8K", "duration_ms": 183800, "time_signature": 4}
+Shape of You (Ed Sheeran)
+{"danceability": 0.825, "energy": 0.652, "key": 1, "loudness": -3.183, "mode": 0, "speechiness": 0.0802, "acousticness": 0.581, "instrumentalness": 0, "liveness": 0.0931, "valence": 0.931, "tempo": 95.977, "type": "audio_features", "id": "7qiZfU4dY1lWllzX7mPBI3", "uri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3", "track_href": "https://api.spotify.com/v1/tracks/7qiZfU4dY1lWllzX7mPBI3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7qiZfU4dY1lWllzX7mPBI3", "duration_ms": 233713, "time_signature": 4}
+ツキミソウ (Novelbright)
+{"danceability": 0.481, "energy": 0.611, "key": 6, "loudness": -4.248, "mode": 1, "speechiness": 0.0354, "acousticness": 0.413, "instrumentalness": 0, "liveness": 0.255, "valence": 0.436, "tempo": 155.788, "type": "audio_features", "id": "0UWTRBGWfOp709f6rxd63R", "uri": "spotify:track:0UWTRBGWfOp709f6rxd63R", "track_href": "https://api.spotify.com/v1/tracks/0UWTRBGWfOp709f6rxd63R", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0UWTRBGWfOp709f6rxd63R", "duration_ms": 307609, "time_signature": 4}
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: サラ・ジェーン(サザンオールスターズ)    https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT
+name: 会いにいこう(UA)    https://open.spotify.com/track/30zHq1T2xqEjuG3H4Mrb0s
+name: ことほぎ(Tele)    https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F
+name: Suite Life (Familiar) - Bonus Track(FLO)    https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq
+name: PRIDE(チョーキューメイ)    https://open.spotify.com/track/6YSiCQPEEEimysown5ad19
+name: ロマンスの神様(Kohmi Hirose)    https://open.spotify.com/track/0xYSgQHddr1lh6IfqWgn2W
+name: 幽霊船((sic)boy)    https://open.spotify.com/track/4O1RQ3hmsGrQ4zM00EO0VY
+name: 結(Saucy Dog)    https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd
+name: Riverside Hotel(S. Kiyotaka & Omega Tribe)    https://open.spotify.com/track/1XNCDQ5vKH9Am4d2LiWYzI
+------------------<score>-----------------------
+score: 0

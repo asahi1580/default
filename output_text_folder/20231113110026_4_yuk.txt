@@ -1,0 +1,25 @@
+2023年11月13日 11:00:42
+yuk_score.py
+お気に入り  https://open.spotify.com/playlist/6z1Fbn53QQUgu1YuBgM72y
+深緑 (XILA)
+{"danceability": 0.744, "energy": 0.644, "key": 5, "loudness": -6.755, "mode": 0, "speechiness": 0.323, "acousticness": 0.194, "instrumentalness": 0, "liveness": 0.145, "valence": 0.706, "tempo": 89.05, "type": "audio_features", "id": "07mD8VQ5zsnFlXV4xDIapN", "uri": "spotify:track:07mD8VQ5zsnFlXV4xDIapN", "track_href": "https://api.spotify.com/v1/tracks/07mD8VQ5zsnFlXV4xDIapN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/07mD8VQ5zsnFlXV4xDIapN", "duration_ms": 184427, "time_signature": 4}
+ずっと (asmi)
+{"danceability": 0.618, "energy": 0.499, "key": 11, "loudness": -6.397, "mode": 1, "speechiness": 0.033, "acousticness": 0.597, "instrumentalness": 0, "liveness": 0.137, "valence": 0.4, "tempo": 139.901, "type": "audio_features", "id": "49JLGVj2xrkrJhpLZL24s2", "uri": "spotify:track:49JLGVj2xrkrJhpLZL24s2", "track_href": "https://api.spotify.com/v1/tracks/49JLGVj2xrkrJhpLZL24s2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/49JLGVj2xrkrJhpLZL24s2", "duration_ms": 254147, "time_signature": 4}
+傘 (King Gnu)
+{"danceability": 0.649, "energy": 0.903, "key": 10, "loudness": -2.663, "mode": 1, "speechiness": 0.0752, "acousticness": 0.385, "instrumentalness": 0, "liveness": 0.0485, "valence": 0.697, "tempo": 105.022, "type": "audio_features", "id": "4xVUTI1waBL5QctPQJhbPD", "uri": "spotify:track:4xVUTI1waBL5QctPQJhbPD", "track_href": "https://api.spotify.com/v1/tracks/4xVUTI1waBL5QctPQJhbPD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xVUTI1waBL5QctPQJhbPD", "duration_ms": 202286, "time_signature": 4}
+earth meal (Rin音)
+{"danceability": 0.556, "energy": 0.703, "key": 2, "loudness": -5.746, "mode": 1, "speechiness": 0.0291, "acousticness": 0.519, "instrumentalness": 5.33e-05, "liveness": 0.274, "valence": 0.746, "tempo": 78.972, "type": "audio_features", "id": "7ggveCoe0BqpxGNwZC4j7S", "uri": "spotify:track:7ggveCoe0BqpxGNwZC4j7S", "track_href": "https://api.spotify.com/v1/tracks/7ggveCoe0BqpxGNwZC4j7S", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ggveCoe0BqpxGNwZC4j7S", "duration_ms": 282125, "time_signature": 4}
+What's up (Rin音)
+{"danceability": 0.625, "energy": 0.633, "key": 0, "loudness": -7.24, "mode": 0, "speechiness": 0.104, "acousticness": 0.35, "instrumentalness": 0, "liveness": 0.266, "valence": 0.504, "tempo": 170.13, "type": "audio_features", "id": "6pBLBPnfColV4UhAPnocWK", "uri": "spotify:track:6pBLBPnfColV4UhAPnocWK", "track_href": "https://api.spotify.com/v1/tracks/6pBLBPnfColV4UhAPnocWK", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6pBLBPnfColV4UhAPnocWK", "duration_ms": 213980, "time_signature": 4}
+name: 幽霊船((sic)boy)    https://open.spotify.com/track/4O1RQ3hmsGrQ4zM00EO0VY
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+name: Night Distance(I love you Orchestra Swing Style)    https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv
+name: Fly Girl (feat. Missy Elliott)(FLO)    https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr
+name: 数センチメンタル(こはならむ)    https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf
+name: ファジーサマー(Lucky Kilimanjaro)    https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6
+name: if(Kana Nishino)    https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P
+name: 何なんw(Fujii Kaze)    https://open.spotify.com/track/2Nl3vx5qRnATIckVRZxb4T
+name: KISS(CRCK/LCKS)    https://open.spotify.com/track/75IO4ggOdcFC9xcEeiz9LV
+name: Persona(松木美定)    https://open.spotify.com/track/4L00tvgurAGsSfW0fei2cZ
+------------------<score>-----------------------
+score: 0

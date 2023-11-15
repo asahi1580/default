@@ -1,0 +1,25 @@
+2023年11月13日 10:58:41
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/5wbUwYagqn4FW8uC5mpOlo
+I'm a mess (MY FIRST STORY)
+{"danceability": 0.515, "energy": 0.939, "key": 6, "loudness": -4.046, "mode": 0, "speechiness": 0.0837, "acousticness": 0.0148, "instrumentalness": 0, "liveness": 0.312, "valence": 0.676, "tempo": 130.039, "type": "audio_features", "id": "6c5GqVWU3yFDgPkgBB0MGg", "uri": "spotify:track:6c5GqVWU3yFDgPkgBB0MGg", "track_href": "https://api.spotify.com/v1/tracks/6c5GqVWU3yFDgPkgBB0MGg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6c5GqVWU3yFDgPkgBB0MGg", "duration_ms": 249480, "time_signature": 4}
+おひとりさま天国 (Nogizaka46)
+{"danceability": 0.585, "energy": 0.918, "key": 3, "loudness": -3.019, "mode": 1, "speechiness": 0.0384, "acousticness": 0.014, "instrumentalness": 0, "liveness": 0.342, "valence": 0.746, "tempo": 125.03, "type": "audio_features", "id": "22e9NP0TRCFhOGsgBnl6Ua", "uri": "spotify:track:22e9NP0TRCFhOGsgBnl6Ua", "track_href": "https://api.spotify.com/v1/tracks/22e9NP0TRCFhOGsgBnl6Ua", "analysis_url": "https://api.spotify.com/v1/audio-analysis/22e9NP0TRCFhOGsgBnl6Ua", "duration_ms": 255187, "time_signature": 4}
+パッションフルーツの食べ方 (Nogizaka46)
+{"danceability": 0.764, "energy": 0.611, "key": 1, "loudness": -4.712, "mode": 1, "speechiness": 0.0533, "acousticness": 0.102, "instrumentalness": 0, "liveness": 0.197, "valence": 0.694, "tempo": 110.044, "type": "audio_features", "id": "5HsdNKGGXwmuefgIUU2NWb", "uri": "spotify:track:5HsdNKGGXwmuefgIUU2NWb", "track_href": "https://api.spotify.com/v1/tracks/5HsdNKGGXwmuefgIUU2NWb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5HsdNKGGXwmuefgIUU2NWb", "duration_ms": 220347, "time_signature": 4}
+Oz. (yama)
+{"danceability": 0.403, "energy": 0.723, "key": 7, "loudness": -4.609, "mode": 1, "speechiness": 0.0339, "acousticness": 0.0422, "instrumentalness": 7.48e-06, "liveness": 0.374, "valence": 0.441, "tempo": 75.989, "type": "audio_features", "id": "2VRcLEvQCMByWBuvM9gaJ2", "uri": "spotify:track:2VRcLEvQCMByWBuvM9gaJ2", "track_href": "https://api.spotify.com/v1/tracks/2VRcLEvQCMByWBuvM9gaJ2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VRcLEvQCMByWBuvM9gaJ2", "duration_ms": 194274, "time_signature": 4}
+知らないままで (ロクデナシ)
+{"danceability": 0.602, "energy": 0.819, "key": 6, "loudness": -4.991, "mode": 1, "speechiness": 0.0317, "acousticness": 0.476, "instrumentalness": 3.4e-06, "liveness": 0.098, "valence": 0.872, "tempo": 184.069, "type": "audio_features", "id": "0kEXWokTVYKFxRnNH1xvlg", "uri": "spotify:track:0kEXWokTVYKFxRnNH1xvlg", "track_href": "https://api.spotify.com/v1/tracks/0kEXWokTVYKFxRnNH1xvlg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0kEXWokTVYKFxRnNH1xvlg", "duration_ms": 134222, "time_signature": 4}
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: 夏祭り(Whiteberry)    https://open.spotify.com/track/51hE2l7cmVXtEpmJ0AGh4R
+name: Love so sweet(ARASHI)    https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm
+name: Love so sweet(ARASHI)    https://open.spotify.com/track/10G6iBGzoMi9qXgDV9qyBy
+name: CHEERS(Mrs. GREEN APPLE)    https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+name: ミックス(マルシィ)    https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR
+name: 魔法のコトバ(SPITZ)    https://open.spotify.com/track/6o6XNRr7tosVpTk6Ijuzbf
+name: セプテンバーさん(Aimer)    https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM
+name: SPECIALZ(King Gnu)    https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF
+name: Hug(Mrs. GREEN APPLE)    https://open.spotify.com/track/3pROyCFF6WyVtmCnbwLPxr
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,25 @@
+2023年11月13日 11:04:52
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/6mGIqxsYG3Q3DGOx68SMIB
+Supernova (ELLEGARDEN)
+{"danceability": 0.309, "energy": 0.948, "key": 5, "loudness": -2.852, "mode": 1, "speechiness": 0.126, "acousticness": 0.00647, "instrumentalness": 5.03e-05, "liveness": 0.43, "valence": 0.412, "tempo": 180.132, "type": "audio_features", "id": "1vSag7UX5hDuYeVaf6a1Q4", "uri": "spotify:track:1vSag7UX5hDuYeVaf6a1Q4", "track_href": "https://api.spotify.com/v1/tracks/1vSag7UX5hDuYeVaf6a1Q4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vSag7UX5hDuYeVaf6a1Q4", "duration_ms": 215627, "time_signature": 4}
+エンドロール (Shout It Out)
+{"danceability": 0.596, "energy": 0.919, "key": 1, "loudness": -2.585, "mode": 1, "speechiness": 0.035, "acousticness": 0.0262, "instrumentalness": 0, "liveness": 0.23, "valence": 0.768, "tempo": 136.039, "type": "audio_features", "id": "1Iom9FU9V7svcjQpvrlUYD", "uri": "spotify:track:1Iom9FU9V7svcjQpvrlUYD", "track_href": "https://api.spotify.com/v1/tracks/1Iom9FU9V7svcjQpvrlUYD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Iom9FU9V7svcjQpvrlUYD", "duration_ms": 236133, "time_signature": 4}
+あの子と宇宙に夢中な僕ら (Bye-Bye-Handの方程式)
+{"danceability": 0.592, "energy": 0.914, "key": 10, "loudness": -4.434, "mode": 1, "speechiness": 0.0432, "acousticness": 0.00044, "instrumentalness": 0, "liveness": 0.236, "valence": 0.927, "tempo": 102.54, "type": "audio_features", "id": "7ip2Z5P3wfZq0fXdJFKbqS", "uri": "spotify:track:7ip2Z5P3wfZq0fXdJFKbqS", "track_href": "https://api.spotify.com/v1/tracks/7ip2Z5P3wfZq0fXdJFKbqS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ip2Z5P3wfZq0fXdJFKbqS", "duration_ms": 135040, "time_signature": 4}
+Tough (Saucy Dog)
+{"danceability": 0.53, "energy": 0.871, "key": 9, "loudness": -4.973, "mode": 1, "speechiness": 0.034, "acousticness": 0.00972, "instrumentalness": 0, "liveness": 0.346, "valence": 0.791, "tempo": 93.881, "type": "audio_features", "id": "7GL0ohKY25BqQHvgihN2EP", "uri": "spotify:track:7GL0ohKY25BqQHvgihN2EP", "track_href": "https://api.spotify.com/v1/tracks/7GL0ohKY25BqQHvgihN2EP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7GL0ohKY25BqQHvgihN2EP", "duration_ms": 188427, "time_signature": 4}
+接吻とフレンド (My Hair is Bad)
+{"danceability": 0.375, "energy": 0.944, "key": 1, "loudness": -3.88, "mode": 1, "speechiness": 0.155, "acousticness": 0.000381, "instrumentalness": 0, "liveness": 0.66, "valence": 0.493, "tempo": 175.006, "type": "audio_features", "id": "15PxbqfhE1lgv23g0OKNb8", "uri": "spotify:track:15PxbqfhE1lgv23g0OKNb8", "track_href": "https://api.spotify.com/v1/tracks/15PxbqfhE1lgv23g0OKNb8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/15PxbqfhE1lgv23g0OKNb8", "duration_ms": 200827, "time_signature": 4}
+name: I'm a mess(MY FIRST STORY)    https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg
+name: GO!!! 〜15th Anniversary ver.〜(FLOW)    https://open.spotify.com/track/0MqEHknhIF88dJmcT3AXrI
+name: My SunShine(ROCK'A'TRENCH)    https://open.spotify.com/track/5AplfXQJgaj3lsGj1ShWAW
+name: シャルル(Rib)    https://open.spotify.com/track/0TUQE5j6H2GOfhMxw4JMnE
+name: PHOENIX(BURNOUT SYNDROMES)    https://open.spotify.com/track/2c6LZVF5Q0rKAGmWOB0yM3
+name: 関白宣言(My Hair is Bad)    https://open.spotify.com/track/2KSlWmvOhZzAz0ByZWeo6C
+name: 分かってないよ(WurtS)    https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG
+name: ユートピア(WurtS)    https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq
+name: Believe(Kana Nishino)    https://open.spotify.com/track/523WF9wUHTDD47lNlJZf40
+name: Burning Emotion #5(ドリフトスピリッツ)    https://open.spotify.com/track/6lS6KlKkHI85GSnGRil05Z
+------------------<score>-----------------------
+score: 0

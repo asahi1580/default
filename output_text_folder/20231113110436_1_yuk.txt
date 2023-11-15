@@ -1,0 +1,25 @@
+2023年11月13日 11:04:40
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/6mGIqxsYG3Q3DGOx68SMIB
+バタフライ (ELLEGARDEN)
+{"danceability": 0.469, "energy": 0.995, "key": 7, "loudness": -0.008, "mode": 1, "speechiness": 0.111, "acousticness": 0.000689, "instrumentalness": 1.48e-05, "liveness": 0.286, "valence": 0.152, "tempo": 98.023, "type": "audio_features", "id": "1mCBaUFRVrI0drWbbILh6X", "uri": "spotify:track:1mCBaUFRVrI0drWbbILh6X", "track_href": "https://api.spotify.com/v1/tracks/1mCBaUFRVrI0drWbbILh6X", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1mCBaUFRVrI0drWbbILh6X", "duration_ms": 189467, "time_signature": 4}
+さっきはごめんね、ありがとう (Creep Hyp)
+{"danceability": 0.557, "energy": 0.752, "key": 5, "loudness": -3.432, "mode": 1, "speechiness": 0.0365, "acousticness": 0.201, "instrumentalness": 0, "liveness": 0.318, "valence": 0.608, "tempo": 89.999, "type": "audio_features", "id": "7CvLWQ30ggnHucKGA7KZN6", "uri": "spotify:track:7CvLWQ30ggnHucKGA7KZN6", "track_href": "https://api.spotify.com/v1/tracks/7CvLWQ30ggnHucKGA7KZN6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CvLWQ30ggnHucKGA7KZN6", "duration_ms": 205700, "time_signature": 4}
+最低最悪 (マルシィ)
+{"danceability": 0.528, "energy": 0.895, "key": 8, "loudness": -2.853, "mode": 1, "speechiness": 0.0411, "acousticness": 0.0085, "instrumentalness": 0, "liveness": 0.396, "valence": 0.533, "tempo": 137.95, "type": "audio_features", "id": "6LSQ5sisg0GLiyqaFK0Wgd", "uri": "spotify:track:6LSQ5sisg0GLiyqaFK0Wgd", "track_href": "https://api.spotify.com/v1/tracks/6LSQ5sisg0GLiyqaFK0Wgd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6LSQ5sisg0GLiyqaFK0Wgd", "duration_ms": 175616, "time_signature": 3}
+魔法の歌 (PEOPLE 1)
+{"danceability": 0.693, "energy": 0.738, "key": 7, "loudness": -5.077, "mode": 1, "speechiness": 0.0298, "acousticness": 0.00582, "instrumentalness": 0, "liveness": 0.356, "valence": 0.693, "tempo": 129.988, "type": "audio_features", "id": "1ahSmZww75M4DOKibyaYYp", "uri": "spotify:track:1ahSmZww75M4DOKibyaYYp", "track_href": "https://api.spotify.com/v1/tracks/1ahSmZww75M4DOKibyaYYp", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ahSmZww75M4DOKibyaYYp", "duration_ms": 231680, "time_signature": 4}
+金星 (ELLEGARDEN)
+{"danceability": 0.251, "energy": 0.86, "key": 7, "loudness": -2.436, "mode": 1, "speechiness": 0.0917, "acousticness": 0.00406, "instrumentalness": 0.00739, "liveness": 0.357, "valence": 0.299, "tempo": 98.622, "type": "audio_features", "id": "5hqaOCbxLEetmpSL0FYS7k", "uri": "spotify:track:5hqaOCbxLEetmpSL0FYS7k", "track_href": "https://api.spotify.com/v1/tracks/5hqaOCbxLEetmpSL0FYS7k", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hqaOCbxLEetmpSL0FYS7k", "duration_ms": 197200, "time_signature": 3}
+name: アルペジオ([Alexandros])    https://open.spotify.com/track/1RI9DeYuc16mTzr94zGjfC
+name: ANGRY ANGRY(HARU NEMURI)    https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR
+name: Final Call(milet)    https://open.spotify.com/track/23UvqSjWD2dilIjKkCd2pf
+name: Still Kids(ONIONRING)    https://open.spotify.com/track/0tPBDTL5FM5DNnOgXKEQoY
+name: チェチェ・チェック・ワンツー!(WADATAKEAKI KurageP)    https://open.spotify.com/track/0vtYm4Mg8ctJJ3K9yFGjs2
+name: FIRE(HIKAKIN & SEIKIN)    https://open.spotify.com/track/1SdN7VW9fIA1xC0TVmsghY
+name: slash(yama)    https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T
+name: 5150(THE ORAL CIGARETTES)    https://open.spotify.com/track/6f4hnCMPfoYzrUk4V92vhX
+name: School(Chilli Beans.)    https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b
+name: 生きるをする(Macaroni Empitsu)    https://open.spotify.com/track/5oL6BUQR9XQNfmz6CfUijM
+------------------<score>-----------------------
+score: 0

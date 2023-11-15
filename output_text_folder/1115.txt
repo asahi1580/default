@@ -1,0 +1,25 @@
+2023年11月15日 11:12:39
+cos_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+あの夢をなぞって (YOASOBI)
+{"danceability": 0.537, "energy": 0.793, "key": 8, "loudness": -3.446, "mode": 1, "speechiness": 0.04, "acousticness": 0.217, "instrumentalness": 0.000361, "liveness": 0.143, "valence": 0.73, "tempo": 180.029, "type": "audio_features", "id": "4BE1OloRc9xwjyqA4wFFuN", "uri": "spotify:track:4BE1OloRc9xwjyqA4wFFuN", "track_href": "https://api.spotify.com/v1/tracks/4BE1OloRc9xwjyqA4wFFuN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4BE1OloRc9xwjyqA4wFFuN", "duration_ms": 242667, "time_signature": 4}
+2:23 AM (しゃろう)
+{"danceability": 0.587, "energy": 0.611, "key": 10, "loudness": -8.862, "mode": 1, "speechiness": 0.0739, "acousticness": 0.244, "instrumentalness": 2.88e-05, "liveness": 0.238, "valence": 0.499, "tempo": 179.951, "type": "audio_features", "id": "7altakU1CXsGIwqrO0hkQl", "uri": "spotify:track:7altakU1CXsGIwqrO0hkQl", "track_href": "https://api.spotify.com/v1/tracks/7altakU1CXsGIwqrO0hkQl", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7altakU1CXsGIwqrO0hkQl", "duration_ms": 196000, "time_signature": 4}
+お勉強しといてよ (ZUTOMAYO)
+{"danceability": 0.698, "energy": 0.875, "key": 8, "loudness": -3.318, "mode": 1, "speechiness": 0.0592, "acousticness": 0.0841, "instrumentalness": 2.5e-05, "liveness": 0.177, "valence": 0.868, "tempo": 132.031, "type": "audio_features", "id": "3sgJTMHqDwxfsBIMqvkXKE", "uri": "spotify:track:3sgJTMHqDwxfsBIMqvkXKE", "track_href": "https://api.spotify.com/v1/tracks/3sgJTMHqDwxfsBIMqvkXKE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3sgJTMHqDwxfsBIMqvkXKE", "duration_ms": 279200, "time_signature": 4}
+ハルカ (YOASOBI)
+{"danceability": 0.712, "energy": 0.817, "key": 1, "loudness": -5.123, "mode": 1, "speechiness": 0.0279, "acousticness": 0.0717, "instrumentalness": 7.21e-06, "liveness": 0.146, "valence": 0.679, "tempo": 100.016, "type": "audio_features", "id": "5D9MPWdY2hjSeTIGE5n5kv", "uri": "spotify:track:5D9MPWdY2hjSeTIGE5n5kv", "track_href": "https://api.spotify.com/v1/tracks/5D9MPWdY2hjSeTIGE5n5kv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5D9MPWdY2hjSeTIGE5n5kv", "duration_ms": 243613, "time_signature": 4}
+Love me, Love you (Mrs. GREEN APPLE)
+{"danceability": 0.762, "energy": 0.943, "key": 0, "loudness": -2.881, "mode": 1, "speechiness": 0.045, "acousticness": 0.0502, "instrumentalness": 0, "liveness": 0.275, "valence": 0.806, "tempo": 129.999, "type": "audio_features", "id": "4MqqZRjZVkheBor570C2yt", "uri": "spotify:track:4MqqZRjZVkheBor570C2yt", "track_href": "https://api.spotify.com/v1/tracks/4MqqZRjZVkheBor570C2yt", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4MqqZRjZVkheBor570C2yt", "duration_ms": 283240, "time_signature": 4}
+name: First Song (dead to me)(ZIN)    https://open.spotify.com/track/1glz0cjxfeuRfURnox3fnF
+name: 愛を止めないで(Yu Sakai)    https://open.spotify.com/track/7Gou5R13gSGK1sSc4XOgtJ
+name: Lady - 2020(Ohashi Trio)    https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r
+name: 素直(Miho Fukuhara)    https://open.spotify.com/track/3WMOGfwdooXGzFI62zi7JK
+name: Beautiful Sleep(Shinya Kiyozuka)    https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A
+name: It'll Be Okay(Shawn Mendes)    https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD
+name: サンサーラ(Takehara Pistol)    https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3
+name: meringue doll(Ichiko Aoba)    https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ
+name: December(milet)    https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS
+name: Without Love(LMYK)    https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp
+------------------<score>-----------------------
+score: 0

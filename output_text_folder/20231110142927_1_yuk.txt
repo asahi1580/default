@@ -1,0 +1,25 @@
+2023年11月10日 14:29:31
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/6voz4rUMJWkwpKnjPNYV4z
+ショウタイム・ルーラー (Karasuya Sabou)
+{"danceability": 0.529, "energy": 0.969, "key": 4, "loudness": -1.837, "mode": 0, "speechiness": 0.0682, "acousticness": 0.0784, "instrumentalness": 0, "liveness": 0.26, "valence": 0.459, "tempo": 102.015, "type": "audio_features", "id": "1BkLKYzF7cQ0AzpgSrOfoc", "uri": "spotify:track:1BkLKYzF7cQ0AzpgSrOfoc", "track_href": "https://api.spotify.com/v1/tracks/1BkLKYzF7cQ0AzpgSrOfoc", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1BkLKYzF7cQ0AzpgSrOfoc", "duration_ms": 213785, "time_signature": 4}
+Film out (BTS)
+{"danceability": 0.499, "energy": 0.709, "key": 10, "loudness": -6.404, "mode": 1, "speechiness": 0.134, "acousticness": 0.296, "instrumentalness": 0, "liveness": 0.331, "valence": 0.314, "tempo": 164.032, "type": "audio_features", "id": "3UHPGOkUcE4hE7sqBF4Snt", "uri": "spotify:track:3UHPGOkUcE4hE7sqBF4Snt", "track_href": "https://api.spotify.com/v1/tracks/3UHPGOkUcE4hE7sqBF4Snt", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3UHPGOkUcE4hE7sqBF4Snt", "duration_ms": 214621, "time_signature": 4}
+ロウワー (ぬゆり)
+{"danceability": 0.62, "energy": 0.944, "key": 10, "loudness": -3.361, "mode": 0, "speechiness": 0.134, "acousticness": 0.0355, "instrumentalness": 8.95e-05, "liveness": 0.206, "valence": 0.801, "tempo": 132.05, "type": "audio_features", "id": "3eIGW5DUVP5zkGFXZSZQ6o", "uri": "spotify:track:3eIGW5DUVP5zkGFXZSZQ6o", "track_href": "https://api.spotify.com/v1/tracks/3eIGW5DUVP5zkGFXZSZQ6o", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3eIGW5DUVP5zkGFXZSZQ6o", "duration_ms": 230000, "time_signature": 4}
+愛情と矛先 (Mrs. GREEN APPLE)
+{"danceability": 0.446, "energy": 0.778, "key": 6, "loudness": -2.221, "mode": 1, "speechiness": 0.0999, "acousticness": 0.000812, "instrumentalness": 0, "liveness": 0.0332, "valence": 0.926, "tempo": 189.873, "type": "audio_features", "id": "5aIKhCBeXldSbLUZUKdx9j", "uri": "spotify:track:5aIKhCBeXldSbLUZUKdx9j", "track_href": "https://api.spotify.com/v1/tracks/5aIKhCBeXldSbLUZUKdx9j", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5aIKhCBeXldSbLUZUKdx9j", "duration_ms": 235067, "time_signature": 4}
+キコリ時計 (Mrs. GREEN APPLE)
+{"danceability": 0.482, "energy": 0.915, "key": 11, "loudness": -1.773, "mode": 1, "speechiness": 0.0451, "acousticness": 0.011, "instrumentalness": 0, "liveness": 0.338, "valence": 0.822, "tempo": 131.933, "type": "audio_features", "id": "1sfz6a6f5TJyTppB1dKFhC", "uri": "spotify:track:1sfz6a6f5TJyTppB1dKFhC", "track_href": "https://api.spotify.com/v1/tracks/1sfz6a6f5TJyTppB1dKFhC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1sfz6a6f5TJyTppB1dKFhC", "duration_ms": 212360, "time_signature": 4}
+name: シャルル(balloon)    https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h
+name: これからのこと、それからのこと(Ryokuoushoku Shakai)    https://open.spotify.com/track/3ee3P6E34IetUo60gwR0hw
+name: Mixed Nuts(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ
+name: ミックスナッツ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ
+name: CHAINSAW BLOOD(Vaundy)    https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+name: レッド・パージ!!!(Fukuwa)    https://open.spotify.com/track/4OcWjACsk1BmarDQrcIeeC
+name: ワタリドリ([Alexandros])    https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: シャルル (self cover)(balloon)    https://open.spotify.com/track/09949OWxtlSFXlw3lSGOpb
+name: シャルル(Rib)    https://open.spotify.com/track/0TUQE5j6H2GOfhMxw4JMnE
+------------------<score>-----------------------
+score: 0

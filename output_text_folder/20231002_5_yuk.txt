@@ -1,0 +1,26 @@
+2023年10月02日 13:57:08
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+高嶺の花子さん (back number)
+{"danceability": 0.54, "energy": 0.923, "key": 9, "loudness": -2.838, "mode": 1, "speechiness": 0.0623, "acousticness": 0.066, "instrumentalness": 0, "liveness": 0.124, "valence": 0.343, "tempo": 137.977, "type": "audio_features", "id": "2jdbZGFp8KVTuk0YxDNL4l", "uri": "spotify:track:2jdbZGFp8KVTuk0YxDNL4l", "track_href": "https://api.spotify.com/v1/tracks/2jdbZGFp8KVTuk0YxDNL4l", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2jdbZGFp8KVTuk0YxDNL4l", "duration_ms": 294813, "time_signature": 4}
+常緑 (Chippoke Ohashi)
+{"danceability": 0.725, "energy": 0.75, "key": 11, "loudness": -5.694, "mode": 1, "speechiness": 0.0772, "acousticness": 0.0242, "instrumentalness": 0, "liveness": 0.101, "valence": 0.888, "tempo": 101.19, "type": "audio_features", "id": "42dM8WcW6SUxueqABK1LmQ", "uri": "spotify:track:42dM8WcW6SUxueqABK1LmQ", "track_href": "https://api.spotify.com/v1/tracks/42dM8WcW6SUxueqABK1LmQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/42dM8WcW6SUxueqABK1LmQ", "duration_ms": 171547, "time_signature": 4}
+ホワイトキス (鈴木鈴木)
+{"danceability": 0.704, "energy": 0.797, "key": 1, "loudness": -4.7, "mode": 1, "speechiness": 0.0505, "acousticness": 0.133, "instrumentalness": 0, "liveness": 0.284, "valence": 0.619, "tempo": 110.003, "type": "audio_features", "id": "7sRYDTjWTX00fd9BCOflLo", "uri": "spotify:track:7sRYDTjWTX00fd9BCOflLo", "track_href": "https://api.spotify.com/v1/tracks/7sRYDTjWTX00fd9BCOflLo", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7sRYDTjWTX00fd9BCOflLo", "duration_ms": 274860, "time_signature": 4}
+繋いだ手から (back number)
+{"danceability": 0.394, "energy": 0.797, "key": 9, "loudness": -2.337, "mode": 1, "speechiness": 0.0571, "acousticness": 0.125, "instrumentalness": 0, "liveness": 0.106, "valence": 0.655, "tempo": 204.426, "type": "audio_features", "id": "3I51KkjhqwuXLcslSz0Q02", "uri": "spotify:track:3I51KkjhqwuXLcslSz0Q02", "track_href": "https://api.spotify.com/v1/tracks/3I51KkjhqwuXLcslSz0Q02", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3I51KkjhqwuXLcslSz0Q02", "duration_ms": 282707, "time_signature": 4}
+もっと強く (EXILE)
+{"danceability": 0.557, "energy": 0.644, "key": 9, "loudness": -5.931, "mode": 1, "speechiness": 0.033, "acousticness": 0.0389, "instrumentalness": 0, "liveness": 0.267, "valence": 0.22, "tempo": 123.999, "type": "audio_features", "id": "3JPZKiZKQOsCMJmysdVcAZ", "uri": "spotify:track:3JPZKiZKQOsCMJmysdVcAZ", "track_href": "https://api.spotify.com/v1/tracks/3JPZKiZKQOsCMJmysdVcAZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JPZKiZKQOsCMJmysdVcAZ", "duration_ms": 433987, "time_signature": 4}
+name: KANASHIBARI(RADWIMPS)    https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO
+name: more than words(Hitsujibungaku)    https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk
+name: わたしの宇宙(SHISHAMO)    https://open.spotify.com/track/5xn9ggmbMNk93XV5ofQedP
+name: SISTER(back number)    https://open.spotify.com/track/1ZmiUiQn7Q2qEKLlIznoXZ
+name: 最低(れん)    https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt
+name: PADDLE(Mr.Children)    https://open.spotify.com/track/0O83R6caduf7kqwemoMjza
+name: イエスタデイ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/3S3DDZrPOYTirleXRyHnNM
+name: イエスタデイ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/53WuztMfY1VH3rLIm0zApQ
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: 俺たちの明日(Elephant Kashimashi)    https://open.spotify.com/track/7zQbBZMziSn4YMk2FLWgV9
+------------------<score>-----------------------
+SISTER  https://open.spotify.com/track/1ZmiUiQn7Q2qEKLlIznoXZ
+score: 1

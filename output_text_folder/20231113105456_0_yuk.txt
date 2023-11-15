@@ -1,0 +1,26 @@
+2023年11月13日 10:54:56
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+SISTER (back number)
+{"danceability": 0.572, "energy": 0.756, "key": 3, "loudness": -3.155, "mode": 0, "speechiness": 0.0317, "acousticness": 0.0272, "instrumentalness": 0, "liveness": 0.102, "valence": 0.507, "tempo": 133.815, "type": "audio_features", "id": "1ZmiUiQn7Q2qEKLlIznoXZ", "uri": "spotify:track:1ZmiUiQn7Q2qEKLlIznoXZ", "track_href": "https://api.spotify.com/v1/tracks/1ZmiUiQn7Q2qEKLlIznoXZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZmiUiQn7Q2qEKLlIznoXZ", "duration_ms": 246880, "time_signature": 4}
+君に贈る歌 ～Song For You (Che'Nelle)
+{"danceability": 0.513, "energy": 0.51, "key": 8, "loudness": -3.249, "mode": 1, "speechiness": 0.0261, "acousticness": 0.66, "instrumentalness": 0, "liveness": 0.081, "valence": 0.182, "tempo": 81.947, "type": "audio_features", "id": "4g9XoKiAXJsZL1R3bkv01r", "uri": "spotify:track:4g9XoKiAXJsZL1R3bkv01r", "track_href": "https://api.spotify.com/v1/tracks/4g9XoKiAXJsZL1R3bkv01r", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4g9XoKiAXJsZL1R3bkv01r", "duration_ms": 341680, "time_signature": 4}
+I miss you -refrain- (Shota Shimizu)
+{"danceability": 0.588, "energy": 0.666, "key": 0, "loudness": -4.621, "mode": 1, "speechiness": 0.0251, "acousticness": 0.234, "instrumentalness": 0, "liveness": 0.317, "valence": 0.585, "tempo": 97.994, "type": "audio_features", "id": "080sJ3SvQBXeGO6q1oIF6z", "uri": "spotify:track:080sJ3SvQBXeGO6q1oIF6z", "track_href": "https://api.spotify.com/v1/tracks/080sJ3SvQBXeGO6q1oIF6z", "analysis_url": "https://api.spotify.com/v1/audio-analysis/080sJ3SvQBXeGO6q1oIF6z", "duration_ms": 329347, "time_signature": 4}
+Love Song (Uru)
+{"danceability": 0.575, "energy": 0.583, "key": 9, "loudness": -4.72, "mode": 1, "speechiness": 0.0309, "acousticness": 0.569, "instrumentalness": 0, "liveness": 0.0894, "valence": 0.39, "tempo": 137.766, "type": "audio_features", "id": "2aAuO61alPO20xyePFHjdf", "uri": "spotify:track:2aAuO61alPO20xyePFHjdf", "track_href": "https://api.spotify.com/v1/tracks/2aAuO61alPO20xyePFHjdf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2aAuO61alPO20xyePFHjdf", "duration_ms": 286413, "time_signature": 4}
+わんぱく野球バカ (Yusuke)
+{"danceability": 0.662, "energy": 0.674, "key": 10, "loudness": -7.524, "mode": 1, "speechiness": 0.151, "acousticness": 0.283, "instrumentalness": 0, "liveness": 0.0665, "valence": 0.779, "tempo": 92.061, "type": "audio_features", "id": "5ie9JJ4WqQZ5oikQlBYxs0", "uri": "spotify:track:5ie9JJ4WqQZ5oikQlBYxs0", "track_href": "https://api.spotify.com/v1/tracks/5ie9JJ4WqQZ5oikQlBYxs0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ie9JJ4WqQZ5oikQlBYxs0", "duration_ms": 272333, "time_signature": 4}
+name: ハルノヒ(Aimyon)    https://open.spotify.com/track/7jFcbwPkMcEZK3bQhTzeAU
+name: ハルノヒ(Aimyon)    https://open.spotify.com/track/7GYGVDPbi0zQUBIkuOPAY0
+name: ハルノヒ(Aimyon)    https://open.spotify.com/track/1oNeSCt0CMekCyyLo06kFs
+name: Persona(松木美定)    https://open.spotify.com/track/4L00tvgurAGsSfW0fei2cZ
+name: if(Kana Nishino)    https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P
+name: BEAT(Ryuichi Kawamura)    https://open.spotify.com/track/2sPVZloQCeDVkNbuQkoVzO
+name: 明日がくるなら original duet version(JUJU)    https://open.spotify.com/track/4WiVQ0PLTYjHiNYUbWpJO9
+name: Stay(Zedd)    https://open.spotify.com/track/0I20rLT2MJDhcF96AjbNYo
+name: レオ(Yuuri)    https://open.spotify.com/track/3eg3igrhEhzk8bqqRz6XCt
+name: 回春(QUEEN BEE)    https://open.spotify.com/track/6iZygJfbfzt7eWeFtDUt3Z
+------------------<score>-----------------------
+if  https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P
+score: 1

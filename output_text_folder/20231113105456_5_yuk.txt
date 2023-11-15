@@ -1,0 +1,26 @@
+2023年11月13日 10:55:18
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+Happiness (Che'Nelle)
+{"danceability": 0.603, "energy": 0.748, "key": 9, "loudness": -1.559, "mode": 1, "speechiness": 0.0426, "acousticness": 0.386, "instrumentalness": 0, "liveness": 0.329, "valence": 0.511, "tempo": 139.911, "type": "audio_features", "id": "55JlyXw6KeFeVC9d9uCZ2K", "uri": "spotify:track:55JlyXw6KeFeVC9d9uCZ2K", "track_href": "https://api.spotify.com/v1/tracks/55JlyXw6KeFeVC9d9uCZ2K", "analysis_url": "https://api.spotify.com/v1/audio-analysis/55JlyXw6KeFeVC9d9uCZ2K", "duration_ms": 274027, "time_signature": 4}
+シンデレラボーイ (Saucy Dog)
+{"danceability": 0.596, "energy": 0.735, "key": 9, "loudness": -6.362, "mode": 1, "speechiness": 0.0332, "acousticness": 0.0748, "instrumentalness": 0, "liveness": 0.269, "valence": 0.524, "tempo": 108.106, "type": "audio_features", "id": "1Vqs0lXeJafYZz2sxnfB3V", "uri": "spotify:track:1Vqs0lXeJafYZz2sxnfB3V", "track_href": "https://api.spotify.com/v1/tracks/1Vqs0lXeJafYZz2sxnfB3V", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Vqs0lXeJafYZz2sxnfB3V", "duration_ms": 234324, "time_signature": 4}
+SISTER (back number)
+{"danceability": 0.572, "energy": 0.756, "key": 3, "loudness": -3.155, "mode": 0, "speechiness": 0.0317, "acousticness": 0.0272, "instrumentalness": 0, "liveness": 0.102, "valence": 0.507, "tempo": 133.815, "type": "audio_features", "id": "1ZmiUiQn7Q2qEKLlIznoXZ", "uri": "spotify:track:1ZmiUiQn7Q2qEKLlIznoXZ", "track_href": "https://api.spotify.com/v1/tracks/1ZmiUiQn7Q2qEKLlIznoXZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZmiUiQn7Q2qEKLlIznoXZ", "duration_ms": 246880, "time_signature": 4}
+ただ、ありがとう (Monkey Majik)
+{"danceability": 0.554, "energy": 0.712, "key": 9, "loudness": -4.306, "mode": 1, "speechiness": 0.0277, "acousticness": 0.474, "instrumentalness": 0, "liveness": 0.34, "valence": 0.683, "tempo": 87.02, "type": "audio_features", "id": "3ayTR482XA5dvsAiPU3di6", "uri": "spotify:track:3ayTR482XA5dvsAiPU3di6", "track_href": "https://api.spotify.com/v1/tracks/3ayTR482XA5dvsAiPU3di6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ayTR482XA5dvsAiPU3di6", "duration_ms": 223000, "time_signature": 4}
+恋泥棒。 (『ユイカ』)
+{"danceability": 0.71, "energy": 0.718, "key": 11, "loudness": -6.379, "mode": 1, "speechiness": 0.0257, "acousticness": 0.0483, "instrumentalness": 3.26e-06, "liveness": 0.0881, "valence": 0.813, "tempo": 109.054, "type": "audio_features", "id": "0JnOpiUieuk9SdRv7Fkw2P", "uri": "spotify:track:0JnOpiUieuk9SdRv7Fkw2P", "track_href": "https://api.spotify.com/v1/tracks/0JnOpiUieuk9SdRv7Fkw2P", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0JnOpiUieuk9SdRv7Fkw2P", "duration_ms": 219643, "time_signature": 4}
+name: Hug(Mrs. GREEN APPLE)    https://open.spotify.com/track/3pROyCFF6WyVtmCnbwLPxr
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO
+name: Future(STAR SEEED)    https://open.spotify.com/track/2WC9vOon0XlvT9zYGCtKj7
+name: あなたの好きなところ(Kana Nishino)    https://open.spotify.com/track/5k24cAgfb6WH5YxEYgU3fm
+name: 虹(Saucy Dog)    https://open.spotify.com/track/49KOXnzn11WDaQNoqnnHUJ
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/0tlp9m2rIsY4R6d9ZIuhfn
+name: キラキラ(Kazumasa Oda)    https://open.spotify.com/track/6CVOXT79mSNWlahndeRtpq
+name: 空の青さを知る人よ(Aimyon)    https://open.spotify.com/track/3u0e8pyoVc7l2u3T5thohY
+------------------<score>-----------------------
+あなたの好きなところ  https://open.spotify.com/track/5k24cAgfb6WH5YxEYgU3fm
+score: 1

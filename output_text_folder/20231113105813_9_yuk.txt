@@ -1,0 +1,26 @@
+2023年11月13日 10:58:49
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/5wbUwYagqn4FW8uC5mpOlo
+好きというのはロックだぜ！ (Nogizaka46)
+{"danceability": 0.365, "energy": 0.937, "key": 11, "loudness": -3.303, "mode": 1, "speechiness": 0.0468, "acousticness": 0.0053, "instrumentalness": 4.21e-06, "liveness": 0.117, "valence": 0.539, "tempo": 177.833, "type": "audio_features", "id": "6f1LJZaDkuzZoG2Ivb3HXQ", "uri": "spotify:track:6f1LJZaDkuzZoG2Ivb3HXQ", "track_href": "https://api.spotify.com/v1/tracks/6f1LJZaDkuzZoG2Ivb3HXQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6f1LJZaDkuzZoG2Ivb3HXQ", "duration_ms": 332867, "time_signature": 4}
+シャッター (Yuuri)
+{"danceability": 0.606, "energy": 0.525, "key": 5, "loudness": -7.432, "mode": 1, "speechiness": 0.0356, "acousticness": 0.511, "instrumentalness": 0, "liveness": 0.33, "valence": 0.665, "tempo": 74.979, "type": "audio_features", "id": "6VwpOZpqx8IqoF201VGAp8", "uri": "spotify:track:6VwpOZpqx8IqoF201VGAp8", "track_href": "https://api.spotify.com/v1/tracks/6VwpOZpqx8IqoF201VGAp8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VwpOZpqx8IqoF201VGAp8", "duration_ms": 247333, "time_signature": 4}
+唱 (Ado)
+{"danceability": 0.616, "energy": 0.975, "key": 10, "loudness": -0.425, "mode": 0, "speechiness": 0.208, "acousticness": 0.172, "instrumentalness": 1.62e-06, "liveness": 0.143, "valence": 0.742, "tempo": 132.054, "type": "audio_features", "id": "2tlOVDJ3lQsUxz22vPJ4c4", "uri": "spotify:track:2tlOVDJ3lQsUxz22vPJ4c4", "track_href": "https://api.spotify.com/v1/tracks/2tlOVDJ3lQsUxz22vPJ4c4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tlOVDJ3lQsUxz22vPJ4c4", "duration_ms": 189773, "time_signature": 4}
+大人たちには指示されない (Nogizaka46)
+{"danceability": 0.57, "energy": 0.989, "key": 6, "loudness": -3.045, "mode": 0, "speechiness": 0.0602, "acousticness": 0.00523, "instrumentalness": 0, "liveness": 0.0535, "valence": 0.87, "tempo": 132.006, "type": "audio_features", "id": "360UbWxThvoVLuMlq2QdZB", "uri": "spotify:track:360UbWxThvoVLuMlq2QdZB", "track_href": "https://api.spotify.com/v1/tracks/360UbWxThvoVLuMlq2QdZB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/360UbWxThvoVLuMlq2QdZB", "duration_ms": 252800, "time_signature": 4}
+心にもないこと (Nogizaka46)
+{"danceability": 0.51, "energy": 0.907, "key": 7, "loudness": -2.78, "mode": 1, "speechiness": 0.0555, "acousticness": 0.0995, "instrumentalness": 0, "liveness": 0.161, "valence": 0.763, "tempo": 127.908, "type": "audio_features", "id": "2NrYOOMZ0ULLiZYMddJknA", "uri": "spotify:track:2NrYOOMZ0ULLiZYMddJknA", "track_href": "https://api.spotify.com/v1/tracks/2NrYOOMZ0ULLiZYMddJknA", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2NrYOOMZ0ULLiZYMddJknA", "duration_ms": 243240, "time_signature": 4}
+name: 心にもないこと(Nogizaka46)    https://open.spotify.com/track/2NrYOOMZ0ULLiZYMddJknA
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: JET(POLKADOT STINGRAY)    https://open.spotify.com/track/3iqOLTGhIJOxV1P0W6Exmr
+name: 棒人間(RADWIMPS)    https://open.spotify.com/track/2wsyebeX4ptSxKIpJtWE6B
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/7jc1VLTIiYgREGfCpUg4ot
+name: ワイルド アット ハート(ARASHI)    https://open.spotify.com/track/2im8jqte4utp2s1ZI52OFv
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: かいこ(Creepy Nuts)    https://open.spotify.com/track/4D77oQdWDKJxNsiSP4AVBZ
+name: My Line(Berry Goodman)    https://open.spotify.com/track/2eAOxy6XD8U8pKCuNCfiET
+name: リトルダンサー feat. Ito (PEOPLE 1)(WurtS)    https://open.spotify.com/track/2aKT3Rwcf0MKutWB9mcg5p
+------------------<score>-----------------------
+心にもないこと  https://open.spotify.com/track/2NrYOOMZ0ULLiZYMddJknA
+score: 1

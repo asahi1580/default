@@ -1,0 +1,25 @@
+2023年11月13日 11:03:08
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/1Xvftggu2LmTMJ8TiIKIHy
+サークル (Lilas Ikuta)
+{"danceability": 0.691, "energy": 0.793, "key": 8, "loudness": -4.191, "mode": 1, "speechiness": 0.0425, "acousticness": 0.129, "instrumentalness": 4.83e-05, "liveness": 0.102, "valence": 0.432, "tempo": 130.967, "type": "audio_features", "id": "5sRnmEbAVSOcfqNlVwTfQe", "uri": "spotify:track:5sRnmEbAVSOcfqNlVwTfQe", "track_href": "https://api.spotify.com/v1/tracks/5sRnmEbAVSOcfqNlVwTfQe", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5sRnmEbAVSOcfqNlVwTfQe", "duration_ms": 195761, "time_signature": 4}
+ジュブナイル (GReeeeN)
+{"danceability": 0.662, "energy": 0.94, "key": 5, "loudness": -2.531, "mode": 1, "speechiness": 0.071, "acousticness": 0.00803, "instrumentalness": 0, "liveness": 0.327, "valence": 0.641, "tempo": 112.982, "type": "audio_features", "id": "0EIlSiMlNJDHecJUkmzYer", "uri": "spotify:track:0EIlSiMlNJDHecJUkmzYer", "track_href": "https://api.spotify.com/v1/tracks/0EIlSiMlNJDHecJUkmzYer", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0EIlSiMlNJDHecJUkmzYer", "duration_ms": 261280, "time_signature": 4}
+レッツ・ゴー (The Ventures)
+{"danceability": 0.608, "energy": 0.716, "key": 0, "loudness": -6.701, "mode": 1, "speechiness": 0.0572, "acousticness": 1.77e-05, "instrumentalness": 0.815, "liveness": 0.0546, "valence": 0.961, "tempo": 150.949, "type": "audio_features", "id": "4ARB4UPEhcqEAPi68STsHK", "uri": "spotify:track:4ARB4UPEhcqEAPi68STsHK", "track_href": "https://api.spotify.com/v1/tracks/4ARB4UPEhcqEAPi68STsHK", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ARB4UPEhcqEAPi68STsHK", "duration_ms": 138027, "time_signature": 4}
+Kiss You (One Direction)
+{"danceability": 0.637, "energy": 0.93, "key": 4, "loudness": -2.632, "mode": 1, "speechiness": 0.0511, "acousticness": 0.0177, "instrumentalness": 0, "liveness": 0.452, "valence": 0.886, "tempo": 90.014, "type": "audio_features", "id": "4My8w8AA1JpG6E5SiAPvJL", "uri": "spotify:track:4My8w8AA1JpG6E5SiAPvJL", "track_href": "https://api.spotify.com/v1/tracks/4My8w8AA1JpG6E5SiAPvJL", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4My8w8AA1JpG6E5SiAPvJL", "duration_ms": 182867, "time_signature": 4}
+B級 (CHANMINA)
+{"danceability": 0.806, "energy": 0.715, "key": 10, "loudness": -5.365, "mode": 0, "speechiness": 0.0451, "acousticness": 0.0524, "instrumentalness": 3.25e-06, "liveness": 0.0496, "valence": 0.793, "tempo": 139.965, "type": "audio_features", "id": "0mBPNrXQjNv3NfzqrljAZZ", "uri": "spotify:track:0mBPNrXQjNv3NfzqrljAZZ", "track_href": "https://api.spotify.com/v1/tracks/0mBPNrXQjNv3NfzqrljAZZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0mBPNrXQjNv3NfzqrljAZZ", "duration_ms": 196747, "time_signature": 4}
+name: バイオレンス(QUEEN BEE)    https://open.spotify.com/track/68BawnlUojQQqpciOkJwiN
+name: 泣き地蔵(Vaundy)    https://open.spotify.com/track/2WHVKDG5Lj92IUijUno1ON
+name: You for Me(Sigala)    https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/3719B6zxJvxpfrnC5rvItf
+name: フェイキング・オブ・コメディ(jon-YAKITORY)    https://open.spotify.com/track/2MMujROFNbp9slc9xR8XR4
+name: Celular(Nicky Jam)    https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: 友よ 〜 この先もずっと・・・(Ketsumeishi)    https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC
+name: 渚とサイダー(POP ART TOWN)    https://open.spotify.com/track/0fB9qqzExwkYpfK5j1WAPr
+name: けーたいみしてよ(MAISONdes)    https://open.spotify.com/track/2lM1Qox6qq2bU7zKJyVt9p
+------------------<score>-----------------------
+score: 0

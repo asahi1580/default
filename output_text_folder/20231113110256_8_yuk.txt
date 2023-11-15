@@ -1,0 +1,25 @@
+2023年11月13日 11:03:29
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/1Xvftggu2LmTMJ8TiIKIHy
+사랑스러워 (Kim Jong Kook)
+{"danceability": 0.666, "energy": 0.768, "key": 11, "loudness": -9.776, "mode": 1, "speechiness": 0.0754, "acousticness": 0.257, "instrumentalness": 1.01e-05, "liveness": 0.396, "valence": 0.702, "tempo": 93.998, "type": "audio_features", "id": "6XVp0q2S9ORgOeHBeaXlke", "uri": "spotify:track:6XVp0q2S9ORgOeHBeaXlke", "track_href": "https://api.spotify.com/v1/tracks/6XVp0q2S9ORgOeHBeaXlke", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6XVp0q2S9ORgOeHBeaXlke", "duration_ms": 281496, "time_signature": 4}
+愛し愛されて生きるのさ (Ozawa Kenji)
+{"danceability": 0.732, "energy": 0.616, "key": 9, "loudness": -12.61, "mode": 1, "speechiness": 0.0447, "acousticness": 0.267, "instrumentalness": 8.93e-05, "liveness": 0.222, "valence": 0.925, "tempo": 133.253, "type": "audio_features", "id": "39PsI8ncxGjEYyeecaQrv8", "uri": "spotify:track:39PsI8ncxGjEYyeecaQrv8", "track_href": "https://api.spotify.com/v1/tracks/39PsI8ncxGjEYyeecaQrv8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/39PsI8ncxGjEYyeecaQrv8", "duration_ms": 263326, "time_signature": 4}
+Dance Dance Dance Merlina - Remix (Dj Bryan Amaya)
+{"danceability": 0.663, "energy": 0.952, "key": 10, "loudness": -2.672, "mode": 0, "speechiness": 0.048, "acousticness": 0.00141, "instrumentalness": 0, "liveness": 0.341, "valence": 0.608, "tempo": 125.0, "type": "audio_features", "id": "7zZwmQ7EavsTNNxOVmcwF3", "uri": "spotify:track:7zZwmQ7EavsTNNxOVmcwF3", "track_href": "https://api.spotify.com/v1/tracks/7zZwmQ7EavsTNNxOVmcwF3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7zZwmQ7EavsTNNxOVmcwF3", "duration_ms": 146430, "time_signature": 4}
+ソングオブザデッド (KANA-BOON)
+{"danceability": 0.429, "energy": 0.973, "key": 2, "loudness": -2.69, "mode": 1, "speechiness": 0.179, "acousticness": 0.00298, "instrumentalness": 1.9e-05, "liveness": 0.158, "valence": 0.385, "tempo": 169.122, "type": "audio_features", "id": "48sA84eSu3NA4iwGTARt6C", "uri": "spotify:track:48sA84eSu3NA4iwGTARt6C", "track_href": "https://api.spotify.com/v1/tracks/48sA84eSu3NA4iwGTARt6C", "analysis_url": "https://api.spotify.com/v1/audio-analysis/48sA84eSu3NA4iwGTARt6C", "duration_ms": 196440, "time_signature": 4}
+一番会いたい人 (miwa)
+{"danceability": 0.643, "energy": 0.746, "key": 1, "loudness": -5.141, "mode": 1, "speechiness": 0.0293, "acousticness": 0.0851, "instrumentalness": 0, "liveness": 0.332, "valence": 0.707, "tempo": 125.951, "type": "audio_features", "id": "5Uk74xpE1KXeGKsKLPpEZ9", "uri": "spotify:track:5Uk74xpE1KXeGKsKLPpEZ9", "track_href": "https://api.spotify.com/v1/tracks/5Uk74xpE1KXeGKsKLPpEZ9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Uk74xpE1KXeGKsKLPpEZ9", "duration_ms": 170653, "time_signature": 4}
+name: CHEERS(Mrs. GREEN APPLE)    https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+name: ミックス(マルシィ)    https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR
+name: 億劫(プランクトン)    https://open.spotify.com/track/2w65cyN27BCe45XnwCU30m
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: SPECIALZ(King Gnu)    https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF
+name: キャラクター(Ryokuoushoku Shakai)    https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi
+name: キャラクター(Ryokuoushoku Shakai)    https://open.spotify.com/track/0O4YelF6Zneq7sk1Ye73N2
+name: NO TIME(VivaOla)    https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc
+name: 春はグラデーション(The Yogurts)    https://open.spotify.com/track/1IkCdCF5JlgKQYhgO34G3o
+name: ナイモノネダリ(Da-iCE)    https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,25 @@
+2023年11月10日 14:39:28
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+ぼかろころしあむ (SymaG)
+{"danceability": 0.634, "energy": 0.899, "key": 1, "loudness": -5.8, "mode": 1, "speechiness": 0.0422, "acousticness": 0.000188, "instrumentalness": 2.62e-06, "liveness": 0.355, "valence": 0.564, "tempo": 129.974, "type": "audio_features", "id": "4Dsk6rnWJvaSX0TlShyED4", "uri": "spotify:track:4Dsk6rnWJvaSX0TlShyED4", "track_href": "https://api.spotify.com/v1/tracks/4Dsk6rnWJvaSX0TlShyED4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Dsk6rnWJvaSX0TlShyED4", "duration_ms": 154267, "time_signature": 4}
+ねぇねぇねぇ。 (PinocchioP)
+{"danceability": 0.724, "energy": 0.864, "key": 7, "loudness": -4.958, "mode": 1, "speechiness": 0.0549, "acousticness": 0.0146, "instrumentalness": 0.00301, "liveness": 0.095, "valence": 0.654, "tempo": 144.949, "type": "audio_features", "id": "3gHgE02K4p2wHiUZ2RPWpS", "uri": "spotify:track:3gHgE02K4p2wHiUZ2RPWpS", "track_href": "https://api.spotify.com/v1/tracks/3gHgE02K4p2wHiUZ2RPWpS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3gHgE02K4p2wHiUZ2RPWpS", "duration_ms": 210608, "time_signature": 4}
+発熱 (tacica)
+{"danceability": 0.382, "energy": 0.966, "key": 6, "loudness": -2.595, "mode": 1, "speechiness": 0.098, "acousticness": 0.0138, "instrumentalness": 1.46e-06, "liveness": 0.335, "valence": 0.782, "tempo": 187.932, "type": "audio_features", "id": "5y1Cit0l2kMNsU9U2qW2OL", "uri": "spotify:track:5y1Cit0l2kMNsU9U2qW2OL", "track_href": "https://api.spotify.com/v1/tracks/5y1Cit0l2kMNsU9U2qW2OL", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5y1Cit0l2kMNsU9U2qW2OL", "duration_ms": 183333, "time_signature": 4}
+ヨワネハキ (MAISONdes)
+{"danceability": 0.78, "energy": 0.814, "key": 7, "loudness": -3.617, "mode": 1, "speechiness": 0.0291, "acousticness": 0.0432, "instrumentalness": 8.28e-05, "liveness": 0.168, "valence": 0.59, "tempo": 108.025, "type": "audio_features", "id": "0FOVGBW0RpVRuDuUuN4ZVw", "uri": "spotify:track:0FOVGBW0RpVRuDuUuN4ZVw", "track_href": "https://api.spotify.com/v1/tracks/0FOVGBW0RpVRuDuUuN4ZVw", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0FOVGBW0RpVRuDuUuN4ZVw", "duration_ms": 166967, "time_signature": 4}
+Black Catcher (Vicke Blanka)
+{"danceability": 0.592, "energy": 0.894, "key": 11, "loudness": -4.71, "mode": 0, "speechiness": 0.042, "acousticness": 0.00358, "instrumentalness": 5.32e-06, "liveness": 0.0721, "valence": 0.642, "tempo": 100.026, "type": "audio_features", "id": "2y7f8qkrgIqY5KsfPNcuix", "uri": "spotify:track:2y7f8qkrgIqY5KsfPNcuix", "track_href": "https://api.spotify.com/v1/tracks/2y7f8qkrgIqY5KsfPNcuix", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2y7f8qkrgIqY5KsfPNcuix", "duration_ms": 196947, "time_signature": 4}
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz
+name: 友よ 〜 この先もずっと・・・(Ketsumeishi)    https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: テーマソング(PornoGraffitti)    https://open.spotify.com/track/54kC9JsxAYMZ3gRT161M1a
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/3719B6zxJvxpfrnC5rvItf
+name: JUMP(Lilas Ikuta)    https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es
+name: 煽動海獣ダイパンダ(笹木咲)    https://open.spotify.com/track/4ZhRmL9viOvvkZ7hfxa4i5
+name: セプテンバーさん(Aimer)    https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv
+name: 泣き地蔵(Vaundy)    https://open.spotify.com/track/2WHVKDG5Lj92IUijUno1ON
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+------------------<score>-----------------------
+score: 0

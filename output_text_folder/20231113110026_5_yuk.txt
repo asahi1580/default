@@ -1,0 +1,25 @@
+2023年11月13日 11:00:46
+yuk_score.py
+お気に入り  https://open.spotify.com/playlist/6z1Fbn53QQUgu1YuBgM72y
+Subtitle (OFFICIAL HIGE DANDISM)
+{"danceability": 0.649, "energy": 0.683, "key": 6, "loudness": -6.49, "mode": 1, "speechiness": 0.0424, "acousticness": 0.0313, "instrumentalness": 0, "liveness": 0.118, "valence": 0.381, "tempo": 130.0, "type": "audio_features", "id": "49F3htNmwzPKFycPdOrDvf", "uri": "spotify:track:49F3htNmwzPKFycPdOrDvf", "track_href": "https://api.spotify.com/v1/tracks/49F3htNmwzPKFycPdOrDvf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/49F3htNmwzPKFycPdOrDvf", "duration_ms": 305509, "time_signature": 4}
+S.T.U.D (Ryokuoushoku Shakai)
+{"danceability": 0.373, "energy": 0.929, "key": 6, "loudness": -1.876, "mode": 0, "speechiness": 0.0872, "acousticness": 0.00842, "instrumentalness": 0, "liveness": 0.0995, "valence": 0.521, "tempo": 180.002, "type": "audio_features", "id": "1YrrvdjklZiUDGVZCEUwpm", "uri": "spotify:track:1YrrvdjklZiUDGVZCEUwpm", "track_href": "https://api.spotify.com/v1/tracks/1YrrvdjklZiUDGVZCEUwpm", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YrrvdjklZiUDGVZCEUwpm", "duration_ms": 240613, "time_signature": 4}
+絆ノ奇跡 (MAN WITH A MISSION)
+{"danceability": 0.436, "energy": 0.951, "key": 7, "loudness": -4.748, "mode": 0, "speechiness": 0.202, "acousticness": 0.0046, "instrumentalness": 0, "liveness": 0.149, "valence": 0.428, "tempo": 169.955, "type": "audio_features", "id": "2VBLFxCUyFp5BfmsZpxcis", "uri": "spotify:track:2VBLFxCUyFp5BfmsZpxcis", "track_href": "https://api.spotify.com/v1/tracks/2VBLFxCUyFp5BfmsZpxcis", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VBLFxCUyFp5BfmsZpxcis", "duration_ms": 223320, "time_signature": 4}
+Curtain Call (Shota Shimizu)
+{"danceability": 0.656, "energy": 0.582, "key": 0, "loudness": -5.85, "mode": 1, "speechiness": 0.0329, "acousticness": 0.189, "instrumentalness": 0, "liveness": 0.243, "valence": 0.401, "tempo": 85.004, "type": "audio_features", "id": "3JzAKk0CpUlgzS1mPqzBwk", "uri": "spotify:track:3JzAKk0CpUlgzS1mPqzBwk", "track_href": "https://api.spotify.com/v1/tracks/3JzAKk0CpUlgzS1mPqzBwk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JzAKk0CpUlgzS1mPqzBwk", "duration_ms": 267587, "time_signature": 4}
+シーグラス (Saucy Dog)
+{"danceability": 0.508, "energy": 0.833, "key": 5, "loudness": -2.542, "mode": 1, "speechiness": 0.0379, "acousticness": 0.0264, "instrumentalness": 0, "liveness": 0.188, "valence": 0.515, "tempo": 140.923, "type": "audio_features", "id": "10wpvZ1utpKvvlFzMsRfMB", "uri": "spotify:track:10wpvZ1utpKvvlFzMsRfMB", "track_href": "https://api.spotify.com/v1/tracks/10wpvZ1utpKvvlFzMsRfMB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/10wpvZ1utpKvvlFzMsRfMB", "duration_ms": 300000, "time_signature": 4}
+name: カワキヲアメク(美波)    https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB
+name: 君に届け(flumpool)    https://open.spotify.com/track/0kA7SWxWPYqSyIbMl51X5b
+name: GOKU VIBES(DJ CHARI)    https://open.spotify.com/track/3ONpcsH0VHshaLqnghaq0S
+name: メフィスト(QUEEN BEE)    https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG
+name: HONEY (ARE U COMING?)(Måneskin)    https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK
+name: I Wanted to Be a Picture(Neochi)    https://open.spotify.com/track/0LczpCcInrS7e9myL6VbjO
+name: Bidan(yangskinny)    https://open.spotify.com/track/0fJ3AlXNydfMNIBA5OuqiI
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: 高嶺の花子さん(back number)    https://open.spotify.com/track/2iH7om9rE3QRWOXpuGEgic
+name: unravel(TK from Ling tosite sigure)    https://open.spotify.com/track/0GLyqTysS0DFoeKjURtB8s
+------------------<score>-----------------------
+score: 0

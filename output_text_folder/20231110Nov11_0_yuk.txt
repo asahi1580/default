@@ -1,0 +1,26 @@
+2023年11月10日 11:39:43
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+だから僕は音楽を辞めた (ヨルシカ)
+{"danceability": 0.65, "energy": 0.88, "key": 4, "loudness": -5.326, "mode": 1, "speechiness": 0.0283, "acousticness": 0.36, "instrumentalness": 0.00369, "liveness": 0.23, "valence": 0.921, "tempo": 124.985, "type": "audio_features", "id": "5j7ixaLeGTGSv4DzKs0pCM", "uri": "spotify:track:5j7ixaLeGTGSv4DzKs0pCM", "track_href": "https://api.spotify.com/v1/tracks/5j7ixaLeGTGSv4DzKs0pCM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5j7ixaLeGTGSv4DzKs0pCM", "duration_ms": 242913, "time_signature": 4}
+極東の羊、テレキャスターと踊る (しゃろう)
+{"danceability": 0.633, "energy": 0.859, "key": 10, "loudness": -7.596, "mode": 1, "speechiness": 0.181, "acousticness": 0.000114, "instrumentalness": 0.00375, "liveness": 0.102, "valence": 0.632, "tempo": 130.012, "type": "audio_features", "id": "70KKG7hWEf0NyehSa4BfKj", "uri": "spotify:track:70KKG7hWEf0NyehSa4BfKj", "track_href": "https://api.spotify.com/v1/tracks/70KKG7hWEf0NyehSa4BfKj", "analysis_url": "https://api.spotify.com/v1/audio-analysis/70KKG7hWEf0NyehSa4BfKj", "duration_ms": 107538, "time_signature": 4}
+袖のキルト (ZUTOMAYO)
+{"danceability": 0.749, "energy": 0.813, "key": 9, "loudness": -3.045, "mode": 1, "speechiness": 0.0559, "acousticness": 0.265, "instrumentalness": 0, "liveness": 0.0729, "valence": 0.658, "tempo": 116.964, "type": "audio_features", "id": "7iDC1sNnfChQhMmdBuZmBA", "uri": "spotify:track:7iDC1sNnfChQhMmdBuZmBA", "track_href": "https://api.spotify.com/v1/tracks/7iDC1sNnfChQhMmdBuZmBA", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7iDC1sNnfChQhMmdBuZmBA", "duration_ms": 255173, "time_signature": 4}
+ブリキノダンス (SymaG)
+{"danceability": 0.425, "energy": 0.879, "key": 5, "loudness": -3.296, "mode": 0, "speechiness": 0.111, "acousticness": 0.000249, "instrumentalness": 0.00813, "liveness": 0.0837, "valence": 0.691, "tempo": 171.946, "type": "audio_features", "id": "6O1wgU2Jz8K9UhAsV7b5rE", "uri": "spotify:track:6O1wgU2Jz8K9UhAsV7b5rE", "track_href": "https://api.spotify.com/v1/tracks/6O1wgU2Jz8K9UhAsV7b5rE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6O1wgU2Jz8K9UhAsV7b5rE", "duration_ms": 201547, "time_signature": 4}
+ベノム (Kairikibear)
+{"danceability": 0.548, "energy": 0.98, "key": 5, "loudness": -0.471, "mode": 0, "speechiness": 0.1, "acousticness": 0.116, "instrumentalness": 0, "liveness": 0.296, "valence": 0.755, "tempo": 152.111, "type": "audio_features", "id": "2llI6h2T2O5KZfn1OhJQAA", "uri": "spotify:track:2llI6h2T2O5KZfn1OhJQAA", "track_href": "https://api.spotify.com/v1/tracks/2llI6h2T2O5KZfn1OhJQAA", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2llI6h2T2O5KZfn1OhJQAA", "duration_ms": 203034, "time_signature": 4}
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: 新・合法的トビ方ノススメ(Creepy Nuts)    https://open.spotify.com/track/0EzeFzwg9tlqJ20rSYe8x8
+name: かいこ(Creepy Nuts)    https://open.spotify.com/track/4D77oQdWDKJxNsiSP4AVBZ
+name: JET(POLKADOT STINGRAY)    https://open.spotify.com/track/3iqOLTGhIJOxV1P0W6Exmr
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: ドラマツルギー(Eve)    https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+name: Shock!(sakanaction)    https://open.spotify.com/track/2PVprWefdSve2wSuzMWq8b
+name: ショック!(sakanaction)    https://open.spotify.com/track/5JptX8WFwejyeb6OuKL7wG
+------------------<score>-----------------------
+ドラマツルギー  https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+score: 1

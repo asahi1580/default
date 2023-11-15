@@ -1,0 +1,26 @@
+2023年10月05日 10:06:30
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+わんぱく野球バカ (Yusuke)
+{"danceability": 0.662, "energy": 0.674, "key": 10, "loudness": -7.524, "mode": 1, "speechiness": 0.151, "acousticness": 0.283, "instrumentalness": 0, "liveness": 0.0665, "valence": 0.779, "tempo": 92.061, "type": "audio_features", "id": "5ie9JJ4WqQZ5oikQlBYxs0", "uri": "spotify:track:5ie9JJ4WqQZ5oikQlBYxs0", "track_href": "https://api.spotify.com/v1/tracks/5ie9JJ4WqQZ5oikQlBYxs0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ie9JJ4WqQZ5oikQlBYxs0", "duration_ms": 272333, "time_signature": 4}
+もっと強く (EXILE)
+{"danceability": 0.557, "energy": 0.644, "key": 9, "loudness": -5.931, "mode": 1, "speechiness": 0.033, "acousticness": 0.0389, "instrumentalness": 0, "liveness": 0.267, "valence": 0.22, "tempo": 123.999, "type": "audio_features", "id": "3JPZKiZKQOsCMJmysdVcAZ", "uri": "spotify:track:3JPZKiZKQOsCMJmysdVcAZ", "track_href": "https://api.spotify.com/v1/tracks/3JPZKiZKQOsCMJmysdVcAZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JPZKiZKQOsCMJmysdVcAZ", "duration_ms": 433987, "time_signature": 4}
+Sayonara (HIRAIDAI)
+{"danceability": 0.648, "energy": 0.339, "key": 2, "loudness": -8.258, "mode": 1, "speechiness": 0.0722, "acousticness": 0.501, "instrumentalness": 0, "liveness": 0.34, "valence": 0.698, "tempo": 172.137, "type": "audio_features", "id": "0xeX2HsaRkT7g9oqMWhk4A", "uri": "spotify:track:0xeX2HsaRkT7g9oqMWhk4A", "track_href": "https://api.spotify.com/v1/tracks/0xeX2HsaRkT7g9oqMWhk4A", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0xeX2HsaRkT7g9oqMWhk4A", "duration_ms": 191860, "time_signature": 4}
+会いたい (もさを。)
+{"danceability": 0.703, "energy": 0.494, "key": 0, "loudness": -6.335, "mode": 1, "speechiness": 0.0274, "acousticness": 0.459, "instrumentalness": 0, "liveness": 0.0974, "valence": 0.537, "tempo": 94.516, "type": "audio_features", "id": "6KCEL11alMnIccqpRBrrN1", "uri": "spotify:track:6KCEL11alMnIccqpRBrrN1", "track_href": "https://api.spotify.com/v1/tracks/6KCEL11alMnIccqpRBrrN1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6KCEL11alMnIccqpRBrrN1", "duration_ms": 250840, "time_signature": 4}
+大丈夫 (wacci)
+{"danceability": 0.598, "energy": 0.686, "key": 6, "loudness": -4.298, "mode": 1, "speechiness": 0.0256, "acousticness": 0.052, "instrumentalness": 0, "liveness": 0.109, "valence": 0.736, "tempo": 79.991, "type": "audio_features", "id": "5MYjno6goNbqgGHKEYhJ1Y", "uri": "spotify:track:5MYjno6goNbqgGHKEYhJ1Y", "track_href": "https://api.spotify.com/v1/tracks/5MYjno6goNbqgGHKEYhJ1Y", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5MYjno6goNbqgGHKEYhJ1Y", "duration_ms": 286840, "time_signature": 4}
+name: Love Me Now (feat. Zoe Wees)(Kygo)    https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: あぁ、もう。(Saucy Dog)    https://open.spotify.com/track/7G4rZHIBiXJNFmLYXtWCPm
+name: Night Distance(I love you Orchestra Swing Style)    https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv
+name: 数センチメンタル(こはならむ)    https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf
+name: 道標(福原 遥)    https://open.spotify.com/track/61XZNwm1eCZAc0DNIbvUmV
+name: Anti-Hero(Taylor Swift)    https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu
+name: ことほぎ(Tele)    https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/0tlp9m2rIsY4R6d9ZIuhfn
+------------------<score>-----------------------
+あぁ、もう。  https://open.spotify.com/track/7G4rZHIBiXJNFmLYXtWCPm
+score: 1

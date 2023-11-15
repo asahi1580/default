@@ -208,7 +208,7 @@ import_music_average= [D_avg,E_avg,S_avg,A_avg,Li_avg,V_avg,T_avg]
 str_dict = json.dumps(avg_dict)
 file.write('正規化後のパラメータの平均'+str_dict+'\n')        #入力した６曲の平均の辞書リスト
 
-#平均パラメータとプレイリスト内の曲のユークリッド距離の計算 
+#平均パラメータとプレイリスト内の曲のコサイン類似度の計算 
 def sim_distance(avg,music):
     music = np.array(music)
     distance = np.dot(avg, music) / (np.linalg.norm(avg) * np.linalg.norm(music))

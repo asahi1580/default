@@ -1,0 +1,25 @@
+2023年11月15日 11:14:25
+cos_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+Answer (Lilas Ikuta)
+{"danceability": 0.622, "energy": 0.475, "key": 0, "loudness": -6.199, "mode": 1, "speechiness": 0.036, "acousticness": 0.512, "instrumentalness": 0, "liveness": 0.127, "valence": 0.388, "tempo": 79.954, "type": "audio_features", "id": "5hVAQTNarrb3lmWqg9Ens4", "uri": "spotify:track:5hVAQTNarrb3lmWqg9Ens4", "track_href": "https://api.spotify.com/v1/tracks/5hVAQTNarrb3lmWqg9Ens4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hVAQTNarrb3lmWqg9Ens4", "duration_ms": 246000, "time_signature": 4}
+猫リセット (ZUTOMAYO)
+{"danceability": 0.741, "energy": 0.902, "key": 0, "loudness": -2.28, "mode": 0, "speechiness": 0.0514, "acousticness": 0.137, "instrumentalness": 0, "liveness": 0.072, "valence": 0.935, "tempo": 115.929, "type": "audio_features", "id": "68TwxeHi1pyFDRIKHxSArM", "uri": "spotify:track:68TwxeHi1pyFDRIKHxSArM", "track_href": "https://api.spotify.com/v1/tracks/68TwxeHi1pyFDRIKHxSArM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/68TwxeHi1pyFDRIKHxSArM", "duration_ms": 247100, "time_signature": 4}
+Bluma to Lunch (BLOOM VASE)
+{"danceability": 0.756, "energy": 0.726, "key": 7, "loudness": -5.388, "mode": 1, "speechiness": 0.0489, "acousticness": 0.034, "instrumentalness": 0.000455, "liveness": 0.119, "valence": 0.792, "tempo": 123.98, "type": "audio_features", "id": "3EYWY7XBj1BkCKX3R3hoZk", "uri": "spotify:track:3EYWY7XBj1BkCKX3R3hoZk", "track_href": "https://api.spotify.com/v1/tracks/3EYWY7XBj1BkCKX3R3hoZk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3EYWY7XBj1BkCKX3R3hoZk", "duration_ms": 159040, "time_signature": 4}
+踊 (Ado)
+{"danceability": 0.707, "energy": 0.965, "key": 1, "loudness": -0.736, "mode": 1, "speechiness": 0.105, "acousticness": 0.15, "instrumentalness": 1.38e-06, "liveness": 0.726, "valence": 0.777, "tempo": 128.003, "type": "audio_features", "id": "7z6qHGEKxRtwtYym2epV7l", "uri": "spotify:track:7z6qHGEKxRtwtYym2epV7l", "track_href": "https://api.spotify.com/v1/tracks/7z6qHGEKxRtwtYym2epV7l", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7z6qHGEKxRtwtYym2epV7l", "duration_ms": 208271, "time_signature": 4}
+夜のピエロ - TeddyLoid Remix (Ado)
+{"danceability": 0.635, "energy": 0.946, "key": 8, "loudness": -0.547, "mode": 1, "speechiness": 0.118, "acousticness": 0.132, "instrumentalness": 0, "liveness": 0.297, "valence": 0.708, "tempo": 128.064, "type": "audio_features", "id": "6OiZpa36iNzEmNiVszAkQv", "uri": "spotify:track:6OiZpa36iNzEmNiVszAkQv", "track_href": "https://api.spotify.com/v1/tracks/6OiZpa36iNzEmNiVszAkQv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OiZpa36iNzEmNiVszAkQv", "duration_ms": 209062, "time_signature": 4}
+name: First Song (dead to me)(ZIN)    https://open.spotify.com/track/1glz0cjxfeuRfURnox3fnF
+name: 愛を止めないで(Yu Sakai)    https://open.spotify.com/track/7Gou5R13gSGK1sSc4XOgtJ
+name: meringue doll(Ichiko Aoba)    https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ
+name: 戯言スピーカー (in synonym)(sasanomaly)    https://open.spotify.com/track/1o0pc80nTS7AGi4fcFaBLF
+name: It'll Be Okay(Shawn Mendes)    https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD
+name: Lady - 2020(Ohashi Trio)    https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r
+name: 心のそばに(Belle)    https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT
+name: Without Love(LMYK)    https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp
+name: December(milet)    https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS
+name: Beautiful Sleep(Shinya Kiyozuka)    https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,26 @@
+2023年11月13日 10:58:33
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/5wbUwYagqn4FW8uC5mpOlo
+メリーゴーランド (Yuuri)
+{"danceability": 0.517, "energy": 0.629, "key": 3, "loudness": -5.719, "mode": 1, "speechiness": 0.0279, "acousticness": 0.492, "instrumentalness": 0, "liveness": 0.0641, "valence": 0.563, "tempo": 179.968, "type": "audio_features", "id": "1llk0Ducps2jpfNDtKwO1h", "uri": "spotify:track:1llk0Ducps2jpfNDtKwO1h", "track_href": "https://api.spotify.com/v1/tracks/1llk0Ducps2jpfNDtKwO1h", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1llk0Ducps2jpfNDtKwO1h", "duration_ms": 255840, "time_signature": 3}
+熱帯夜 (RIP SLYME)
+{"danceability": 0.653, "energy": 0.881, "key": 1, "loudness": -3.955, "mode": 1, "speechiness": 0.0457, "acousticness": 0.0755, "instrumentalness": 0.000865, "liveness": 0.0279, "valence": 0.73, "tempo": 168.996, "type": "audio_features", "id": "0Xs6JbTolXavra7Pz7UgJ9", "uri": "spotify:track:0Xs6JbTolXavra7Pz7UgJ9", "track_href": "https://api.spotify.com/v1/tracks/0Xs6JbTolXavra7Pz7UgJ9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Xs6JbTolXavra7Pz7UgJ9", "duration_ms": 290893, "time_signature": 4}
+タイムマシン (Yuuri)
+{"danceability": 0.706, "energy": 0.717, "key": 5, "loudness": -4.248, "mode": 1, "speechiness": 0.041, "acousticness": 0.158, "instrumentalness": 0, "liveness": 0.109, "valence": 0.834, "tempo": 111.972, "type": "audio_features", "id": "0C7VgMgDuyOEku3sslCbyC", "uri": "spotify:track:0C7VgMgDuyOEku3sslCbyC", "track_href": "https://api.spotify.com/v1/tracks/0C7VgMgDuyOEku3sslCbyC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0C7VgMgDuyOEku3sslCbyC", "duration_ms": 201133, "time_signature": 4}
+唱 (Ado)
+{"danceability": 0.616, "energy": 0.975, "key": 10, "loudness": -0.425, "mode": 0, "speechiness": 0.208, "acousticness": 0.172, "instrumentalness": 1.62e-06, "liveness": 0.143, "valence": 0.742, "tempo": 132.054, "type": "audio_features", "id": "2tlOVDJ3lQsUxz22vPJ4c4", "uri": "spotify:track:2tlOVDJ3lQsUxz22vPJ4c4", "track_href": "https://api.spotify.com/v1/tracks/2tlOVDJ3lQsUxz22vPJ4c4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tlOVDJ3lQsUxz22vPJ4c4", "duration_ms": 189773, "time_signature": 4}
+そんなbitterな話 (Vaundy)
+{"danceability": 0.427, "energy": 0.689, "key": 9, "loudness": -4.35, "mode": 1, "speechiness": 0.0354, "acousticness": 0.0918, "instrumentalness": 0, "liveness": 0.102, "valence": 0.733, "tempo": 178.077, "type": "audio_features", "id": "4QlSFkbRxZWkHDF1MqBaEY", "uri": "spotify:track:4QlSFkbRxZWkHDF1MqBaEY", "track_href": "https://api.spotify.com/v1/tracks/4QlSFkbRxZWkHDF1MqBaEY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QlSFkbRxZWkHDF1MqBaEY", "duration_ms": 276083, "time_signature": 4}
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+name: ジェリーフィッシュ (feat. ローラーガール)(Yunomi)    https://open.spotify.com/track/6kIivltIxJscvk682sTXoV
+name: 小学館(Soutaiseiriron)    https://open.spotify.com/track/54DqT82fSmVmv43wQexodB
+name: A面で恋をして(NIAGARA TRIANGLE)    https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH
+name: Don't stop me lyrics(TakaseToya)    https://open.spotify.com/track/3n2g9GrFtmbxQzLGTNQBaI
+name: コーヒーとシロップ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/6l1P9avGqv8oHBjwxp2ABq
+name: MIRROR MIRROR(HIRAIDAI)    https://open.spotify.com/track/3nFxkwyRpr4xYBR9Z0ywjo
+name: MIRROR MIRROR(HIRAIDAI)    https://open.spotify.com/track/0Sp31BXc9dedQnfKYCiojE
+name: Traffic (select)(ZUNTATA)    https://open.spotify.com/track/7nTOJUcZ2TdrjEMZdf30tu
+name: 笑顔(Ikimonogakari)    https://open.spotify.com/track/1dYFiDCkODoBht8HtTuW7E
+------------------<score>-----------------------
+Don't stop me lyrics  https://open.spotify.com/track/3n2g9GrFtmbxQzLGTNQBaI
+score: 1

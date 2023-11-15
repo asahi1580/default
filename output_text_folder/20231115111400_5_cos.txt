@@ -1,0 +1,25 @@
+2023年11月15日 11:14:20
+cos_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+花に亡霊 (ヨルシカ)
+{"danceability": 0.661, "energy": 0.446, "key": 4, "loudness": -6.808, "mode": 1, "speechiness": 0.046, "acousticness": 0.696, "instrumentalness": 0, "liveness": 0.0761, "valence": 0.46, "tempo": 89.961, "type": "audio_features", "id": "53maoOKr6j04iqk6qjdvQN", "uri": "spotify:track:53maoOKr6j04iqk6qjdvQN", "track_href": "https://api.spotify.com/v1/tracks/53maoOKr6j04iqk6qjdvQN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/53maoOKr6j04iqk6qjdvQN", "duration_ms": 240120, "time_signature": 4}
+アンコール (YOASOBI)
+{"danceability": 0.682, "energy": 0.669, "key": 2, "loudness": -4.741, "mode": 1, "speechiness": 0.0275, "acousticness": 0.283, "instrumentalness": 1e-06, "liveness": 0.145, "valence": 0.831, "tempo": 81.999, "type": "audio_features", "id": "465JzFiajJO59sUrDFsxdC", "uri": "spotify:track:465JzFiajJO59sUrDFsxdC", "track_href": "https://api.spotify.com/v1/tracks/465JzFiajJO59sUrDFsxdC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/465JzFiajJO59sUrDFsxdC", "duration_ms": 271440, "time_signature": 4}
+ロマンスの神様 (Kohmi Hirose)
+{"danceability": 0.667, "energy": 0.802, "key": 1, "loudness": -6.495, "mode": 1, "speechiness": 0.0349, "acousticness": 0.149, "instrumentalness": 1.84e-06, "liveness": 0.163, "valence": 0.556, "tempo": 125.91, "type": "audio_features", "id": "0xYSgQHddr1lh6IfqWgn2W", "uri": "spotify:track:0xYSgQHddr1lh6IfqWgn2W", "track_href": "https://api.spotify.com/v1/tracks/0xYSgQHddr1lh6IfqWgn2W", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0xYSgQHddr1lh6IfqWgn2W", "duration_ms": 269284, "time_signature": 4}
+アポトーシス (OFFICIAL HIGE DANDISM)
+{"danceability": 0.463, "energy": 0.691, "key": 8, "loudness": -6.154, "mode": 1, "speechiness": 0.045, "acousticness": 0.047, "instrumentalness": 0, "liveness": 0.115, "valence": 0.379, "tempo": 155.898, "type": "audio_features", "id": "222BlW44cS9nOM6C369IB2", "uri": "spotify:track:222BlW44cS9nOM6C369IB2", "track_href": "https://api.spotify.com/v1/tracks/222BlW44cS9nOM6C369IB2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/222BlW44cS9nOM6C369IB2", "duration_ms": 389707, "time_signature": 4}
+Universe (OFFICIAL HIGE DANDISM)
+{"danceability": 0.491, "energy": 0.902, "key": 1, "loudness": -4.954, "mode": 1, "speechiness": 0.2, "acousticness": 0.227, "instrumentalness": 1.4e-05, "liveness": 0.131, "valence": 0.59, "tempo": 185.952, "type": "audio_features", "id": "5KERkIWq8lQAHHAlsFUn6V", "uri": "spotify:track:5KERkIWq8lQAHHAlsFUn6V", "track_href": "https://api.spotify.com/v1/tracks/5KERkIWq8lQAHHAlsFUn6V", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KERkIWq8lQAHHAlsFUn6V", "duration_ms": 286093, "time_signature": 4}
+name: First Song (dead to me)(ZIN)    https://open.spotify.com/track/1glz0cjxfeuRfURnox3fnF
+name: 愛を止めないで(Yu Sakai)    https://open.spotify.com/track/7Gou5R13gSGK1sSc4XOgtJ
+name: Space Orphans(Ichiko Aoba)    https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg
+name: Lady - 2020(Ohashi Trio)    https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r
+name: meringue doll(Ichiko Aoba)    https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ
+name: 素直(Miho Fukuhara)    https://open.spotify.com/track/3WMOGfwdooXGzFI62zi7JK
+name: サンサーラ(Takehara Pistol)    https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3
+name: Beautiful Sleep(Shinya Kiyozuka)    https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A
+name: It'll Be Okay(Shawn Mendes)    https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD
+name: December(milet)    https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS
+------------------<score>-----------------------
+score: 0

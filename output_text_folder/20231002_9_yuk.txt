@@ -1,0 +1,28 @@
+2023年10月02日 13:57:24
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+純白の花嫁 (Zushi San Kyoudai)
+{"danceability": 0.6, "energy": 0.691, "key": 2, "loudness": -5.251, "mode": 1, "speechiness": 0.0341, "acousticness": 0.426, "instrumentalness": 0, "liveness": 0.103, "valence": 0.37, "tempo": 80.029, "type": "audio_features", "id": "4gII5gEr6dwADUlzKCgsaM", "uri": "spotify:track:4gII5gEr6dwADUlzKCgsaM", "track_href": "https://api.spotify.com/v1/tracks/4gII5gEr6dwADUlzKCgsaM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4gII5gEr6dwADUlzKCgsaM", "duration_ms": 280680, "time_signature": 4}
+ただ、ありがとう (Monkey Majik)
+{"danceability": 0.554, "energy": 0.712, "key": 9, "loudness": -4.306, "mode": 1, "speechiness": 0.0277, "acousticness": 0.474, "instrumentalness": 0, "liveness": 0.34, "valence": 0.683, "tempo": 87.02, "type": "audio_features", "id": "3ayTR482XA5dvsAiPU3di6", "uri": "spotify:track:3ayTR482XA5dvsAiPU3di6", "track_href": "https://api.spotify.com/v1/tracks/3ayTR482XA5dvsAiPU3di6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ayTR482XA5dvsAiPU3di6", "duration_ms": 223000, "time_signature": 4}
+水平線 (back number)
+{"danceability": 0.419, "energy": 0.75, "key": 10, "loudness": -3.546, "mode": 1, "speechiness": 0.0316, "acousticness": 0.011, "instrumentalness": 0, "liveness": 0.159, "valence": 0.436, "tempo": 145.867, "type": "audio_features", "id": "5m1i6hq7dmRlp3c1utE48L", "uri": "spotify:track:5m1i6hq7dmRlp3c1utE48L", "track_href": "https://api.spotify.com/v1/tracks/5m1i6hq7dmRlp3c1utE48L", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5m1i6hq7dmRlp3c1utE48L", "duration_ms": 285396, "time_signature": 4}
+ささえる人の歌 (back number)
+{"danceability": 0.499, "energy": 0.605, "key": 0, "loudness": -4.334, "mode": 1, "speechiness": 0.0315, "acousticness": 0.000825, "instrumentalness": 0, "liveness": 0.102, "valence": 0.589, "tempo": 155.888, "type": "audio_features", "id": "2zCsfWyOl4r67R7taNYfZs", "uri": "spotify:track:2zCsfWyOl4r67R7taNYfZs", "track_href": "https://api.spotify.com/v1/tracks/2zCsfWyOl4r67R7taNYfZs", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2zCsfWyOl4r67R7taNYfZs", "duration_ms": 252413, "time_signature": 4}
+もう一度 (もさを。)
+{"danceability": 0.822, "energy": 0.557, "key": 10, "loudness": -6.077, "mode": 1, "speechiness": 0.0285, "acousticness": 0.363, "instrumentalness": 0, "liveness": 0.0995, "valence": 0.692, "tempo": 105.02, "type": "audio_features", "id": "3m8BIdlRzbf2K950rvZGxU", "uri": "spotify:track:3m8BIdlRzbf2K950rvZGxU", "track_href": "https://api.spotify.com/v1/tracks/3m8BIdlRzbf2K950rvZGxU", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3m8BIdlRzbf2K950rvZGxU", "duration_ms": 207063, "time_signature": 4}
+name: ハルノヒ(Aimyon)    https://open.spotify.com/track/7jFcbwPkMcEZK3bQhTzeAU
+name: ファジーサマー(Lucky Kilimanjaro)    https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6
+name: 灯火(Vaundy)    https://open.spotify.com/track/1JnvAinIjLd8WrEECx9neZ
+name: 青いベンチ - Cover Ver.(Woman Cover Project)    https://open.spotify.com/track/1gaZq4SyQDPzowG6NDRNSA
+name: シンデレラボーイ(Saucy Dog)    https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V
+name: Cinderella Boy(Saucy Dog)    https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV
+name: Night Time(The fin.)    https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b
+name: Swim(Soushi Sakiyama)    https://open.spotify.com/track/3ta1doBxwfJPEQguJYzl6x
+name: 恋色(もさを。)    https://open.spotify.com/track/1zKGm1uMH5qKgpM7T2U3RY
+name: バニラ(Kyanai)    https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb
+------------------<score>-----------------------
+恋色  https://open.spotify.com/track/1zKGm1uMH5qKgpM7T2U3RY
+シンデレラボーイ  https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V
+バニラ  https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb
+score: 3

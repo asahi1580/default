@@ -1,0 +1,28 @@
+2023年11月10日 11:44:29
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+p.h. (SEVENTHLINKS)
+{"danceability": 0.795, "energy": 0.74, "key": 11, "loudness": -9.751, "mode": 0, "speechiness": 0.0848, "acousticness": 0.0563, "instrumentalness": 0.0133, "liveness": 0.0638, "valence": 0.963, "tempo": 132.005, "type": "audio_features", "id": "3WxlfdEj9jL5PQiyFfQvcM", "uri": "spotify:track:3WxlfdEj9jL5PQiyFfQvcM", "track_href": "https://api.spotify.com/v1/tracks/3WxlfdEj9jL5PQiyFfQvcM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3WxlfdEj9jL5PQiyFfQvcM", "duration_ms": 155430, "time_signature": 4}
+ビンテージ (OFFICIAL HIGE DANDISM)
+{"danceability": 0.449, "energy": 0.819, "key": 2, "loudness": -5.169, "mode": 1, "speechiness": 0.0513, "acousticness": 0.204, "instrumentalness": 0, "liveness": 0.289, "valence": 0.507, "tempo": 180.019, "type": "audio_features", "id": "0U9vBvoG3LN1PnuVl47E3W", "uri": "spotify:track:0U9vBvoG3LN1PnuVl47E3W", "track_href": "https://api.spotify.com/v1/tracks/0U9vBvoG3LN1PnuVl47E3W", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0U9vBvoG3LN1PnuVl47E3W", "duration_ms": 252566, "time_signature": 4}
+夜のピエロ - TeddyLoid Remix (Ado)
+{"danceability": 0.635, "energy": 0.946, "key": 8, "loudness": -0.547, "mode": 1, "speechiness": 0.118, "acousticness": 0.132, "instrumentalness": 0, "liveness": 0.297, "valence": 0.708, "tempo": 128.064, "type": "audio_features", "id": "6OiZpa36iNzEmNiVszAkQv", "uri": "spotify:track:6OiZpa36iNzEmNiVszAkQv", "track_href": "https://api.spotify.com/v1/tracks/6OiZpa36iNzEmNiVszAkQv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OiZpa36iNzEmNiVszAkQv", "duration_ms": 209062, "time_signature": 4}
+ミックスナッツ (OFFICIAL HIGE DANDISM)
+{"danceability": 0.542, "energy": 0.918, "key": 6, "loudness": -5.074, "mode": 1, "speechiness": 0.0937, "acousticness": 0.0101, "instrumentalness": 0, "liveness": 0.259, "valence": 0.784, "tempo": 150.094, "type": "audio_features", "id": "60ReNXcPcsVFd7nUuQw5HZ", "uri": "spotify:track:60ReNXcPcsVFd7nUuQw5HZ", "track_href": "https://api.spotify.com/v1/tracks/60ReNXcPcsVFd7nUuQw5HZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/60ReNXcPcsVFd7nUuQw5HZ", "duration_ms": 213438, "time_signature": 4}
+又三郎 (ヨルシカ)
+{"danceability": 0.472, "energy": 0.919, "key": 4, "loudness": -3.513, "mode": 0, "speechiness": 0.149, "acousticness": 0.00308, "instrumentalness": 0.000492, "liveness": 0.212, "valence": 0.548, "tempo": 199.972, "type": "audio_features", "id": "5Dsgyf6cz0dKNp9me6vKnv", "uri": "spotify:track:5Dsgyf6cz0dKNp9me6vKnv", "track_href": "https://api.spotify.com/v1/tracks/5Dsgyf6cz0dKNp9me6vKnv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Dsgyf6cz0dKNp9me6vKnv", "duration_ms": 227732, "time_signature": 4}
+name: Mixed Nuts(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ
+name: ミックスナッツ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ
+name: ミチヲユケ(Ryokuoushoku Shakai)    https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv
+name: 恋は渾沌の隷也(Ushirokarahaiyoritai G)    https://open.spotify.com/track/2g1k9DguVUrZSPIVzcphlQ
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: ドラマツルギー(Eve)    https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+name: これからのこと、それからのこと(Ryokuoushoku Shakai)    https://open.spotify.com/track/3ee3P6E34IetUo60gwR0hw
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: シャルル(balloon)    https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h
+------------------<score>-----------------------
+ドラマツルギー  https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+シャルル  https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h
+ミックスナッツ  https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ
+score: 3

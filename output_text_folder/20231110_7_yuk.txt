@@ -1,0 +1,26 @@
+2023年11月10日 11:32:00
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+HELLO (OFFICIAL HIGE DANDISM)
+{"danceability": 0.526, "energy": 0.883, "key": 1, "loudness": -4.335, "mode": 0, "speechiness": 0.035, "acousticness": 0.000764, "instrumentalness": 0, "liveness": 0.37, "valence": 0.538, "tempo": 126.968, "type": "audio_features", "id": "2SzXlu48l0sqApK9hBWZtg", "uri": "spotify:track:2SzXlu48l0sqApK9hBWZtg", "track_href": "https://api.spotify.com/v1/tracks/2SzXlu48l0sqApK9hBWZtg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SzXlu48l0sqApK9hBWZtg", "duration_ms": 280453, "time_signature": 4}
+夜撫でるメノウ (Ayase)
+{"danceability": 0.702, "energy": 0.732, "key": 10, "loudness": -6.803, "mode": 1, "speechiness": 0.0266, "acousticness": 0.0749, "instrumentalness": 0, "liveness": 0.297, "valence": 0.636, "tempo": 100.0, "type": "audio_features", "id": "6IHWPY5iBUI1AOUclbtE6F", "uri": "spotify:track:6IHWPY5iBUI1AOUclbtE6F", "track_href": "https://api.spotify.com/v1/tracks/6IHWPY5iBUI1AOUclbtE6F", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6IHWPY5iBUI1AOUclbtE6F", "duration_ms": 262800, "time_signature": 4}
+あいつら全員同窓会 (ZUTOMAYO)
+{"danceability": 0.724, "energy": 0.913, "key": 2, "loudness": -2.836, "mode": 0, "speechiness": 0.118, "acousticness": 0.453, "instrumentalness": 0, "liveness": 0.052, "valence": 0.913, "tempo": 130.968, "type": "audio_features", "id": "2VIK6jaaKghS4QPHr6sAkv", "uri": "spotify:track:2VIK6jaaKghS4QPHr6sAkv", "track_href": "https://api.spotify.com/v1/tracks/2VIK6jaaKghS4QPHr6sAkv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VIK6jaaKghS4QPHr6sAkv", "duration_ms": 254507, "time_signature": 4}
+Drive (WANIMA)
+{"danceability": 0.483, "energy": 0.943, "key": 7, "loudness": -1.736, "mode": 1, "speechiness": 0.0616, "acousticness": 0.018, "instrumentalness": 0, "liveness": 0.327, "valence": 0.698, "tempo": 103.603, "type": "audio_features", "id": "0nGShsVuI9viRfzBCPlBWs", "uri": "spotify:track:0nGShsVuI9viRfzBCPlBWs", "track_href": "https://api.spotify.com/v1/tracks/0nGShsVuI9viRfzBCPlBWs", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0nGShsVuI9viRfzBCPlBWs", "duration_ms": 284682, "time_signature": 4}
+暗く黒く (ZUTOMAYO)
+{"danceability": 0.552, "energy": 0.833, "key": 8, "loudness": -3.312, "mode": 1, "speechiness": 0.17, "acousticness": 0.413, "instrumentalness": 0, "liveness": 0.0784, "valence": 0.845, "tempo": 96.825, "type": "audio_features", "id": "1MYyy6zh2ErfJMkiqkCZWJ", "uri": "spotify:track:1MYyy6zh2ErfJMkiqkCZWJ", "track_href": "https://api.spotify.com/v1/tracks/1MYyy6zh2ErfJMkiqkCZWJ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1MYyy6zh2ErfJMkiqkCZWJ", "duration_ms": 249293, "time_signature": 4}
+name: ナイモノネダリ(Da-iCE)    https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: いけないfool logic(UNISON SQUARE GARDEN)    https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo
+name: Don't Leave Yet(Eric Nam)    https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD
+name: 色彩(yama)    https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD
+name: 愛してみてよ減るもんじゃないし(neguse.)    https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: My Line(Berry Goodman)    https://open.spotify.com/track/2eAOxy6XD8U8pKCuNCfiET
+name: のらりつらり(domico)    https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+------------------<score>-----------------------
+a.m.3:21  https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+score: 1

@@ -1,0 +1,25 @@
+2023年11月15日 11:14:29
+cos_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+だから僕は音楽を辞めた (ヨルシカ)
+{"danceability": 0.65, "energy": 0.88, "key": 4, "loudness": -5.326, "mode": 1, "speechiness": 0.0283, "acousticness": 0.36, "instrumentalness": 0.00369, "liveness": 0.23, "valence": 0.921, "tempo": 124.985, "type": "audio_features", "id": "5j7ixaLeGTGSv4DzKs0pCM", "uri": "spotify:track:5j7ixaLeGTGSv4DzKs0pCM", "track_href": "https://api.spotify.com/v1/tracks/5j7ixaLeGTGSv4DzKs0pCM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5j7ixaLeGTGSv4DzKs0pCM", "duration_ms": 242913, "time_signature": 4}
+Mela! (Ryokuoushoku Shakai)
+{"danceability": 0.619, "energy": 0.941, "key": 8, "loudness": -1.618, "mode": 1, "speechiness": 0.0584, "acousticness": 0.0439, "instrumentalness": 1.73e-05, "liveness": 0.318, "valence": 0.624, "tempo": 137.967, "type": "audio_features", "id": "6IO5nn84TKArsi3cjpIqaD", "uri": "spotify:track:6IO5nn84TKArsi3cjpIqaD", "track_href": "https://api.spotify.com/v1/tracks/6IO5nn84TKArsi3cjpIqaD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6IO5nn84TKArsi3cjpIqaD", "duration_ms": 242067, "time_signature": 4}
+しゅわしゅわハニーレモン350ml (しゃろう)
+{"danceability": 0.733, "energy": 0.722, "key": 4, "loudness": -9.115, "mode": 1, "speechiness": 0.038, "acousticness": 0.0699, "instrumentalness": 0.0563, "liveness": 0.368, "valence": 0.671, "tempo": 124.995, "type": "audio_features", "id": "2KqRO3dW7ERhyG16FuLI0n", "uri": "spotify:track:2KqRO3dW7ERhyG16FuLI0n", "track_href": "https://api.spotify.com/v1/tracks/2KqRO3dW7ERhyG16FuLI0n", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2KqRO3dW7ERhyG16FuLI0n", "duration_ms": 96960, "time_signature": 4}
+ミラーチューン (ZUTOMAYO)
+{"danceability": 0.704, "energy": 0.933, "key": 0, "loudness": -2.383, "mode": 0, "speechiness": 0.0863, "acousticness": 0.357, "instrumentalness": 0, "liveness": 0.353, "valence": 0.895, "tempo": 127.965, "type": "audio_features", "id": "0R8JLNP107Hr7V7lL9oh13", "uri": "spotify:track:0R8JLNP107Hr7V7lL9oh13", "track_href": "https://api.spotify.com/v1/tracks/0R8JLNP107Hr7V7lL9oh13", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0R8JLNP107Hr7V7lL9oh13", "duration_ms": 249273, "time_signature": 4}
+DOGMA (wotaku)
+{"danceability": 0.577, "energy": 0.895, "key": 5, "loudness": -2.495, "mode": 0, "speechiness": 0.081, "acousticness": 0.325, "instrumentalness": 0.0141, "liveness": 0.161, "valence": 0.48, "tempo": 164.958, "type": "audio_features", "id": "0sTtcn25r5G8eCz0VAk7cC", "uri": "spotify:track:0sTtcn25r5G8eCz0VAk7cC", "track_href": "https://api.spotify.com/v1/tracks/0sTtcn25r5G8eCz0VAk7cC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0sTtcn25r5G8eCz0VAk7cC", "duration_ms": 191555, "time_signature": 4}
+name: First Song (dead to me)(ZIN)    https://open.spotify.com/track/1glz0cjxfeuRfURnox3fnF
+name: 愛を止めないで(Yu Sakai)    https://open.spotify.com/track/7Gou5R13gSGK1sSc4XOgtJ
+name: Beautiful Sleep(Shinya Kiyozuka)    https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A
+name: Lady - 2020(Ohashi Trio)    https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r
+name: It'll Be Okay(Shawn Mendes)    https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD
+name: 素直(Miho Fukuhara)    https://open.spotify.com/track/3WMOGfwdooXGzFI62zi7JK
+name: December(milet)    https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS
+name: サンサーラ(Takehara Pistol)    https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3
+name: meringue doll(Ichiko Aoba)    https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ
+name: 戯言スピーカー (in synonym)(sasanomaly)    https://open.spotify.com/track/1o0pc80nTS7AGi4fcFaBLF
+------------------<score>-----------------------
+score: 0

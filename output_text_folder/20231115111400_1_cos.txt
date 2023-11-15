@@ -1,0 +1,25 @@
+2023年11月15日 11:14:04
+cos_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+ミックスナッツ (OFFICIAL HIGE DANDISM)
+{"danceability": 0.542, "energy": 0.918, "key": 6, "loudness": -5.074, "mode": 1, "speechiness": 0.0937, "acousticness": 0.0101, "instrumentalness": 0, "liveness": 0.259, "valence": 0.784, "tempo": 150.094, "type": "audio_features", "id": "60ReNXcPcsVFd7nUuQw5HZ", "uri": "spotify:track:60ReNXcPcsVFd7nUuQw5HZ", "track_href": "https://api.spotify.com/v1/tracks/60ReNXcPcsVFd7nUuQw5HZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/60ReNXcPcsVFd7nUuQw5HZ", "duration_ms": 213438, "time_signature": 4}
+怪獣の花唄 (Vaundy)
+{"danceability": 0.425, "energy": 0.939, "key": 2, "loudness": -3.498, "mode": 1, "speechiness": 0.054, "acousticness": 0.00361, "instrumentalness": 0, "liveness": 0.331, "valence": 0.638, "tempo": 150.015, "type": "audio_features", "id": "65zCSX2CSQXp1vr4hNtHDv", "uri": "spotify:track:65zCSX2CSQXp1vr4hNtHDv", "track_href": "https://api.spotify.com/v1/tracks/65zCSX2CSQXp1vr4hNtHDv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/65zCSX2CSQXp1vr4hNtHDv", "duration_ms": 224806, "time_signature": 4}
+ロコローション (ORANGE RANGE)
+{"danceability": 0.682, "energy": 0.895, "key": 11, "loudness": -3.173, "mode": 1, "speechiness": 0.0973, "acousticness": 0.026, "instrumentalness": 0, "liveness": 0.108, "valence": 0.821, "tempo": 140.005, "type": "audio_features", "id": "3JQAPaMYUAf6jXNe2xkscR", "uri": "spotify:track:3JQAPaMYUAf6jXNe2xkscR", "track_href": "https://api.spotify.com/v1/tracks/3JQAPaMYUAf6jXNe2xkscR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JQAPaMYUAf6jXNe2xkscR", "duration_ms": 196867, "time_signature": 4}
+ラブレター (YOASOBI)
+{"danceability": 0.662, "energy": 0.86, "key": 7, "loudness": -3.534, "mode": 1, "speechiness": 0.0286, "acousticness": 0.447, "instrumentalness": 0, "liveness": 0.339, "valence": 0.69, "tempo": 100.016, "type": "audio_features", "id": "185Wm4Mx09dQG0fUktklDm", "uri": "spotify:track:185Wm4Mx09dQG0fUktklDm", "track_href": "https://api.spotify.com/v1/tracks/185Wm4Mx09dQG0fUktklDm", "analysis_url": "https://api.spotify.com/v1/audio-analysis/185Wm4Mx09dQG0fUktklDm", "duration_ms": 212401, "time_signature": 4}
+怪獣の花唄 (Vaundy)
+{"danceability": 0.425, "energy": 0.939, "key": 2, "loudness": -3.498, "mode": 1, "speechiness": 0.054, "acousticness": 0.00361, "instrumentalness": 0, "liveness": 0.331, "valence": 0.638, "tempo": 150.015, "type": "audio_features", "id": "65zCSX2CSQXp1vr4hNtHDv", "uri": "spotify:track:65zCSX2CSQXp1vr4hNtHDv", "track_href": "https://api.spotify.com/v1/tracks/65zCSX2CSQXp1vr4hNtHDv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/65zCSX2CSQXp1vr4hNtHDv", "duration_ms": 224806, "time_signature": 4}
+name: First Song (dead to me)(ZIN)    https://open.spotify.com/track/1glz0cjxfeuRfURnox3fnF
+name: 愛を止めないで(Yu Sakai)    https://open.spotify.com/track/7Gou5R13gSGK1sSc4XOgtJ
+name: Lady - 2020(Ohashi Trio)    https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r
+name: December(milet)    https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS
+name: サンサーラ(Takehara Pistol)    https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3
+name: Beautiful Sleep(Shinya Kiyozuka)    https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A
+name: It'll Be Okay(Shawn Mendes)    https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD
+name: What Was I Made For? [From The Motion Picture "Barbie"](Billie Eilish)    https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q
+name: 素直(Miho Fukuhara)    https://open.spotify.com/track/3WMOGfwdooXGzFI62zi7JK
+name: 雪の華(Mika Nakashima)    https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6
+------------------<score>-----------------------
+score: 0

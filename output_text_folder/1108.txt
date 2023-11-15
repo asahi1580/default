@@ -1,0 +1,25 @@
+2023年11月08日 11:40:00
+yuk_score.py
+Daily Mix 1  https://open.spotify.com/playlist/37i9dQZF1E36sg8b74Qo6a
+道 (EXILE)
+{"danceability": 0.478, "energy": 0.592, "key": 2, "loudness": -5.975, "mode": 1, "speechiness": 0.0265, "acousticness": 0.00209, "instrumentalness": 0, "liveness": 0.245, "valence": 0.271, "tempo": 139.607, "type": "audio_features", "id": "6fZhokT7ADLeCcOyKL914T", "uri": "spotify:track:6fZhokT7ADLeCcOyKL914T", "track_href": "https://api.spotify.com/v1/tracks/6fZhokT7ADLeCcOyKL914T", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6fZhokT7ADLeCcOyKL914T", "duration_ms": 279200, "time_signature": 4}
+Darling (Kana Nishino)
+{"danceability": 0.592, "energy": 0.816, "key": 5, "loudness": -4.318, "mode": 1, "speechiness": 0.0358, "acousticness": 0.356, "instrumentalness": 3.72e-06, "liveness": 0.226, "valence": 0.763, "tempo": 159.954, "type": "audio_features", "id": "2v8OmZ030lCLY0oLvec7EZ", "uri": "spotify:track:2v8OmZ030lCLY0oLvec7EZ", "track_href": "https://api.spotify.com/v1/tracks/2v8OmZ030lCLY0oLvec7EZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2v8OmZ030lCLY0oLvec7EZ", "duration_ms": 254667, "time_signature": 4}
+インフェルノ (Mrs. GREEN APPLE)
+{"danceability": 0.533, "energy": 0.918, "key": 4, "loudness": -2.095, "mode": 1, "speechiness": 0.0616, "acousticness": 0.00894, "instrumentalness": 0, "liveness": 0.643, "valence": 0.662, "tempo": 92.504, "type": "audio_features", "id": "2vOAHp8PBBFYqvQUWSoITY", "uri": "spotify:track:2vOAHp8PBBFYqvQUWSoITY", "track_href": "https://api.spotify.com/v1/tracks/2vOAHp8PBBFYqvQUWSoITY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vOAHp8PBBFYqvQUWSoITY", "duration_ms": 211600, "time_signature": 4}
+Diver (NICO Touches the Walls)
+{"danceability": 0.334, "energy": 0.915, "key": 11, "loudness": -2.124, "mode": 0, "speechiness": 0.0848, "acousticness": 0.000182, "instrumentalness": 0, "liveness": 0.137, "valence": 0.478, "tempo": 148.995, "type": "audio_features", "id": "3PcKYVcZNSsLqI1xzXV5Aq", "uri": "spotify:track:3PcKYVcZNSsLqI1xzXV5Aq", "track_href": "https://api.spotify.com/v1/tracks/3PcKYVcZNSsLqI1xzXV5Aq", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PcKYVcZNSsLqI1xzXV5Aq", "duration_ms": 248933, "time_signature": 4}
+ひまわり (Yusuke)
+{"danceability": 0.533, "energy": 0.662, "key": 8, "loudness": -7.149, "mode": 1, "speechiness": 0.0797, "acousticness": 0.244, "instrumentalness": 0, "liveness": 0.359, "valence": 0.454, "tempo": 183.896, "type": "audio_features", "id": "0ZHznXIlbX6V9jwuXucnR5", "uri": "spotify:track:0ZHznXIlbX6V9jwuXucnR5", "track_href": "https://api.spotify.com/v1/tracks/0ZHznXIlbX6V9jwuXucnR5", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZHznXIlbX6V9jwuXucnR5", "duration_ms": 294960, "time_signature": 4}
+name: ろくでなしの唄 - Remix(VIGORMAN)    https://open.spotify.com/track/3avgjsEGSIRwCcjzie2jaz
+name: 夏祭り(Whiteberry)    https://open.spotify.com/track/51hE2l7cmVXtEpmJ0AGh4R
+name: 恋(back number)    https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom
+name: 夜明けまで強がらなくてもいい(Nogizaka46)    https://open.spotify.com/track/6fLq9e3IPdHUwIeSR49n5e
+name: Re:Re: (Single ver.)(ASIAN KUNG-FU GENERATION)    https://open.spotify.com/track/7gehOKSGfZgjIJSxiyE8oD
+name: テレポーテーション(NACHERRY)    https://open.spotify.com/track/0RX8Z1fQQrXVJ7obomHWTT
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: 大切 〜ずっと隣〜(SuperBoys)    https://open.spotify.com/track/1IcMKUvciibXJ27601pnED
+name: 正論さん(れん)    https://open.spotify.com/track/3guBJ3pWlpOKxS6aGJH3OD
+------------------<score>-----------------------
+score: 0

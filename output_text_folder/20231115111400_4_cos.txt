@@ -1,0 +1,25 @@
+2023年11月15日 11:14:16
+cos_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+3:03 PM (しゃろう)
+{"danceability": 0.778, "energy": 0.572, "key": 11, "loudness": -10.016, "mode": 0, "speechiness": 0.148, "acousticness": 0.609, "instrumentalness": 0.0179, "liveness": 0.0772, "valence": 0.797, "tempo": 82.547, "type": "audio_features", "id": "0QYUu4QgTy34j0LZ2Ei3ZK", "uri": "spotify:track:0QYUu4QgTy34j0LZ2Ei3ZK", "track_href": "https://api.spotify.com/v1/tracks/0QYUu4QgTy34j0LZ2Ei3ZK", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0QYUu4QgTy34j0LZ2Ei3ZK", "duration_ms": 140000, "time_signature": 4}
+Drive (WANIMA)
+{"danceability": 0.483, "energy": 0.943, "key": 7, "loudness": -1.736, "mode": 1, "speechiness": 0.0616, "acousticness": 0.018, "instrumentalness": 0, "liveness": 0.327, "valence": 0.698, "tempo": 103.603, "type": "audio_features", "id": "0nGShsVuI9viRfzBCPlBWs", "uri": "spotify:track:0nGShsVuI9viRfzBCPlBWs", "track_href": "https://api.spotify.com/v1/tracks/0nGShsVuI9viRfzBCPlBWs", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0nGShsVuI9viRfzBCPlBWs", "duration_ms": 284682, "time_signature": 4}
+CHEERS (Mrs. GREEN APPLE)
+{"danceability": 0.636, "energy": 0.807, "key": 7, "loudness": -3.762, "mode": 1, "speechiness": 0.0509, "acousticness": 0.072, "instrumentalness": 0, "liveness": 0.265, "valence": 0.594, "tempo": 133.049, "type": "audio_features", "id": "3VfcTMAgdty9VYOgeuyqiN", "uri": "spotify:track:3VfcTMAgdty9VYOgeuyqiN", "track_href": "https://api.spotify.com/v1/tracks/3VfcTMAgdty9VYOgeuyqiN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3VfcTMAgdty9VYOgeuyqiN", "duration_ms": 198813, "time_signature": 4}
+2:23 AM (しゃろう)
+{"danceability": 0.587, "energy": 0.611, "key": 10, "loudness": -8.862, "mode": 1, "speechiness": 0.0739, "acousticness": 0.244, "instrumentalness": 2.88e-05, "liveness": 0.238, "valence": 0.499, "tempo": 179.951, "type": "audio_features", "id": "7altakU1CXsGIwqrO0hkQl", "uri": "spotify:track:7altakU1CXsGIwqrO0hkQl", "track_href": "https://api.spotify.com/v1/tracks/7altakU1CXsGIwqrO0hkQl", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7altakU1CXsGIwqrO0hkQl", "duration_ms": 196000, "time_signature": 4}
+砂の惑星 ( + 初音ミク ) (Kenshi Yonezu)
+{"danceability": 0.507, "energy": 0.94, "key": 10, "loudness": -3.264, "mode": 0, "speechiness": 0.0927, "acousticness": 0.0252, "instrumentalness": 0, "liveness": 0.152, "valence": 0.917, "tempo": 94.874, "type": "audio_features", "id": "3eP7A3q0LdI8IqB2gMlAYT", "uri": "spotify:track:3eP7A3q0LdI8IqB2gMlAYT", "track_href": "https://api.spotify.com/v1/tracks/3eP7A3q0LdI8IqB2gMlAYT", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3eP7A3q0LdI8IqB2gMlAYT", "duration_ms": 240027, "time_signature": 4}
+name: 愛を止めないで(Yu Sakai)    https://open.spotify.com/track/7Gou5R13gSGK1sSc4XOgtJ
+name: First Song (dead to me)(ZIN)    https://open.spotify.com/track/1glz0cjxfeuRfURnox3fnF
+name: Lady - 2020(Ohashi Trio)    https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r
+name: meringue doll(Ichiko Aoba)    https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ
+name: It'll Be Okay(Shawn Mendes)    https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD
+name: December(milet)    https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS
+name: 戯言スピーカー (in synonym)(sasanomaly)    https://open.spotify.com/track/1o0pc80nTS7AGi4fcFaBLF
+name: What Was I Made For? [From The Motion Picture "Barbie"](Billie Eilish)    https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q
+name: サンサーラ(Takehara Pistol)    https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3
+name: Beautiful Sleep(Shinya Kiyozuka)    https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A
+------------------<score>-----------------------
+score: 0

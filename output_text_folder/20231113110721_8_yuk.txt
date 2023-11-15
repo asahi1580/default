@@ -1,0 +1,27 @@
+2023年11月13日 11:07:53
+yuk_score.py
+お気に入り20220921  https://open.spotify.com/playlist/7Beiqu1Ua5nmCrLm4fx7oc
+Spirits on Fire (TOKYO MONSTERS)
+{"danceability": 0.432, "energy": 0.988, "key": 2, "loudness": -3.15, "mode": 0, "speechiness": 0.134, "acousticness": 0.00233, "instrumentalness": 3.94e-06, "liveness": 0.317, "valence": 0.515, "tempo": 159.942, "type": "audio_features", "id": "6rkQ9TeRLVSzOhUtgDZK4m", "uri": "spotify:track:6rkQ9TeRLVSzOhUtgDZK4m", "track_href": "https://api.spotify.com/v1/tracks/6rkQ9TeRLVSzOhUtgDZK4m", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6rkQ9TeRLVSzOhUtgDZK4m", "duration_ms": 219259, "time_signature": 4}
+Starry Night (Yuzo Koshiro)
+{"danceability": 0.63, "energy": 0.899, "key": 0, "loudness": -4.951, "mode": 1, "speechiness": 0.0423, "acousticness": 0.00547, "instrumentalness": 0.182, "liveness": 0.107, "valence": 0.731, "tempo": 129.998, "type": "audio_features", "id": "2h4pGR4iSR6Pe47x7hgmJN", "uri": "spotify:track:2h4pGR4iSR6Pe47x7hgmJN", "track_href": "https://api.spotify.com/v1/tracks/2h4pGR4iSR6Pe47x7hgmJN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2h4pGR4iSR6Pe47x7hgmJN", "duration_ms": 289986, "time_signature": 4}
+千本桜 (KuroUsa)
+{"danceability": 0.475, "energy": 0.938, "key": 2, "loudness": -3.129, "mode": 0, "speechiness": 0.0378, "acousticness": 0.00644, "instrumentalness": 5e-05, "liveness": 0.367, "valence": 0.945, "tempo": 154.019, "type": "audio_features", "id": "38mUTswfszVFQ952r89AP8", "uri": "spotify:track:38mUTswfszVFQ952r89AP8", "track_href": "https://api.spotify.com/v1/tracks/38mUTswfszVFQ952r89AP8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/38mUTswfszVFQ952r89AP8", "duration_ms": 252468, "time_signature": 4}
+男女6人夏物語 (Ketsumeishi)
+{"danceability": 0.655, "energy": 0.898, "key": 7, "loudness": -3.415, "mode": 0, "speechiness": 0.0544, "acousticness": 0.256, "instrumentalness": 1.02e-05, "liveness": 0.123, "valence": 0.783, "tempo": 107.03, "type": "audio_features", "id": "7tAshwNY4caZNNa0xg3GhS", "uri": "spotify:track:7tAshwNY4caZNNa0xg3GhS", "track_href": "https://api.spotify.com/v1/tracks/7tAshwNY4caZNNa0xg3GhS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7tAshwNY4caZNNa0xg3GhS", "duration_ms": 406467, "time_signature": 4}
+楽園をめざして (Fumido)
+{"danceability": 0.64, "energy": 0.932, "key": 7, "loudness": -5.028, "mode": 1, "speechiness": 0.0447, "acousticness": 0.356, "instrumentalness": 1.43e-05, "liveness": 0.122, "valence": 0.597, "tempo": 120.038, "type": "audio_features", "id": "2aZflx4NmA338VAgdEEO2I", "uri": "spotify:track:2aZflx4NmA338VAgdEEO2I", "track_href": "https://api.spotify.com/v1/tracks/2aZflx4NmA338VAgdEEO2I", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2aZflx4NmA338VAgdEEO2I", "duration_ms": 301300, "time_signature": 4}
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: 小さな惑星(King Gnu)    https://open.spotify.com/track/6Sk8FdL95YNN8Xru87BWez
+name: 心にもないこと(Nogizaka46)    https://open.spotify.com/track/2NrYOOMZ0ULLiZYMddJknA
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: My Line(Berry Goodman)    https://open.spotify.com/track/2eAOxy6XD8U8pKCuNCfiET
+name: Love Infinity(Hinano)    https://open.spotify.com/track/6l520BpwLoIAYMqLKIf7hk
+name: 友よ 〜 この先もずっと・・・(Ketsumeishi)    https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC
+------------------<score>-----------------------
+My Line  https://open.spotify.com/track/2eAOxy6XD8U8pKCuNCfiET
+友よ 〜 この先もずっと・・・  https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC
+score: 2

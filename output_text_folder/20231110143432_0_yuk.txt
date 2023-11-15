@@ -1,0 +1,25 @@
+2023年11月10日 14:34:33
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+キャラバン (syudou)
+{"danceability": 0.382, "energy": 0.868, "key": 7, "loudness": -2.303, "mode": 0, "speechiness": 0.065, "acousticness": 0.098, "instrumentalness": 0, "liveness": 0.11, "valence": 0.693, "tempo": 148.115, "type": "audio_features", "id": "6aP0EB2Zl56fzCZ2WyPmpJ", "uri": "spotify:track:6aP0EB2Zl56fzCZ2WyPmpJ", "track_href": "https://api.spotify.com/v1/tracks/6aP0EB2Zl56fzCZ2WyPmpJ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6aP0EB2Zl56fzCZ2WyPmpJ", "duration_ms": 211503, "time_signature": 3}
+恋の恋による恋のための恋 (PinocchioP)
+{"danceability": 0.568, "energy": 0.865, "key": 5, "loudness": -3.998, "mode": 1, "speechiness": 0.0394, "acousticness": 0.557, "instrumentalness": 7.41e-06, "liveness": 0.319, "valence": 0.422, "tempo": 135.032, "type": "audio_features", "id": "5FfeACKKpcA97rdPUMSsiC", "uri": "spotify:track:5FfeACKKpcA97rdPUMSsiC", "track_href": "https://api.spotify.com/v1/tracks/5FfeACKKpcA97rdPUMSsiC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5FfeACKKpcA97rdPUMSsiC", "duration_ms": 238222, "time_signature": 4}
+恋の恋による恋のための恋 (PinocchioP)
+{"danceability": 0.568, "energy": 0.865, "key": 5, "loudness": -3.998, "mode": 1, "speechiness": 0.0394, "acousticness": 0.557, "instrumentalness": 7.41e-06, "liveness": 0.319, "valence": 0.422, "tempo": 135.032, "type": "audio_features", "id": "5FfeACKKpcA97rdPUMSsiC", "uri": "spotify:track:5FfeACKKpcA97rdPUMSsiC", "track_href": "https://api.spotify.com/v1/tracks/5FfeACKKpcA97rdPUMSsiC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5FfeACKKpcA97rdPUMSsiC", "duration_ms": 238222, "time_signature": 4}
+嗤うマネキン (MI8k)
+{"danceability": 0.471, "energy": 0.924, "key": 5, "loudness": -3.714, "mode": 0, "speechiness": 0.0868, "acousticness": 0.196, "instrumentalness": 6e-06, "liveness": 0.0901, "valence": 0.548, "tempo": 171.057, "type": "audio_features", "id": "5rlufCxBIuIJEmsfJgYVZ8", "uri": "spotify:track:5rlufCxBIuIJEmsfJgYVZ8", "track_href": "https://api.spotify.com/v1/tracks/5rlufCxBIuIJEmsfJgYVZ8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rlufCxBIuIJEmsfJgYVZ8", "duration_ms": 210585, "time_signature": 4}
+G行為 (RADWIMPS)
+{"danceability": 0.858, "energy": 0.773, "key": 11, "loudness": -5.379, "mode": 0, "speechiness": 0.152, "acousticness": 0.0334, "instrumentalness": 2.2e-05, "liveness": 0.0945, "valence": 0.826, "tempo": 118.02, "type": "audio_features", "id": "48lKT4QKwKK6q9CrAuAAMu", "uri": "spotify:track:48lKT4QKwKK6q9CrAuAAMu", "track_href": "https://api.spotify.com/v1/tracks/48lKT4QKwKK6q9CrAuAAMu", "analysis_url": "https://api.spotify.com/v1/audio-analysis/48lKT4QKwKK6q9CrAuAAMu", "duration_ms": 241587, "time_signature": 4}
+name: 好きだ。(Little Glee Monster)    https://open.spotify.com/track/5axy6KzoG6RMSFkwgEnGvd
+name: 月曜日の憂鬱(Amatsuki)    https://open.spotify.com/track/0fsPqL15FO6l5zuf7h19LX
+name: DOGMA(wotaku)    https://open.spotify.com/track/0sTtcn25r5G8eCz0VAk7cC
+name: GOKU VIBES(DJ CHARI)    https://open.spotify.com/track/3ONpcsH0VHshaLqnghaq0S
+name: 僕は僕を好きになる(Nogizaka46)    https://open.spotify.com/track/7z6wfRDM09uY5x5HUoqSjV
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: 東京VICTORY(サザンオールスターズ)    https://open.spotify.com/track/4XnY5LBp2C37Cr0VrQmGl2
+name: 幽霊船((sic)boy)    https://open.spotify.com/track/4O1RQ3hmsGrQ4zM00EO0VY
+name: JET(POLKADOT STINGRAY)    https://open.spotify.com/track/3iqOLTGhIJOxV1P0W6Exmr
+name: 五月雨よ(櫻坂46)    https://open.spotify.com/track/60JARyaZiozH00NeLWhcgt
+------------------<score>-----------------------
+score: 0

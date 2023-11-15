@@ -1,0 +1,26 @@
+2023年11月10日 11:47:02
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+アイネクライネ (Kenshi Yonezu)
+{"danceability": 0.471, "energy": 0.868, "key": 1, "loudness": -2.291, "mode": 1, "speechiness": 0.0295, "acousticness": 0.0384, "instrumentalness": 0, "liveness": 0.297, "valence": 0.811, "tempo": 173.969, "type": "audio_features", "id": "45YBVp6zMwQZRbUDcPzmMB", "uri": "spotify:track:45YBVp6zMwQZRbUDcPzmMB", "track_href": "https://api.spotify.com/v1/tracks/45YBVp6zMwQZRbUDcPzmMB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/45YBVp6zMwQZRbUDcPzmMB", "duration_ms": 288013, "time_signature": 4}
+春を告げる (yama)
+{"danceability": 0.548, "energy": 0.871, "key": 11, "loudness": -5.377, "mode": 1, "speechiness": 0.123, "acousticness": 0.0397, "instrumentalness": 0, "liveness": 0.357, "valence": 0.487, "tempo": 120.009, "type": "audio_features", "id": "2Gmyw5Vg2X5YW2lM3OC7nD", "uri": "spotify:track:2Gmyw5Vg2X5YW2lM3OC7nD", "track_href": "https://api.spotify.com/v1/tracks/2Gmyw5Vg2X5YW2lM3OC7nD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Gmyw5Vg2X5YW2lM3OC7nD", "duration_ms": 196497, "time_signature": 4}
+2:23 AM (しゃろう)
+{"danceability": 0.587, "energy": 0.611, "key": 10, "loudness": -8.862, "mode": 1, "speechiness": 0.0739, "acousticness": 0.244, "instrumentalness": 2.88e-05, "liveness": 0.238, "valence": 0.499, "tempo": 179.951, "type": "audio_features", "id": "7altakU1CXsGIwqrO0hkQl", "uri": "spotify:track:7altakU1CXsGIwqrO0hkQl", "track_href": "https://api.spotify.com/v1/tracks/7altakU1CXsGIwqrO0hkQl", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7altakU1CXsGIwqrO0hkQl", "duration_ms": 196000, "time_signature": 4}
+アンコール (YOASOBI)
+{"danceability": 0.682, "energy": 0.669, "key": 2, "loudness": -4.741, "mode": 1, "speechiness": 0.0275, "acousticness": 0.283, "instrumentalness": 1e-06, "liveness": 0.145, "valence": 0.831, "tempo": 81.999, "type": "audio_features", "id": "465JzFiajJO59sUrDFsxdC", "uri": "spotify:track:465JzFiajJO59sUrDFsxdC", "track_href": "https://api.spotify.com/v1/tracks/465JzFiajJO59sUrDFsxdC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/465JzFiajJO59sUrDFsxdC", "duration_ms": 271440, "time_signature": 4}
+again (YUI)
+{"danceability": 0.595, "energy": 0.83, "key": 4, "loudness": -3.836, "mode": 0, "speechiness": 0.0379, "acousticness": 0.046, "instrumentalness": 0, "liveness": 0.361, "valence": 0.494, "tempo": 139.922, "type": "audio_features", "id": "5Ywyag9zGnY8w11MKIszuP", "uri": "spotify:track:5Ywyag9zGnY8w11MKIszuP", "track_href": "https://api.spotify.com/v1/tracks/5Ywyag9zGnY8w11MKIszuP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Ywyag9zGnY8w11MKIszuP", "duration_ms": 254347, "time_signature": 4}
+name: 夏祭り(Whiteberry)    https://open.spotify.com/track/51hE2l7cmVXtEpmJ0AGh4R
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: CHEERS(Mrs. GREEN APPLE)    https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+name: Love so sweet(ARASHI)    https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm
+name: Love so sweet(ARASHI)    https://open.spotify.com/track/10G6iBGzoMi9qXgDV9qyBy
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: 考えないようにする(Nogizaka46)    https://open.spotify.com/track/5DlHJXMxEIrg46Mh05irIy
+name: ミックス(マルシィ)    https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR
+name: 八月の陽炎(Macaroni Empitsu)    https://open.spotify.com/track/7a7lvYsKBCsZfuMfVsn5tw
+name: Sing The Moon(Tsukuyomi)    https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo
+------------------<score>-----------------------
+CHEERS  https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+score: 1

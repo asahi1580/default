@@ -1,0 +1,25 @@
+2023年11月10日 14:31:44
+yuk_score.py
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+花束 (back number)
+{"danceability": 0.56, "energy": 0.725, "key": 2, "loudness": -3.279, "mode": 1, "speechiness": 0.0306, "acousticness": 0.0261, "instrumentalness": 0, "liveness": 0.195, "valence": 0.524, "tempo": 79.941, "type": "audio_features", "id": "3wGesqRt3l2D4ZmYCv9A11", "uri": "spotify:track:3wGesqRt3l2D4ZmYCv9A11", "track_href": "https://api.spotify.com/v1/tracks/3wGesqRt3l2D4ZmYCv9A11", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3wGesqRt3l2D4ZmYCv9A11", "duration_ms": 286253, "time_signature": 4}
+ラベンダー (the shes gone)
+{"danceability": 0.602, "energy": 0.557, "key": 6, "loudness": -4.872, "mode": 1, "speechiness": 0.0256, "acousticness": 0.0854, "instrumentalness": 0, "liveness": 0.247, "valence": 0.582, "tempo": 86.011, "type": "audio_features", "id": "0e7VdEYqUYUJ3MlJBnwKR8", "uri": "spotify:track:0e7VdEYqUYUJ3MlJBnwKR8", "track_href": "https://api.spotify.com/v1/tracks/0e7VdEYqUYUJ3MlJBnwKR8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0e7VdEYqUYUJ3MlJBnwKR8", "duration_ms": 310067, "time_signature": 4}
+トドカナイカラ (Ken Hirai)
+{"danceability": 0.733, "energy": 0.467, "key": 5, "loudness": -6.994, "mode": 1, "speechiness": 0.0379, "acousticness": 0.794, "instrumentalness": 0, "liveness": 0.339, "valence": 0.368, "tempo": 102.088, "type": "audio_features", "id": "10vmqpUG6H8tZYVnSjgT5X", "uri": "spotify:track:10vmqpUG6H8tZYVnSjgT5X", "track_href": "https://api.spotify.com/v1/tracks/10vmqpUG6H8tZYVnSjgT5X", "analysis_url": "https://api.spotify.com/v1/audio-analysis/10vmqpUG6H8tZYVnSjgT5X", "duration_ms": 247067, "time_signature": 4}
+シンデレラボーイ (Saucy Dog)
+{"danceability": 0.596, "energy": 0.735, "key": 9, "loudness": -6.362, "mode": 1, "speechiness": 0.0332, "acousticness": 0.0748, "instrumentalness": 0, "liveness": 0.269, "valence": 0.524, "tempo": 108.106, "type": "audio_features", "id": "1Vqs0lXeJafYZz2sxnfB3V", "uri": "spotify:track:1Vqs0lXeJafYZz2sxnfB3V", "track_href": "https://api.spotify.com/v1/tracks/1Vqs0lXeJafYZz2sxnfB3V", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Vqs0lXeJafYZz2sxnfB3V", "duration_ms": 234324, "time_signature": 4}
+ツキミソウ (Novelbright)
+{"danceability": 0.481, "energy": 0.611, "key": 6, "loudness": -4.248, "mode": 1, "speechiness": 0.0354, "acousticness": 0.413, "instrumentalness": 0, "liveness": 0.255, "valence": 0.436, "tempo": 155.788, "type": "audio_features", "id": "0UWTRBGWfOp709f6rxd63R", "uri": "spotify:track:0UWTRBGWfOp709f6rxd63R", "track_href": "https://api.spotify.com/v1/tracks/0UWTRBGWfOp709f6rxd63R", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0UWTRBGWfOp709f6rxd63R", "duration_ms": 307609, "time_signature": 4}
+name: I miss you -refrain-(Shota Shimizu)    https://open.spotify.com/track/080sJ3SvQBXeGO6q1oIF6z
+name: 夢にならないように(グソクムズ)    https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2
+name: Curtain Call(Shota Shimizu)    https://open.spotify.com/track/3JzAKk0CpUlgzS1mPqzBwk
+name: TSUNAMI(サザンオールスターズ)    https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv
+name: 再会 (produced by Ayase)(LiSA)    https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz
+name: Curtain Call(Shota Shimizu)    https://open.spotify.com/track/4uom3dNDDCN5KrI1pcQbuN
+name: Lemon(Kenshi Yonezu)    https://open.spotify.com/track/3v3FtJPI0TSSzBxNz2pHD6
+name: 空の青さを知る人よ(Aimyon)    https://open.spotify.com/track/3u0e8pyoVc7l2u3T5thohY
+name: ライオン(Berry Goodman)    https://open.spotify.com/track/40zFpuXzfj5rxcol7WoZzg
+name: 何度でも(DREAMS COME TRUE)    https://open.spotify.com/track/6Qq8UOS6QzeSYFUVXC5wEB
+------------------<score>-----------------------
+score: 0

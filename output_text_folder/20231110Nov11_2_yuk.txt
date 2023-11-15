@@ -1,0 +1,26 @@
+2023年11月10日 11:39:51
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+ナンセンス文学 (Eve)
+{"danceability": 0.525, "energy": 0.942, "key": 11, "loudness": -1.498, "mode": 0, "speechiness": 0.0509, "acousticness": 0.0111, "instrumentalness": 0, "liveness": 0.0727, "valence": 0.859, "tempo": 154.224, "type": "audio_features", "id": "6zvnmyKMWPhpJWxk2DSerR", "uri": "spotify:track:6zvnmyKMWPhpJWxk2DSerR", "track_href": "https://api.spotify.com/v1/tracks/6zvnmyKMWPhpJWxk2DSerR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zvnmyKMWPhpJWxk2DSerR", "duration_ms": 203760, "time_signature": 4}
+ブリキノダンス (SymaG)
+{"danceability": 0.425, "energy": 0.879, "key": 5, "loudness": -3.296, "mode": 0, "speechiness": 0.111, "acousticness": 0.000249, "instrumentalness": 0.00813, "liveness": 0.0837, "valence": 0.691, "tempo": 171.946, "type": "audio_features", "id": "6O1wgU2Jz8K9UhAsV7b5rE", "uri": "spotify:track:6O1wgU2Jz8K9UhAsV7b5rE", "track_href": "https://api.spotify.com/v1/tracks/6O1wgU2Jz8K9UhAsV7b5rE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6O1wgU2Jz8K9UhAsV7b5rE", "duration_ms": 201547, "time_signature": 4}
+感電 (Kenshi Yonezu)
+{"danceability": 0.633, "energy": 0.723, "key": 8, "loudness": -5.733, "mode": 0, "speechiness": 0.143, "acousticness": 0.107, "instrumentalness": 0, "liveness": 0.0818, "valence": 0.688, "tempo": 103.101, "type": "audio_features", "id": "6H0PLsSYMzDOqhLgyOlzIj", "uri": "spotify:track:6H0PLsSYMzDOqhLgyOlzIj", "track_href": "https://api.spotify.com/v1/tracks/6H0PLsSYMzDOqhLgyOlzIj", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6H0PLsSYMzDOqhLgyOlzIj", "duration_ms": 264533, "time_signature": 4}
+ビンテージ (OFFICIAL HIGE DANDISM)
+{"danceability": 0.449, "energy": 0.819, "key": 2, "loudness": -5.169, "mode": 1, "speechiness": 0.0513, "acousticness": 0.204, "instrumentalness": 0, "liveness": 0.289, "valence": 0.507, "tempo": 180.019, "type": "audio_features", "id": "0U9vBvoG3LN1PnuVl47E3W", "uri": "spotify:track:0U9vBvoG3LN1PnuVl47E3W", "track_href": "https://api.spotify.com/v1/tracks/0U9vBvoG3LN1PnuVl47E3W", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0U9vBvoG3LN1PnuVl47E3W", "duration_ms": 252566, "time_signature": 4}
+ミラーチューン (ZUTOMAYO)
+{"danceability": 0.704, "energy": 0.933, "key": 0, "loudness": -2.383, "mode": 0, "speechiness": 0.0863, "acousticness": 0.357, "instrumentalness": 0, "liveness": 0.353, "valence": 0.895, "tempo": 127.965, "type": "audio_features", "id": "0R8JLNP107Hr7V7lL9oh13", "uri": "spotify:track:0R8JLNP107Hr7V7lL9oh13", "track_href": "https://api.spotify.com/v1/tracks/0R8JLNP107Hr7V7lL9oh13", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0R8JLNP107Hr7V7lL9oh13", "duration_ms": 249273, "time_signature": 4}
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: ドラマツルギー(Eve)    https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: これからのこと、それからのこと(Ryokuoushoku Shakai)    https://open.spotify.com/track/3ee3P6E34IetUo60gwR0hw
+name: ミチヲユケ(Ryokuoushoku Shakai)    https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: 恋は渾沌の隷也(Ushirokarahaiyoritai G)    https://open.spotify.com/track/2g1k9DguVUrZSPIVzcphlQ
+name: コーヒーとシロップ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/6l1P9avGqv8oHBjwxp2ABq
+------------------<score>-----------------------
+ドラマツルギー  https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+score: 1

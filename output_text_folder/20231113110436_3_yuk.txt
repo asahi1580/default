@@ -1,0 +1,25 @@
+2023年11月13日 11:04:48
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/6mGIqxsYG3Q3DGOx68SMIB
+more than words (Hitsujibungaku)
+{"danceability": 0.596, "energy": 0.795, "key": 6, "loudness": -4.778, "mode": 1, "speechiness": 0.0284, "acousticness": 0.000147, "instrumentalness": 0.000317, "liveness": 0.16, "valence": 0.577, "tempo": 130.037, "type": "audio_features", "id": "2ZT6eELxeETGamaiXu6vmk", "uri": "spotify:track:2ZT6eELxeETGamaiXu6vmk", "track_href": "https://api.spotify.com/v1/tracks/2ZT6eELxeETGamaiXu6vmk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ZT6eELxeETGamaiXu6vmk", "duration_ms": 289720, "time_signature": 4}
+さっきはごめんね、ありがとう (Creep Hyp)
+{"danceability": 0.557, "energy": 0.752, "key": 5, "loudness": -3.432, "mode": 1, "speechiness": 0.0365, "acousticness": 0.201, "instrumentalness": 0, "liveness": 0.318, "valence": 0.608, "tempo": 89.999, "type": "audio_features", "id": "7CvLWQ30ggnHucKGA7KZN6", "uri": "spotify:track:7CvLWQ30ggnHucKGA7KZN6", "track_href": "https://api.spotify.com/v1/tracks/7CvLWQ30ggnHucKGA7KZN6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CvLWQ30ggnHucKGA7KZN6", "duration_ms": 205700, "time_signature": 4}
+仕事が終わったら (My Hair is Bad)
+{"danceability": 0.589, "energy": 0.976, "key": 1, "loudness": -3.915, "mode": 1, "speechiness": 0.0596, "acousticness": 0.000308, "instrumentalness": 0, "liveness": 0.478, "valence": 0.743, "tempo": 110.071, "type": "audio_features", "id": "2hE7hJeVdogfCxOiV9delb", "uri": "spotify:track:2hE7hJeVdogfCxOiV9delb", "track_href": "https://api.spotify.com/v1/tracks/2hE7hJeVdogfCxOiV9delb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2hE7hJeVdogfCxOiV9delb", "duration_ms": 94000, "time_signature": 4}
+戦争を知らない大人たち (My Hair is Bad)
+{"danceability": 0.318, "energy": 0.838, "key": 1, "loudness": -3.886, "mode": 1, "speechiness": 0.285, "acousticness": 0.0147, "instrumentalness": 0, "liveness": 0.562, "valence": 0.516, "tempo": 203.916, "type": "audio_features", "id": "4oQfhu4mtIZxqSs0zH1oRS", "uri": "spotify:track:4oQfhu4mtIZxqSs0zH1oRS", "track_href": "https://api.spotify.com/v1/tracks/4oQfhu4mtIZxqSs0zH1oRS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4oQfhu4mtIZxqSs0zH1oRS", "duration_ms": 261000, "time_signature": 4}
+エンドロール (Shout It Out)
+{"danceability": 0.596, "energy": 0.919, "key": 1, "loudness": -2.585, "mode": 1, "speechiness": 0.035, "acousticness": 0.0262, "instrumentalness": 0, "liveness": 0.23, "valence": 0.768, "tempo": 136.039, "type": "audio_features", "id": "1Iom9FU9V7svcjQpvrlUYD", "uri": "spotify:track:1Iom9FU9V7svcjQpvrlUYD", "track_href": "https://api.spotify.com/v1/tracks/1Iom9FU9V7svcjQpvrlUYD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Iom9FU9V7svcjQpvrlUYD", "duration_ms": 236133, "time_signature": 4}
+name: I'm a mess(MY FIRST STORY)    https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg
+name: タイミング~Timing~ フレンズcover ver.(フレンズ)    https://open.spotify.com/track/5Oi8XtvciTQo6vmffKI31Z
+name: 波乗りジョニー(Keisuke Kuwata)    https://open.spotify.com/track/3hjHUf3frPoh9jcYDkqXUV
+name: SPECIALZ(King Gnu)    https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF
+name: WILD ANGEL(ALI)    https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM
+name: KOIHANABI(BMK)    https://open.spotify.com/track/5wT0zXznbieJoRJHNS442t
+name: 八月の陽炎(Macaroni Empitsu)    https://open.spotify.com/track/7a7lvYsKBCsZfuMfVsn5tw
+name: Burning Emotion #5(ドリフトスピリッツ)    https://open.spotify.com/track/6lS6KlKkHI85GSnGRil05Z
+name: King of Light(Seraphilight)    https://open.spotify.com/track/6LyqX3djXJ58kCoSqmXLCf
+name: 熱帯夜(Kei Sugawara)    https://open.spotify.com/track/5ubd3J4ZGGFOTx1TnyIVOr
+------------------<score>-----------------------
+score: 0

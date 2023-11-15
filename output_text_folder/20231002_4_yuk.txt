@@ -1,0 +1,25 @@
+2023年10月02日 13:57:04
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+桜が降る夜は (Aimyon)
+{"danceability": 0.641, "energy": 0.957, "key": 5, "loudness": -2.574, "mode": 1, "speechiness": 0.0455, "acousticness": 0.384, "instrumentalness": 1.05e-06, "liveness": 0.218, "valence": 0.71, "tempo": 106.995, "type": "audio_features", "id": "1iEsGutpDvMJG0zYqoKKmQ", "uri": "spotify:track:1iEsGutpDvMJG0zYqoKKmQ", "track_href": "https://api.spotify.com/v1/tracks/1iEsGutpDvMJG0zYqoKKmQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1iEsGutpDvMJG0zYqoKKmQ", "duration_ms": 274800, "time_signature": 4}
+ベテルギウス (Yuuri)
+{"danceability": 0.432, "energy": 0.68, "key": 5, "loudness": -4.839, "mode": 1, "speechiness": 0.0431, "acousticness": 0.199, "instrumentalness": 0, "liveness": 0.481, "valence": 0.685, "tempo": 180.002, "type": "audio_features", "id": "2sf18cEv463VgqmdjDsFpw", "uri": "spotify:track:2sf18cEv463VgqmdjDsFpw", "track_href": "https://api.spotify.com/v1/tracks/2sf18cEv463VgqmdjDsFpw", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2sf18cEv463VgqmdjDsFpw", "duration_ms": 230394, "time_signature": 4}
+桜が降る夜は (Aimyon)
+{"danceability": 0.641, "energy": 0.957, "key": 5, "loudness": -2.574, "mode": 1, "speechiness": 0.0455, "acousticness": 0.384, "instrumentalness": 1.05e-06, "liveness": 0.218, "valence": 0.71, "tempo": 106.995, "type": "audio_features", "id": "1iEsGutpDvMJG0zYqoKKmQ", "uri": "spotify:track:1iEsGutpDvMJG0zYqoKKmQ", "track_href": "https://api.spotify.com/v1/tracks/1iEsGutpDvMJG0zYqoKKmQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1iEsGutpDvMJG0zYqoKKmQ", "duration_ms": 274800, "time_signature": 4}
+春空 (鈴木鈴木)
+{"danceability": 0.539, "energy": 0.57, "key": 7, "loudness": -4.876, "mode": 1, "speechiness": 0.0453, "acousticness": 0.628, "instrumentalness": 0, "liveness": 0.339, "valence": 0.459, "tempo": 79.974, "type": "audio_features", "id": "2vLucb5JEscur35BqOYHdN", "uri": "spotify:track:2vLucb5JEscur35BqOYHdN", "track_href": "https://api.spotify.com/v1/tracks/2vLucb5JEscur35BqOYHdN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vLucb5JEscur35BqOYHdN", "duration_ms": 254297, "time_signature": 4}
+水平線 (back number)
+{"danceability": 0.419, "energy": 0.75, "key": 10, "loudness": -3.546, "mode": 1, "speechiness": 0.0316, "acousticness": 0.011, "instrumentalness": 0, "liveness": 0.159, "valence": 0.436, "tempo": 145.867, "type": "audio_features", "id": "5m1i6hq7dmRlp3c1utE48L", "uri": "spotify:track:5m1i6hq7dmRlp3c1utE48L", "track_href": "https://api.spotify.com/v1/tracks/5m1i6hq7dmRlp3c1utE48L", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5m1i6hq7dmRlp3c1utE48L", "duration_ms": 285396, "time_signature": 4}
+name: イエスタデイ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/3S3DDZrPOYTirleXRyHnNM
+name: イエスタデイ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/53WuztMfY1VH3rLIm0zApQ
+name: 青いの。(go!go!vanillas)    https://open.spotify.com/track/1XqGNBbV15PgSZayE4b3tO
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: 魔法のコトバ(SPITZ)    https://open.spotify.com/track/6o6XNRr7tosVpTk6Ijuzbf
+name: 俺たちの明日(Elephant Kashimashi)    https://open.spotify.com/track/7zQbBZMziSn4YMk2FLWgV9
+name: KANASHIBARI(RADWIMPS)    https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO
+name: 風の向きが変わって(MONO NO AWARE)    https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt
+name: イージュー★ライダー(Tamio Okuda)    https://open.spotify.com/track/16TRYuLeXnh4hRTjQ1pYpR
+name: カシスオレンジ(Laughing Hick)    https://open.spotify.com/track/78cNVXTGe2OGnno2dLzhzr
+------------------<score>-----------------------
+score: 0

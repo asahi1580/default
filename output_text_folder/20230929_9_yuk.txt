@@ -1,0 +1,26 @@
+2023年09月29日 14:10:59
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+決戦スピリット (CHiCO)
+{"danceability": 0.579, "energy": 0.952, "key": 5, "loudness": -2.678, "mode": 0, "speechiness": 0.054, "acousticness": 0.00459, "instrumentalness": 0, "liveness": 0.113, "valence": 0.352, "tempo": 94.026, "type": "audio_features", "id": "1HHOkD7fuNCBnImFrlDRVi", "uri": "spotify:track:1HHOkD7fuNCBnImFrlDRVi", "track_href": "https://api.spotify.com/v1/tracks/1HHOkD7fuNCBnImFrlDRVi", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1HHOkD7fuNCBnImFrlDRVi", "duration_ms": 270307, "time_signature": 4}
+Cry Baby (OFFICIAL HIGE DANDISM)
+{"danceability": 0.318, "energy": 0.902, "key": 1, "loudness": -4.605, "mode": 1, "speechiness": 0.131, "acousticness": 0.0116, "instrumentalness": 0, "liveness": 0.393, "valence": 0.437, "tempo": 199.844, "type": "audio_features", "id": "7vBX6cVsCPFSx2C58hpZ4f", "uri": "spotify:track:7vBX6cVsCPFSx2C58hpZ4f", "track_href": "https://api.spotify.com/v1/tracks/7vBX6cVsCPFSx2C58hpZ4f", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7vBX6cVsCPFSx2C58hpZ4f", "duration_ms": 240285, "time_signature": 4}
+廻廻奇譚 (Eve)
+{"danceability": 0.565, "energy": 0.919, "key": 5, "loudness": -3.378, "mode": 0, "speechiness": 0.0898, "acousticness": 0.0128, "instrumentalness": 0, "liveness": 0.292, "valence": 0.565, "tempo": 92.325, "type": "audio_features", "id": "2gSkvrwfCXCgqeugzezn97", "uri": "spotify:track:2gSkvrwfCXCgqeugzezn97", "track_href": "https://api.spotify.com/v1/tracks/2gSkvrwfCXCgqeugzezn97", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gSkvrwfCXCgqeugzezn97", "duration_ms": 219234, "time_signature": 4}
+爆笑 (syudou)
+{"danceability": 0.489, "energy": 0.975, "key": 1, "loudness": -1.525, "mode": 1, "speechiness": 0.0912, "acousticness": 0.000256, "instrumentalness": 4.19e-05, "liveness": 0.276, "valence": 0.787, "tempo": 176.065, "type": "audio_features", "id": "1YIQqV0X14caopQwj5zGoq", "uri": "spotify:track:1YIQqV0X14caopQwj5zGoq", "track_href": "https://api.spotify.com/v1/tracks/1YIQqV0X14caopQwj5zGoq", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YIQqV0X14caopQwj5zGoq", "duration_ms": 205807, "time_signature": 4}
+人生は最高の暇つぶし (HoneyWorks)
+{"danceability": 0.665, "energy": 0.889, "key": 0, "loudness": -2.848, "mode": 1, "speechiness": 0.0274, "acousticness": 0.38, "instrumentalness": 0, "liveness": 0.118, "valence": 0.677, "tempo": 107.025, "type": "audio_features", "id": "3f7WIcWFRCCBPGnRfBu3dv", "uri": "spotify:track:3f7WIcWFRCCBPGnRfBu3dv", "track_href": "https://api.spotify.com/v1/tracks/3f7WIcWFRCCBPGnRfBu3dv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3f7WIcWFRCCBPGnRfBu3dv", "duration_ms": 266773, "time_signature": 4}
+name: ライラック(美波)    https://open.spotify.com/track/3WePQc3e2le4Vmh5W2idln
+name: 恋愛ミリフィルム(halca)    https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L
+name: ワタリドリ([Alexandros])    https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o
+name: シャルル(balloon)    https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h
+name: 憂う門には福来たる(somei)    https://open.spotify.com/track/3hjIbf3QrnS9kMV89RwIAK
+name: ラヴ・クラウド(Perfume)    https://open.spotify.com/track/066FlsZYTfxPIgLlFoAsNI
+name: WILD ANGEL(ALI)    https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: Desire (with Sam Smith)(Calvin Harris)    https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv
+name: CHAINSAW BLOOD(Vaundy)    https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+------------------<score>-----------------------
+CHAINSAW BLOOD  https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+score: 1

@@ -1,0 +1,26 @@
+2023年11月10日 11:31:44
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+三原色 (YOASOBI)
+{"danceability": 0.443, "energy": 0.893, "key": 5, "loudness": -3.496, "mode": 0, "speechiness": 0.154, "acousticness": 0.128, "instrumentalness": 0, "liveness": 0.328, "valence": 0.826, "tempo": 127.999, "type": "audio_features", "id": "3FUCuf498nFHJXFYR1V9Bd", "uri": "spotify:track:3FUCuf498nFHJXFYR1V9Bd", "track_href": "https://api.spotify.com/v1/tracks/3FUCuf498nFHJXFYR1V9Bd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FUCuf498nFHJXFYR1V9Bd", "duration_ms": 224067, "time_signature": 4}
+Anarchy (OFFICIAL HIGE DANDISM)
+{"danceability": 0.7, "energy": 0.716, "key": 11, "loudness": -7.834, "mode": 0, "speechiness": 0.0307, "acousticness": 0.000311, "instrumentalness": 0.00254, "liveness": 0.101, "valence": 0.471, "tempo": 133.968, "type": "audio_features", "id": "0ZPYvSJZ1feuhUcG17PHqP", "uri": "spotify:track:0ZPYvSJZ1feuhUcG17PHqP", "track_href": "https://api.spotify.com/v1/tracks/0ZPYvSJZ1feuhUcG17PHqP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZPYvSJZ1feuhUcG17PHqP", "duration_ms": 268431, "time_signature": 4}
+エゴロック (すりぃ)
+{"danceability": 0.636, "energy": 0.907, "key": 0, "loudness": -6.663, "mode": 0, "speechiness": 0.0643, "acousticness": 0.012, "instrumentalness": 0, "liveness": 0.25, "valence": 0.822, "tempo": 112.463, "type": "audio_features", "id": "3UVNKqlbi4HuTxtr4ONvh5", "uri": "spotify:track:3UVNKqlbi4HuTxtr4ONvh5", "track_href": "https://api.spotify.com/v1/tracks/3UVNKqlbi4HuTxtr4ONvh5", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3UVNKqlbi4HuTxtr4ONvh5", "duration_ms": 169986, "time_signature": 4}
+長く短い祭 (Sheena Ringo)
+{"danceability": 0.638, "energy": 0.79, "key": 9, "loudness": -3.129, "mode": 0, "speechiness": 0.0517, "acousticness": 0.00951, "instrumentalness": 0.00109, "liveness": 0.198, "valence": 0.644, "tempo": 124.998, "type": "audio_features", "id": "3719B6zxJvxpfrnC5rvItf", "uri": "spotify:track:3719B6zxJvxpfrnC5rvItf", "track_href": "https://api.spotify.com/v1/tracks/3719B6zxJvxpfrnC5rvItf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3719B6zxJvxpfrnC5rvItf", "duration_ms": 249307, "time_signature": 4}
+群青 (YOASOBI)
+{"danceability": 0.725, "energy": 0.853, "key": 10, "loudness": -3.193, "mode": 1, "speechiness": 0.0516, "acousticness": 0.305, "instrumentalness": 0, "liveness": 0.115, "valence": 0.707, "tempo": 134.991, "type": "audio_features", "id": "1zd35Y44Blc1CwwVbW3Qnk", "uri": "spotify:track:1zd35Y44Blc1CwwVbW3Qnk", "track_href": "https://api.spotify.com/v1/tracks/1zd35Y44Blc1CwwVbW3Qnk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1zd35Y44Blc1CwwVbW3Qnk", "duration_ms": 248027, "time_signature": 4}
+name: Don't Leave Yet(Eric Nam)    https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/3719B6zxJvxpfrnC5rvItf
+name: 友よ 〜 この先もずっと・・・(Ketsumeishi)    https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz
+name: バイオレンス(QUEEN BEE)    https://open.spotify.com/track/68BawnlUojQQqpciOkJwiN
+name: 泣き地蔵(Vaundy)    https://open.spotify.com/track/2WHVKDG5Lj92IUijUno1ON
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: フェイキング・オブ・コメディ(jon-YAKITORY)    https://open.spotify.com/track/2MMujROFNbp9slc9xR8XR4
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+------------------<score>-----------------------
+長く短い祭  https://open.spotify.com/track/3719B6zxJvxpfrnC5rvItf
+score: 1

@@ -1,0 +1,25 @@
+2023年11月13日 11:03:05
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/1Xvftggu2LmTMJ8TiIKIHy
+Sugar Rush Ride (TOMORROW X TOGETHER)
+{"danceability": 0.712, "energy": 0.893, "key": 10, "loudness": -3.995, "mode": 0, "speechiness": 0.0851, "acousticness": 0.00788, "instrumentalness": 0, "liveness": 0.169, "valence": 0.828, "tempo": 125.022, "type": "audio_features", "id": "0rhI6gvOeCKA502RdJAbfs", "uri": "spotify:track:0rhI6gvOeCKA502RdJAbfs", "track_href": "https://api.spotify.com/v1/tracks/0rhI6gvOeCKA502RdJAbfs", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0rhI6gvOeCKA502RdJAbfs", "duration_ms": 186571, "time_signature": 4}
+Eyes On Me (JO1)
+{"danceability": 0.78, "energy": 0.81, "key": 2, "loudness": -5.465, "mode": 1, "speechiness": 0.0579, "acousticness": 0.00655, "instrumentalness": 0, "liveness": 0.0653, "valence": 0.333, "tempo": 119.955, "type": "audio_features", "id": "79O9h4Q9w1X6w3tHTJSu8y", "uri": "spotify:track:79O9h4Q9w1X6w3tHTJSu8y", "track_href": "https://api.spotify.com/v1/tracks/79O9h4Q9w1X6w3tHTJSu8y", "analysis_url": "https://api.spotify.com/v1/audio-analysis/79O9h4Q9w1X6w3tHTJSu8y", "duration_ms": 171000, "time_signature": 4}
+ソングオブザデッド (KANA-BOON)
+{"danceability": 0.429, "energy": 0.973, "key": 2, "loudness": -2.69, "mode": 1, "speechiness": 0.179, "acousticness": 0.00298, "instrumentalness": 1.9e-05, "liveness": 0.158, "valence": 0.385, "tempo": 169.122, "type": "audio_features", "id": "48sA84eSu3NA4iwGTARt6C", "uri": "spotify:track:48sA84eSu3NA4iwGTARt6C", "track_href": "https://api.spotify.com/v1/tracks/48sA84eSu3NA4iwGTARt6C", "analysis_url": "https://api.spotify.com/v1/audio-analysis/48sA84eSu3NA4iwGTARt6C", "duration_ms": 196440, "time_signature": 4}
+花 (Fujii Kaze)
+{"danceability": 0.769, "energy": 0.716, "key": 5, "loudness": -8.203, "mode": 0, "speechiness": 0.0429, "acousticness": 0.118, "instrumentalness": 0.00659, "liveness": 0.158, "valence": 0.66, "tempo": 123.031, "type": "audio_features", "id": "5RIQU2JDuXC4NkLiHNNMon", "uri": "spotify:track:5RIQU2JDuXC4NkLiHNNMon", "track_href": "https://api.spotify.com/v1/tracks/5RIQU2JDuXC4NkLiHNNMon", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5RIQU2JDuXC4NkLiHNNMon", "duration_ms": 246700, "time_signature": 4}
+パッキャマラード (Naoto Inti Raymi)
+{"danceability": 0.737, "energy": 0.831, "key": 10, "loudness": -5.377, "mode": 0, "speechiness": 0.038, "acousticness": 0.105, "instrumentalness": 0, "liveness": 0.209, "valence": 0.906, "tempo": 105.97, "type": "audio_features", "id": "4vWFiEB4iAxY0Xb4jTGxYQ", "uri": "spotify:track:4vWFiEB4iAxY0Xb4jTGxYQ", "track_href": "https://api.spotify.com/v1/tracks/4vWFiEB4iAxY0Xb4jTGxYQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4vWFiEB4iAxY0Xb4jTGxYQ", "duration_ms": 196274, "time_signature": 4}
+name: かいこ(Creepy Nuts)    https://open.spotify.com/track/4D77oQdWDKJxNsiSP4AVBZ
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: スニーカー(G over)    https://open.spotify.com/track/45OytbqaQtUIY6vJyJL5Hd
+name: Me and My Guitar(Jax Jones)    https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC
+name: Make It Look Easy(DITA)    https://open.spotify.com/track/7cXGBQfzO8JjZYaM29bl0D
+name: Don't Leave Yet(Eric Nam)    https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD
+name: リ・ユーク - Long Ver(KANKAN)    https://open.spotify.com/track/7apF0nPV7Wooqvur4XXZG9
+name: Reconnect(Yaffle)    https://open.spotify.com/track/0GPQ8dUnusAgl8Rxu686bI
+name: STAY TUNE(Suchmos)    https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7
+name: Pacific Line(Kidella)    https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM
+------------------<score>-----------------------
+score: 0

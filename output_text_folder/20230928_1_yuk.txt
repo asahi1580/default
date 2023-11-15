@@ -1,0 +1,25 @@
+2023年09月28日 10:58:52
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+廻廻奇譚 (Eve)
+{"danceability": 0.565, "energy": 0.919, "key": 5, "loudness": -3.378, "mode": 0, "speechiness": 0.0898, "acousticness": 0.0128, "instrumentalness": 0, "liveness": 0.292, "valence": 0.565, "tempo": 92.325, "type": "audio_features", "id": "2gSkvrwfCXCgqeugzezn97", "uri": "spotify:track:2gSkvrwfCXCgqeugzezn97", "track_href": "https://api.spotify.com/v1/tracks/2gSkvrwfCXCgqeugzezn97", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gSkvrwfCXCgqeugzezn97", "duration_ms": 219234, "time_signature": 4}
+テレキャスタービーボーイ (すりぃ)
+{"danceability": 0.557, "energy": 0.793, "key": 8, "loudness": -5.043, "mode": 0, "speechiness": 0.0647, "acousticness": 0.116, "instrumentalness": 0, "liveness": 0.253, "valence": 0.961, "tempo": 181.97, "type": "audio_features", "id": "2rkSQrbwRoH82pA40rTQf3", "uri": "spotify:track:2rkSQrbwRoH82pA40rTQf3", "track_href": "https://api.spotify.com/v1/tracks/2rkSQrbwRoH82pA40rTQf3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rkSQrbwRoH82pA40rTQf3", "duration_ms": 165307, "time_signature": 4}
+アンノウン・マザーグース (Hitorie)
+{"danceability": 0.652, "energy": 0.847, "key": 6, "loudness": -5.555, "mode": 0, "speechiness": 0.0559, "acousticness": 0.118, "instrumentalness": 0.00309, "liveness": 0.372, "valence": 0.717, "tempo": 111.007, "type": "audio_features", "id": "6SAj7hyttV1vKAsFvAo3D1", "uri": "spotify:track:6SAj7hyttV1vKAsFvAo3D1", "track_href": "https://api.spotify.com/v1/tracks/6SAj7hyttV1vKAsFvAo3D1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6SAj7hyttV1vKAsFvAo3D1", "duration_ms": 284020, "time_signature": 4}
+突破口 (SUPER BEAVER)
+{"danceability": 0.472, "energy": 0.994, "key": 8, "loudness": -1.786, "mode": 1, "speechiness": 0.114, "acousticness": 0.0259, "instrumentalness": 0, "liveness": 0.0535, "valence": 0.262, "tempo": 103.512, "type": "audio_features", "id": "481beimUiUnMUzSbOAFcUT", "uri": "spotify:track:481beimUiUnMUzSbOAFcUT", "track_href": "https://api.spotify.com/v1/tracks/481beimUiUnMUzSbOAFcUT", "analysis_url": "https://api.spotify.com/v1/audio-analysis/481beimUiUnMUzSbOAFcUT", "duration_ms": 255080, "time_signature": 4}
+WAVEBODY (JP THE WAVY)
+{"danceability": 0.884, "energy": 0.749, "key": 1, "loudness": -6.019, "mode": 1, "speechiness": 0.133, "acousticness": 0.0523, "instrumentalness": 5.28e-05, "liveness": 0.139, "valence": 0.859, "tempo": 87.479, "type": "audio_features", "id": "2N2qxWPU60swo6fm1SnOgr", "uri": "spotify:track:2N2qxWPU60swo6fm1SnOgr", "track_href": "https://api.spotify.com/v1/tracks/2N2qxWPU60swo6fm1SnOgr", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2N2qxWPU60swo6fm1SnOgr", "duration_ms": 184507, "time_signature": 4}
+name: Black Board(NANO)    https://open.spotify.com/track/06viK9vl1gqZUo70lqIeID
+name: Don't Leave Yet(Eric Nam)    https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/4hWI3r78IDOhPXSHd2f0Az
+name: WILD ANGEL(ALI)    https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM
+name: キテレツサクレツ(WONDER∞WANDER)    https://open.spotify.com/track/6Fp3w8mGfAnZiibKGG9Lur
+name: Automatic(Def Tech)    https://open.spotify.com/track/5WcjMhF7LXWW6qWRSOoIoO
+name: WA DA DA(Kep1er)    https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq
+name: ミスター(YOASOBI)    https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np
+name: 棒人間(RADWIMPS)    https://open.spotify.com/track/2wsyebeX4ptSxKIpJtWE6B
+name: MANINGEN(ATARASHII GAKKO!)    https://open.spotify.com/track/1nXJ9tQgg3f3NzxHiQLooI
+------------------<score>-----------------------
+score: 0

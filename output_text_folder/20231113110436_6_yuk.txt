@@ -1,0 +1,26 @@
+2023年11月13日 11:04:59
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/6mGIqxsYG3Q3DGOx68SMIB
+ロストワールド (ELLEGARDEN)
+{"danceability": 0.45, "energy": 0.971, "key": 9, "loudness": -0.947, "mode": 1, "speechiness": 0.085, "acousticness": 0.00917, "instrumentalness": 0, "liveness": 0.163, "valence": 0.335, "tempo": 114.973, "type": "audio_features", "id": "0WYxL4r8f5WEjTyvwwmwnA", "uri": "spotify:track:0WYxL4r8f5WEjTyvwwmwnA", "track_href": "https://api.spotify.com/v1/tracks/0WYxL4r8f5WEjTyvwwmwnA", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0WYxL4r8f5WEjTyvwwmwnA", "duration_ms": 196693, "time_signature": 4}
+マジック (go!go!vanillas)
+{"danceability": 0.436, "energy": 0.948, "key": 11, "loudness": -2.643, "mode": 1, "speechiness": 0.0673, "acousticness": 0.000185, "instrumentalness": 6.75e-05, "liveness": 0.0461, "valence": 0.753, "tempo": 143.025, "type": "audio_features", "id": "4CRTVdNrBMTsp9cx8wNwkg", "uri": "spotify:track:4CRTVdNrBMTsp9cx8wNwkg", "track_href": "https://api.spotify.com/v1/tracks/4CRTVdNrBMTsp9cx8wNwkg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4CRTVdNrBMTsp9cx8wNwkg", "duration_ms": 217947, "time_signature": 4}
+シュガーサーフ (Oisicle Melonpan)
+{"danceability": 0.547, "energy": 0.889, "key": 5, "loudness": -9.458, "mode": 1, "speechiness": 0.0391, "acousticness": 0.00801, "instrumentalness": 0.827, "liveness": 0.294, "valence": 0.965, "tempo": 125.252, "type": "audio_features", "id": "23HPWsu2mAeMKtOGuy1TDr", "uri": "spotify:track:23HPWsu2mAeMKtOGuy1TDr", "track_href": "https://api.spotify.com/v1/tracks/23HPWsu2mAeMKtOGuy1TDr", "analysis_url": "https://api.spotify.com/v1/audio-analysis/23HPWsu2mAeMKtOGuy1TDr", "duration_ms": 208533, "time_signature": 4}
+青春のすべて (Shout It Out)
+{"danceability": 0.453, "energy": 0.958, "key": 8, "loudness": -1.947, "mode": 1, "speechiness": 0.0678, "acousticness": 7.11e-05, "instrumentalness": 0, "liveness": 0.0921, "valence": 0.379, "tempo": 97.976, "type": "audio_features", "id": "5nayq35zMkl9wtgEWeisiU", "uri": "spotify:track:5nayq35zMkl9wtgEWeisiU", "track_href": "https://api.spotify.com/v1/tracks/5nayq35zMkl9wtgEWeisiU", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5nayq35zMkl9wtgEWeisiU", "duration_ms": 266373, "time_signature": 4}
+Missing (Vaundy)
+{"danceability": 0.552, "energy": 0.781, "key": 11, "loudness": -3.378, "mode": 0, "speechiness": 0.0323, "acousticness": 0.063, "instrumentalness": 0, "liveness": 0.0863, "valence": 0.33, "tempo": 129.938, "type": "audio_features", "id": "0r5a8vOYwTY2csX9UIz8xs", "uri": "spotify:track:0r5a8vOYwTY2csX9UIz8xs", "track_href": "https://api.spotify.com/v1/tracks/0r5a8vOYwTY2csX9UIz8xs", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0r5a8vOYwTY2csX9UIz8xs", "duration_ms": 193283, "time_signature": 4}
+name: FOOL(Hitsujibungaku)    https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2
+name: いいわけ(Sharam Q)    https://open.spotify.com/track/0WslHz0nNPgbzTYYG50v24
+name: カワキヲアメク(美波)    https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB
+name: 開幕宣言(Novelbright)    https://open.spotify.com/track/093KHY83BAuupQoAs4TpSh
+name: Happy Birthday(EXILE TAKAHIRO)    https://open.spotify.com/track/4ckO7g4ekD7hmfhKzs0nMm
+name: 亜麻色の髪の乙女(Hitomi Shimatani)    https://open.spotify.com/track/2z5hzRdYdxsaiMv5giiDG7
+name: 南風(Remioromen)    https://open.spotify.com/track/4TVKVeWVxmHVofDvWKuVyy
+name: 小さな恋のうた(MONGOL800)    https://open.spotify.com/track/7swIKcU4tFRk4iFJpi12Fg
+name: 金星(My Hair is Bad)    https://open.spotify.com/track/4zLE00KLtkDa44m3BDpbMX
+name: イマジネーション(SPYAIR)    https://open.spotify.com/track/1xc9r9pgQ3CG7iViKPf0cQ
+------------------<score>-----------------------
+金星  https://open.spotify.com/track/4zLE00KLtkDa44m3BDpbMX
+score: 1

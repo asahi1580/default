@@ -1,0 +1,25 @@
+2023年11月13日 11:04:56
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/6mGIqxsYG3Q3DGOx68SMIB
+灯火 (Vaundy)
+{"danceability": 0.627, "energy": 0.67, "key": 4, "loudness": -6.619, "mode": 1, "speechiness": 0.0368, "acousticness": 0.0418, "instrumentalness": 0.00213, "liveness": 0.0818, "valence": 0.537, "tempo": 110.004, "type": "audio_features", "id": "0YdCBegk4nNMCOeuiY5L0k", "uri": "spotify:track:0YdCBegk4nNMCOeuiY5L0k", "track_href": "https://api.spotify.com/v1/tracks/0YdCBegk4nNMCOeuiY5L0k", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YdCBegk4nNMCOeuiY5L0k", "duration_ms": 178893, "time_signature": 4}
+一生に一度愛してるよ (Creep Hyp)
+{"danceability": 0.589, "energy": 0.883, "key": 6, "loudness": -4.083, "mode": 0, "speechiness": 0.069, "acousticness": 0.0147, "instrumentalness": 0, "liveness": 0.311, "valence": 0.893, "tempo": 125.951, "type": "audio_features", "id": "5PErxfXJbprHC9YGSbHLW3", "uri": "spotify:track:5PErxfXJbprHC9YGSbHLW3", "track_href": "https://api.spotify.com/v1/tracks/5PErxfXJbprHC9YGSbHLW3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5PErxfXJbprHC9YGSbHLW3", "duration_ms": 167667, "time_signature": 4}
+Tough (Saucy Dog)
+{"danceability": 0.53, "energy": 0.871, "key": 9, "loudness": -4.973, "mode": 1, "speechiness": 0.034, "acousticness": 0.00972, "instrumentalness": 0, "liveness": 0.346, "valence": 0.791, "tempo": 93.881, "type": "audio_features", "id": "7GL0ohKY25BqQHvgihN2EP", "uri": "spotify:track:7GL0ohKY25BqQHvgihN2EP", "track_href": "https://api.spotify.com/v1/tracks/7GL0ohKY25BqQHvgihN2EP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7GL0ohKY25BqQHvgihN2EP", "duration_ms": 188427, "time_signature": 4}
+トリコになれ (Macaroni Empitsu)
+{"danceability": 0.68, "energy": 0.865, "key": 9, "loudness": -3.14, "mode": 1, "speechiness": 0.0394, "acousticness": 0.107, "instrumentalness": 0, "liveness": 0.279, "valence": 0.848, "tempo": 128.138, "type": "audio_features", "id": "11ZLv1ZO8hTOkCZqkQ1qCR", "uri": "spotify:track:11ZLv1ZO8hTOkCZqkQ1qCR", "track_href": "https://api.spotify.com/v1/tracks/11ZLv1ZO8hTOkCZqkQ1qCR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/11ZLv1ZO8hTOkCZqkQ1qCR", "duration_ms": 180187, "time_signature": 4}
+革命はいつも (My Hair is Bad)
+{"danceability": 0.299, "energy": 0.965, "key": 10, "loudness": -3.232, "mode": 0, "speechiness": 0.129, "acousticness": 0.000108, "instrumentalness": 0, "liveness": 0.352, "valence": 0.542, "tempo": 199.751, "type": "audio_features", "id": "3d5bU6X4eziBSt5CdI4emI", "uri": "spotify:track:3d5bU6X4eziBSt5CdI4emI", "track_href": "https://api.spotify.com/v1/tracks/3d5bU6X4eziBSt5CdI4emI", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3d5bU6X4eziBSt5CdI4emI", "duration_ms": 204493, "time_signature": 4}
+name: Rising Sun(EXILE)    https://open.spotify.com/track/4ux6NjzqD98nXZs4hMPrxA
+name: タイミング~Timing~ フレンズcover ver.(フレンズ)    https://open.spotify.com/track/5Oi8XtvciTQo6vmffKI31Z
+name: 愛言葉III(DECO*27)    https://open.spotify.com/track/226YA8Mae7EhLltchBcFQg
+name: 波乗りジョニー(Keisuke Kuwata)    https://open.spotify.com/track/3hjHUf3frPoh9jcYDkqXUV
+name: SPECIALZ(King Gnu)    https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF
+name: KNOCKIN' ON YOUR DOOR(L⇔R)    https://open.spotify.com/track/5nSmxqzmaSH4ev7PQ0QnmR
+name: 魔法のコトバ(SPITZ)    https://open.spotify.com/track/6o6XNRr7tosVpTk6Ijuzbf
+name: スターマーカー(KANA-BOON)    https://open.spotify.com/track/0pQm5AbAaVy9XrOLf7rgSF
+name: Burning Emotion #5(ドリフトスピリッツ)    https://open.spotify.com/track/6lS6KlKkHI85GSnGRil05Z
+name: 八月の陽炎(Macaroni Empitsu)    https://open.spotify.com/track/7a7lvYsKBCsZfuMfVsn5tw
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,27 @@
+2023年11月13日 11:07:30
+yuk_score.py
+お気に入り20220921  https://open.spotify.com/playlist/7Beiqu1Ua5nmCrLm4fx7oc
+SUMMER SONG (YUI)
+{"danceability": 0.635, "energy": 0.836, "key": 5, "loudness": -3.952, "mode": 0, "speechiness": 0.0297, "acousticness": 0.217, "instrumentalness": 3.14e-06, "liveness": 0.111, "valence": 0.847, "tempo": 107.979, "type": "audio_features", "id": "61GOrlx22o2KLrGhqaC5bY", "uri": "spotify:track:61GOrlx22o2KLrGhqaC5bY", "track_href": "https://api.spotify.com/v1/tracks/61GOrlx22o2KLrGhqaC5bY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/61GOrlx22o2KLrGhqaC5bY", "duration_ms": 207693, "time_signature": 4}
+Dirty Work (Austin Mahone)
+{"danceability": 0.795, "energy": 0.672, "key": 1, "loudness": -3.681, "mode": 1, "speechiness": 0.066, "acousticness": 0.268, "instrumentalness": 0, "liveness": 0.061, "valence": 0.911, "tempo": 104.988, "type": "audio_features", "id": "49brugMHYob4zfpKhHDhR9", "uri": "spotify:track:49brugMHYob4zfpKhHDhR9", "track_href": "https://api.spotify.com/v1/tracks/49brugMHYob4zfpKhHDhR9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/49brugMHYob4zfpKhHDhR9", "duration_ms": 187867, "time_signature": 4}
+Traffic (select) (ZUNTATA)
+{"danceability": 0.576, "energy": 0.749, "key": 2, "loudness": -11.423, "mode": 1, "speechiness": 0.0565, "acousticness": 0.227, "instrumentalness": 0.603, "liveness": 0.089, "valence": 0.822, "tempo": 125.73, "type": "audio_features", "id": "7nTOJUcZ2TdrjEMZdf30tu", "uri": "spotify:track:7nTOJUcZ2TdrjEMZdf30tu", "track_href": "https://api.spotify.com/v1/tracks/7nTOJUcZ2TdrjEMZdf30tu", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7nTOJUcZ2TdrjEMZdf30tu", "duration_ms": 95773, "time_signature": 4}
+Koisuru Fortune Cookie (AKB48)
+{"danceability": 0.684, "energy": 0.94, "key": 2, "loudness": -2.474, "mode": 1, "speechiness": 0.0413, "acousticness": 0.205, "instrumentalness": 0, "liveness": 0.332, "valence": 0.941, "tempo": 122.035, "type": "audio_features", "id": "128NrgbsXjuRznsZn9qTn9", "uri": "spotify:track:128NrgbsXjuRznsZn9qTn9", "track_href": "https://api.spotify.com/v1/tracks/128NrgbsXjuRznsZn9qTn9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/128NrgbsXjuRznsZn9qTn9", "duration_ms": 285733, "time_signature": 4}
+sakura (Nirgilis)
+{"danceability": 0.449, "energy": 0.824, "key": 3, "loudness": -3.102, "mode": 1, "speechiness": 0.033, "acousticness": 0.000166, "instrumentalness": 0.00207, "liveness": 0.133, "valence": 0.39, "tempo": 138.051, "type": "audio_features", "id": "0KN1TWt4Lgp0GgCuSSaY11", "uri": "spotify:track:0KN1TWt4Lgp0GgCuSSaY11", "track_href": "https://api.spotify.com/v1/tracks/0KN1TWt4Lgp0GgCuSSaY11", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0KN1TWt4Lgp0GgCuSSaY11", "duration_ms": 275707, "time_signature": 4}
+name: SUMMER SONG(YUI)    https://open.spotify.com/track/1ZCFq7Fq1ZN5nI5GHXEAdg
+name: WINDY SUMMER(Anri)    https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj
+name: My Line(Berry Goodman)    https://open.spotify.com/track/2eAOxy6XD8U8pKCuNCfiET
+name: SUMMER SONG(YUI)    https://open.spotify.com/track/61GOrlx22o2KLrGhqaC5bY
+name: Daydream(KIKI)    https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr
+name: 神曲(R Sound Design)    https://open.spotify.com/track/7L2x3xHwyKkgP5jjWbceSf
+name: OKACHIMACHI FRIDAY NIGHT(First Love is Never Returned)    https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH
+name: PRIDE(チョーキューメイ)    https://open.spotify.com/track/6YSiCQPEEEimysown5ad19
+name: 虹(Masaharu Fukuyama)    https://open.spotify.com/track/5zxOkA6L5DJpS0Ajb0Qx2t
+name: さわやか会社員(Soutaiseiriron)    https://open.spotify.com/track/7wAhg1bclLYzOjAn2eCxPz
+------------------<score>-----------------------
+My Line  https://open.spotify.com/track/2eAOxy6XD8U8pKCuNCfiET
+SUMMER SONG  https://open.spotify.com/track/61GOrlx22o2KLrGhqaC5bY
+score: 2

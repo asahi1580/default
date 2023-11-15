@@ -1,0 +1,25 @@
+2023年11月10日 14:29:40
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/6voz4rUMJWkwpKnjPNYV4z
+MIC Drop (BTS)
+{"danceability": 0.667, "energy": 0.889, "key": 6, "loudness": -4.851, "mode": 1, "speechiness": 0.0917, "acousticness": 0.00912, "instrumentalness": 0, "liveness": 0.0816, "valence": 0.541, "tempo": 169.961, "type": "audio_features", "id": "4gZGAVECoiutzp64KSHNjE", "uri": "spotify:track:4gZGAVECoiutzp64KSHNjE", "track_href": "https://api.spotify.com/v1/tracks/4gZGAVECoiutzp64KSHNjE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4gZGAVECoiutzp64KSHNjE", "duration_ms": 238193, "time_signature": 4}
+アウフヘーベン (Mrs. GREEN APPLE)
+{"danceability": 0.457, "energy": 0.934, "key": 11, "loudness": -2.795, "mode": 1, "speechiness": 0.0743, "acousticness": 0.00544, "instrumentalness": 1.34e-06, "liveness": 0.148, "valence": 0.514, "tempo": 82.484, "type": "audio_features", "id": "3NRWNmJG4AiHeFjPjNLOc0", "uri": "spotify:track:3NRWNmJG4AiHeFjPjNLOc0", "track_href": "https://api.spotify.com/v1/tracks/3NRWNmJG4AiHeFjPjNLOc0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3NRWNmJG4AiHeFjPjNLOc0", "duration_ms": 255000, "time_signature": 4}
+Go Go (BTS)
+{"danceability": 0.856, "energy": 0.617, "key": 10, "loudness": -5.308, "mode": 0, "speechiness": 0.084, "acousticness": 0.171, "instrumentalness": 0, "liveness": 0.0857, "valence": 0.759, "tempo": 136.081, "type": "audio_features", "id": "5vOT8VO87TAnUjh0oADwb1", "uri": "spotify:track:5vOT8VO87TAnUjh0oADwb1", "track_href": "https://api.spotify.com/v1/tracks/5vOT8VO87TAnUjh0oADwb1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5vOT8VO87TAnUjh0oADwb1", "duration_ms": 235780, "time_signature": 4}
+Ke-Mo Sah-Bee (Mrs. GREEN APPLE)
+{"danceability": 0.409, "energy": 0.84, "key": 0, "loudness": -2.775, "mode": 1, "speechiness": 0.0488, "acousticness": 0.000174, "instrumentalness": 2.3e-05, "liveness": 0.305, "valence": 0.58, "tempo": 195.001, "type": "audio_features", "id": "4UJmfw2F7vHvMjauUmQioQ", "uri": "spotify:track:4UJmfw2F7vHvMjauUmQioQ", "track_href": "https://api.spotify.com/v1/tracks/4UJmfw2F7vHvMjauUmQioQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4UJmfw2F7vHvMjauUmQioQ", "duration_ms": 200213, "time_signature": 4}
+snooze (wotaku)
+{"danceability": 0.558, "energy": 0.973, "key": 0, "loudness": -3.242, "mode": 1, "speechiness": 0.0819, "acousticness": 0.0452, "instrumentalness": 0.164, "liveness": 0.304, "valence": 0.432, "tempo": 149.976, "type": "audio_features", "id": "0vFkqQJ4CKuNDx4NaJvrTt", "uri": "spotify:track:0vFkqQJ4CKuNDx4NaJvrTt", "track_href": "https://api.spotify.com/v1/tracks/0vFkqQJ4CKuNDx4NaJvrTt", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0vFkqQJ4CKuNDx4NaJvrTt", "duration_ms": 178000, "time_signature": 4}
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: これからのこと、それからのこと(Ryokuoushoku Shakai)    https://open.spotify.com/track/3ee3P6E34IetUo60gwR0hw
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: ドラマツルギー(Eve)    https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+name: カワキヲアメク(美波)    https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB
+name: アンビリーバーズ(Kenshi Yonezu)    https://open.spotify.com/track/1YCHalpMsHDWcVmRwMxwYQ
+name: 風吹けば恋(Chatmonchy)    https://open.spotify.com/track/2MkAcO7UzpWpOyxdMzjabH
+------------------<score>-----------------------
+score: 0

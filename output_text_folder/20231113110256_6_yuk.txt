@@ -1,0 +1,25 @@
+2023年11月13日 11:03:20
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/1Xvftggu2LmTMJ8TiIKIHy
+more than words (Hitsujibungaku)
+{"danceability": 0.596, "energy": 0.795, "key": 6, "loudness": -4.778, "mode": 1, "speechiness": 0.0284, "acousticness": 0.000147, "instrumentalness": 0.000317, "liveness": 0.16, "valence": 0.577, "tempo": 130.037, "type": "audio_features", "id": "7tL8VoLHJJy58DEwt5AaH7", "uri": "spotify:track:7tL8VoLHJJy58DEwt5AaH7", "track_href": "https://api.spotify.com/v1/tracks/7tL8VoLHJJy58DEwt5AaH7", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7tL8VoLHJJy58DEwt5AaH7", "duration_ms": 289720, "time_signature": 4}
+Players (Coi Leray)
+{"danceability": 0.954, "energy": 0.516, "key": 6, "loudness": -5.817, "mode": 1, "speechiness": 0.16, "acousticness": 0.03, "instrumentalness": 7.54e-06, "liveness": 0.0504, "valence": 0.624, "tempo": 105.001, "type": "audio_features", "id": "6UN73IYd0hZxLi8wFPMQij", "uri": "spotify:track:6UN73IYd0hZxLi8wFPMQij", "track_href": "https://api.spotify.com/v1/tracks/6UN73IYd0hZxLi8wFPMQij", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6UN73IYd0hZxLi8wFPMQij", "duration_ms": 139560, "time_signature": 4}
+嘘つき (Leo Ieiri)
+{"danceability": 0.629, "energy": 0.502, "key": 5, "loudness": -7.176, "mode": 0, "speechiness": 0.0419, "acousticness": 0.262, "instrumentalness": 2.11e-06, "liveness": 0.0846, "valence": 0.194, "tempo": 144.946, "type": "audio_features", "id": "0CaK41fIguCATIPHV2Yau1", "uri": "spotify:track:0CaK41fIguCATIPHV2Yau1", "track_href": "https://api.spotify.com/v1/tracks/0CaK41fIguCATIPHV2Yau1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0CaK41fIguCATIPHV2Yau1", "duration_ms": 217412, "time_signature": 4}
+A Pimp Named Slickback (Lakim)
+{"danceability": 0.679, "energy": 0.852, "key": 10, "loudness": -3.695, "mode": 0, "speechiness": 0.208, "acousticness": 0.259, "instrumentalness": 0.432, "liveness": 0.237, "valence": 0.766, "tempo": 140.024, "type": "audio_features", "id": "4hQz37Z88go8H8hrK7ncVz", "uri": "spotify:track:4hQz37Z88go8H8hrK7ncVz", "track_href": "https://api.spotify.com/v1/tracks/4hQz37Z88go8H8hrK7ncVz", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4hQz37Z88go8H8hrK7ncVz", "duration_ms": 250776, "time_signature": 4}
+Players (Coi Leray)
+{"danceability": 0.954, "energy": 0.516, "key": 6, "loudness": -5.817, "mode": 1, "speechiness": 0.16, "acousticness": 0.03, "instrumentalness": 7.54e-06, "liveness": 0.0504, "valence": 0.624, "tempo": 105.001, "type": "audio_features", "id": "6UN73IYd0hZxLi8wFPMQij", "uri": "spotify:track:6UN73IYd0hZxLi8wFPMQij", "track_href": "https://api.spotify.com/v1/tracks/6UN73IYd0hZxLi8wFPMQij", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6UN73IYd0hZxLi8wFPMQij", "duration_ms": 139560, "time_signature": 4}
+name: Pre-Romance(eill)    https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I
+name: Do Well(SIRUP)    https://open.spotify.com/track/04EuDx4WKmkN9NyZ6kk5lj
+name: CUFF IT(Beyoncé)    https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS
+name: Mona Lisa (Spider-Man: Across the Spider-Verse)(Dominic Fike)    https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk
+name: ˖嵐₊˚ˑ༄(君島大空)    https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O
+name: Keep It Rising(Supershy)    https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN
+name: Summer of Love (Shawn Mendes & Tainy)(Shawn Mendes)    https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6
+name: ELEVEN(IVE)    https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr
+name: 2002(Anne-Marie)    https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo
+name: Water(Tyla)    https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw
+------------------<score>-----------------------
+score: 0

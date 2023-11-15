@@ -1,0 +1,25 @@
+2023年11月10日 11:31:32
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+ロマンスの神様 (Kohmi Hirose)
+{"danceability": 0.667, "energy": 0.802, "key": 1, "loudness": -6.495, "mode": 1, "speechiness": 0.0349, "acousticness": 0.149, "instrumentalness": 1.84e-06, "liveness": 0.163, "valence": 0.556, "tempo": 125.91, "type": "audio_features", "id": "0xYSgQHddr1lh6IfqWgn2W", "uri": "spotify:track:0xYSgQHddr1lh6IfqWgn2W", "track_href": "https://api.spotify.com/v1/tracks/0xYSgQHddr1lh6IfqWgn2W", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0xYSgQHddr1lh6IfqWgn2W", "duration_ms": 269284, "time_signature": 4}
+BOY (King Gnu)
+{"danceability": 0.619, "energy": 0.802, "key": 0, "loudness": -6.618, "mode": 1, "speechiness": 0.0629, "acousticness": 0.0831, "instrumentalness": 0, "liveness": 0.361, "valence": 0.535, "tempo": 109.982, "type": "audio_features", "id": "3oQaOjaIYPsnJbGNzXcIID", "uri": "spotify:track:3oQaOjaIYPsnJbGNzXcIID", "track_href": "https://api.spotify.com/v1/tracks/3oQaOjaIYPsnJbGNzXcIID", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3oQaOjaIYPsnJbGNzXcIID", "duration_ms": 231386, "time_signature": 4}
+世界の秘密 (Vaundy)
+{"danceability": 0.683, "energy": 0.53, "key": 6, "loudness": -6.749, "mode": 0, "speechiness": 0.0614, "acousticness": 0.142, "instrumentalness": 0, "liveness": 0.0978, "valence": 0.823, "tempo": 159.969, "type": "audio_features", "id": "2ISglgxR4TxUXxrA5Iqwzr", "uri": "spotify:track:2ISglgxR4TxUXxrA5Iqwzr", "track_href": "https://api.spotify.com/v1/tracks/2ISglgxR4TxUXxrA5Iqwzr", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ISglgxR4TxUXxrA5Iqwzr", "duration_ms": 221250, "time_signature": 4}
+はなまるぴっぴはよいこだけ (AOP)
+{"danceability": 0.638, "energy": 0.97, "key": 0, "loudness": -3.15, "mode": 0, "speechiness": 0.0511, "acousticness": 0.347, "instrumentalness": 0, "liveness": 0.199, "valence": 0.963, "tempo": 172.083, "type": "audio_features", "id": "42V65cxLlk2OqGns0xO3AV", "uri": "spotify:track:42V65cxLlk2OqGns0xO3AV", "track_href": "https://api.spotify.com/v1/tracks/42V65cxLlk2OqGns0xO3AV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/42V65cxLlk2OqGns0xO3AV", "duration_ms": 194396, "time_signature": 4}
+アンコール (YOASOBI)
+{"danceability": 0.682, "energy": 0.669, "key": 2, "loudness": -4.741, "mode": 1, "speechiness": 0.0275, "acousticness": 0.283, "instrumentalness": 1e-06, "liveness": 0.145, "valence": 0.831, "tempo": 81.999, "type": "audio_features", "id": "465JzFiajJO59sUrDFsxdC", "uri": "spotify:track:465JzFiajJO59sUrDFsxdC", "track_href": "https://api.spotify.com/v1/tracks/465JzFiajJO59sUrDFsxdC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/465JzFiajJO59sUrDFsxdC", "duration_ms": 271440, "time_signature": 4}
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: Hare Hare(TWICE)    https://open.spotify.com/track/3QcJghvqRS17RoPPP0C2sp
+name: ばらの花 × ネイティブダンサー(yui (FLOWER FLOWER) × ミゾベリョウ (odol))    https://open.spotify.com/track/48TPAQGjRuGzARTHAaiWkD
+name: My Line(Berry Goodman)    https://open.spotify.com/track/2eAOxy6XD8U8pKCuNCfiET
+name: あなたの好きなところ(Kana Nishino)    https://open.spotify.com/track/5k24cAgfb6WH5YxEYgU3fm
+name: Future(STAR SEEED)    https://open.spotify.com/track/2WC9vOon0XlvT9zYGCtKj7
+name: 故のLOVE(チョーキューメイ)    https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8
+name: ナイモノネダリ(Da-iCE)    https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0
+name: メイビーネイビー(Macaroni Empitsu)    https://open.spotify.com/track/4yzWuUXAcvI9rnUk6hoz7s
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr
+------------------<score>-----------------------
+score: 0

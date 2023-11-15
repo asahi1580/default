@@ -1,0 +1,25 @@
+2023年11月10日 14:31:06
+yuk_score.py
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+春愁 (Mrs. GREEN APPLE)
+{"danceability": 0.724, "energy": 0.444, "key": 10, "loudness": -4.903, "mode": 1, "speechiness": 0.0412, "acousticness": 0.0121, "instrumentalness": 0, "liveness": 0.123, "valence": 0.739, "tempo": 129.962, "type": "audio_features", "id": "5SHguvOUbyPTINNjCvRo8K", "uri": "spotify:track:5SHguvOUbyPTINNjCvRo8K", "track_href": "https://api.spotify.com/v1/tracks/5SHguvOUbyPTINNjCvRo8K", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SHguvOUbyPTINNjCvRo8K", "duration_ms": 183800, "time_signature": 4}
+サイレントマジョリティー (Keyakizaka46)
+{"danceability": 0.583, "energy": 0.952, "key": 1, "loudness": -2.491, "mode": 1, "speechiness": 0.0797, "acousticness": 0.261, "instrumentalness": 0, "liveness": 0.314, "valence": 0.81, "tempo": 123.015, "type": "audio_features", "id": "6vqGGV7ZGWYFRg5EtlcuN5", "uri": "spotify:track:6vqGGV7ZGWYFRg5EtlcuN5", "track_href": "https://api.spotify.com/v1/tracks/6vqGGV7ZGWYFRg5EtlcuN5", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6vqGGV7ZGWYFRg5EtlcuN5", "duration_ms": 265827, "time_signature": 4}
+HAPPY BIRTHDAY (back number)
+{"danceability": 0.482, "energy": 0.602, "key": 11, "loudness": -4.365, "mode": 1, "speechiness": 0.0303, "acousticness": 0.0702, "instrumentalness": 0, "liveness": 0.0677, "valence": 0.535, "tempo": 145.988, "type": "audio_features", "id": "4FMz2RFrbDGzJO7K4D0vS3", "uri": "spotify:track:4FMz2RFrbDGzJO7K4D0vS3", "track_href": "https://api.spotify.com/v1/tracks/4FMz2RFrbDGzJO7K4D0vS3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4FMz2RFrbDGzJO7K4D0vS3", "duration_ms": 258333, "time_signature": 4}
+黄色 (back number)
+{"danceability": 0.352, "energy": 0.791, "key": 4, "loudness": -3.27, "mode": 0, "speechiness": 0.0797, "acousticness": 0.251, "instrumentalness": 0, "liveness": 0.307, "valence": 0.511, "tempo": 169.638, "type": "audio_features", "id": "1MwOfRqCALxvx9keUhGCdV", "uri": "spotify:track:1MwOfRqCALxvx9keUhGCdV", "track_href": "https://api.spotify.com/v1/tracks/1MwOfRqCALxvx9keUhGCdV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1MwOfRqCALxvx9keUhGCdV", "duration_ms": 297997, "time_signature": 4}
+HAPPY BIRTHDAY (back number)
+{"danceability": 0.482, "energy": 0.602, "key": 11, "loudness": -4.365, "mode": 1, "speechiness": 0.0303, "acousticness": 0.0702, "instrumentalness": 0, "liveness": 0.0677, "valence": 0.535, "tempo": 145.988, "type": "audio_features", "id": "4FMz2RFrbDGzJO7K4D0vS3", "uri": "spotify:track:4FMz2RFrbDGzJO7K4D0vS3", "track_href": "https://api.spotify.com/v1/tracks/4FMz2RFrbDGzJO7K4D0vS3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4FMz2RFrbDGzJO7K4D0vS3", "duration_ms": 258333, "time_signature": 4}
+name: コーヒーとシロップ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/6l1P9avGqv8oHBjwxp2ABq
+name: メフィスト(QUEEN BEE)    https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG
+name: 結(Saucy Dog)    https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/5T1WB7ybJEf90xPUR0Yqa7
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/685IX0kJOYsV254JpHnMdi
+name: 勇気100% (第1期 OP)(菅野穣)    https://open.spotify.com/track/0ewtF8O6LaGnSxjQDD2SeE
+name: Irrésistiblement(Sylvie Vartan)    https://open.spotify.com/track/249VKdrLOxtwLSqE1eRmlo
+name: Shinunoga E-Wa(Fujii Kaze)    https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW
+name: 死ぬのがいいわ(Fujii Kaze)    https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6
+name: 夏祭り(Whiteberry)    https://open.spotify.com/track/51hE2l7cmVXtEpmJ0AGh4R
+------------------<score>-----------------------
+score: 0

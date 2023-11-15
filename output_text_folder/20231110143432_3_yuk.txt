@@ -1,0 +1,25 @@
+2023年11月10日 14:34:45
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+親愛なるあなたは火葬 (虻瀬)
+{"danceability": 0.648, "energy": 0.797, "key": 9, "loudness": -5.278, "mode": 0, "speechiness": 0.04, "acousticness": 0.0281, "instrumentalness": 9.08e-06, "liveness": 0.125, "valence": 0.735, "tempo": 94.007, "type": "audio_features", "id": "2ratrq5eZhTbPExEsEKLLa", "uri": "spotify:track:2ratrq5eZhTbPExEsEKLLa", "track_href": "https://api.spotify.com/v1/tracks/2ratrq5eZhTbPExEsEKLLa", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ratrq5eZhTbPExEsEKLLa", "duration_ms": 256961, "time_signature": 4}
+弱者 (John)
+{"danceability": 0.495, "energy": 0.907, "key": 6, "loudness": -3.367, "mode": 0, "speechiness": 0.0702, "acousticness": 0.000722, "instrumentalness": 0.0121, "liveness": 0.197, "valence": 0.808, "tempo": 169.919, "type": "audio_features", "id": "7jji86EPtbXh78Bd3r9kfn", "uri": "spotify:track:7jji86EPtbXh78Bd3r9kfn", "track_href": "https://api.spotify.com/v1/tracks/7jji86EPtbXh78Bd3r9kfn", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7jji86EPtbXh78Bd3r9kfn", "duration_ms": 209728, "time_signature": 4}
+G行為 (RADWIMPS)
+{"danceability": 0.858, "energy": 0.773, "key": 11, "loudness": -5.379, "mode": 0, "speechiness": 0.152, "acousticness": 0.0334, "instrumentalness": 2.2e-05, "liveness": 0.0945, "valence": 0.826, "tempo": 118.02, "type": "audio_features", "id": "48lKT4QKwKK6q9CrAuAAMu", "uri": "spotify:track:48lKT4QKwKK6q9CrAuAAMu", "track_href": "https://api.spotify.com/v1/tracks/48lKT4QKwKK6q9CrAuAAMu", "analysis_url": "https://api.spotify.com/v1/audio-analysis/48lKT4QKwKK6q9CrAuAAMu", "duration_ms": 241587, "time_signature": 4}
+わたしの線香 (花譜)
+{"danceability": 0.726, "energy": 0.736, "key": 7, "loudness": -8.944, "mode": 1, "speechiness": 0.0293, "acousticness": 0.563, "instrumentalness": 0.0177, "liveness": 0.091, "valence": 0.763, "tempo": 134.019, "type": "audio_features", "id": "15ekICXVvIVyOV7YWuaC6H", "uri": "spotify:track:15ekICXVvIVyOV7YWuaC6H", "track_href": "https://api.spotify.com/v1/tracks/15ekICXVvIVyOV7YWuaC6H", "analysis_url": "https://api.spotify.com/v1/audio-analysis/15ekICXVvIVyOV7YWuaC6H", "duration_ms": 154285, "time_signature": 4}
+The Beast. (feat. 初音ミク) (スペクタクルP)
+{"danceability": 0.594, "energy": 0.496, "key": 2, "loudness": -10.418, "mode": 1, "speechiness": 0.0325, "acousticness": 0.911, "instrumentalness": 0.0105, "liveness": 0.229, "valence": 0.936, "tempo": 150.078, "type": "audio_features", "id": "5CjKkhxMcLnKqcGY2OG4LU", "uri": "spotify:track:5CjKkhxMcLnKqcGY2OG4LU", "track_href": "https://api.spotify.com/v1/tracks/5CjKkhxMcLnKqcGY2OG4LU", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5CjKkhxMcLnKqcGY2OG4LU", "duration_ms": 182000, "time_signature": 4}
+name: Hare Hare(TWICE)    https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t
+name: Hare Hare(TWICE)    https://open.spotify.com/track/3QcJghvqRS17RoPPP0C2sp
+name: Good Bye(Rin音)    https://open.spotify.com/track/1rpiNePakpelGxsKFzNVBP
+name: Traffic (select)(ZUNTATA)    https://open.spotify.com/track/7nTOJUcZ2TdrjEMZdf30tu
+name: My Line(Berry Goodman)    https://open.spotify.com/track/2eAOxy6XD8U8pKCuNCfiET
+name: My Revolution(Misato Watanabe)    https://open.spotify.com/track/6LRtD3283UaFLqOju2KRvA
+name: OKACHIMACHI FRIDAY NIGHT(First Love is Never Returned)    https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH
+name: 朱夏 - 新(fishbowl)    https://open.spotify.com/track/0l0MBFBiZWrhtO72ehovd3
+name: Late Night Talking(Harry Styles)    https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK
+name: 群青(YOASOBI)    https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,27 @@
+2023年10月02日 13:56:47
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+milk tea (Shota Shimizu)
+{"danceability": 0.707, "energy": 0.37, "key": 3, "loudness": -8.324, "mode": 1, "speechiness": 0.0259, "acousticness": 0.533, "instrumentalness": 9.81e-06, "liveness": 0.117, "valence": 0.359, "tempo": 89.965, "type": "audio_features", "id": "5DlacoSUZ3OQU7kdHCCugX", "uri": "spotify:track:5DlacoSUZ3OQU7kdHCCugX", "track_href": "https://api.spotify.com/v1/tracks/5DlacoSUZ3OQU7kdHCCugX", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DlacoSUZ3OQU7kdHCCugX", "duration_ms": 263813, "time_signature": 4}
+Love Song (Uru)
+{"danceability": 0.575, "energy": 0.583, "key": 9, "loudness": -4.72, "mode": 1, "speechiness": 0.0309, "acousticness": 0.569, "instrumentalness": 0, "liveness": 0.0894, "valence": 0.39, "tempo": 137.766, "type": "audio_features", "id": "2aAuO61alPO20xyePFHjdf", "uri": "spotify:track:2aAuO61alPO20xyePFHjdf", "track_href": "https://api.spotify.com/v1/tracks/2aAuO61alPO20xyePFHjdf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2aAuO61alPO20xyePFHjdf", "duration_ms": 286413, "time_signature": 4}
+日曜日 (back number)
+{"danceability": 0.407, "energy": 0.591, "key": 0, "loudness": -3.783, "mode": 1, "speechiness": 0.0399, "acousticness": 0.0498, "instrumentalness": 0, "liveness": 0.403, "valence": 0.612, "tempo": 200.308, "type": "audio_features", "id": "1LDxe7AgJ7DRYdV012EmyR", "uri": "spotify:track:1LDxe7AgJ7DRYdV012EmyR", "track_href": "https://api.spotify.com/v1/tracks/1LDxe7AgJ7DRYdV012EmyR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1LDxe7AgJ7DRYdV012EmyR", "duration_ms": 224520, "time_signature": 4}
+水平線 (back number)
+{"danceability": 0.419, "energy": 0.75, "key": 10, "loudness": -3.546, "mode": 1, "speechiness": 0.0316, "acousticness": 0.011, "instrumentalness": 0, "liveness": 0.159, "valence": 0.436, "tempo": 145.867, "type": "audio_features", "id": "5m1i6hq7dmRlp3c1utE48L", "uri": "spotify:track:5m1i6hq7dmRlp3c1utE48L", "track_href": "https://api.spotify.com/v1/tracks/5m1i6hq7dmRlp3c1utE48L", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5m1i6hq7dmRlp3c1utE48L", "duration_ms": 285396, "time_signature": 4}
+恋 (back number)
+{"danceability": 0.446, "energy": 0.72, "key": 9, "loudness": -2.9, "mode": 1, "speechiness": 0.0329, "acousticness": 0.103, "instrumentalness": 0, "liveness": 0.307, "valence": 0.524, "tempo": 152.075, "type": "audio_features", "id": "7f9DsQEsIoeTwKxV6shsom", "uri": "spotify:track:7f9DsQEsIoeTwKxV6shsom", "track_href": "https://api.spotify.com/v1/tracks/7f9DsQEsIoeTwKxV6shsom", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7f9DsQEsIoeTwKxV6shsom", "duration_ms": 253307, "time_signature": 4}
+name: このまま君だけを奪い去りたい(DEEN)    https://open.spotify.com/track/30L8JKw0WCwZBbxhPG5pSE
+name: アリカ(マルシィ)    https://open.spotify.com/track/282sZh3ndUMHpwpoKZUCl1
+name: HAPPY BIRTHDAY(back number)    https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3
+name: 明日晴れるかな(Keisuke Kuwata)    https://open.spotify.com/track/3hluDFiaL1ntJ58xVTBjxT
+name: Used To Be Young(Miley Cyrus)    https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms
+name: Used To Be Young(Miley Cyrus)    https://open.spotify.com/track/0Nfh4u0J4bajcyp5pzaWCx
+name: ドライフラワー(Yuuri)    https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J
+name: 悲しみの忘れ方(Nogizaka46)    https://open.spotify.com/track/0DuSSYe2TvrWiZAclyfDjM
+name: that place is burning(KID FRESINO)    https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR
+name: ファジーネーブル(Conton Candy)    https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG
+------------------<score>-----------------------
+ドライフラワー  https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J
+明日晴れるかな  https://open.spotify.com/track/3hluDFiaL1ntJ58xVTBjxT
+score: 2

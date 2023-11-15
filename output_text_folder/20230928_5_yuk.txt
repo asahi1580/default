@@ -1,0 +1,25 @@
+2023年09月28日 10:59:20
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+Flyday Chinatown (EVADE FROM 宇宙)
+{"danceability": 0.441, "energy": 0.839, "key": 7, "loudness": -7.534, "mode": 0, "speechiness": 0.224, "acousticness": 0.173, "instrumentalness": 0.915, "liveness": 0.233, "valence": 0.9, "tempo": 128.407, "type": "audio_features", "id": "2Oql5y6yNB0XUb8OWbi7pq", "uri": "spotify:track:2Oql5y6yNB0XUb8OWbi7pq", "track_href": "https://api.spotify.com/v1/tracks/2Oql5y6yNB0XUb8OWbi7pq", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Oql5y6yNB0XUb8OWbi7pq", "duration_ms": 135005, "time_signature": 4}
+美人 (CHANMINA)
+{"danceability": 0.796, "energy": 0.733, "key": 1, "loudness": -5.995, "mode": 1, "speechiness": 0.0986, "acousticness": 0.0109, "instrumentalness": 4.16e-06, "liveness": 0.24, "valence": 0.412, "tempo": 94.998, "type": "audio_features", "id": "6N19sHUX9ND67L4IBPR9yD", "uri": "spotify:track:6N19sHUX9ND67L4IBPR9yD", "track_href": "https://api.spotify.com/v1/tracks/6N19sHUX9ND67L4IBPR9yD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6N19sHUX9ND67L4IBPR9yD", "duration_ms": 158621, "time_signature": 4}
+かくれんぼ (AliA)
+{"danceability": 0.403, "energy": 0.946, "key": 2, "loudness": -3.008, "mode": 1, "speechiness": 0.0699, "acousticness": 0.00255, "instrumentalness": 0.00148, "liveness": 0.124, "valence": 0.548, "tempo": 180.144, "type": "audio_features", "id": "5wo2JjhTXS5fWV5myzuv1O", "uri": "spotify:track:5wo2JjhTXS5fWV5myzuv1O", "track_href": "https://api.spotify.com/v1/tracks/5wo2JjhTXS5fWV5myzuv1O", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5wo2JjhTXS5fWV5myzuv1O", "duration_ms": 297253, "time_signature": 4}
+It's A Whole World (そーいち)
+{"danceability": 0.587, "energy": 0.998, "key": 8, "loudness": -0.401, "mode": 1, "speechiness": 0.0755, "acousticness": 0.26, "instrumentalness": 3.11e-05, "liveness": 0.0646, "valence": 0.752, "tempo": 159.98, "type": "audio_features", "id": "0yQMTRdK2vzN3wNKaFamtR", "uri": "spotify:track:0yQMTRdK2vzN3wNKaFamtR", "track_href": "https://api.spotify.com/v1/tracks/0yQMTRdK2vzN3wNKaFamtR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0yQMTRdK2vzN3wNKaFamtR", "duration_ms": 207375, "time_signature": 4}
+君の神様になりたい (カンザキイオリ)
+{"danceability": 0.473, "energy": 0.888, "key": 5, "loudness": -5.491, "mode": 1, "speechiness": 0.0657, "acousticness": 0.102, "instrumentalness": 0.0539, "liveness": 0.292, "valence": 0.962, "tempo": 190.036, "type": "audio_features", "id": "0SaFvT8yBgA3d7wJsQbvLT", "uri": "spotify:track:0SaFvT8yBgA3d7wJsQbvLT", "track_href": "https://api.spotify.com/v1/tracks/0SaFvT8yBgA3d7wJsQbvLT", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0SaFvT8yBgA3d7wJsQbvLT", "duration_ms": 255533, "time_signature": 4}
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+name: 元彼女として(My Hair is Bad)    https://open.spotify.com/track/61ljG8KY152M7NbRcXXAes
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: ドラマツルギー(Eve)    https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: Shock!(sakanaction)    https://open.spotify.com/track/2PVprWefdSve2wSuzMWq8b
+name: ショック!(sakanaction)    https://open.spotify.com/track/5JptX8WFwejyeb6OuKL7wG
+name: ミチヲユケ(Ryokuoushoku Shakai)    https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: Sarracenia(SKY-HI)    https://open.spotify.com/track/1ZGqDkDwBr8APzB4inZ8RQ
+------------------<score>-----------------------
+score: 0

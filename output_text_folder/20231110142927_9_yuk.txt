@@ -1,0 +1,25 @@
+2023年11月10日 14:30:05
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/6voz4rUMJWkwpKnjPNYV4z
+Boy With Luv - Japanese ver. (BTS)
+{"danceability": 0.673, "energy": 0.855, "key": 11, "loudness": -4.65, "mode": 0, "speechiness": 0.089, "acousticness": 0.0661, "instrumentalness": 0, "liveness": 0.209, "valence": 0.78, "tempo": 119.917, "type": "audio_features", "id": "1GAAUZBTaIM1LwNpOJQJrZ", "uri": "spotify:track:1GAAUZBTaIM1LwNpOJQJrZ", "track_href": "https://api.spotify.com/v1/tracks/1GAAUZBTaIM1LwNpOJQJrZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1GAAUZBTaIM1LwNpOJQJrZ", "duration_ms": 230013, "time_signature": 4}
+アウフヘーベン (Mrs. GREEN APPLE)
+{"danceability": 0.457, "energy": 0.934, "key": 11, "loudness": -2.795, "mode": 1, "speechiness": 0.0743, "acousticness": 0.00544, "instrumentalness": 1.34e-06, "liveness": 0.148, "valence": 0.514, "tempo": 82.484, "type": "audio_features", "id": "3NRWNmJG4AiHeFjPjNLOc0", "uri": "spotify:track:3NRWNmJG4AiHeFjPjNLOc0", "track_href": "https://api.spotify.com/v1/tracks/3NRWNmJG4AiHeFjPjNLOc0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3NRWNmJG4AiHeFjPjNLOc0", "duration_ms": 255000, "time_signature": 4}
+How-to (Mrs. GREEN APPLE)
+{"danceability": 0.553, "energy": 0.801, "key": 7, "loudness": -4.45, "mode": 1, "speechiness": 0.118, "acousticness": 0.00332, "instrumentalness": 0, "liveness": 0.38, "valence": 0.6, "tempo": 92.583, "type": "audio_features", "id": "5F0dRmXZs857ExlzBVEyZ4", "uri": "spotify:track:5F0dRmXZs857ExlzBVEyZ4", "track_href": "https://api.spotify.com/v1/tracks/5F0dRmXZs857ExlzBVEyZ4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5F0dRmXZs857ExlzBVEyZ4", "duration_ms": 236547, "time_signature": 4}
+点描の唄 (Mrs. GREEN APPLE)
+{"danceability": 0.502, "energy": 0.632, "key": 0, "loudness": -4.612, "mode": 1, "speechiness": 0.0273, "acousticness": 0.447, "instrumentalness": 0, "liveness": 0.103, "valence": 0.308, "tempo": 152.014, "type": "audio_features", "id": "1sIIlVrnPhrvmTrHtzM7tV", "uri": "spotify:track:1sIIlVrnPhrvmTrHtzM7tV", "track_href": "https://api.spotify.com/v1/tracks/1sIIlVrnPhrvmTrHtzM7tV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1sIIlVrnPhrvmTrHtzM7tV", "duration_ms": 307067, "time_signature": 4}
+Drama - Japanese Ver. (TOMORROW X TOGETHER)
+{"danceability": 0.629, "energy": 0.936, "key": 1, "loudness": -4.251, "mode": 0, "speechiness": 0.0704, "acousticness": 0.0733, "instrumentalness": 0, "liveness": 0.0936, "valence": 0.744, "tempo": 125.991, "type": "audio_features", "id": "6xBivAKgcdsCBFGaC3IzSr", "uri": "spotify:track:6xBivAKgcdsCBFGaC3IzSr", "track_href": "https://api.spotify.com/v1/tracks/6xBivAKgcdsCBFGaC3IzSr", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6xBivAKgcdsCBFGaC3IzSr", "duration_ms": 211720, "time_signature": 4}
+name: Don't Leave Yet(Eric Nam)    https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD
+name: 藍二乗(ヨルシカ)    https://open.spotify.com/track/6BV77pE4JyUQUtaqnXeKa5
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: 愛してみてよ減るもんじゃないし(neguse.)    https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: Groovin' in the Sunshine (feat. BASI & 向井太一)(DJ HASEBE)    https://open.spotify.com/track/1u6aS40Y5SBt7N5cKJChf9
+name: ワンドリンク別(Macaroni Empitsu)    https://open.spotify.com/track/5tapE1gGyABsGFtgeOYchU
+name: 虹(Saucy Dog)    https://open.spotify.com/track/49KOXnzn11WDaQNoqnnHUJ
+name: 棒人間(RADWIMPS)    https://open.spotify.com/track/2wsyebeX4ptSxKIpJtWE6B
+name: メモリーちゃん(Hana Sekitori)    https://open.spotify.com/track/2b8r3wa4OQLaPfExue0BMz
+------------------<score>-----------------------
+score: 0

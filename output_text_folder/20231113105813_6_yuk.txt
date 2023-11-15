@@ -1,0 +1,26 @@
+2023年11月13日 10:58:37
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/5wbUwYagqn4FW8uC5mpOlo
+ラテ (ばんばんざい)
+{"danceability": 0.619, "energy": 0.544, "key": 0, "loudness": -11.442, "mode": 1, "speechiness": 0.0273, "acousticness": 0.29, "instrumentalness": 0, "liveness": 0.244, "valence": 0.519, "tempo": 140.015, "type": "audio_features", "id": "5rYdQk3KAXdxjoPm16T1Hn", "uri": "spotify:track:5rYdQk3KAXdxjoPm16T1Hn", "track_href": "https://api.spotify.com/v1/tracks/5rYdQk3KAXdxjoPm16T1Hn", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rYdQk3KAXdxjoPm16T1Hn", "duration_ms": 262293, "time_signature": 4}
+プラネタリウム (マルシィ)
+{"danceability": 0.419, "energy": 0.933, "key": 2, "loudness": -3.253, "mode": 1, "speechiness": 0.1, "acousticness": 0.0101, "instrumentalness": 0, "liveness": 0.256, "valence": 0.575, "tempo": 163.071, "type": "audio_features", "id": "4kr2rTi1zw6xjnpvN8Yef0", "uri": "spotify:track:4kr2rTi1zw6xjnpvN8Yef0", "track_href": "https://api.spotify.com/v1/tracks/4kr2rTi1zw6xjnpvN8Yef0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4kr2rTi1zw6xjnpvN8Yef0", "duration_ms": 221773, "time_signature": 4}
+Melody (8LOOM)
+{"danceability": 0.763, "energy": 0.6, "key": 2, "loudness": -6.081, "mode": 1, "speechiness": 0.0374, "acousticness": 0.281, "instrumentalness": 0, "liveness": 0.239, "valence": 0.754, "tempo": 143.044, "type": "audio_features", "id": "621pzEeNauLzgQrmVvCMEA", "uri": "spotify:track:621pzEeNauLzgQrmVvCMEA", "track_href": "https://api.spotify.com/v1/tracks/621pzEeNauLzgQrmVvCMEA", "analysis_url": "https://api.spotify.com/v1/audio-analysis/621pzEeNauLzgQrmVvCMEA", "duration_ms": 194753, "time_signature": 4}
+Come Again (8LOOM)
+{"danceability": 0.56, "energy": 0.743, "key": 3, "loudness": -5.668, "mode": 1, "speechiness": 0.0365, "acousticness": 0.0903, "instrumentalness": 0, "liveness": 0.0918, "valence": 0.374, "tempo": 179.984, "type": "audio_features", "id": "0NEbWcrkt0Uca1pbjfmSDD", "uri": "spotify:track:0NEbWcrkt0Uca1pbjfmSDD", "track_href": "https://api.spotify.com/v1/tracks/0NEbWcrkt0Uca1pbjfmSDD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0NEbWcrkt0Uca1pbjfmSDD", "duration_ms": 225532, "time_signature": 4}
+ラテ (ばんばんざい)
+{"danceability": 0.619, "energy": 0.544, "key": 0, "loudness": -11.442, "mode": 1, "speechiness": 0.0273, "acousticness": 0.29, "instrumentalness": 0, "liveness": 0.244, "valence": 0.519, "tempo": 140.015, "type": "audio_features", "id": "5rYdQk3KAXdxjoPm16T1Hn", "uri": "spotify:track:5rYdQk3KAXdxjoPm16T1Hn", "track_href": "https://api.spotify.com/v1/tracks/5rYdQk3KAXdxjoPm16T1Hn", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rYdQk3KAXdxjoPm16T1Hn", "duration_ms": 262293, "time_signature": 4}
+name: 死ぬのがいいわ(Fujii Kaze)    https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6
+name: Shinunoga E-Wa(Fujii Kaze)    https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW
+name: 結(Saucy Dog)    https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd
+name: future - Prod.KM(honoka)    https://open.spotify.com/track/3FSBDQWprhDCEaA0oCdX8p
+name: 君が好き(Shota Shimizu)    https://open.spotify.com/track/6AyF586o8MrRISwAM6dCeh
+name: ラテ(ばんばんざい)    https://open.spotify.com/track/5rYdQk3KAXdxjoPm16T1Hn
+name: コーヒーとシロップ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/6l1P9avGqv8oHBjwxp2ABq
+name: Summer Ghost feat. KIRINJI(Tomita Lab.)    https://open.spotify.com/track/0BlR8rZiO5pk4VjMT0Vkqo
+name: 2:23 AM(しゃろう)    https://open.spotify.com/track/7altakU1CXsGIwqrO0hkQl
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+------------------<score>-----------------------
+ラテ  https://open.spotify.com/track/5rYdQk3KAXdxjoPm16T1Hn
+score: 1

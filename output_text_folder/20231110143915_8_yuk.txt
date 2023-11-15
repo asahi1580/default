@@ -1,0 +1,20 @@
+2023年11月10日 14:39:49
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+リ・ユーク - Long Ver (KANKAN)
+{"danceability": 0.68, "energy": 0.969, "key": 5, "loudness": -0.934, "mode": 0, "speechiness": 0.0974, "acousticness": 0.0258, "instrumentalness": 2.5e-06, "liveness": 0.151, "valence": 0.651, "tempo": 134.975, "type": "audio_features", "id": "7apF0nPV7Wooqvur4XXZG9", "uri": "spotify:track:7apF0nPV7Wooqvur4XXZG9", "track_href": "https://api.spotify.com/v1/tracks/7apF0nPV7Wooqvur4XXZG9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7apF0nPV7Wooqvur4XXZG9", "duration_ms": 244444, "time_signature": 4}
+Ah Yeah!! (Sukima Switch)
+{"danceability": 0.481, "energy": 0.933, "key": 8, "loudness": -5.447, "mode": 1, "speechiness": 0.0445, "acousticness": 0.00505, "instrumentalness": 3.25e-06, "liveness": 0.044, "valence": 0.502, "tempo": 140.061, "type": "audio_features", "id": "3LXpZ28ebxPHH1aUc9167L", "uri": "spotify:track:3LXpZ28ebxPHH1aUc9167L", "track_href": "https://api.spotify.com/v1/tracks/3LXpZ28ebxPHH1aUc9167L", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3LXpZ28ebxPHH1aUc9167L", "duration_ms": 308067, "time_signature": 4}
+テレキャスタービーボーイ (すりぃ)
+{"danceability": 0.557, "energy": 0.793, "key": 8, "loudness": -5.043, "mode": 0, "speechiness": 0.0647, "acousticness": 0.116, "instrumentalness": 0, "liveness": 0.253, "valence": 0.961, "tempo": 181.97, "type": "audio_features", "id": "2rkSQrbwRoH82pA40rTQf3", "uri": "spotify:track:2rkSQrbwRoH82pA40rTQf3", "track_href": "https://api.spotify.com/v1/tracks/2rkSQrbwRoH82pA40rTQf3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rkSQrbwRoH82pA40rTQf3", "duration_ms": 165307, "time_signature": 4}
+すきなことだけでいいです (PinocchioP)
+{"danceability": 0.575, "energy": 0.97, "key": 7, "loudness": -3.078, "mode": 1, "speechiness": 0.0545, "acousticness": 0.00378, "instrumentalness": 1.82e-05, "liveness": 0.291, "valence": 0.631, "tempo": 139.999, "type": "audio_features", "id": "4xA8U5glXvRKG7td2JbFmN", "uri": "spotify:track:4xA8U5glXvRKG7td2JbFmN", "track_href": "https://api.spotify.com/v1/tracks/4xA8U5glXvRKG7td2JbFmN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xA8U5glXvRKG7td2JbFmN", "duration_ms": 274000, "time_signature": 4}
+ロストアンブレラ (稲葉曇)
+{"danceability": 0.721, "energy": 0.918, "key": 10, "loudness": -3.347, "mode": 1, "speechiness": 0.0678, "acousticness": 0.0408, "instrumentalness": 2.45e-05, "liveness": 0.233, "valence": 0.965, "tempo": 137.03, "type": "audio_features", "id": "00eSxfOu2w3yckSlqdEhOZ", "uri": "spotify:track:00eSxfOu2w3yckSlqdEhOZ", "track_href": "https://api.spotify.com/v1/tracks/00eSxfOu2w3yckSlqdEhOZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/00eSxfOu2w3yckSlqdEhOZ", "duration_ms": 204498, "time_signature": 4}
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: ミチヲユケ(Ryokuoushoku Shakai)    https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: ドラマツルギー(Eve)    https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+name: 脱げばいいってモンじゃない!(DeadballP)    https://open.spotify.com/track/6tLKnnoWA6uDJAuHBBTKvb
+name: 風吹けば恋(Chatmonchy)    https://open.spotify.com/track/2MkAcO7UzpWpOyxdMzjabH
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz

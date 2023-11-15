@@ -1,0 +1,25 @@
+2023年10月11日 11:15:36
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+Sayonara (HIRAIDAI)
+{"danceability": 0.648, "energy": 0.339, "key": 2, "loudness": -8.258, "mode": 1, "speechiness": 0.0722, "acousticness": 0.501, "instrumentalness": 0, "liveness": 0.34, "valence": 0.698, "tempo": 172.137, "type": "audio_features", "id": "0xeX2HsaRkT7g9oqMWhk4A", "uri": "spotify:track:0xeX2HsaRkT7g9oqMWhk4A", "track_href": "https://api.spotify.com/v1/tracks/0xeX2HsaRkT7g9oqMWhk4A", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0xeX2HsaRkT7g9oqMWhk4A", "duration_ms": 191860, "time_signature": 4}
+今もこれからも (KG)
+{"danceability": 0.567, "energy": 0.725, "key": 2, "loudness": -4.637, "mode": 1, "speechiness": 0.0262, "acousticness": 0.446, "instrumentalness": 0, "liveness": 0.176, "valence": 0.311, "tempo": 90.0, "type": "audio_features", "id": "13QFJb1Wjiuc25sdUF7bLA", "uri": "spotify:track:13QFJb1Wjiuc25sdUF7bLA", "track_href": "https://api.spotify.com/v1/tracks/13QFJb1Wjiuc25sdUF7bLA", "analysis_url": "https://api.spotify.com/v1/audio-analysis/13QFJb1Wjiuc25sdUF7bLA", "duration_ms": 280000, "time_signature": 4}
+ゼロのままでいられたら (OFFICIAL HIGE DANDISM)
+{"danceability": 0.446, "energy": 0.614, "key": 0, "loudness": -5.738, "mode": 0, "speechiness": 0.027, "acousticness": 0.121, "instrumentalness": 0.000164, "liveness": 0.199, "valence": 0.509, "tempo": 152.047, "type": "audio_features", "id": "0M8fLDERc37U2HoQGcXyOT", "uri": "spotify:track:0M8fLDERc37U2HoQGcXyOT", "track_href": "https://api.spotify.com/v1/tracks/0M8fLDERc37U2HoQGcXyOT", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0M8fLDERc37U2HoQGcXyOT", "duration_ms": 325647, "time_signature": 4}
+恋色 (もさを。)
+{"danceability": 0.606, "energy": 0.692, "key": 1, "loudness": -4.579, "mode": 1, "speechiness": 0.0286, "acousticness": 0.51, "instrumentalness": 0, "liveness": 0.122, "valence": 0.568, "tempo": 101.963, "type": "audio_features", "id": "1zKGm1uMH5qKgpM7T2U3RY", "uri": "spotify:track:1zKGm1uMH5qKgpM7T2U3RY", "track_href": "https://api.spotify.com/v1/tracks/1zKGm1uMH5qKgpM7T2U3RY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1zKGm1uMH5qKgpM7T2U3RY", "duration_ms": 280920, "time_signature": 4}
+恋 (back number)
+{"danceability": 0.446, "energy": 0.72, "key": 9, "loudness": -2.9, "mode": 1, "speechiness": 0.0329, "acousticness": 0.103, "instrumentalness": 0, "liveness": 0.307, "valence": 0.524, "tempo": 152.075, "type": "audio_features", "id": "7f9DsQEsIoeTwKxV6shsom", "uri": "spotify:track:7f9DsQEsIoeTwKxV6shsom", "track_href": "https://api.spotify.com/v1/tracks/7f9DsQEsIoeTwKxV6shsom", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7f9DsQEsIoeTwKxV6shsom", "duration_ms": 253307, "time_signature": 4}
+------------------<score>-----------------------
+ドライフラワー  https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J
+ホワイトキス  https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo
+ベテルギウス  https://open.spotify.com/track/2sf18cEv463VgqmdjDsFpw
+ヤングアダルト  https://open.spotify.com/track/3IanNVIcOMlKFr329uhNcA
+恋人ごっこ  https://open.spotify.com/track/4tENjooivslYnONPOUz9Sf
+なんでもないよ、  https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1
+シンデレラボーイ  https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V
+枯れそうな恋  https://open.spotify.com/track/4Go5IefRZ6tFrqRuvUyCoi
+あぁ、もう。  https://open.spotify.com/track/7G4rZHIBiXJNFmLYXtWCPm
+春空  https://open.spotify.com/track/2vLucb5JEscur35BqOYHdN
+score: 10

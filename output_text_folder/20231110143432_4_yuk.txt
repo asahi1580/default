@@ -1,0 +1,25 @@
+2023年11月10日 14:34:49
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+Q (Siinamota)
+{"danceability": 0.625, "energy": 0.811, "key": 7, "loudness": -5.348, "mode": 1, "speechiness": 0.0532, "acousticness": 0.00388, "instrumentalness": 0.00145, "liveness": 0.502, "valence": 0.738, "tempo": 120.082, "type": "audio_features", "id": "2WgDt1Kuh0boQmwytT840h", "uri": "spotify:track:2WgDt1Kuh0boQmwytT840h", "track_href": "https://api.spotify.com/v1/tracks/2WgDt1Kuh0boQmwytT840h", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2WgDt1Kuh0boQmwytT840h", "duration_ms": 258000, "time_signature": 4}
+うらぽしゃ (いよわ)
+{"danceability": 0.646, "energy": 0.813, "key": 5, "loudness": -6.263, "mode": 0, "speechiness": 0.0432, "acousticness": 0.319, "instrumentalness": 0.000972, "liveness": 0.414, "valence": 0.764, "tempo": 107.034, "type": "audio_features", "id": "1PfAMGebpLl9IY890Z6uSX", "uri": "spotify:track:1PfAMGebpLl9IY890Z6uSX", "track_href": "https://api.spotify.com/v1/tracks/1PfAMGebpLl9IY890Z6uSX", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1PfAMGebpLl9IY890Z6uSX", "duration_ms": 182520, "time_signature": 3}
+ロールレスウエポン - 稲葉曇×Neru (稲葉曇)
+{"danceability": 0.495, "energy": 0.856, "key": 0, "loudness": -3.605, "mode": 1, "speechiness": 0.0913, "acousticness": 0.0361, "instrumentalness": 2.09e-06, "liveness": 0.115, "valence": 0.803, "tempo": 179.953, "type": "audio_features", "id": "4ddSGTnURIXSVvzTcPKsKV", "uri": "spotify:track:4ddSGTnURIXSVvzTcPKsKV", "track_href": "https://api.spotify.com/v1/tracks/4ddSGTnURIXSVvzTcPKsKV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ddSGTnURIXSVvzTcPKsKV", "duration_ms": 193316, "time_signature": 4}
+アンチシステム's (jon-YAKITORY)
+{"danceability": 0.51, "energy": 0.953, "key": 4, "loudness": -4.81, "mode": 0, "speechiness": 0.118, "acousticness": 0.00043, "instrumentalness": 0.00364, "liveness": 0.305, "valence": 0.771, "tempo": 94.984, "type": "audio_features", "id": "0TuhpTtsXvnwNwQIcaMuCs", "uri": "spotify:track:0TuhpTtsXvnwNwQIcaMuCs", "track_href": "https://api.spotify.com/v1/tracks/0TuhpTtsXvnwNwQIcaMuCs", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0TuhpTtsXvnwNwQIcaMuCs", "duration_ms": 215425, "time_signature": 4}
+マシンガンポエムドール (cosMo@Bousou-P)
+{"danceability": 0.631, "energy": 0.838, "key": 5, "loudness": -7.607, "mode": 0, "speechiness": 0.0607, "acousticness": 0.0101, "instrumentalness": 2.49e-05, "liveness": 0.132, "valence": 0.838, "tempo": 109.943, "type": "audio_features", "id": "6XshXpv0LPjtTJbKkeilBQ", "uri": "spotify:track:6XshXpv0LPjtTJbKkeilBQ", "track_href": "https://api.spotify.com/v1/tracks/6XshXpv0LPjtTJbKkeilBQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6XshXpv0LPjtTJbKkeilBQ", "duration_ms": 140527, "time_signature": 4}
+name: SPECIALZ(King Gnu)    https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF
+name: いけないfool logic(UNISON SQUARE GARDEN)    https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo
+name: タイムリミット(クボタカイ)    https://open.spotify.com/track/7gXG1Fd3QeDuoCKq0rylqQ
+name: KNOCKIN' ON YOUR DOOR(L⇔R)    https://open.spotify.com/track/5nSmxqzmaSH4ev7PQ0QnmR
+name: エゴロック(すりぃ)    https://open.spotify.com/track/3UVNKqlbi4HuTxtr4ONvh5
+name: 銀河鉄道999 - EXILE CATCHY BEST(EXILE)    https://open.spotify.com/track/7Gti9Ynx3fuvJpYgA4OCtt
+name: 一生に一度愛してるよ(Creep Hyp)    https://open.spotify.com/track/5PErxfXJbprHC9YGSbHLW3
+name: 八月の陽炎(Macaroni Empitsu)    https://open.spotify.com/track/7a7lvYsKBCsZfuMfVsn5tw
+name: Rising Sun(EXILE)    https://open.spotify.com/track/4ux6NjzqD98nXZs4hMPrxA
+name: SEKAIJUUNO DARE YORI KITTO(Lil' Goldwell)    https://open.spotify.com/track/69wkJK3mWSuHDiuMkh9K90
+------------------<score>-----------------------
+score: 0

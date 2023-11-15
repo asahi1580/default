@@ -1,0 +1,35 @@
+2023年11月10日 14:36:30
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+Noisy Sweet Home (jon-YAKITORY)
+{"danceability": 0.497, "energy": 0.723, "key": 9, "loudness": -4.813, "mode": 1, "speechiness": 0.0573, "acousticness": 0.00269, "instrumentalness": 0.00265, "liveness": 0.108, "valence": 0.351, "tempo": 94.968, "type": "audio_features", "id": "0snEdhAHvsu9rI6qaAAJTB", "uri": "spotify:track:0snEdhAHvsu9rI6qaAAJTB", "track_href": "https://api.spotify.com/v1/tracks/0snEdhAHvsu9rI6qaAAJTB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0snEdhAHvsu9rI6qaAAJTB", "duration_ms": 216305, "time_signature": 4}
+とても素敵な六月でした (Eight)
+{"danceability": 0.599, "energy": 0.947, "key": 8, "loudness": -3.37, "mode": 1, "speechiness": 0.0651, "acousticness": 0.0606, "instrumentalness": 0, "liveness": 0.314, "valence": 0.582, "tempo": 104.98, "type": "audio_features", "id": "77HJqStuYCz0gk9bg4VAvD", "uri": "spotify:track:77HJqStuYCz0gk9bg4VAvD", "track_href": "https://api.spotify.com/v1/tracks/77HJqStuYCz0gk9bg4VAvD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/77HJqStuYCz0gk9bg4VAvD", "duration_ms": 283427, "time_signature": 4}
+懺悔参り (Maigo Hanyuu)
+{"danceability": 0.645, "energy": 0.819, "key": 7, "loudness": -4.205, "mode": 1, "speechiness": 0.0474, "acousticness": 0.214, "instrumentalness": 0.00073, "liveness": 0.339, "valence": 0.651, "tempo": 139.93, "type": "audio_features", "id": "2IlbsAPqtXP9hLR4PESh7x", "uri": "spotify:track:2IlbsAPqtXP9hLR4PESh7x", "track_href": "https://api.spotify.com/v1/tracks/2IlbsAPqtXP9hLR4PESh7x", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2IlbsAPqtXP9hLR4PESh7x", "duration_ms": 201533, "time_signature": 4}
+無辜のあなた (いよわ)
+{"danceability": 0.475, "energy": 0.703, "key": 2, "loudness": -7.405, "mode": 1, "speechiness": 0.0386, "acousticness": 0.0272, "instrumentalness": 0, "liveness": 0.361, "valence": 0.457, "tempo": 105.575, "type": "audio_features", "id": "57WCUB5ODiVKmdCGAIUJla", "uri": "spotify:track:57WCUB5ODiVKmdCGAIUJla", "track_href": "https://api.spotify.com/v1/tracks/57WCUB5ODiVKmdCGAIUJla", "analysis_url": "https://api.spotify.com/v1/audio-analysis/57WCUB5ODiVKmdCGAIUJla", "duration_ms": 295735, "time_signature": 4}
+一ツ眼リッパー殺人事件 (しとお)
+{"danceability": 0.634, "energy": 0.59, "key": 1, "loudness": -9.886, "mode": 1, "speechiness": 0.0399, "acousticness": 0.0644, "instrumentalness": 2.15e-06, "liveness": 0.113, "valence": 0.82, "tempo": 140.079, "type": "audio_features", "id": "0CejaRVzmQ9RUp6WSM5zwR", "uri": "spotify:track:0CejaRVzmQ9RUp6WSM5zwR", "track_href": "https://api.spotify.com/v1/tracks/0CejaRVzmQ9RUp6WSM5zwR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0CejaRVzmQ9RUp6WSM5zwR", "duration_ms": 263036, "time_signature": 4}
+name: 舞台をおりて(My Hair is Bad)    https://open.spotify.com/track/3xEYF9W6D2FxSQd3PMLmug
+name: シンデレラボーイ(Saucy Dog)    https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V
+name: Cinderella Boy(Saucy Dog)    https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV
+name: Electric Love(BØRNS)    https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: ラズベリー(マルシィ)    https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo
+name: 最低(れん)    https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt
+name: CHEERS(Mrs. GREEN APPLE)    https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+name: 魔法のコトバ(SPITZ)    https://open.spotify.com/track/6o6XNRr7tosVpTk6Ijuzbf
+name: Hug(Mrs. GREEN APPLE)    https://open.spotify.com/track/3pROyCFF6WyVtmCnbwLPxr
+name: spiral(LONGMAN)    https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE
+name: イージュー★ライダー(Tamio Okuda)    https://open.spotify.com/track/16TRYuLeXnh4hRTjQ1pYpR
+name: ブレーメン feat. 優里(BAK)    https://open.spotify.com/track/5zUVDALiILv9EvbvZydVXu
+name: 道の途中(グソクムズ)    https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu
+name: Swing Swing Sing - 2018 Remaster(Fukumimi)    https://open.spotify.com/track/3u2LQjyrani5YHgXDtHMWI
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/3719B6zxJvxpfrnC5rvItf
+name: アストロノーツ(Yuuri)    https://open.spotify.com/track/4GLeHXOyA4gdTzxp5VxTu5
+name: 虹(Saucy Dog)    https://open.spotify.com/track/49KOXnzn11WDaQNoqnnHUJ
+name: 100万回の「I love you」(Rake)    https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF
+name: 観覧車(My Hair is Bad)    https://open.spotify.com/track/2fy97tZ7heQTsLfHZVpHJG
+------------------<score>-----------------------
+score: 0

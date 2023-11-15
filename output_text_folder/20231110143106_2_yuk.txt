@@ -1,0 +1,25 @@
+2023年11月10日 14:31:15
+yuk_score.py
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+ごめんねFingers crossed (Nogizaka46)
+{"danceability": 0.615, "energy": 0.953, "key": 2, "loudness": -2.847, "mode": 1, "speechiness": 0.048, "acousticness": 0.0796, "instrumentalness": 0, "liveness": 0.319, "valence": 0.856, "tempo": 130.001, "type": "audio_features", "id": "0oJNx56svbarYB6AznuWHM", "uri": "spotify:track:0oJNx56svbarYB6AznuWHM", "track_href": "https://api.spotify.com/v1/tracks/0oJNx56svbarYB6AznuWHM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0oJNx56svbarYB6AznuWHM", "duration_ms": 257333, "time_signature": 4}
+ホワイトアウト (reGretGirl)
+{"danceability": 0.452, "energy": 0.955, "key": 2, "loudness": -2.012, "mode": 1, "speechiness": 0.0666, "acousticness": 0.0217, "instrumentalness": 0, "liveness": 0.0886, "valence": 0.816, "tempo": 187.046, "type": "audio_features", "id": "6ueqIFxAqxPnFdZXKNPSrr", "uri": "spotify:track:6ueqIFxAqxPnFdZXKNPSrr", "track_href": "https://api.spotify.com/v1/tracks/6ueqIFxAqxPnFdZXKNPSrr", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ueqIFxAqxPnFdZXKNPSrr", "duration_ms": 211707, "time_signature": 4}
+アンビリーバーズ (Kenshi Yonezu)
+{"danceability": 0.583, "energy": 0.963, "key": 1, "loudness": -3.053, "mode": 1, "speechiness": 0.0615, "acousticness": 0.00897, "instrumentalness": 0.000988, "liveness": 0.151, "valence": 0.581, "tempo": 133.026, "type": "audio_features", "id": "1YCHalpMsHDWcVmRwMxwYQ", "uri": "spotify:track:1YCHalpMsHDWcVmRwMxwYQ", "track_href": "https://api.spotify.com/v1/tracks/1YCHalpMsHDWcVmRwMxwYQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YCHalpMsHDWcVmRwMxwYQ", "duration_ms": 282880, "time_signature": 4}
+手紙 (back number)
+{"danceability": 0.458, "energy": 0.54, "key": 7, "loudness": -3.372, "mode": 1, "speechiness": 0.0263, "acousticness": 0.0186, "instrumentalness": 0, "liveness": 0.0991, "valence": 0.313, "tempo": 145.827, "type": "audio_features", "id": "1I5JRnPFl38a9APWaAshoY", "uri": "spotify:track:1I5JRnPFl38a9APWaAshoY", "track_href": "https://api.spotify.com/v1/tracks/1I5JRnPFl38a9APWaAshoY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1I5JRnPFl38a9APWaAshoY", "duration_ms": 270507, "time_signature": 4}
+カメレオン (King Gnu)
+{"danceability": 0.628, "energy": 0.533, "key": 0, "loudness": -7.235, "mode": 1, "speechiness": 0.0417, "acousticness": 0.643, "instrumentalness": 0, "liveness": 0.0733, "valence": 0.459, "tempo": 79.953, "type": "audio_features", "id": "0J0P8iSE6l3pYHbUdNFYdS", "uri": "spotify:track:0J0P8iSE6l3pYHbUdNFYdS", "track_href": "https://api.spotify.com/v1/tracks/0J0P8iSE6l3pYHbUdNFYdS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0J0P8iSE6l3pYHbUdNFYdS", "duration_ms": 193990, "time_signature": 4}
+name: PRIDE(チョーキューメイ)    https://open.spotify.com/track/6YSiCQPEEEimysown5ad19
+name: コーヒーとシロップ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/6l1P9avGqv8oHBjwxp2ABq
+name: A面で恋をして(NIAGARA TRIANGLE)    https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH
+name: 悲しみは雪のように(single / 1992)(Shogo Hamada)    https://open.spotify.com/track/7w9bqnOWrtWJixSR2gHqQl
+name: 月曜日の憂鬱(Amatsuki)    https://open.spotify.com/track/0fsPqL15FO6l5zuf7h19LX
+name: Riverside Hotel(S. Kiyotaka & Omega Tribe)    https://open.spotify.com/track/1XNCDQ5vKH9Am4d2LiWYzI
+name: 風の向きが変わって(MONO NO AWARE)    https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt
+name: メフィスト(QUEEN BEE)    https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG
+name: 笑顔(Ikimonogakari)    https://open.spotify.com/track/1dYFiDCkODoBht8HtTuW7E
+name: Irrésistiblement(Sylvie Vartan)    https://open.spotify.com/track/249VKdrLOxtwLSqE1eRmlo
+------------------<score>-----------------------
+score: 0

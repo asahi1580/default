@@ -1,0 +1,26 @@
+2023年11月10日 11:40:12
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+三原色 (YOASOBI)
+{"danceability": 0.443, "energy": 0.893, "key": 5, "loudness": -3.496, "mode": 0, "speechiness": 0.154, "acousticness": 0.128, "instrumentalness": 0, "liveness": 0.328, "valence": 0.826, "tempo": 127.999, "type": "audio_features", "id": "3FUCuf498nFHJXFYR1V9Bd", "uri": "spotify:track:3FUCuf498nFHJXFYR1V9Bd", "track_href": "https://api.spotify.com/v1/tracks/3FUCuf498nFHJXFYR1V9Bd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FUCuf498nFHJXFYR1V9Bd", "duration_ms": 224067, "time_signature": 4}
+感電 (Kenshi Yonezu)
+{"danceability": 0.633, "energy": 0.723, "key": 8, "loudness": -5.733, "mode": 0, "speechiness": 0.143, "acousticness": 0.107, "instrumentalness": 0, "liveness": 0.0818, "valence": 0.688, "tempo": 103.101, "type": "audio_features", "id": "6H0PLsSYMzDOqhLgyOlzIj", "uri": "spotify:track:6H0PLsSYMzDOqhLgyOlzIj", "track_href": "https://api.spotify.com/v1/tracks/6H0PLsSYMzDOqhLgyOlzIj", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6H0PLsSYMzDOqhLgyOlzIj", "duration_ms": 264533, "time_signature": 4}
+クランベリーとパンケーキ (Kenshi Yonezu)
+{"danceability": 0.62, "energy": 0.826, "key": 2, "loudness": -5.966, "mode": 1, "speechiness": 0.0291, "acousticness": 0.189, "instrumentalness": 0, "liveness": 0.459, "valence": 0.742, "tempo": 128.923, "type": "audio_features", "id": "3uZ4LhAfu05pkAAQ2dvQQh", "uri": "spotify:track:3uZ4LhAfu05pkAAQ2dvQQh", "track_href": "https://api.spotify.com/v1/tracks/3uZ4LhAfu05pkAAQ2dvQQh", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uZ4LhAfu05pkAAQ2dvQQh", "duration_ms": 210547, "time_signature": 4}
+アンコール (YOASOBI)
+{"danceability": 0.682, "energy": 0.669, "key": 2, "loudness": -4.741, "mode": 1, "speechiness": 0.0275, "acousticness": 0.283, "instrumentalness": 1e-06, "liveness": 0.145, "valence": 0.831, "tempo": 81.999, "type": "audio_features", "id": "465JzFiajJO59sUrDFsxdC", "uri": "spotify:track:465JzFiajJO59sUrDFsxdC", "track_href": "https://api.spotify.com/v1/tracks/465JzFiajJO59sUrDFsxdC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/465JzFiajJO59sUrDFsxdC", "duration_ms": 271440, "time_signature": 4}
+ミラーチューン (ZUTOMAYO)
+{"danceability": 0.704, "energy": 0.933, "key": 0, "loudness": -2.383, "mode": 0, "speechiness": 0.0863, "acousticness": 0.357, "instrumentalness": 0, "liveness": 0.353, "valence": 0.895, "tempo": 127.965, "type": "audio_features", "id": "0R8JLNP107Hr7V7lL9oh13", "uri": "spotify:track:0R8JLNP107Hr7V7lL9oh13", "track_href": "https://api.spotify.com/v1/tracks/0R8JLNP107Hr7V7lL9oh13", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0R8JLNP107Hr7V7lL9oh13", "duration_ms": 249273, "time_signature": 4}
+name: ナイモノネダリ(Da-iCE)    https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0
+name: いけないfool logic(UNISON SQUARE GARDEN)    https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo
+name: Jukebox Driver(Penthouse)    https://open.spotify.com/track/3bmVFoPeC3yRH5mABgyxnr
+name: 色彩(yama)    https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+name: 気分上々↑↑(Mihimaru GT)    https://open.spotify.com/track/7tkfkqKfWtU1GIoV9IY9rQ
+name: サイレントマジョリティー(Keyakizaka46)    https://open.spotify.com/track/6vqGGV7ZGWYFRg5EtlcuN5
+name: サイレントマジョリティー(Keyakizaka46)    https://open.spotify.com/track/07sSvnON76NcKWwh9wNsmy
+name: 勝手にシンドバッド(サザンオールスターズ)    https://open.spotify.com/track/1X7VQFZ23MgWshmLHYFRsZ
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+------------------<score>-----------------------
+a.m.3:21  https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+score: 1

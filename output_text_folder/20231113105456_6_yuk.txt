@@ -1,0 +1,29 @@
+2023年11月13日 10:55:22
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+また君と (JAY'ED)
+{"danceability": 0.674, "energy": 0.657, "key": 2, "loudness": -4.76, "mode": 1, "speechiness": 0.0285, "acousticness": 0.586, "instrumentalness": 0, "liveness": 0.112, "valence": 0.351, "tempo": 95.034, "type": "audio_features", "id": "4ZkdPpJbOvBqjYnDq23Zp9", "uri": "spotify:track:4ZkdPpJbOvBqjYnDq23Zp9", "track_href": "https://api.spotify.com/v1/tracks/4ZkdPpJbOvBqjYnDq23Zp9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ZkdPpJbOvBqjYnDq23Zp9", "duration_ms": 248520, "time_signature": 4}
+ラブレター (YOASOBI)
+{"danceability": 0.662, "energy": 0.86, "key": 7, "loudness": -3.534, "mode": 1, "speechiness": 0.0286, "acousticness": 0.447, "instrumentalness": 0, "liveness": 0.339, "valence": 0.69, "tempo": 100.016, "type": "audio_features", "id": "185Wm4Mx09dQG0fUktklDm", "uri": "spotify:track:185Wm4Mx09dQG0fUktklDm", "track_href": "https://api.spotify.com/v1/tracks/185Wm4Mx09dQG0fUktklDm", "analysis_url": "https://api.spotify.com/v1/audio-analysis/185Wm4Mx09dQG0fUktklDm", "duration_ms": 212401, "time_signature": 4}
+ハート (Aimyon)
+{"danceability": 0.661, "energy": 0.448, "key": 6, "loudness": -5.761, "mode": 1, "speechiness": 0.0522, "acousticness": 0.543, "instrumentalness": 0, "liveness": 0.0818, "valence": 0.299, "tempo": 78.114, "type": "audio_features", "id": "6cvKfEw8rDcmXBslqSEC9G", "uri": "spotify:track:6cvKfEw8rDcmXBslqSEC9G", "track_href": "https://api.spotify.com/v1/tracks/6cvKfEw8rDcmXBslqSEC9G", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6cvKfEw8rDcmXBslqSEC9G", "duration_ms": 271280, "time_signature": 4}
+SMILE~晴れ渡る空のように~ (Keisuke Kuwata)
+{"danceability": 0.582, "energy": 0.73, "key": 5, "loudness": -5.622, "mode": 1, "speechiness": 0.0276, "acousticness": 0.469, "instrumentalness": 0.000168, "liveness": 0.169, "valence": 0.506, "tempo": 88.993, "type": "audio_features", "id": "7jkrxM1JAK7BAjrKZY7EnD", "uri": "spotify:track:7jkrxM1JAK7BAjrKZY7EnD", "track_href": "https://api.spotify.com/v1/tracks/7jkrxM1JAK7BAjrKZY7EnD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7jkrxM1JAK7BAjrKZY7EnD", "duration_ms": 320567, "time_signature": 4}
+リッツパーティー (back number)
+{"danceability": 0.557, "energy": 0.874, "key": 11, "loudness": -3.46, "mode": 1, "speechiness": 0.0529, "acousticness": 0.00208, "instrumentalness": 0, "liveness": 0.0885, "valence": 0.443, "tempo": 120.003, "type": "audio_features", "id": "1FDrCBlNru2OrVXePw1BFQ", "uri": "spotify:track:1FDrCBlNru2OrVXePw1BFQ", "track_href": "https://api.spotify.com/v1/tracks/1FDrCBlNru2OrVXePw1BFQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1FDrCBlNru2OrVXePw1BFQ", "duration_ms": 196800, "time_signature": 4}
+name: SMILE~晴れ渡る空のように~(Keisuke Kuwata)    https://open.spotify.com/track/7jkrxM1JAK7BAjrKZY7EnD
+name: 隣の君と一緒に(Anna)    https://open.spotify.com/track/5WIehaY9u8pK7BOUKNExMw
+name: 明日がくるなら original duet version(JUJU)    https://open.spotify.com/track/4WiVQ0PLTYjHiNYUbWpJO9
+name: Rain(Motohiro Hata)    https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f
+name: 葵(Aimyon)    https://open.spotify.com/track/0nvvaKnWZABiknO5fcRifn
+name: ロビンソン(SPITZ)    https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws
+name: 純白の花嫁(Zushi San Kyoudai)    https://open.spotify.com/track/4gII5gEr6dwADUlzKCgsaM
+name: 今もこれからも(KG)    https://open.spotify.com/track/13QFJb1Wjiuc25sdUF7bLA
+name: 恋色(もさを。)    https://open.spotify.com/track/1zKGm1uMH5qKgpM7T2U3RY
+name: ANIME(LUCKY TAPES)    https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b
+------------------<score>-----------------------
+今もこれからも  https://open.spotify.com/track/13QFJb1Wjiuc25sdUF7bLA
+純白の花嫁  https://open.spotify.com/track/4gII5gEr6dwADUlzKCgsaM
+恋色  https://open.spotify.com/track/1zKGm1uMH5qKgpM7T2U3RY
+SMILE~晴れ渡る空のように~  https://open.spotify.com/track/7jkrxM1JAK7BAjrKZY7EnD
+score: 4

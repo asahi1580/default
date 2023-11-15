@@ -1,0 +1,26 @@
+2023年11月13日 11:03:32
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/1Xvftggu2LmTMJ8TiIKIHy
+Hey Mickey (Toni Basil)
+{"danceability": 0.595, "energy": 0.928, "key": 4, "loudness": -4.457, "mode": 1, "speechiness": 0.0503, "acousticness": 0.0569, "instrumentalness": 0, "liveness": 0.0336, "valence": 0.982, "tempo": 149.975, "type": "audio_features", "id": "5G9KcZaxfCysfv4EryCB9b", "uri": "spotify:track:5G9KcZaxfCysfv4EryCB9b", "track_href": "https://api.spotify.com/v1/tracks/5G9KcZaxfCysfv4EryCB9b", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5G9KcZaxfCysfv4EryCB9b", "duration_ms": 252885, "time_signature": 4}
+Grand Prix (Kep1er)
+{"danceability": 0.723, "energy": 0.914, "key": 9, "loudness": -2.236, "mode": 1, "speechiness": 0.0385, "acousticness": 0.0345, "instrumentalness": 0, "liveness": 0.329, "valence": 0.406, "tempo": 127.019, "type": "audio_features", "id": "5btc1Il6aABmVNUOjooNK8", "uri": "spotify:track:5btc1Il6aABmVNUOjooNK8", "track_href": "https://api.spotify.com/v1/tracks/5btc1Il6aABmVNUOjooNK8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5btc1Il6aABmVNUOjooNK8", "duration_ms": 187787, "time_signature": 4}
+Eyes On Me (JO1)
+{"danceability": 0.78, "energy": 0.81, "key": 2, "loudness": -5.465, "mode": 1, "speechiness": 0.0579, "acousticness": 0.00655, "instrumentalness": 0, "liveness": 0.0653, "valence": 0.333, "tempo": 119.955, "type": "audio_features", "id": "79O9h4Q9w1X6w3tHTJSu8y", "uri": "spotify:track:79O9h4Q9w1X6w3tHTJSu8y", "track_href": "https://api.spotify.com/v1/tracks/79O9h4Q9w1X6w3tHTJSu8y", "analysis_url": "https://api.spotify.com/v1/audio-analysis/79O9h4Q9w1X6w3tHTJSu8y", "duration_ms": 171000, "time_signature": 4}
+Dog Days Are Over (Florence + The Machine)
+{"danceability": 0.501, "energy": 0.809, "key": 7, "loudness": -5.264, "mode": 1, "speechiness": 0.0938, "acousticness": 0.0338, "instrumentalness": 0.00602, "liveness": 0.119, "valence": 0.258, "tempo": 149.964, "type": "audio_features", "id": "456WNXWhDwYOSf5SpTuqxd", "uri": "spotify:track:456WNXWhDwYOSf5SpTuqxd", "track_href": "https://api.spotify.com/v1/tracks/456WNXWhDwYOSf5SpTuqxd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/456WNXWhDwYOSf5SpTuqxd", "duration_ms": 252819, "time_signature": 4}
+周波数 (SEKAI NO OWARI)
+{"danceability": 0.612, "energy": 0.896, "key": 1, "loudness": -4.425, "mode": 1, "speechiness": 0.0421, "acousticness": 0.00796, "instrumentalness": 1.07e-05, "liveness": 0.18, "valence": 0.412, "tempo": 133.036, "type": "audio_features", "id": "0kWHyUb42yanHaqIGskXQE", "uri": "spotify:track:0kWHyUb42yanHaqIGskXQE", "track_href": "https://api.spotify.com/v1/tracks/0kWHyUb42yanHaqIGskXQE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0kWHyUb42yanHaqIGskXQE", "duration_ms": 256880, "time_signature": 4}
+name: 周波数(SEKAI NO OWARI)    https://open.spotify.com/track/3vYCWJRejq4ql01Z4bEFg9
+name: 周波数(SEKAI NO OWARI)    https://open.spotify.com/track/0kWHyUb42yanHaqIGskXQE
+name: This Hell(Rina Sawayama)    https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4
+name: LAST FOREVER(NOISEMAKER)    https://open.spotify.com/track/6Tk4jblZ6c6p46RWT3NIWH
+name: TOMBI(Kvi Baba)    https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl
+name: 残酷な天使のテーゼ(Yoko Takahashi)    https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q
+name: Gold　～また逢う日まで～ (Taku's Twice Upon a Time Remix)(Hikaru Utada)    https://open.spotify.com/track/5G4hXLsimm6YlpibRYxc24
+name: PADDLE(Mr.Children)    https://open.spotify.com/track/0O83R6caduf7kqwemoMjza
+name: グーグー Sun バ!(エド・はるみ)    https://open.spotify.com/track/3N6UDRGS3gTKf6nx5I4BXM
+name: アロー(Awkmiu)    https://open.spotify.com/track/0OdoZOlFD1PPPJ7Pifh6Gl
+------------------<score>-----------------------
+周波数  https://open.spotify.com/track/0kWHyUb42yanHaqIGskXQE
+score: 1

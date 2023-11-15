@@ -1,0 +1,25 @@
+2023年11月13日 11:07:41
+yuk_score.py
+お気に入り20220921  https://open.spotify.com/playlist/7Beiqu1Ua5nmCrLm4fx7oc
+Silver And Gold (Yuzo Koshiro)
+{"danceability": 0.618, "energy": 0.649, "key": 0, "loudness": -8.084, "mode": 1, "speechiness": 0.0289, "acousticness": 0.0101, "instrumentalness": 0.177, "liveness": 0.259, "valence": 0.524, "tempo": 128.012, "type": "audio_features", "id": "0zLbztpY8v9RTHmnjCFktN", "uri": "spotify:track:0zLbztpY8v9RTHmnjCFktN", "track_href": "https://api.spotify.com/v1/tracks/0zLbztpY8v9RTHmnjCFktN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0zLbztpY8v9RTHmnjCFktN", "duration_ms": 373279, "time_signature": 4}
+SUMMER SONG (YUI)
+{"danceability": 0.635, "energy": 0.836, "key": 5, "loudness": -3.952, "mode": 0, "speechiness": 0.0297, "acousticness": 0.217, "instrumentalness": 3.14e-06, "liveness": 0.111, "valence": 0.847, "tempo": 107.979, "type": "audio_features", "id": "61GOrlx22o2KLrGhqaC5bY", "uri": "spotify:track:61GOrlx22o2KLrGhqaC5bY", "track_href": "https://api.spotify.com/v1/tracks/61GOrlx22o2KLrGhqaC5bY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/61GOrlx22o2KLrGhqaC5bY", "duration_ms": 207693, "time_signature": 4}
+風の彼方 (Crystal Kay)
+{"danceability": 0.396, "energy": 0.807, "key": 5, "loudness": -3.552, "mode": 1, "speechiness": 0.0473, "acousticness": 0.195, "instrumentalness": 0, "liveness": 0.175, "valence": 0.263, "tempo": 97.991, "type": "audio_features", "id": "060fDcpAENEamr9q2Qd3MB", "uri": "spotify:track:060fDcpAENEamr9q2Qd3MB", "track_href": "https://api.spotify.com/v1/tracks/060fDcpAENEamr9q2Qd3MB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/060fDcpAENEamr9q2Qd3MB", "duration_ms": 225680, "time_signature": 4}
+夢想花 (円 広志)
+{"danceability": 0.5, "energy": 0.549, "key": 2, "loudness": -8.063, "mode": 1, "speechiness": 0.028, "acousticness": 0.751, "instrumentalness": 0, "liveness": 0.183, "valence": 0.582, "tempo": 135.65, "type": "audio_features", "id": "2srezuwPkxaO9jQAXXtVLA", "uri": "spotify:track:2srezuwPkxaO9jQAXXtVLA", "track_href": "https://api.spotify.com/v1/tracks/2srezuwPkxaO9jQAXXtVLA", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2srezuwPkxaO9jQAXXtVLA", "duration_ms": 322080, "time_signature": 4}
+北陸ロマン～プレミアムデュエットバージョン～ (Shinji Tanimura)
+{"danceability": 0.611, "energy": 0.64, "key": 4, "loudness": -6.754, "mode": 0, "speechiness": 0.0274, "acousticness": 0.461, "instrumentalness": 0, "liveness": 0.158, "valence": 0.654, "tempo": 106.708, "type": "audio_features", "id": "29VDXKXg8OQegbxts75SRd", "uri": "spotify:track:29VDXKXg8OQegbxts75SRd", "track_href": "https://api.spotify.com/v1/tracks/29VDXKXg8OQegbxts75SRd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/29VDXKXg8OQegbxts75SRd", "duration_ms": 273600, "time_signature": 4}
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: ハルノヒ(Aimyon)    https://open.spotify.com/track/7jFcbwPkMcEZK3bQhTzeAU
+name: ハルノヒ(Aimyon)    https://open.spotify.com/track/7GYGVDPbi0zQUBIkuOPAY0
+name: ハルノヒ(Aimyon)    https://open.spotify.com/track/1oNeSCt0CMekCyyLo06kFs
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+name: if(Kana Nishino)    https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P
+name: 葵(Aimyon)    https://open.spotify.com/track/0nvvaKnWZABiknO5fcRifn
+name: ギュッと(Little Glee Monster)    https://open.spotify.com/track/7cyViQmj1Vp2C5PA0ojtFB
+name: ロビンソン(SPITZ)    https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws
+name: 幽霊船((sic)boy)    https://open.spotify.com/track/4O1RQ3hmsGrQ4zM00EO0VY
+------------------<score>-----------------------
+score: 0

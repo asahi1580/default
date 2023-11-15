@@ -1,0 +1,26 @@
+2023年11月10日 14:31:27
+yuk_score.py
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+ここにはないもの (Nogizaka46)
+{"danceability": 0.619, "energy": 0.88, "key": 11, "loudness": -3.704, "mode": 1, "speechiness": 0.036, "acousticness": 0.331, "instrumentalness": 0, "liveness": 0.27, "valence": 0.52, "tempo": 119.998, "type": "audio_features", "id": "1lZyM0j1iFa4vB9xSkpjur", "uri": "spotify:track:1lZyM0j1iFa4vB9xSkpjur", "track_href": "https://api.spotify.com/v1/tracks/1lZyM0j1iFa4vB9xSkpjur", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1lZyM0j1iFa4vB9xSkpjur", "duration_ms": 311360, "time_signature": 4}
+又三郎 (ヨルシカ)
+{"danceability": 0.472, "energy": 0.919, "key": 4, "loudness": -3.513, "mode": 0, "speechiness": 0.149, "acousticness": 0.00308, "instrumentalness": 0.000492, "liveness": 0.212, "valence": 0.548, "tempo": 199.972, "type": "audio_features", "id": "3WtIXrla0ovC9MOIY78Vr8", "uri": "spotify:track:3WtIXrla0ovC9MOIY78Vr8", "track_href": "https://api.spotify.com/v1/tracks/3WtIXrla0ovC9MOIY78Vr8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3WtIXrla0ovC9MOIY78Vr8", "duration_ms": 227732, "time_signature": 4}
+黒い羊 (Keyakizaka46)
+{"danceability": 0.506, "energy": 0.943, "key": 1, "loudness": -2.869, "mode": 0, "speechiness": 0.0855, "acousticness": 0.559, "instrumentalness": 0, "liveness": 0.565, "valence": 0.399, "tempo": 102.96, "type": "audio_features", "id": "2k8cvzkBwoQd8vVxZ7uuRg", "uri": "spotify:track:2k8cvzkBwoQd8vVxZ7uuRg", "track_href": "https://api.spotify.com/v1/tracks/2k8cvzkBwoQd8vVxZ7uuRg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2k8cvzkBwoQd8vVxZ7uuRg", "duration_ms": 307600, "time_signature": 4}
+Shape of You (Ed Sheeran)
+{"danceability": 0.825, "energy": 0.652, "key": 1, "loudness": -3.183, "mode": 0, "speechiness": 0.0802, "acousticness": 0.581, "instrumentalness": 0, "liveness": 0.0931, "valence": 0.931, "tempo": 95.977, "type": "audio_features", "id": "7qiZfU4dY1lWllzX7mPBI3", "uri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3", "track_href": "https://api.spotify.com/v1/tracks/7qiZfU4dY1lWllzX7mPBI3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7qiZfU4dY1lWllzX7mPBI3", "duration_ms": 233713, "time_signature": 4}
+藍二乗 (ヨルシカ)
+{"danceability": 0.589, "energy": 0.89, "key": 6, "loudness": -4.328, "mode": 1, "speechiness": 0.0644, "acousticness": 0.0946, "instrumentalness": 7.56e-05, "liveness": 0.199, "valence": 0.488, "tempo": 105.066, "type": "audio_features", "id": "6BV77pE4JyUQUtaqnXeKa5", "uri": "spotify:track:6BV77pE4JyUQUtaqnXeKa5", "track_href": "https://api.spotify.com/v1/tracks/6BV77pE4JyUQUtaqnXeKa5", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6BV77pE4JyUQUtaqnXeKa5", "duration_ms": 245904, "time_signature": 4}
+name: 好きだ。(Little Glee Monster)    https://open.spotify.com/track/5axy6KzoG6RMSFkwgEnGvd
+name: ここにはないもの(Nogizaka46)    https://open.spotify.com/track/1lZyM0j1iFa4vB9xSkpjur
+name: うれしい!たのしい!大好き!(DREAMS COME TRUE)    https://open.spotify.com/track/3nv98wBl1k2IcyIINyLMFx
+name: のらりつらり(domico)    https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV
+name: 神っぽいな(PinocchioP)    https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu
+name: ナイモノネダリ(Da-iCE)    https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: どろん(King Gnu)    https://open.spotify.com/track/5KQUugWVoDTgHXSN7UU5Qb
+name: 五月雨よ(櫻坂46)    https://open.spotify.com/track/60JARyaZiozH00NeLWhcgt
+name: a.m.3:21(yama)    https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9
+------------------<score>-----------------------
+ここにはないもの  https://open.spotify.com/track/1lZyM0j1iFa4vB9xSkpjur
+score: 1

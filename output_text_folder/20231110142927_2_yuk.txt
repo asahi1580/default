@@ -1,0 +1,25 @@
+2023年11月10日 14:29:36
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/6voz4rUMJWkwpKnjPNYV4z
+Friends (BTS)
+{"danceability": 0.55, "energy": 0.747, "key": 1, "loudness": -5.211, "mode": 1, "speechiness": 0.0407, "acousticness": 0.0668, "instrumentalness": 0, "liveness": 0.0536, "valence": 0.649, "tempo": 79.979, "type": "audio_features", "id": "5RjUtRlDonw3TBgGGMLC5b", "uri": "spotify:track:5RjUtRlDonw3TBgGGMLC5b", "track_href": "https://api.spotify.com/v1/tracks/5RjUtRlDonw3TBgGGMLC5b", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5RjUtRlDonw3TBgGGMLC5b", "duration_ms": 199339, "time_signature": 4}
+うブ (Mrs. GREEN APPLE)
+{"danceability": 0.457, "energy": 0.893, "key": 6, "loudness": -1.926, "mode": 1, "speechiness": 0.0567, "acousticness": 5.01e-05, "instrumentalness": 0.000195, "liveness": 0.336, "valence": 0.614, "tempo": 155.062, "type": "audio_features", "id": "2ZkVZXxtvykazsebpgTUtG", "uri": "spotify:track:2ZkVZXxtvykazsebpgTUtG", "track_href": "https://api.spotify.com/v1/tracks/2ZkVZXxtvykazsebpgTUtG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ZkVZXxtvykazsebpgTUtG", "duration_ms": 255893, "time_signature": 4}
+LO$ER=LO♡ER (TOMORROW X TOGETHER)
+{"danceability": 0.644, "energy": 0.867, "key": 11, "loudness": -4.18, "mode": 0, "speechiness": 0.0383, "acousticness": 0.001, "instrumentalness": 0, "liveness": 0.105, "valence": 0.687, "tempo": 124.997, "type": "audio_features", "id": "21aOLk12MksET8AsbU0SI6", "uri": "spotify:track:21aOLk12MksET8AsbU0SI6", "track_href": "https://api.spotify.com/v1/tracks/21aOLk12MksET8AsbU0SI6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/21aOLk12MksET8AsbU0SI6", "duration_ms": 199919, "time_signature": 4}
+Magic (TOMORROW X TOGETHER)
+{"danceability": 0.654, "energy": 0.88, "key": 8, "loudness": -4.819, "mode": 1, "speechiness": 0.413, "acousticness": 0.00303, "instrumentalness": 0, "liveness": 0.32, "valence": 0.51, "tempo": 108.236, "type": "audio_features", "id": "4Wh5WGtov1VJ6EJ8OQgNeS", "uri": "spotify:track:4Wh5WGtov1VJ6EJ8OQgNeS", "track_href": "https://api.spotify.com/v1/tracks/4Wh5WGtov1VJ6EJ8OQgNeS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Wh5WGtov1VJ6EJ8OQgNeS", "duration_ms": 159750, "time_signature": 4}
+Lights (BTS)
+{"danceability": 0.608, "energy": 0.644, "key": 5, "loudness": -5.588, "mode": 1, "speechiness": 0.0314, "acousticness": 0.156, "instrumentalness": 0, "liveness": 0.124, "valence": 0.431, "tempo": 99.005, "type": "audio_features", "id": "3TDUktzfYXMWjkWqwoT5F1", "uri": "spotify:track:3TDUktzfYXMWjkWqwoT5F1", "track_href": "https://api.spotify.com/v1/tracks/3TDUktzfYXMWjkWqwoT5F1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3TDUktzfYXMWjkWqwoT5F1", "duration_ms": 292853, "time_signature": 4}
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: Don't Leave Yet(Eric Nam)    https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD
+name: ワンドリンク別(Macaroni Empitsu)    https://open.spotify.com/track/5tapE1gGyABsGFtgeOYchU
+name: 藍二乗(ヨルシカ)    https://open.spotify.com/track/6BV77pE4JyUQUtaqnXeKa5
+name: MANINGEN(ATARASHII GAKKO!)    https://open.spotify.com/track/1nXJ9tQgg3f3NzxHiQLooI
+name: MANINGEN(ATARASHII GAKKO!)    https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/3719B6zxJvxpfrnC5rvItf
+name: カワキヲアメク(美波)    https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB
+name: フェイキング・オブ・コメディ(jon-YAKITORY)    https://open.spotify.com/track/2MMujROFNbp9slc9xR8XR4
+name: Groovin' in the Sunshine (feat. BASI & 向井太一)(DJ HASEBE)    https://open.spotify.com/track/1u6aS40Y5SBt7N5cKJChf9
+------------------<score>-----------------------
+score: 0

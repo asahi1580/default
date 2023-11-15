@@ -1,0 +1,26 @@
+2023年11月10日 11:32:05
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+花に亡霊 (ヨルシカ)
+{"danceability": 0.661, "energy": 0.446, "key": 4, "loudness": -6.808, "mode": 1, "speechiness": 0.046, "acousticness": 0.696, "instrumentalness": 0, "liveness": 0.0761, "valence": 0.46, "tempo": 89.961, "type": "audio_features", "id": "53maoOKr6j04iqk6qjdvQN", "uri": "spotify:track:53maoOKr6j04iqk6qjdvQN", "track_href": "https://api.spotify.com/v1/tracks/53maoOKr6j04iqk6qjdvQN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/53maoOKr6j04iqk6qjdvQN", "duration_ms": 240120, "time_signature": 4}
+イエスタデイ (OFFICIAL HIGE DANDISM)
+{"danceability": 0.541, "energy": 0.8, "key": 6, "loudness": -3.687, "mode": 1, "speechiness": 0.0382, "acousticness": 0.0442, "instrumentalness": 0, "liveness": 0.398, "valence": 0.56, "tempo": 129.939, "type": "audio_features", "id": "53WuztMfY1VH3rLIm0zApQ", "uri": "spotify:track:53WuztMfY1VH3rLIm0zApQ", "track_href": "https://api.spotify.com/v1/tracks/53WuztMfY1VH3rLIm0zApQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/53WuztMfY1VH3rLIm0zApQ", "duration_ms": 299164, "time_signature": 4}
+ロマンチシズム (Mrs. GREEN APPLE)
+{"danceability": 0.606, "energy": 0.881, "key": 10, "loudness": -3.141, "mode": 1, "speechiness": 0.0647, "acousticness": 0.00505, "instrumentalness": 0, "liveness": 0.0412, "valence": 0.886, "tempo": 125.479, "type": "audio_features", "id": "7BwkDMUfGl0yttRXS13SAO", "uri": "spotify:track:7BwkDMUfGl0yttRXS13SAO", "track_href": "https://api.spotify.com/v1/tracks/7BwkDMUfGl0yttRXS13SAO", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BwkDMUfGl0yttRXS13SAO", "duration_ms": 213747, "time_signature": 4}
+大正浪漫 (YOASOBI)
+{"danceability": 0.657, "energy": 0.926, "key": 1, "loudness": -2.938, "mode": 0, "speechiness": 0.042, "acousticness": 0.122, "instrumentalness": 0, "liveness": 0.263, "valence": 0.881, "tempo": 129.999, "type": "audio_features", "id": "3uw93CiI34uZlfk8ywep1e", "uri": "spotify:track:3uw93CiI34uZlfk8ywep1e", "track_href": "https://api.spotify.com/v1/tracks/3uw93CiI34uZlfk8ywep1e", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uw93CiI34uZlfk8ywep1e", "duration_ms": 168462, "time_signature": 4}
+Laughter (OFFICIAL HIGE DANDISM)
+{"danceability": 0.396, "energy": 0.801, "key": 4, "loudness": -4.673, "mode": 1, "speechiness": 0.035, "acousticness": 0.023, "instrumentalness": 0, "liveness": 0.138, "valence": 0.366, "tempo": 159.769, "type": "audio_features", "id": "1SdwlHsv8bWHbAlIw5Jfgo", "uri": "spotify:track:1SdwlHsv8bWHbAlIw5Jfgo", "track_href": "https://api.spotify.com/v1/tracks/1SdwlHsv8bWHbAlIw5Jfgo", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SdwlHsv8bWHbAlIw5Jfgo", "duration_ms": 350300, "time_signature": 4}
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: PRIDE(チョーキューメイ)    https://open.spotify.com/track/6YSiCQPEEEimysown5ad19
+name: 虹(Saucy Dog)    https://open.spotify.com/track/49KOXnzn11WDaQNoqnnHUJ
+name: ロマンスの神様(Kohmi Hirose)    https://open.spotify.com/track/0xYSgQHddr1lh6IfqWgn2W
+name: 悲しみは雪のように(single / 1992)(Shogo Hamada)    https://open.spotify.com/track/7w9bqnOWrtWJixSR2gHqQl
+name: 月曜日の憂鬱(Amatsuki)    https://open.spotify.com/track/0fsPqL15FO6l5zuf7h19LX
+name: あなたの好きなところ(Kana Nishino)    https://open.spotify.com/track/5k24cAgfb6WH5YxEYgU3fm
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+name: ばらの花 × ネイティブダンサー(yui (FLOWER FLOWER) × ミゾベリョウ (odol))    https://open.spotify.com/track/48TPAQGjRuGzARTHAaiWkD
+name: Hug(Mrs. GREEN APPLE)    https://open.spotify.com/track/3pROyCFF6WyVtmCnbwLPxr
+------------------<score>-----------------------
+ロマンスの神様  https://open.spotify.com/track/0xYSgQHddr1lh6IfqWgn2W
+score: 1

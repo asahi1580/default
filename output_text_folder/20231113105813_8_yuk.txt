@@ -1,0 +1,25 @@
+2023年11月13日 10:58:45
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/5wbUwYagqn4FW8uC5mpOlo
+おひとりさま天国 (Nogizaka46)
+{"danceability": 0.585, "energy": 0.918, "key": 3, "loudness": -3.019, "mode": 1, "speechiness": 0.0384, "acousticness": 0.014, "instrumentalness": 0, "liveness": 0.342, "valence": 0.746, "tempo": 125.03, "type": "audio_features", "id": "22e9NP0TRCFhOGsgBnl6Ua", "uri": "spotify:track:22e9NP0TRCFhOGsgBnl6Ua", "track_href": "https://api.spotify.com/v1/tracks/22e9NP0TRCFhOGsgBnl6Ua", "analysis_url": "https://api.spotify.com/v1/audio-analysis/22e9NP0TRCFhOGsgBnl6Ua", "duration_ms": 255187, "time_signature": 4}
+唱 (Ado)
+{"danceability": 0.616, "energy": 0.975, "key": 10, "loudness": -0.425, "mode": 0, "speechiness": 0.208, "acousticness": 0.172, "instrumentalness": 1.62e-06, "liveness": 0.143, "valence": 0.742, "tempo": 132.054, "type": "audio_features", "id": "2tlOVDJ3lQsUxz22vPJ4c4", "uri": "spotify:track:2tlOVDJ3lQsUxz22vPJ4c4", "track_href": "https://api.spotify.com/v1/tracks/2tlOVDJ3lQsUxz22vPJ4c4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tlOVDJ3lQsUxz22vPJ4c4", "duration_ms": 189773, "time_signature": 4}
+Come Again (8LOOM)
+{"danceability": 0.56, "energy": 0.743, "key": 3, "loudness": -5.668, "mode": 1, "speechiness": 0.0365, "acousticness": 0.0903, "instrumentalness": 0, "liveness": 0.0918, "valence": 0.374, "tempo": 179.984, "type": "audio_features", "id": "1eHYGHFXcU9famSIBWZL3l", "uri": "spotify:track:1eHYGHFXcU9famSIBWZL3l", "track_href": "https://api.spotify.com/v1/tracks/1eHYGHFXcU9famSIBWZL3l", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1eHYGHFXcU9famSIBWZL3l", "duration_ms": 225532, "time_signature": 4}
+プラネタリウム (マルシィ)
+{"danceability": 0.419, "energy": 0.933, "key": 2, "loudness": -3.253, "mode": 1, "speechiness": 0.1, "acousticness": 0.0101, "instrumentalness": 0, "liveness": 0.256, "valence": 0.575, "tempo": 163.071, "type": "audio_features", "id": "4kr2rTi1zw6xjnpvN8Yef0", "uri": "spotify:track:4kr2rTi1zw6xjnpvN8Yef0", "track_href": "https://api.spotify.com/v1/tracks/4kr2rTi1zw6xjnpvN8Yef0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4kr2rTi1zw6xjnpvN8Yef0", "duration_ms": 221773, "time_signature": 4}
+ゴミ人間、俺 (yangskinny)
+{"danceability": 0.467, "energy": 0.935, "key": 2, "loudness": -4.68, "mode": 1, "speechiness": 0.107, "acousticness": 0.0963, "instrumentalness": 1.09e-05, "liveness": 0.548, "valence": 0.354, "tempo": 142.033, "type": "audio_features", "id": "2VU59VkXEBNX4ZZf7SmGAy", "uri": "spotify:track:2VU59VkXEBNX4ZZf7SmGAy", "track_href": "https://api.spotify.com/v1/tracks/2VU59VkXEBNX4ZZf7SmGAy", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VU59VkXEBNX4ZZf7SmGAy", "duration_ms": 229173, "time_signature": 4}
+name: シャルル(balloon)    https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h
+name: CHAINSAW BLOOD(Vaundy)    https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+name: バケーションに沿って(Helsinki Lambda Club)    https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd
+name: これからのこと、それからのこと(Ryokuoushoku Shakai)    https://open.spotify.com/track/3ee3P6E34IetUo60gwR0hw
+name: ライラック(美波)    https://open.spotify.com/track/3WePQc3e2le4Vmh5W2idln
+name: ワタリドリ([Alexandros])    https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o
+name: Dandadan(HEY-SMITH)    https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf
+name: Wonder NeverLand(にじさんじ)    https://open.spotify.com/track/4wRhbx3U8Wq298tLYEr9wa
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: I'm a mess(MY FIRST STORY)    https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc
+------------------<score>-----------------------
+score: 0

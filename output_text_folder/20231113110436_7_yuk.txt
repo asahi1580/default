@@ -1,0 +1,26 @@
+2023年11月13日 11:05:03
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/6mGIqxsYG3Q3DGOx68SMIB
+零色 (Macaroni Empitsu)
+{"danceability": 0.597, "energy": 0.84, "key": 8, "loudness": -4.412, "mode": 1, "speechiness": 0.0418, "acousticness": 0.00245, "instrumentalness": 4.12e-06, "liveness": 0.0922, "valence": 0.276, "tempo": 137.964, "type": "audio_features", "id": "5QWhHVAaZiiFbSg4BfwFlo", "uri": "spotify:track:5QWhHVAaZiiFbSg4BfwFlo", "track_href": "https://api.spotify.com/v1/tracks/5QWhHVAaZiiFbSg4BfwFlo", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5QWhHVAaZiiFbSg4BfwFlo", "duration_ms": 230605, "time_signature": 4}
+眠る音 (ソノサキトマリ)
+{"danceability": 0.634, "energy": 0.337, "key": 6, "loudness": -7.772, "mode": 1, "speechiness": 0.0302, "acousticness": 0.123, "instrumentalness": 0, "liveness": 0.0995, "valence": 0.664, "tempo": 144.065, "type": "audio_features", "id": "1k1iKN3dRXCfGVlTH8GsPr", "uri": "spotify:track:1k1iKN3dRXCfGVlTH8GsPr", "track_href": "https://api.spotify.com/v1/tracks/1k1iKN3dRXCfGVlTH8GsPr", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1k1iKN3dRXCfGVlTH8GsPr", "duration_ms": 262107, "time_signature": 4}
+置き手紙 (Vaundy)
+{"danceability": 0.663, "energy": 0.614, "key": 4, "loudness": -5.571, "mode": 1, "speechiness": 0.0419, "acousticness": 0.00769, "instrumentalness": 0, "liveness": 0.314, "valence": 0.534, "tempo": 140.014, "type": "audio_features", "id": "30qO2rZlw1ZTLWOpCGuuGI", "uri": "spotify:track:30qO2rZlw1ZTLWOpCGuuGI", "track_href": "https://api.spotify.com/v1/tracks/30qO2rZlw1ZTLWOpCGuuGI", "analysis_url": "https://api.spotify.com/v1/audio-analysis/30qO2rZlw1ZTLWOpCGuuGI", "duration_ms": 239073, "time_signature": 4}
+幽霊失格 (Creep Hyp)
+{"danceability": 0.557, "energy": 0.674, "key": 3, "loudness": -4.452, "mode": 1, "speechiness": 0.0265, "acousticness": 0.0544, "instrumentalness": 0, "liveness": 0.103, "valence": 0.579, "tempo": 91.988, "type": "audio_features", "id": "63je1VKP8x0RjyDHAgG7Vj", "uri": "spotify:track:63je1VKP8x0RjyDHAgG7Vj", "track_href": "https://api.spotify.com/v1/tracks/63je1VKP8x0RjyDHAgG7Vj", "analysis_url": "https://api.spotify.com/v1/audio-analysis/63je1VKP8x0RjyDHAgG7Vj", "duration_ms": 251125, "time_signature": 4}
+君が海 (My Hair is Bad)
+{"danceability": 0.508, "energy": 0.952, "key": 1, "loudness": -2.275, "mode": 1, "speechiness": 0.0529, "acousticness": 0.00579, "instrumentalness": 0, "liveness": 0.315, "valence": 0.539, "tempo": 95.641, "type": "audio_features", "id": "6mdPlbbm1380gFJoXE9dgk", "uri": "spotify:track:6mdPlbbm1380gFJoXE9dgk", "track_href": "https://api.spotify.com/v1/tracks/6mdPlbbm1380gFJoXE9dgk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6mdPlbbm1380gFJoXE9dgk", "duration_ms": 235440, "time_signature": 4}
+name: Vanilla(Kyanai)    https://open.spotify.com/track/1SEGeAHw0quw32HHm4qJsj
+name: 道の途中(グソクムズ)    https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu
+name: My Universe(Coldplay)    https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM
+name: 観覧車(My Hair is Bad)    https://open.spotify.com/track/2fy97tZ7heQTsLfHZVpHJG
+name: 正しくなれない(ZUTOMAYO)    https://open.spotify.com/track/2FHexlZenTsS3lsjUYHiDx
+name: バニラ(Kyanai)    https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb
+name: Vanilla(Kyanai)    https://open.spotify.com/track/7luM6QZ54WNPm3bZ6fzBkE
+name: 青いベンチ - Cover Ver.(Woman Cover Project)    https://open.spotify.com/track/1gaZq4SyQDPzowG6NDRNSA
+name: 最低(れん)    https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt
+name: 勇気100% (第1期 OP)(菅野穣)    https://open.spotify.com/track/0ewtF8O6LaGnSxjQDD2SeE
+------------------<score>-----------------------
+観覧車  https://open.spotify.com/track/2fy97tZ7heQTsLfHZVpHJG
+score: 1

@@ -1,0 +1,25 @@
+2023年09月29日 14:10:48
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+決戦スピリット (CHiCO)
+{"danceability": 0.579, "energy": 0.952, "key": 5, "loudness": -2.678, "mode": 0, "speechiness": 0.054, "acousticness": 0.00459, "instrumentalness": 0, "liveness": 0.113, "valence": 0.352, "tempo": 94.026, "type": "audio_features", "id": "1HHOkD7fuNCBnImFrlDRVi", "uri": "spotify:track:1HHOkD7fuNCBnImFrlDRVi", "track_href": "https://api.spotify.com/v1/tracks/1HHOkD7fuNCBnImFrlDRVi", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1HHOkD7fuNCBnImFrlDRVi", "duration_ms": 270307, "time_signature": 4}
+決戦スピリット (CHiCO)
+{"danceability": 0.579, "energy": 0.952, "key": 5, "loudness": -2.678, "mode": 0, "speechiness": 0.054, "acousticness": 0.00459, "instrumentalness": 0, "liveness": 0.113, "valence": 0.352, "tempo": 94.026, "type": "audio_features", "id": "1HHOkD7fuNCBnImFrlDRVi", "uri": "spotify:track:1HHOkD7fuNCBnImFrlDRVi", "track_href": "https://api.spotify.com/v1/tracks/1HHOkD7fuNCBnImFrlDRVi", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1HHOkD7fuNCBnImFrlDRVi", "duration_ms": 270307, "time_signature": 4}
+Sign (内田彩)
+{"danceability": 0.633, "energy": 0.854, "key": 1, "loudness": -3.506, "mode": 1, "speechiness": 0.044, "acousticness": 0.0275, "instrumentalness": 0, "liveness": 0.337, "valence": 0.81, "tempo": 101.972, "type": "audio_features", "id": "3pUeCDzHNM0yHN0FoPEadN", "uri": "spotify:track:3pUeCDzHNM0yHN0FoPEadN", "track_href": "https://api.spotify.com/v1/tracks/3pUeCDzHNM0yHN0FoPEadN", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3pUeCDzHNM0yHN0FoPEadN", "duration_ms": 233960, "time_signature": 4}
+かくれんぼ (AliA)
+{"danceability": 0.403, "energy": 0.946, "key": 2, "loudness": -3.008, "mode": 1, "speechiness": 0.0699, "acousticness": 0.00255, "instrumentalness": 0.00148, "liveness": 0.124, "valence": 0.548, "tempo": 180.144, "type": "audio_features", "id": "5wo2JjhTXS5fWV5myzuv1O", "uri": "spotify:track:5wo2JjhTXS5fWV5myzuv1O", "track_href": "https://api.spotify.com/v1/tracks/5wo2JjhTXS5fWV5myzuv1O", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5wo2JjhTXS5fWV5myzuv1O", "duration_ms": 297253, "time_signature": 4}
+PHOENIX (BURNOUT SYNDROMES)
+{"danceability": 0.493, "energy": 0.947, "key": 0, "loudness": -0.717, "mode": 1, "speechiness": 0.0699, "acousticness": 0.111, "instrumentalness": 0, "liveness": 0.345, "valence": 0.656, "tempo": 137.12, "type": "audio_features", "id": "2c6LZVF5Q0rKAGmWOB0yM3", "uri": "spotify:track:2c6LZVF5Q0rKAGmWOB0yM3", "track_href": "https://api.spotify.com/v1/tracks/2c6LZVF5Q0rKAGmWOB0yM3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2c6LZVF5Q0rKAGmWOB0yM3", "duration_ms": 246813, "time_signature": 4}
+name: 憂う門には福来たる(somei)    https://open.spotify.com/track/3hjIbf3QrnS9kMV89RwIAK
+name: 恋愛ミリフィルム(halca)    https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L
+name: ラヴ・クラウド(Perfume)    https://open.spotify.com/track/066FlsZYTfxPIgLlFoAsNI
+name: ライラック(美波)    https://open.spotify.com/track/3WePQc3e2le4Vmh5W2idln
+name: カワキヲアメク(美波)    https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB
+name: MANINGEN(ATARASHII GAKKO!)    https://open.spotify.com/track/1nXJ9tQgg3f3NzxHiQLooI
+name: MANINGEN(ATARASHII GAKKO!)    https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6
+name: BLUE SUMMERTIME BLUES(ZOOKARADERU)    https://open.spotify.com/track/3q7ZMjN5YmRlpXFEMWtXeA
+name: Happy Birthday(EXILE TAKAHIRO)    https://open.spotify.com/track/4ckO7g4ekD7hmfhKzs0nMm
+name: 少年セゾン(the dresscodes)    https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY
+------------------<score>-----------------------
+score: 0

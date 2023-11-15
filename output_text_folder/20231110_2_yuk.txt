@@ -1,0 +1,26 @@
+2023年11月10日 11:31:40
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+p.h. (SEVENTHLINKS)
+{"danceability": 0.795, "energy": 0.74, "key": 11, "loudness": -9.751, "mode": 0, "speechiness": 0.0848, "acousticness": 0.0563, "instrumentalness": 0.0133, "liveness": 0.0638, "valence": 0.963, "tempo": 132.005, "type": "audio_features", "id": "3WxlfdEj9jL5PQiyFfQvcM", "uri": "spotify:track:3WxlfdEj9jL5PQiyFfQvcM", "track_href": "https://api.spotify.com/v1/tracks/3WxlfdEj9jL5PQiyFfQvcM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3WxlfdEj9jL5PQiyFfQvcM", "duration_ms": 155430, "time_signature": 4}
+あいつら全員同窓会 (ZUTOMAYO)
+{"danceability": 0.724, "energy": 0.913, "key": 2, "loudness": -2.836, "mode": 0, "speechiness": 0.118, "acousticness": 0.453, "instrumentalness": 0, "liveness": 0.052, "valence": 0.913, "tempo": 130.968, "type": "audio_features", "id": "2VIK6jaaKghS4QPHr6sAkv", "uri": "spotify:track:2VIK6jaaKghS4QPHr6sAkv", "track_href": "https://api.spotify.com/v1/tracks/2VIK6jaaKghS4QPHr6sAkv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VIK6jaaKghS4QPHr6sAkv", "duration_ms": 254507, "time_signature": 4}
+ナンセンス文学 (Eve)
+{"danceability": 0.525, "energy": 0.942, "key": 11, "loudness": -1.498, "mode": 0, "speechiness": 0.0509, "acousticness": 0.0111, "instrumentalness": 0, "liveness": 0.0727, "valence": 0.859, "tempo": 154.224, "type": "audio_features", "id": "6zvnmyKMWPhpJWxk2DSerR", "uri": "spotify:track:6zvnmyKMWPhpJWxk2DSerR", "track_href": "https://api.spotify.com/v1/tracks/6zvnmyKMWPhpJWxk2DSerR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zvnmyKMWPhpJWxk2DSerR", "duration_ms": 203760, "time_signature": 4}
+あいつら全員同窓会 (ZUTOMAYO)
+{"danceability": 0.724, "energy": 0.913, "key": 2, "loudness": -2.836, "mode": 0, "speechiness": 0.118, "acousticness": 0.453, "instrumentalness": 0, "liveness": 0.052, "valence": 0.913, "tempo": 130.968, "type": "audio_features", "id": "2VIK6jaaKghS4QPHr6sAkv", "uri": "spotify:track:2VIK6jaaKghS4QPHr6sAkv", "track_href": "https://api.spotify.com/v1/tracks/2VIK6jaaKghS4QPHr6sAkv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VIK6jaaKghS4QPHr6sAkv", "duration_ms": 254507, "time_signature": 4}
+三原色 (YOASOBI)
+{"danceability": 0.443, "energy": 0.893, "key": 5, "loudness": -3.496, "mode": 0, "speechiness": 0.154, "acousticness": 0.128, "instrumentalness": 0, "liveness": 0.328, "valence": 0.826, "tempo": 127.999, "type": "audio_features", "id": "3FUCuf498nFHJXFYR1V9Bd", "uri": "spotify:track:3FUCuf498nFHJXFYR1V9Bd", "track_href": "https://api.spotify.com/v1/tracks/3FUCuf498nFHJXFYR1V9Bd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FUCuf498nFHJXFYR1V9Bd", "duration_ms": 224067, "time_signature": 4}
+name: Who am I(Creepy Nuts)    https://open.spotify.com/track/5IAPL3ynDBOBMl3bY7szcH
+name: 新・合法的トビ方ノススメ(Creepy Nuts)    https://open.spotify.com/track/0EzeFzwg9tlqJ20rSYe8x8
+name: 勘冴えて悔しいわ(ZUTOMAYO)    https://open.spotify.com/track/2pfu1oCILxjP2ijdX6PDuJ
+name: 勘冴えて悔しいわ(ZUTOMAYO)    https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp
+name: OKACHIMACHI FRIDAY NIGHT(First Love is Never Returned)    https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH
+name: After LIKE(IVE)    https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG
+name: Ninna Nanna (feat. Miho Nakayama)(Night Tempo)    https://open.spotify.com/track/6xBKx82lrogb8TDCjghTq0
+name: JET(POLKADOT STINGRAY)    https://open.spotify.com/track/3iqOLTGhIJOxV1P0W6Exmr
+name: ハウる(Kuhakugokko)    https://open.spotify.com/track/0ktSBnY47stzU4TDcPuR9k
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+------------------<score>-----------------------
+勘冴えて悔しいわ  https://open.spotify.com/track/2pfu1oCILxjP2ijdX6PDuJ
+score: 1

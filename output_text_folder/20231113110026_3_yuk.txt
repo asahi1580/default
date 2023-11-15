@@ -1,0 +1,25 @@
+2023年11月13日 11:00:38
+yuk_score.py
+お気に入り  https://open.spotify.com/playlist/6z1Fbn53QQUgu1YuBgM72y
+勘冴えて悔しいわ (ZUTOMAYO)
+{"danceability": 0.632, "energy": 0.924, "key": 5, "loudness": -1.829, "mode": 1, "speechiness": 0.129, "acousticness": 0.212, "instrumentalness": 3.04e-06, "liveness": 0.0901, "valence": 0.762, "tempo": 149.84, "type": "audio_features", "id": "7zbfS30vKiHU8oBs6Wi1Qp", "uri": "spotify:track:7zbfS30vKiHU8oBs6Wi1Qp", "track_href": "https://api.spotify.com/v1/tracks/7zbfS30vKiHU8oBs6Wi1Qp", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7zbfS30vKiHU8oBs6Wi1Qp", "duration_ms": 236960, "time_signature": 4}
+でもね、たまには (imase)
+{"danceability": 0.958, "energy": 0.45, "key": 0, "loudness": -6.008, "mode": 1, "speechiness": 0.0904, "acousticness": 0.675, "instrumentalness": 1.63e-06, "liveness": 0.0724, "valence": 0.952, "tempo": 104.999, "type": "audio_features", "id": "3gdwIOUmXi1g7LD0d3mgh0", "uri": "spotify:track:3gdwIOUmXi1g7LD0d3mgh0", "track_href": "https://api.spotify.com/v1/tracks/3gdwIOUmXi1g7LD0d3mgh0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3gdwIOUmXi1g7LD0d3mgh0", "duration_ms": 185889, "time_signature": 4}
+Good Bye (Rin音)
+{"danceability": 0.744, "energy": 0.794, "key": 2, "loudness": -6.098, "mode": 1, "speechiness": 0.0361, "acousticness": 0.249, "instrumentalness": 0, "liveness": 0.129, "valence": 0.837, "tempo": 125.982, "type": "audio_features", "id": "1rpiNePakpelGxsKFzNVBP", "uri": "spotify:track:1rpiNePakpelGxsKFzNVBP", "track_href": "https://api.spotify.com/v1/tracks/1rpiNePakpelGxsKFzNVBP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1rpiNePakpelGxsKFzNVBP", "duration_ms": 250933, "time_signature": 4}
+流れ (Yusuke)
+{"danceability": 0.616, "energy": 0.639, "key": 7, "loudness": -4.828, "mode": 1, "speechiness": 0.025, "acousticness": 0.38, "instrumentalness": 0, "liveness": 0.383, "valence": 0.409, "tempo": 75.994, "type": "audio_features", "id": "3Zv5Ztwk2v70k5Nbeqmrwk", "uri": "spotify:track:3Zv5Ztwk2v70k5Nbeqmrwk", "track_href": "https://api.spotify.com/v1/tracks/3Zv5Ztwk2v70k5Nbeqmrwk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Zv5Ztwk2v70k5Nbeqmrwk", "duration_ms": 246440, "time_signature": 4}
+Subtitle (OFFICIAL HIGE DANDISM)
+{"danceability": 0.649, "energy": 0.683, "key": 6, "loudness": -6.49, "mode": 1, "speechiness": 0.0424, "acousticness": 0.0313, "instrumentalness": 0, "liveness": 0.118, "valence": 0.381, "tempo": 130.0, "type": "audio_features", "id": "49F3htNmwzPKFycPdOrDvf", "uri": "spotify:track:49F3htNmwzPKFycPdOrDvf", "track_href": "https://api.spotify.com/v1/tracks/49F3htNmwzPKFycPdOrDvf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/49F3htNmwzPKFycPdOrDvf", "duration_ms": 305509, "time_signature": 4}
+name: KISS(CRCK/LCKS)    https://open.spotify.com/track/75IO4ggOdcFC9xcEeiz9LV
+name: 数センチメンタル(こはならむ)    https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf
+name: あぁ、もう。(Saucy Dog)    https://open.spotify.com/track/7G4rZHIBiXJNFmLYXtWCPm
+name: 素晴らしき人生(HIRAIDAI)    https://open.spotify.com/track/50z6LbNQHju3qdrBMaSji8
+name: あぁ、もう。(Saucy Dog)    https://open.spotify.com/track/0DPNaz9xQ0AKUsCOvfakqy
+name: Too Bad Day But... - Remix(Kvi Baba)    https://open.spotify.com/track/5DiEDM4NkVg05iIlSFyXrM
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: 幽霊船((sic)boy)    https://open.spotify.com/track/4O1RQ3hmsGrQ4zM00EO0VY
+name: Fly-day Chinatown(泰葉)    https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn
+name: Stay(Zedd)    https://open.spotify.com/track/0I20rLT2MJDhcF96AjbNYo
+------------------<score>-----------------------
+score: 0

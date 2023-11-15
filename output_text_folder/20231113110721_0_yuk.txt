@@ -1,0 +1,25 @@
+2023年11月13日 11:07:22
+yuk_score.py
+お気に入り20220921  https://open.spotify.com/playlist/7Beiqu1Ua5nmCrLm4fx7oc
+遠く遠く (Noriyuki Makihara)
+{"danceability": 0.652, "energy": 0.767, "key": 1, "loudness": -8.58, "mode": 1, "speechiness": 0.0267, "acousticness": 0.183, "instrumentalness": 0, "liveness": 0.0575, "valence": 0.683, "tempo": 90.037, "type": "audio_features", "id": "6jljTubNfEw3OWdhItKGDG", "uri": "spotify:track:6jljTubNfEw3OWdhItKGDG", "track_href": "https://api.spotify.com/v1/tracks/6jljTubNfEw3OWdhItKGDG", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6jljTubNfEw3OWdhItKGDG", "duration_ms": 275307, "time_signature": 4}
+Burning Emotion #5 (ドリフトスピリッツ)
+{"danceability": 0.533, "energy": 0.901, "key": 10, "loudness": -4.153, "mode": 0, "speechiness": 0.051, "acousticness": 0.000184, "instrumentalness": 0.968, "liveness": 0.33, "valence": 0.734, "tempo": 127.907, "type": "audio_features", "id": "6lS6KlKkHI85GSnGRil05Z", "uri": "spotify:track:6lS6KlKkHI85GSnGRil05Z", "track_href": "https://api.spotify.com/v1/tracks/6lS6KlKkHI85GSnGRil05Z", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lS6KlKkHI85GSnGRil05Z", "duration_ms": 69615, "time_signature": 4}
+More Than A Woman (Bee Gees)
+{"danceability": 0.601, "energy": 0.703, "key": 7, "loudness": -6.24, "mode": 1, "speechiness": 0.0379, "acousticness": 0.175, "instrumentalness": 8.4e-05, "liveness": 0.571, "valence": 0.673, "tempo": 106.164, "type": "audio_features", "id": "2cX2coZS1PYBfPs8wgbdWE", "uri": "spotify:track:2cX2coZS1PYBfPs8wgbdWE", "track_href": "https://api.spotify.com/v1/tracks/2cX2coZS1PYBfPs8wgbdWE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2cX2coZS1PYBfPs8wgbdWE", "duration_ms": 196213, "time_signature": 4}
+Can't Give You Anything (But My Love) (The Stylistics)
+{"danceability": 0.515, "energy": 0.832, "key": 7, "loudness": -6.183, "mode": 0, "speechiness": 0.0569, "acousticness": 0.129, "instrumentalness": 9.71e-05, "liveness": 0.433, "valence": 0.657, "tempo": 112.45, "type": "audio_features", "id": "0VIItQF40bAL6cEJSQmpvx", "uri": "spotify:track:0VIItQF40bAL6cEJSQmpvx", "track_href": "https://api.spotify.com/v1/tracks/0VIItQF40bAL6cEJSQmpvx", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0VIItQF40bAL6cEJSQmpvx", "duration_ms": 196784, "time_signature": 4}
+Another Sky (Taro Hakase)
+{"danceability": 0.56, "energy": 0.81, "key": 0, "loudness": -7.667, "mode": 1, "speechiness": 0.0299, "acousticness": 0.433, "instrumentalness": 0.463, "liveness": 0.099, "valence": 0.48, "tempo": 105.992, "type": "audio_features", "id": "0kOXxc1wnFctxutEjwHwmY", "uri": "spotify:track:0kOXxc1wnFctxutEjwHwmY", "track_href": "https://api.spotify.com/v1/tracks/0kOXxc1wnFctxutEjwHwmY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0kOXxc1wnFctxutEjwHwmY", "duration_ms": 333653, "time_signature": 4}
+name: Hug(Mrs. GREEN APPLE)    https://open.spotify.com/track/3pROyCFF6WyVtmCnbwLPxr
+name: 100万回の「I love you」(Rake)    https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF
+name: CHE.R.RY(YUI)    https://open.spotify.com/track/0fgn8Lp7NIdlPWKQW2Wm2v
+name: 空の青さを知る人よ(Aimyon)    https://open.spotify.com/track/3u0e8pyoVc7l2u3T5thohY
+name: 雨とカプチーノ(ヨルシカ)    https://open.spotify.com/track/7rX3Gw6nyUuMjiZqe5jyr5
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: バーカ!(UNFAIR RULE)    https://open.spotify.com/track/6JFOoi6YmB31AXVvs5EVJy
+name: W / X / Y(Tani Yuuki)    https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP
+name: W / X / Y(Tani Yuuki)    https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49
+name: さっきはごめんね、ありがとう(Creep Hyp)    https://open.spotify.com/track/7CvLWQ30ggnHucKGA7KZN6
+------------------<score>-----------------------
+score: 0

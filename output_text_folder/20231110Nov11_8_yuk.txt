@@ -1,0 +1,25 @@
+2023年11月10日 11:40:16
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+ラブレター (YOASOBI)
+{"danceability": 0.662, "energy": 0.86, "key": 7, "loudness": -3.534, "mode": 1, "speechiness": 0.0286, "acousticness": 0.447, "instrumentalness": 0, "liveness": 0.339, "valence": 0.69, "tempo": 100.016, "type": "audio_features", "id": "185Wm4Mx09dQG0fUktklDm", "uri": "spotify:track:185Wm4Mx09dQG0fUktklDm", "track_href": "https://api.spotify.com/v1/tracks/185Wm4Mx09dQG0fUktklDm", "analysis_url": "https://api.spotify.com/v1/audio-analysis/185Wm4Mx09dQG0fUktklDm", "duration_ms": 212401, "time_signature": 4}
+感電 (Kenshi Yonezu)
+{"danceability": 0.633, "energy": 0.723, "key": 8, "loudness": -5.733, "mode": 0, "speechiness": 0.143, "acousticness": 0.107, "instrumentalness": 0, "liveness": 0.0818, "valence": 0.688, "tempo": 103.101, "type": "audio_features", "id": "6H0PLsSYMzDOqhLgyOlzIj", "uri": "spotify:track:6H0PLsSYMzDOqhLgyOlzIj", "track_href": "https://api.spotify.com/v1/tracks/6H0PLsSYMzDOqhLgyOlzIj", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6H0PLsSYMzDOqhLgyOlzIj", "duration_ms": 264533, "time_signature": 4}
+ノーダウト (OFFICIAL HIGE DANDISM)
+{"danceability": 0.574, "energy": 0.936, "key": 2, "loudness": -3.185, "mode": 1, "speechiness": 0.0701, "acousticness": 0.0585, "instrumentalness": 0, "liveness": 0.336, "valence": 0.792, "tempo": 149.954, "type": "audio_features", "id": "5DMEvbg3gUmiR5HIBWdveV", "uri": "spotify:track:5DMEvbg3gUmiR5HIBWdveV", "track_href": "https://api.spotify.com/v1/tracks/5DMEvbg3gUmiR5HIBWdveV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DMEvbg3gUmiR5HIBWdveV", "duration_ms": 202395, "time_signature": 4}
+ロマンスの神様 (Kohmi Hirose)
+{"danceability": 0.667, "energy": 0.802, "key": 1, "loudness": -6.495, "mode": 1, "speechiness": 0.0349, "acousticness": 0.149, "instrumentalness": 1.84e-06, "liveness": 0.163, "valence": 0.556, "tempo": 125.91, "type": "audio_features", "id": "0xYSgQHddr1lh6IfqWgn2W", "uri": "spotify:track:0xYSgQHddr1lh6IfqWgn2W", "track_href": "https://api.spotify.com/v1/tracks/0xYSgQHddr1lh6IfqWgn2W", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0xYSgQHddr1lh6IfqWgn2W", "duration_ms": 269284, "time_signature": 4}
+正解 - 18FES ver. (RADWIMPS)
+{"danceability": 0.465, "energy": 0.384, "key": 9, "loudness": -7.265, "mode": 1, "speechiness": 0.0269, "acousticness": 0.847, "instrumentalness": 0, "liveness": 0.196, "valence": 0.35, "tempo": 82.351, "type": "audio_features", "id": "5Frs0ai4Vz387B7nKi75JJ", "uri": "spotify:track:5Frs0ai4Vz387B7nKi75JJ", "track_href": "https://api.spotify.com/v1/tracks/5Frs0ai4Vz387B7nKi75JJ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Frs0ai4Vz387B7nKi75JJ", "duration_ms": 357427, "time_signature": 4}
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: キラキラ(Kazumasa Oda)    https://open.spotify.com/track/6CVOXT79mSNWlahndeRtpq
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/0tlp9m2rIsY4R6d9ZIuhfn
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO
+name: 思想犯(ヨルシカ)    https://open.spotify.com/track/6SNXEbIkap8lN8cuDdjXox
+name: Hug(Mrs. GREEN APPLE)    https://open.spotify.com/track/3pROyCFF6WyVtmCnbwLPxr
+name: きらきら(もさを。)    https://open.spotify.com/track/5eXXJJuejAUkggSgIINU1V
+name: うれしい!たのしい!大好き!(DREAMS COME TRUE)    https://open.spotify.com/track/3nv98wBl1k2IcyIINyLMFx
+name: 数センチメンタル(こはならむ)    https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf
+------------------<score>-----------------------
+score: 0

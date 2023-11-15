@@ -1,0 +1,25 @@
+2023年11月13日 11:03:16
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/1Xvftggu2LmTMJ8TiIKIHy
+Candy Kiss (Travis Japan)
+{"danceability": 0.718, "energy": 0.777, "key": 0, "loudness": -4.215, "mode": 1, "speechiness": 0.0388, "acousticness": 0.0387, "instrumentalness": 0, "liveness": 0.138, "valence": 0.6, "tempo": 122.079, "type": "audio_features", "id": "6xRRLIrxljDrTkPKrI97B1", "uri": "spotify:track:6xRRLIrxljDrTkPKrI97B1", "track_href": "https://api.spotify.com/v1/tracks/6xRRLIrxljDrTkPKrI97B1", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6xRRLIrxljDrTkPKrI97B1", "duration_ms": 199881, "time_signature": 4}
+All I Want for Christmas Is You (Mariah Carey)
+{"danceability": 0.336, "energy": 0.627, "key": 7, "loudness": -7.463, "mode": 1, "speechiness": 0.0384, "acousticness": 0.164, "instrumentalness": 0, "liveness": 0.0708, "valence": 0.35, "tempo": 150.273, "type": "audio_features", "id": "0bYg9bo50gSsH3LtXe2SQn", "uri": "spotify:track:0bYg9bo50gSsH3LtXe2SQn", "track_href": "https://api.spotify.com/v1/tracks/0bYg9bo50gSsH3LtXe2SQn", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0bYg9bo50gSsH3LtXe2SQn", "duration_ms": 241107, "time_signature": 4}
+花 (Fujii Kaze)
+{"danceability": 0.769, "energy": 0.716, "key": 5, "loudness": -8.203, "mode": 0, "speechiness": 0.0429, "acousticness": 0.118, "instrumentalness": 0.00659, "liveness": 0.158, "valence": 0.66, "tempo": 123.031, "type": "audio_features", "id": "5RIQU2JDuXC4NkLiHNNMon", "uri": "spotify:track:5RIQU2JDuXC4NkLiHNNMon", "track_href": "https://api.spotify.com/v1/tracks/5RIQU2JDuXC4NkLiHNNMon", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5RIQU2JDuXC4NkLiHNNMon", "duration_ms": 246700, "time_signature": 4}
+LEAP HIGH! 〜明日へ、めいっぱい〜 (PRODUCE 101 JAPAN THE GIRLS)
+{"danceability": 0.716, "energy": 0.943, "key": 2, "loudness": -2.617, "mode": 1, "speechiness": 0.0647, "acousticness": 0.00406, "instrumentalness": 0.0297, "liveness": 0.355, "valence": 0.629, "tempo": 120.039, "type": "audio_features", "id": "5M1sJDGYb2r1hT7TL0r59i", "uri": "spotify:track:5M1sJDGYb2r1hT7TL0r59i", "track_href": "https://api.spotify.com/v1/tracks/5M1sJDGYb2r1hT7TL0r59i", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5M1sJDGYb2r1hT7TL0r59i", "duration_ms": 207707, "time_signature": 4}
+一番会いたい人 (miwa)
+{"danceability": 0.643, "energy": 0.746, "key": 1, "loudness": -5.141, "mode": 1, "speechiness": 0.0293, "acousticness": 0.0851, "instrumentalness": 0, "liveness": 0.332, "valence": 0.707, "tempo": 125.951, "type": "audio_features", "id": "5Uk74xpE1KXeGKsKLPpEZ9", "uri": "spotify:track:5Uk74xpE1KXeGKsKLPpEZ9", "track_href": "https://api.spotify.com/v1/tracks/5Uk74xpE1KXeGKsKLPpEZ9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Uk74xpE1KXeGKsKLPpEZ9", "duration_ms": 170653, "time_signature": 4}
+name: 長く短い祭(Sheena Ringo)    https://open.spotify.com/track/3719B6zxJvxpfrnC5rvItf
+name: CHEERS(Mrs. GREEN APPLE)    https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+name: LA・LA・LA LOVE SONG(ayaka)    https://open.spotify.com/track/1UzG2NHHXIlNbS3sCWUA9u
+name: 虹(Saucy Dog)    https://open.spotify.com/track/49KOXnzn11WDaQNoqnnHUJ
+name: ロマンスの神様(Kohmi Hirose)    https://open.spotify.com/track/0xYSgQHddr1lh6IfqWgn2W
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: 道の途中(グソクムズ)    https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu
+name: 再戦~終わっちゃいねえぜ~(Show Aikawa)    https://open.spotify.com/track/3NXdblgbUV7BVPooK66a3A
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: 最低(れん)    https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt
+------------------<score>-----------------------
+score: 0

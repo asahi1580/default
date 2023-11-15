@@ -1,0 +1,35 @@
+2023年11月10日 14:36:24
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+無辜のあなた (いよわ)
+{"danceability": 0.475, "energy": 0.703, "key": 2, "loudness": -7.405, "mode": 1, "speechiness": 0.0386, "acousticness": 0.0272, "instrumentalness": 0, "liveness": 0.361, "valence": 0.457, "tempo": 105.575, "type": "audio_features", "id": "57WCUB5ODiVKmdCGAIUJla", "uri": "spotify:track:57WCUB5ODiVKmdCGAIUJla", "track_href": "https://api.spotify.com/v1/tracks/57WCUB5ODiVKmdCGAIUJla", "analysis_url": "https://api.spotify.com/v1/audio-analysis/57WCUB5ODiVKmdCGAIUJla", "duration_ms": 295735, "time_signature": 4}
+嗤うマネキン (MI8k)
+{"danceability": 0.471, "energy": 0.924, "key": 5, "loudness": -3.714, "mode": 0, "speechiness": 0.0868, "acousticness": 0.196, "instrumentalness": 6e-06, "liveness": 0.0901, "valence": 0.548, "tempo": 171.057, "type": "audio_features", "id": "5rlufCxBIuIJEmsfJgYVZ8", "uri": "spotify:track:5rlufCxBIuIJEmsfJgYVZ8", "track_href": "https://api.spotify.com/v1/tracks/5rlufCxBIuIJEmsfJgYVZ8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rlufCxBIuIJEmsfJgYVZ8", "duration_ms": 210585, "time_signature": 4}
+ロールレスウエポン - 稲葉曇×Neru (稲葉曇)
+{"danceability": 0.495, "energy": 0.856, "key": 0, "loudness": -3.605, "mode": 1, "speechiness": 0.0913, "acousticness": 0.0361, "instrumentalness": 2.09e-06, "liveness": 0.115, "valence": 0.803, "tempo": 179.953, "type": "audio_features", "id": "4ddSGTnURIXSVvzTcPKsKV", "uri": "spotify:track:4ddSGTnURIXSVvzTcPKsKV", "track_href": "https://api.spotify.com/v1/tracks/4ddSGTnURIXSVvzTcPKsKV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ddSGTnURIXSVvzTcPKsKV", "duration_ms": 193316, "time_signature": 4}
+わたしは禁忌 (いよわ)
+{"danceability": 0.481, "energy": 0.869, "key": 0, "loudness": -5.543, "mode": 1, "speechiness": 0.112, "acousticness": 0.0769, "instrumentalness": 0, "liveness": 0.122, "valence": 0.599, "tempo": 119.98, "type": "audio_features", "id": "3qkGYk1sSVlMkpoIneNVd3", "uri": "spotify:track:3qkGYk1sSVlMkpoIneNVd3", "track_href": "https://api.spotify.com/v1/tracks/3qkGYk1sSVlMkpoIneNVd3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3qkGYk1sSVlMkpoIneNVd3", "duration_ms": 196637, "time_signature": 4}
+戯言スピーカー (in synonym) (sasanomaly)
+{"danceability": 0.326, "energy": 0.284, "key": 1, "loudness": -10.804, "mode": 1, "speechiness": 0.0289, "acousticness": 0.784, "instrumentalness": 0, "liveness": 0.101, "valence": 0.221, "tempo": 94.982, "type": "audio_features", "id": "1o0pc80nTS7AGi4fcFaBLF", "uri": "spotify:track:1o0pc80nTS7AGi4fcFaBLF", "track_href": "https://api.spotify.com/v1/tracks/1o0pc80nTS7AGi4fcFaBLF", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1o0pc80nTS7AGi4fcFaBLF", "duration_ms": 256105, "time_signature": 3}
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/5T1WB7ybJEf90xPUR0Yqa7
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/685IX0kJOYsV254JpHnMdi
+name: Stay Alive (Prod. SUGA of BTS)(Jung Kook)    https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep
+name: ダンデライオン(Da-iCE)    https://open.spotify.com/track/5BQ2xOi9ZLwLS79VHYsGzk
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+name: 五月雨よ(櫻坂46)    https://open.spotify.com/track/60JARyaZiozH00NeLWhcgt
+name: 結(Saucy Dog)    https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd
+name: コーヒーとシロップ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/6l1P9avGqv8oHBjwxp2ABq
+name: GOKU VIBES(DJ CHARI)    https://open.spotify.com/track/3ONpcsH0VHshaLqnghaq0S
+name: secret base ~君がくれたもの~(ZONE)    https://open.spotify.com/track/7ah8In0z478pctQnoFvW1L
+name: メフィスト(QUEEN BEE)    https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG
+name: ビリミリオン(Yuuri)    https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9
+name: クリスマスソング(back number)    https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su
+name: 獣ゆく細道(Sheena Ringo)    https://open.spotify.com/track/3UJIq4L2TI6vdKyW0ed0e4
+name: 君に届け(flumpool)    https://open.spotify.com/track/0kA7SWxWPYqSyIbMl51X5b
+name: 星影のエール(GReeeeN)    https://open.spotify.com/track/0RyWopvyBf0tmAqtw9Uc4P
+name: 猫(DISH//)    https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx
+name: 東京VICTORY(サザンオールスターズ)    https://open.spotify.com/track/4XnY5LBp2C37Cr0VrQmGl2
+name: 夜明けまで強がらなくてもいい(Nogizaka46)    https://open.spotify.com/track/6fLq9e3IPdHUwIeSR49n5e
+name: 君って(Kana Nishino)    https://open.spotify.com/track/5hsPvf0Tn4llsdCl3MN1VQ
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,25 @@
+2023年11月15日 11:14:08
+cos_score.py
+お気に入りの曲  https://open.spotify.com/playlist/0XntF7aORN11C0RjQ1dMrV
+だから僕は音楽を辞めた (ヨルシカ)
+{"danceability": 0.65, "energy": 0.88, "key": 4, "loudness": -5.326, "mode": 1, "speechiness": 0.0283, "acousticness": 0.36, "instrumentalness": 0.00369, "liveness": 0.23, "valence": 0.921, "tempo": 124.985, "type": "audio_features", "id": "5j7ixaLeGTGSv4DzKs0pCM", "uri": "spotify:track:5j7ixaLeGTGSv4DzKs0pCM", "track_href": "https://api.spotify.com/v1/tracks/5j7ixaLeGTGSv4DzKs0pCM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5j7ixaLeGTGSv4DzKs0pCM", "duration_ms": 242913, "time_signature": 4}
+猫リセット (ZUTOMAYO)
+{"danceability": 0.741, "energy": 0.902, "key": 0, "loudness": -2.28, "mode": 0, "speechiness": 0.0514, "acousticness": 0.137, "instrumentalness": 0, "liveness": 0.072, "valence": 0.935, "tempo": 115.929, "type": "audio_features", "id": "68TwxeHi1pyFDRIKHxSArM", "uri": "spotify:track:68TwxeHi1pyFDRIKHxSArM", "track_href": "https://api.spotify.com/v1/tracks/68TwxeHi1pyFDRIKHxSArM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/68TwxeHi1pyFDRIKHxSArM", "duration_ms": 247100, "time_signature": 4}
+踊 (Ado)
+{"danceability": 0.707, "energy": 0.965, "key": 1, "loudness": -0.736, "mode": 1, "speechiness": 0.105, "acousticness": 0.15, "instrumentalness": 1.38e-06, "liveness": 0.726, "valence": 0.777, "tempo": 128.003, "type": "audio_features", "id": "7z6qHGEKxRtwtYym2epV7l", "uri": "spotify:track:7z6qHGEKxRtwtYym2epV7l", "track_href": "https://api.spotify.com/v1/tracks/7z6qHGEKxRtwtYym2epV7l", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7z6qHGEKxRtwtYym2epV7l", "duration_ms": 208271, "time_signature": 4}
+ノーダウト (OFFICIAL HIGE DANDISM)
+{"danceability": 0.574, "energy": 0.936, "key": 2, "loudness": -3.185, "mode": 1, "speechiness": 0.0701, "acousticness": 0.0585, "instrumentalness": 0, "liveness": 0.336, "valence": 0.792, "tempo": 149.954, "type": "audio_features", "id": "5DMEvbg3gUmiR5HIBWdveV", "uri": "spotify:track:5DMEvbg3gUmiR5HIBWdveV", "track_href": "https://api.spotify.com/v1/tracks/5DMEvbg3gUmiR5HIBWdveV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DMEvbg3gUmiR5HIBWdveV", "duration_ms": 202395, "time_signature": 4}
+怪物 (YOASOBI)
+{"danceability": 0.598, "energy": 0.847, "key": 1, "loudness": -2.54, "mode": 1, "speechiness": 0.205, "acousticness": 0.0655, "instrumentalness": 9.92e-05, "liveness": 0.307, "valence": 0.728, "tempo": 169.959, "type": "audio_features", "id": "6uhIF5J5Txaie0is2nXdxU", "uri": "spotify:track:6uhIF5J5Txaie0is2nXdxU", "track_href": "https://api.spotify.com/v1/tracks/6uhIF5J5Txaie0is2nXdxU", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6uhIF5J5Txaie0is2nXdxU", "duration_ms": 205480, "time_signature": 4}
+name: First Song (dead to me)(ZIN)    https://open.spotify.com/track/1glz0cjxfeuRfURnox3fnF
+name: 愛を止めないで(Yu Sakai)    https://open.spotify.com/track/7Gou5R13gSGK1sSc4XOgtJ
+name: Lady - 2020(Ohashi Trio)    https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r
+name: It'll Be Okay(Shawn Mendes)    https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD
+name: December(milet)    https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS
+name: meringue doll(Ichiko Aoba)    https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ
+name: サンサーラ(Takehara Pistol)    https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3
+name: What Was I Made For? [From The Motion Picture "Barbie"](Billie Eilish)    https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q
+name: Beautiful Sleep(Shinya Kiyozuka)    https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A
+name: 戯言スピーカー (in synonym)(sasanomaly)    https://open.spotify.com/track/1o0pc80nTS7AGi4fcFaBLF
+------------------<score>-----------------------
+score: 0

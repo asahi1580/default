@@ -1,0 +1,25 @@
+2023年10月02日 13:57:12
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+波乗りジョニー (Keisuke Kuwata)
+{"danceability": 0.486, "energy": 0.821, "key": 2, "loudness": -7.039, "mode": 1, "speechiness": 0.0605, "acousticness": 0.0541, "instrumentalness": 0, "liveness": 0.288, "valence": 0.73, "tempo": 138.158, "type": "audio_features", "id": "3hjHUf3frPoh9jcYDkqXUV", "uri": "spotify:track:3hjHUf3frPoh9jcYDkqXUV", "track_href": "https://api.spotify.com/v1/tracks/3hjHUf3frPoh9jcYDkqXUV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3hjHUf3frPoh9jcYDkqXUV", "duration_ms": 267533, "time_signature": 4}
+なぁ (YOAKE)
+{"danceability": 0.599, "energy": 0.673, "key": 0, "loudness": -6.723, "mode": 1, "speechiness": 0.07, "acousticness": 0.0431, "instrumentalness": 0, "liveness": 0.0987, "valence": 0.823, "tempo": 169.991, "type": "audio_features", "id": "0E5FxZ0spndv7NZGQdrJaZ", "uri": "spotify:track:0E5FxZ0spndv7NZGQdrJaZ", "track_href": "https://api.spotify.com/v1/tracks/0E5FxZ0spndv7NZGQdrJaZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0E5FxZ0spndv7NZGQdrJaZ", "duration_ms": 194344, "time_signature": 4}
+花束 (back number)
+{"danceability": 0.519, "energy": 0.713, "key": 2, "loudness": -3.612, "mode": 1, "speechiness": 0.0324, "acousticness": 0.0178, "instrumentalness": 0, "liveness": 0.353, "valence": 0.505, "tempo": 159.963, "type": "audio_features", "id": "3QIAwtEEDOrv0g5NKCGrXZ", "uri": "spotify:track:3QIAwtEEDOrv0g5NKCGrXZ", "track_href": "https://api.spotify.com/v1/tracks/3QIAwtEEDOrv0g5NKCGrXZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QIAwtEEDOrv0g5NKCGrXZ", "duration_ms": 286053, "time_signature": 4}
+桜が降る夜は (Aimyon)
+{"danceability": 0.641, "energy": 0.957, "key": 5, "loudness": -2.574, "mode": 1, "speechiness": 0.0455, "acousticness": 0.384, "instrumentalness": 1.05e-06, "liveness": 0.218, "valence": 0.71, "tempo": 106.995, "type": "audio_features", "id": "1iEsGutpDvMJG0zYqoKKmQ", "uri": "spotify:track:1iEsGutpDvMJG0zYqoKKmQ", "track_href": "https://api.spotify.com/v1/tracks/1iEsGutpDvMJG0zYqoKKmQ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1iEsGutpDvMJG0zYqoKKmQ", "duration_ms": 274800, "time_signature": 4}
+花束 (back number)
+{"danceability": 0.519, "energy": 0.713, "key": 2, "loudness": -3.612, "mode": 1, "speechiness": 0.0324, "acousticness": 0.0178, "instrumentalness": 0, "liveness": 0.353, "valence": 0.505, "tempo": 159.963, "type": "audio_features", "id": "3QIAwtEEDOrv0g5NKCGrXZ", "uri": "spotify:track:3QIAwtEEDOrv0g5NKCGrXZ", "track_href": "https://api.spotify.com/v1/tracks/3QIAwtEEDOrv0g5NKCGrXZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QIAwtEEDOrv0g5NKCGrXZ", "duration_ms": 286053, "time_signature": 4}
+name: 最大公約数(RADWIMPS)    https://open.spotify.com/track/6B6PeBESFdk0OjBmGDllYI
+name: 未来で逢いたい(ケプラ)    https://open.spotify.com/track/7ECQe4BiTGhWxI8sq7AXbm
+name: WanteD! WanteD!(Mrs. GREEN APPLE)    https://open.spotify.com/track/7M3TZDUNvaNBo0qtWVaZif
+name: きっかけ(Nogizaka46)    https://open.spotify.com/track/0cJ8TAagHiLE5Hir5eTzO0
+name: 俺らリサイタルズ(リサイタルズ)    https://open.spotify.com/track/5hOjW1qtkWLCHGNMQHK68J
+name: 私へ(4na)    https://open.spotify.com/track/6tUoqX3OCNbC2t55e5kvcR
+name: Neppa Mappa(Happy Heads NANIYORI)    https://open.spotify.com/track/1yk0SSa84LDFar4tcBLVDM
+name: 紡ぐ(Tota)    https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ
+name: WanteD! WanteD! - Remastered 2020(Mrs. GREEN APPLE)    https://open.spotify.com/track/7bD8bySrIeSsJEQOwE6IDT
+name: バッドリピートエンド(35.7)    https://open.spotify.com/track/0647L6JfnQWufikSR6AabW
+------------------<score>-----------------------
+score: 0

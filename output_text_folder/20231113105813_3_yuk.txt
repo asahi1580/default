@@ -1,0 +1,25 @@
+2023年11月13日 10:58:26
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/5wbUwYagqn4FW8uC5mpOlo
+怪物さん (Ken Hirai)
+{"danceability": 0.8, "energy": 0.701, "key": 7, "loudness": -3.721, "mode": 1, "speechiness": 0.0504, "acousticness": 0.045, "instrumentalness": 0, "liveness": 0.115, "valence": 0.574, "tempo": 128.007, "type": "audio_features", "id": "1FRfGXTq1KdElX9jWDBPsM", "uri": "spotify:track:1FRfGXTq1KdElX9jWDBPsM", "track_href": "https://api.spotify.com/v1/tracks/1FRfGXTq1KdElX9jWDBPsM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1FRfGXTq1KdElX9jWDBPsM", "duration_ms": 246960, "time_signature": 4}
+ビリミリオン (Yuuri)
+{"danceability": 0.413, "energy": 0.623, "key": 10, "loudness": -6.223, "mode": 1, "speechiness": 0.0377, "acousticness": 0.232, "instrumentalness": 0, "liveness": 0.0965, "valence": 0.629, "tempo": 124.893, "type": "audio_features", "id": "7KExqPOvjFzAI4d49mQxt9", "uri": "spotify:track:7KExqPOvjFzAI4d49mQxt9", "track_href": "https://api.spotify.com/v1/tracks/7KExqPOvjFzAI4d49mQxt9", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7KExqPOvjFzAI4d49mQxt9", "duration_ms": 226628, "time_signature": 4}
+ミズキリ (Yuuri)
+{"danceability": 0.446, "energy": 0.706, "key": 1, "loudness": -5.447, "mode": 1, "speechiness": 0.033, "acousticness": 0.163, "instrumentalness": 0, "liveness": 0.11, "valence": 0.445, "tempo": 179.906, "type": "audio_features", "id": "6T8eKlvqWuPKJT7euIqoxX", "uri": "spotify:track:6T8eKlvqWuPKJT7euIqoxX", "track_href": "https://api.spotify.com/v1/tracks/6T8eKlvqWuPKJT7euIqoxX", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6T8eKlvqWuPKJT7euIqoxX", "duration_ms": 208400, "time_signature": 4}
+Route 246 (Nogizaka46)
+{"danceability": 0.73, "energy": 0.838, "key": 7, "loudness": -2.959, "mode": 1, "speechiness": 0.0312, "acousticness": 0.341, "instrumentalness": 0, "liveness": 0.433, "valence": 0.847, "tempo": 124.953, "type": "audio_features", "id": "5Zobr1aK1bEo7iUkI8Okxc", "uri": "spotify:track:5Zobr1aK1bEo7iUkI8Okxc", "track_href": "https://api.spotify.com/v1/tracks/5Zobr1aK1bEo7iUkI8Okxc", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Zobr1aK1bEo7iUkI8Okxc", "duration_ms": 232332, "time_signature": 4}
+ベテルギウス (Yuuri)
+{"danceability": 0.432, "energy": 0.68, "key": 5, "loudness": -4.839, "mode": 1, "speechiness": 0.0431, "acousticness": 0.199, "instrumentalness": 0, "liveness": 0.481, "valence": 0.685, "tempo": 180.002, "type": "audio_features", "id": "2sf18cEv463VgqmdjDsFpw", "uri": "spotify:track:2sf18cEv463VgqmdjDsFpw", "track_href": "https://api.spotify.com/v1/tracks/2sf18cEv463VgqmdjDsFpw", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2sf18cEv463VgqmdjDsFpw", "duration_ms": 230394, "time_signature": 4}
+name: 結(Saucy Dog)    https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd
+name: 死ぬのがいいわ(Fujii Kaze)    https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6
+name: Shinunoga E-Wa(Fujii Kaze)    https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW
+name: 夏祭り(Whiteberry)    https://open.spotify.com/track/51hE2l7cmVXtEpmJ0AGh4R
+name: コーヒーとシロップ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/6l1P9avGqv8oHBjwxp2ABq
+name: サヨナラの意味(Nogizaka46)    https://open.spotify.com/track/24EBjCdbrQfJLKt2om1G4P
+name: 月曜日の憂鬱(Amatsuki)    https://open.spotify.com/track/0fsPqL15FO6l5zuf7h19LX
+name: future - Prod.KM(honoka)    https://open.spotify.com/track/3FSBDQWprhDCEaA0oCdX8p
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: 燈(Soushi Sakiyama)    https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO
+------------------<score>-----------------------
+score: 0

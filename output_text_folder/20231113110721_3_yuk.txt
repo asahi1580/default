@@ -1,0 +1,25 @@
+2023年11月13日 11:07:34
+yuk_score.py
+お気に入り20220921  https://open.spotify.com/playlist/7Beiqu1Ua5nmCrLm4fx7oc
+ネオメロドラマティック (PornoGraffitti)
+{"danceability": 0.714, "energy": 0.922, "key": 7, "loudness": -5.17, "mode": 0, "speechiness": 0.075, "acousticness": 0.013, "instrumentalness": 0, "liveness": 0.0849, "valence": 0.602, "tempo": 125.956, "type": "audio_features", "id": "311BnHoQLBViw2Hdpc7sqM", "uri": "spotify:track:311BnHoQLBViw2Hdpc7sqM", "track_href": "https://api.spotify.com/v1/tracks/311BnHoQLBViw2Hdpc7sqM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/311BnHoQLBViw2Hdpc7sqM", "duration_ms": 233400, "time_signature": 4}
+Maximum Alert (ドリフトスピリッツ)
+{"danceability": 0.384, "energy": 0.952, "key": 10, "loudness": -6.682, "mode": 0, "speechiness": 0.202, "acousticness": 0.0012, "instrumentalness": 0.884, "liveness": 0.337, "valence": 0.221, "tempo": 169.902, "type": "audio_features", "id": "5qAPv28yom259P2yCHkfRW", "uri": "spotify:track:5qAPv28yom259P2yCHkfRW", "track_href": "https://api.spotify.com/v1/tracks/5qAPv28yom259P2yCHkfRW", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5qAPv28yom259P2yCHkfRW", "duration_ms": 51395, "time_signature": 4}
+Answer (FLOW)
+{"danceability": 0.582, "energy": 0.981, "key": 0, "loudness": -2.952, "mode": 1, "speechiness": 0.0395, "acousticness": 0.000227, "instrumentalness": 0, "liveness": 0.237, "valence": 0.878, "tempo": 122.163, "type": "audio_features", "id": "7L92TklU5AsFvWF9qLhD9s", "uri": "spotify:track:7L92TklU5AsFvWF9qLhD9s", "track_href": "https://api.spotify.com/v1/tracks/7L92TklU5AsFvWF9qLhD9s", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7L92TklU5AsFvWF9qLhD9s", "duration_ms": 279733, "time_signature": 4}
+sakura (Nirgilis)
+{"danceability": 0.449, "energy": 0.824, "key": 3, "loudness": -3.102, "mode": 1, "speechiness": 0.033, "acousticness": 0.000166, "instrumentalness": 0.00207, "liveness": 0.133, "valence": 0.39, "tempo": 138.051, "type": "audio_features", "id": "0KN1TWt4Lgp0GgCuSSaY11", "uri": "spotify:track:0KN1TWt4Lgp0GgCuSSaY11", "track_href": "https://api.spotify.com/v1/tracks/0KN1TWt4Lgp0GgCuSSaY11", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0KN1TWt4Lgp0GgCuSSaY11", "duration_ms": 275707, "time_signature": 4}
+友よ 〜 この先もずっと・・・ (Ketsumeishi)
+{"danceability": 0.635, "energy": 0.914, "key": 0, "loudness": -3.84, "mode": 1, "speechiness": 0.0464, "acousticness": 0.042, "instrumentalness": 0, "liveness": 0.2, "valence": 0.674, "tempo": 127.024, "type": "audio_features", "id": "3A0VFRUxhqpJeOxo0rklqC", "uri": "spotify:track:3A0VFRUxhqpJeOxo0rklqC", "track_href": "https://api.spotify.com/v1/tracks/3A0VFRUxhqpJeOxo0rklqC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3A0VFRUxhqpJeOxo0rklqC", "duration_ms": 315413, "time_signature": 4}
+name: ワタリドリ([Alexandros])    https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o
+name: 恋愛ミリフィルム(halca)    https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L
+name: ライラック(美波)    https://open.spotify.com/track/3WePQc3e2le4Vmh5W2idln
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: これからのこと、それからのこと(Ryokuoushoku Shakai)    https://open.spotify.com/track/3ee3P6E34IetUo60gwR0hw
+name: アンビリーバーズ(Kenshi Yonezu)    https://open.spotify.com/track/1YCHalpMsHDWcVmRwMxwYQ
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: カワキヲアメク(美波)    https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB
+name: シャルル(balloon)    https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h
+name: ラヴ・クラウド(Perfume)    https://open.spotify.com/track/066FlsZYTfxPIgLlFoAsNI
+------------------<score>-----------------------
+score: 0

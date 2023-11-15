@@ -1,0 +1,25 @@
+2023年11月13日 11:05:12
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/6mGIqxsYG3Q3DGOx68SMIB
+イノチミジカシコイセヨオトメ (Creep Hyp)
+{"danceability": 0.3, "energy": 0.799, "key": 7, "loudness": -3.703, "mode": 1, "speechiness": 0.0959, "acousticness": 0.00124, "instrumentalness": 0, "liveness": 0.234, "valence": 0.396, "tempo": 171.639, "type": "audio_features", "id": "4D9s9XWBHPd2Ox80fZSmi0", "uri": "spotify:track:4D9s9XWBHPd2Ox80fZSmi0", "track_href": "https://api.spotify.com/v1/tracks/4D9s9XWBHPd2Ox80fZSmi0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4D9s9XWBHPd2Ox80fZSmi0", "duration_ms": 191456, "time_signature": 4}
+リトルダンサー feat. Ito (PEOPLE 1) (WurtS)
+{"danceability": 0.529, "energy": 0.942, "key": 5, "loudness": -1.407, "mode": 0, "speechiness": 0.0602, "acousticness": 0.0311, "instrumentalness": 0, "liveness": 0.165, "valence": 0.683, "tempo": 120.024, "type": "audio_features", "id": "2aKT3Rwcf0MKutWB9mcg5p", "uri": "spotify:track:2aKT3Rwcf0MKutWB9mcg5p", "track_href": "https://api.spotify.com/v1/tracks/2aKT3Rwcf0MKutWB9mcg5p", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2aKT3Rwcf0MKutWB9mcg5p", "duration_ms": 195003, "time_signature": 4}
+Just the Two of Us (Fujii Kaze)
+{"danceability": 0.534, "energy": 0.411, "key": 1, "loudness": -9.468, "mode": 1, "speechiness": 0.0315, "acousticness": 0.865, "instrumentalness": 0.244, "liveness": 0.0933, "valence": 0.425, "tempo": 89.873, "type": "audio_features", "id": "25rJtfnU4uqPj4iD96JGMv", "uri": "spotify:track:25rJtfnU4uqPj4iD96JGMv", "track_href": "https://api.spotify.com/v1/tracks/25rJtfnU4uqPj4iD96JGMv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/25rJtfnU4uqPj4iD96JGMv", "duration_ms": 217401, "time_signature": 4}
+目を閉じるだけ (Bye-Bye-Handの方程式)
+{"danceability": 0.367, "energy": 0.896, "key": 6, "loudness": -1.666, "mode": 1, "speechiness": 0.0426, "acousticness": 0.0452, "instrumentalness": 0, "liveness": 0.0536, "valence": 0.749, "tempo": 164.998, "type": "audio_features", "id": "7bNNRiM3phozzHUsECrZ68", "uri": "spotify:track:7bNNRiM3phozzHUsECrZ68", "track_href": "https://api.spotify.com/v1/tracks/7bNNRiM3phozzHUsECrZ68", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7bNNRiM3phozzHUsECrZ68", "duration_ms": 164880, "time_signature": 4}
+Supernova (ELLEGARDEN)
+{"danceability": 0.309, "energy": 0.948, "key": 5, "loudness": -2.852, "mode": 1, "speechiness": 0.126, "acousticness": 0.00647, "instrumentalness": 5.03e-05, "liveness": 0.43, "valence": 0.412, "tempo": 180.132, "type": "audio_features", "id": "1vSag7UX5hDuYeVaf6a1Q4", "uri": "spotify:track:1vSag7UX5hDuYeVaf6a1Q4", "track_href": "https://api.spotify.com/v1/tracks/1vSag7UX5hDuYeVaf6a1Q4", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vSag7UX5hDuYeVaf6a1Q4", "duration_ms": 215627, "time_signature": 4}
+name: 君に届け(flumpool)    https://open.spotify.com/track/0kA7SWxWPYqSyIbMl51X5b
+name: ハッピーエンドへの期待は(Macaroni Empitsu)    https://open.spotify.com/track/7LwC5DmwJmbkdWV7ekpx8i
+name: ハッピーエンドへの期待は(Macaroni Empitsu)    https://open.spotify.com/track/10y76UPiv2GXaAAuGASHLf
+name: 夜明けまで強がらなくてもいい(Nogizaka46)    https://open.spotify.com/track/6fLq9e3IPdHUwIeSR49n5e
+name: コーヒーとシロップ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/6l1P9avGqv8oHBjwxp2ABq
+name: アマリリス(BLUE ENCOUNT)    https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX
+name: 五月雨よ(櫻坂46)    https://open.spotify.com/track/60JARyaZiozH00NeLWhcgt
+name: シーグラス(Saucy Dog)    https://open.spotify.com/track/10wpvZ1utpKvvlFzMsRfMB
+name: キャラバン(syudou)    https://open.spotify.com/track/6aP0EB2Zl56fzCZ2WyPmpJ
+name: 悲しみはバスに乗って(Macaroni Empitsu)    https://open.spotify.com/track/5T1WB7ybJEf90xPUR0Yqa7
+------------------<score>-----------------------
+score: 0

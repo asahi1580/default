@@ -1,0 +1,25 @@
+2023年11月13日 10:53:35
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+Ah Yeah!! (Sukima Switch)
+{"danceability": 0.481, "energy": 0.933, "key": 8, "loudness": -5.447, "mode": 1, "speechiness": 0.0445, "acousticness": 0.00505, "instrumentalness": 3.25e-06, "liveness": 0.044, "valence": 0.502, "tempo": 140.061, "type": "audio_features", "id": "3LXpZ28ebxPHH1aUc9167L", "uri": "spotify:track:3LXpZ28ebxPHH1aUc9167L", "track_href": "https://api.spotify.com/v1/tracks/3LXpZ28ebxPHH1aUc9167L", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3LXpZ28ebxPHH1aUc9167L", "duration_ms": 308067, "time_signature": 4}
+GO!!! 〜15th Anniversary ver.〜 (FLOW)
+{"danceability": 0.476, "energy": 0.941, "key": 6, "loudness": -3.094, "mode": 0, "speechiness": 0.0783, "acousticness": 0.000819, "instrumentalness": 0, "liveness": 0.293, "valence": 0.737, "tempo": 136.603, "type": "audio_features", "id": "0MqEHknhIF88dJmcT3AXrI", "uri": "spotify:track:0MqEHknhIF88dJmcT3AXrI", "track_href": "https://api.spotify.com/v1/tracks/0MqEHknhIF88dJmcT3AXrI", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0MqEHknhIF88dJmcT3AXrI", "duration_ms": 322947, "time_signature": 4}
+サクラノタトゥー - 一二三×ピノキオピー (一二三)
+{"danceability": 0.572, "energy": 0.916, "key": 7, "loudness": -3.879, "mode": 1, "speechiness": 0.145, "acousticness": 0.00151, "instrumentalness": 0.0572, "liveness": 0.157, "valence": 0.48, "tempo": 175.976, "type": "audio_features", "id": "2ldfk5PcmHCLqWZt0Dfq70", "uri": "spotify:track:2ldfk5PcmHCLqWZt0Dfq70", "track_href": "https://api.spotify.com/v1/tracks/2ldfk5PcmHCLqWZt0Dfq70", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ldfk5PcmHCLqWZt0Dfq70", "duration_ms": 233935, "time_signature": 4}
+ロストアンブレラ (稲葉曇)
+{"danceability": 0.721, "energy": 0.918, "key": 10, "loudness": -3.347, "mode": 1, "speechiness": 0.0678, "acousticness": 0.0408, "instrumentalness": 2.45e-05, "liveness": 0.233, "valence": 0.965, "tempo": 137.03, "type": "audio_features", "id": "00eSxfOu2w3yckSlqdEhOZ", "uri": "spotify:track:00eSxfOu2w3yckSlqdEhOZ", "track_href": "https://api.spotify.com/v1/tracks/00eSxfOu2w3yckSlqdEhOZ", "analysis_url": "https://api.spotify.com/v1/audio-analysis/00eSxfOu2w3yckSlqdEhOZ", "duration_ms": 204498, "time_signature": 4}
+イマジネーション (SPYAIR)
+{"danceability": 0.487, "energy": 0.937, "key": 1, "loudness": -2.972, "mode": 1, "speechiness": 0.0555, "acousticness": 0.00228, "instrumentalness": 2.34e-05, "liveness": 0.136, "valence": 0.617, "tempo": 101.959, "type": "audio_features", "id": "5NFyTOIDaq9ldGMuNfypgg", "uri": "spotify:track:5NFyTOIDaq9ldGMuNfypgg", "track_href": "https://api.spotify.com/v1/tracks/5NFyTOIDaq9ldGMuNfypgg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5NFyTOIDaq9ldGMuNfypgg", "duration_ms": 179747, "time_signature": 4}
+name: ghosted(BLUE ENCOUNT)    https://open.spotify.com/track/0X53TLIHdotP2JeUYq4NbW
+name: ワタリドリ([Alexandros])    https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: Dramaturgy(Eve)    https://open.spotify.com/track/1FNHnj59xiQ7EFMOJBhLcp
+name: ドラマツルギー(Eve)    https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y
+name: おくすり飲んで寝よう(もちうつね)    https://open.spotify.com/track/23sqKo7k0yPQtViKR8cRfi
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: アンビリーバーズ(Kenshi Yonezu)    https://open.spotify.com/track/1YCHalpMsHDWcVmRwMxwYQ
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,25 @@
+2023年11月13日 11:04:45
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/6mGIqxsYG3Q3DGOx68SMIB
+Tough (Saucy Dog)
+{"danceability": 0.53, "energy": 0.871, "key": 9, "loudness": -4.973, "mode": 1, "speechiness": 0.034, "acousticness": 0.00972, "instrumentalness": 0, "liveness": 0.346, "valence": 0.791, "tempo": 93.881, "type": "audio_features", "id": "7GL0ohKY25BqQHvgihN2EP", "uri": "spotify:track:7GL0ohKY25BqQHvgihN2EP", "track_href": "https://api.spotify.com/v1/tracks/7GL0ohKY25BqQHvgihN2EP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7GL0ohKY25BqQHvgihN2EP", "duration_ms": 188427, "time_signature": 4}
+サマー・イン・サマー (My Hair is Bad)
+{"danceability": 0.5, "energy": 0.974, "key": 10, "loudness": -3.723, "mode": 0, "speechiness": 0.0791, "acousticness": 8.23e-05, "instrumentalness": 0, "liveness": 0.345, "valence": 0.515, "tempo": 99.985, "type": "audio_features", "id": "3szkfFKlRZyCGIlCakFA44", "uri": "spotify:track:3szkfFKlRZyCGIlCakFA44", "track_href": "https://api.spotify.com/v1/tracks/3szkfFKlRZyCGIlCakFA44", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3szkfFKlRZyCGIlCakFA44", "duration_ms": 181027, "time_signature": 4}
+Tough (Saucy Dog)
+{"danceability": 0.53, "energy": 0.871, "key": 9, "loudness": -4.973, "mode": 1, "speechiness": 0.034, "acousticness": 0.00972, "instrumentalness": 0, "liveness": 0.346, "valence": 0.791, "tempo": 93.881, "type": "audio_features", "id": "7GL0ohKY25BqQHvgihN2EP", "uri": "spotify:track:7GL0ohKY25BqQHvgihN2EP", "track_href": "https://api.spotify.com/v1/tracks/7GL0ohKY25BqQHvgihN2EP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7GL0ohKY25BqQHvgihN2EP", "duration_ms": 188427, "time_signature": 4}
+おやすみ (ELLEGARDEN)
+{"danceability": 0.112, "energy": 0.782, "key": 2, "loudness": -3.198, "mode": 1, "speechiness": 0.0627, "acousticness": 0.000223, "instrumentalness": 0.00272, "liveness": 0.663, "valence": 0.347, "tempo": 183.923, "type": "audio_features", "id": "3viEhPlRwLRZrtxgqwU2Xq", "uri": "spotify:track:3viEhPlRwLRZrtxgqwU2Xq", "track_href": "https://api.spotify.com/v1/tracks/3viEhPlRwLRZrtxgqwU2Xq", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3viEhPlRwLRZrtxgqwU2Xq", "duration_ms": 250640, "time_signature": 4}
+靴の花火 (ヨルシカ)
+{"danceability": 0.719, "energy": 0.677, "key": 7, "loudness": -5.2, "mode": 1, "speechiness": 0.0321, "acousticness": 0.062, "instrumentalness": 0.00794, "liveness": 0.168, "valence": 0.746, "tempo": 119.996, "type": "audio_features", "id": "5mOOwyOGev9frlXm5NDEQy", "uri": "spotify:track:5mOOwyOGev9frlXm5NDEQy", "track_href": "https://api.spotify.com/v1/tracks/5mOOwyOGev9frlXm5NDEQy", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5mOOwyOGev9frlXm5NDEQy", "duration_ms": 303232, "time_signature": 4}
+name: マシマロ(Aimyon)    https://open.spotify.com/track/3BRHmDkirmIySxQF2M2TP2
+name: SPECIALZ(King Gnu)    https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF
+name: 唄を忘れたカナリア(Tsuyoshi Nagabuchi)    https://open.spotify.com/track/25ilfsIYhsPSpRt8y0yZFl
+name: スターゲイザー(SPITZ)    https://open.spotify.com/track/1R3pZmdmYI9L9fFtOFebqb
+name: 魔法のコトバ(SPITZ)    https://open.spotify.com/track/6o6XNRr7tosVpTk6Ijuzbf
+name: タイミング~Timing~ フレンズcover ver.(フレンズ)    https://open.spotify.com/track/5Oi8XtvciTQo6vmffKI31Z
+name: Burning Emotion #5(ドリフトスピリッツ)    https://open.spotify.com/track/6lS6KlKkHI85GSnGRil05Z
+name: I think I can(the pillows)    https://open.spotify.com/track/25kQ8X0afFDr0tkLvLpYHu
+name: セプテンバーさん(Aimer)    https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM
+name: 沈丁花(DISH//)    https://open.spotify.com/track/6JpqwdFajjlWIWJ4QD6zBd
+------------------<score>-----------------------
+score: 0

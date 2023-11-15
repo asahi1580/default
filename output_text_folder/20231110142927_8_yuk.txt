@@ -1,0 +1,26 @@
+2023年11月10日 14:30:01
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/6voz4rUMJWkwpKnjPNYV4z
+Film out (BTS)
+{"danceability": 0.499, "energy": 0.709, "key": 10, "loudness": -6.404, "mode": 1, "speechiness": 0.134, "acousticness": 0.296, "instrumentalness": 0, "liveness": 0.331, "valence": 0.314, "tempo": 164.032, "type": "audio_features", "id": "3UHPGOkUcE4hE7sqBF4Snt", "uri": "spotify:track:3UHPGOkUcE4hE7sqBF4Snt", "track_href": "https://api.spotify.com/v1/tracks/3UHPGOkUcE4hE7sqBF4Snt", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3UHPGOkUcE4hE7sqBF4Snt", "duration_ms": 214621, "time_signature": 4}
+Run (BTS)
+{"danceability": 0.571, "energy": 0.863, "key": 6, "loudness": -3.821, "mode": 0, "speechiness": 0.0605, "acousticness": 0.00142, "instrumentalness": 0, "liveness": 0.0927, "valence": 0.523, "tempo": 132.997, "type": "audio_features", "id": "0PXd9WwmX3Y04KfHAaldDS", "uri": "spotify:track:0PXd9WwmX3Y04KfHAaldDS", "track_href": "https://api.spotify.com/v1/tracks/0PXd9WwmX3Y04KfHAaldDS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0PXd9WwmX3Y04KfHAaldDS", "duration_ms": 238840, "time_signature": 4}
+Anpanman (BTS)
+{"danceability": 0.813, "energy": 0.876, "key": 1, "loudness": -2.92, "mode": 0, "speechiness": 0.0922, "acousticness": 0.024, "instrumentalness": 0, "liveness": 0.287, "valence": 0.757, "tempo": 98.989, "type": "audio_features", "id": "34OSqW5ULWxmCEMjJ1ZgVW", "uri": "spotify:track:34OSqW5ULWxmCEMjJ1ZgVW", "track_href": "https://api.spotify.com/v1/tracks/34OSqW5ULWxmCEMjJ1ZgVW", "analysis_url": "https://api.spotify.com/v1/audio-analysis/34OSqW5ULWxmCEMjJ1ZgVW", "duration_ms": 232966, "time_signature": 4}
+グッバイ宣言 (Chinozo)
+{"danceability": 0.542, "energy": 0.743, "key": 9, "loudness": -11.51, "mode": 0, "speechiness": 0.0781, "acousticness": 0.0324, "instrumentalness": 0, "liveness": 0.267, "valence": 0.916, "tempo": 169.916, "type": "audio_features", "id": "2gbVuqze7bpndIy1q9rFvv", "uri": "spotify:track:2gbVuqze7bpndIy1q9rFvv", "track_href": "https://api.spotify.com/v1/tracks/2gbVuqze7bpndIy1q9rFvv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gbVuqze7bpndIy1q9rFvv", "duration_ms": 172791, "time_signature": 3}
+Run (BTS)
+{"danceability": 0.571, "energy": 0.863, "key": 6, "loudness": -3.821, "mode": 0, "speechiness": 0.0605, "acousticness": 0.00142, "instrumentalness": 0, "liveness": 0.0927, "valence": 0.523, "tempo": 132.997, "type": "audio_features", "id": "0PXd9WwmX3Y04KfHAaldDS", "uri": "spotify:track:0PXd9WwmX3Y04KfHAaldDS", "track_href": "https://api.spotify.com/v1/tracks/0PXd9WwmX3Y04KfHAaldDS", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0PXd9WwmX3Y04KfHAaldDS", "duration_ms": 238840, "time_signature": 4}
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: scorpion.(CVLTE)    https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND
+name: ニホンノミカタ ―ネバダカラキマシタ―(矢島美容室)    https://open.spotify.com/track/66wEwyAHAkyrBwIl7HPJFR
+name: シャルル(balloon)    https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: これからのこと、それからのこと(Ryokuoushoku Shakai)    https://open.spotify.com/track/3ee3P6E34IetUo60gwR0hw
+name: Dramaturgy(Eve)    https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: CHEERS(Mrs. GREEN APPLE)    https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz
+------------------<score>-----------------------
+CHEERS  https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+score: 1

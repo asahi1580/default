@@ -1,0 +1,25 @@
+2023年11月10日 14:39:41
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/5VTvhqeStmNang1Itg8Wbp
+内臓ありますか (PinocchioP)
+{"danceability": 0.745, "energy": 0.907, "key": 0, "loudness": -5.519, "mode": 1, "speechiness": 0.0591, "acousticness": 0.28, "instrumentalness": 0, "liveness": 0.363, "valence": 0.908, "tempo": 124.994, "type": "audio_features", "id": "3dZ5KMaJnsfA13AyEHTaSv", "uri": "spotify:track:3dZ5KMaJnsfA13AyEHTaSv", "track_href": "https://api.spotify.com/v1/tracks/3dZ5KMaJnsfA13AyEHTaSv", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3dZ5KMaJnsfA13AyEHTaSv", "duration_ms": 207000, "time_signature": 4}
+It's A Whole World (そーいち)
+{"danceability": 0.587, "energy": 0.998, "key": 8, "loudness": -0.401, "mode": 1, "speechiness": 0.0755, "acousticness": 0.26, "instrumentalness": 3.11e-05, "liveness": 0.0646, "valence": 0.752, "tempo": 159.98, "type": "audio_features", "id": "0yQMTRdK2vzN3wNKaFamtR", "uri": "spotify:track:0yQMTRdK2vzN3wNKaFamtR", "track_href": "https://api.spotify.com/v1/tracks/0yQMTRdK2vzN3wNKaFamtR", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0yQMTRdK2vzN3wNKaFamtR", "duration_ms": 207375, "time_signature": 4}
+PHOENIX (BURNOUT SYNDROMES)
+{"danceability": 0.493, "energy": 0.947, "key": 0, "loudness": -0.717, "mode": 1, "speechiness": 0.0699, "acousticness": 0.111, "instrumentalness": 0, "liveness": 0.345, "valence": 0.656, "tempo": 137.12, "type": "audio_features", "id": "2c6LZVF5Q0rKAGmWOB0yM3", "uri": "spotify:track:2c6LZVF5Q0rKAGmWOB0yM3", "track_href": "https://api.spotify.com/v1/tracks/2c6LZVF5Q0rKAGmWOB0yM3", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2c6LZVF5Q0rKAGmWOB0yM3", "duration_ms": 246813, "time_signature": 4}
+美人 (CHANMINA)
+{"danceability": 0.796, "energy": 0.733, "key": 1, "loudness": -5.995, "mode": 1, "speechiness": 0.0986, "acousticness": 0.0109, "instrumentalness": 4.16e-06, "liveness": 0.24, "valence": 0.412, "tempo": 94.998, "type": "audio_features", "id": "6N19sHUX9ND67L4IBPR9yD", "uri": "spotify:track:6N19sHUX9ND67L4IBPR9yD", "track_href": "https://api.spotify.com/v1/tracks/6N19sHUX9ND67L4IBPR9yD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6N19sHUX9ND67L4IBPR9yD", "duration_ms": 158621, "time_signature": 4}
+イケナイ太陽 (ORANGE RANGE)
+{"danceability": 0.512, "energy": 0.942, "key": 4, "loudness": -4.336, "mode": 0, "speechiness": 0.0451, "acousticness": 0.000301, "instrumentalness": 1.26e-06, "liveness": 0.133, "valence": 0.833, "tempo": 145.062, "type": "audio_features", "id": "7emibp3qHeqNNYqZ2Y09xb", "uri": "spotify:track:7emibp3qHeqNNYqZ2Y09xb", "track_href": "https://api.spotify.com/v1/tracks/7emibp3qHeqNNYqZ2Y09xb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7emibp3qHeqNNYqZ2Y09xb", "duration_ms": 239187, "time_signature": 4}
+name: フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)(Shinsei Kamattechan)    https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: My Line(Berry Goodman)    https://open.spotify.com/track/2eAOxy6XD8U8pKCuNCfiET
+name: 小さな惑星(King Gnu)    https://open.spotify.com/track/6Sk8FdL95YNN8Xru87BWez
+name: 銀河鉄道999 - EXILE CATCHY BEST(EXILE)    https://open.spotify.com/track/7Gti9Ynx3fuvJpYgA4OCtt
+name: 友よ 〜 この先もずっと・・・(Ketsumeishi)    https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz
+name: 憧れのままに(yama)    https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: No More Cry(D-51)    https://open.spotify.com/track/6OitPk0ZtxFg2ixRKV6Y1h
+------------------<score>-----------------------
+score: 0

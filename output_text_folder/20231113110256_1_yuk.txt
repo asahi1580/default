@@ -1,0 +1,26 @@
+2023年11月13日 11:03:01
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/1Xvftggu2LmTMJ8TiIKIHy
+Purpose (Furui Riho)
+{"danceability": 0.586, "energy": 0.672, "key": 7, "loudness": -5.808, "mode": 1, "speechiness": 0.167, "acousticness": 0.107, "instrumentalness": 0, "liveness": 0.297, "valence": 0.667, "tempo": 179.913, "type": "audio_features", "id": "7kBOpI7vAn3GodI52bauxV", "uri": "spotify:track:7kBOpI7vAn3GodI52bauxV", "track_href": "https://api.spotify.com/v1/tracks/7kBOpI7vAn3GodI52bauxV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7kBOpI7vAn3GodI52bauxV", "duration_ms": 229999, "time_signature": 4}
+やんなっちゃうよな(with meiyo) (Naoto Inti Raymi)
+{"danceability": 0.89, "energy": 0.816, "key": 11, "loudness": -4.872, "mode": 0, "speechiness": 0.0617, "acousticness": 0.0422, "instrumentalness": 0.000185, "liveness": 0.276, "valence": 0.812, "tempo": 126.051, "type": "audio_features", "id": "0sgJqWmPjHKkGW9zjXTrlV", "uri": "spotify:track:0sgJqWmPjHKkGW9zjXTrlV", "track_href": "https://api.spotify.com/v1/tracks/0sgJqWmPjHKkGW9zjXTrlV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0sgJqWmPjHKkGW9zjXTrlV", "duration_ms": 148095, "time_signature": 4}
+花 (Fujii Kaze)
+{"danceability": 0.769, "energy": 0.716, "key": 5, "loudness": -8.203, "mode": 0, "speechiness": 0.0429, "acousticness": 0.118, "instrumentalness": 0.00659, "liveness": 0.158, "valence": 0.66, "tempo": 123.031, "type": "audio_features", "id": "5RIQU2JDuXC4NkLiHNNMon", "uri": "spotify:track:5RIQU2JDuXC4NkLiHNNMon", "track_href": "https://api.spotify.com/v1/tracks/5RIQU2JDuXC4NkLiHNNMon", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5RIQU2JDuXC4NkLiHNNMon", "duration_ms": 246700, "time_signature": 4}
+ASAP (NewJeans)
+{"danceability": 0.934, "energy": 0.486, "key": 0, "loudness": -9.561, "mode": 0, "speechiness": 0.164, "acousticness": 0.466, "instrumentalness": 3.73e-05, "liveness": 0.0963, "valence": 0.372, "tempo": 130.052, "type": "audio_features", "id": "5fpyAakgFOm4YTXkgfPzvV", "uri": "spotify:track:5fpyAakgFOm4YTXkgfPzvV", "track_href": "https://api.spotify.com/v1/tracks/5fpyAakgFOm4YTXkgfPzvV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5fpyAakgFOm4YTXkgfPzvV", "duration_ms": 134387, "time_signature": 4}
+ソングオブザデッド (KANA-BOON)
+{"danceability": 0.429, "energy": 0.973, "key": 2, "loudness": -2.69, "mode": 1, "speechiness": 0.179, "acousticness": 0.00298, "instrumentalness": 1.9e-05, "liveness": 0.158, "valence": 0.385, "tempo": 169.122, "type": "audio_features", "id": "48sA84eSu3NA4iwGTARt6C", "uri": "spotify:track:48sA84eSu3NA4iwGTARt6C", "track_href": "https://api.spotify.com/v1/tracks/48sA84eSu3NA4iwGTARt6C", "analysis_url": "https://api.spotify.com/v1/audio-analysis/48sA84eSu3NA4iwGTARt6C", "duration_ms": 196440, "time_signature": 4}
+name: PULL UP(LANA)    https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo
+name: PUPPET SHOW(XG)    https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp
+name: Automatic(Def Tech)    https://open.spotify.com/track/5WcjMhF7LXWW6qWRSOoIoO
+name: T・P・P(BREIMEN)    https://open.spotify.com/track/42UXRtOOMC3NsK0tb6NfsG
+name: Happily Ever After(TOMORROW X TOGETHER)    https://open.spotify.com/track/29r5gr7b0f710smqMrm7pP
+name: キテレツサクレツ(WONDER∞WANDER)    https://open.spotify.com/track/6Fp3w8mGfAnZiibKGG9Lur
+name: NEED(LOM)    https://open.spotify.com/track/6bBNrGz66zuCWV0sZEI4MU
+name: Super Shy(NewJeans)    https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd
+name: Ready to Jump(Hey! Say! JUMP)    https://open.spotify.com/track/1pATsjibjLcbIZEYQjB11j
+name: ティンカーベル(WEDNESDAY CAMPANELLA)    https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv
+------------------<score>-----------------------
+Happily Ever After  https://open.spotify.com/track/29r5gr7b0f710smqMrm7pP
+score: 1

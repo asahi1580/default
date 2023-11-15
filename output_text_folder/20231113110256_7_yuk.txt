@@ -1,0 +1,25 @@
+2023年11月13日 11:03:24
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/1Xvftggu2LmTMJ8TiIKIHy
+Off The Record (IVE)
+{"danceability": 0.767, "energy": 0.745, "key": 10, "loudness": -5.338, "mode": 1, "speechiness": 0.0449, "acousticness": 0.101, "instrumentalness": 0, "liveness": 0.192, "valence": 0.842, "tempo": 107.984, "type": "audio_features", "id": "0tSkMuKKrLXEfxc58cEhFX", "uri": "spotify:track:0tSkMuKKrLXEfxc58cEhFX", "track_href": "https://api.spotify.com/v1/tracks/0tSkMuKKrLXEfxc58cEhFX", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0tSkMuKKrLXEfxc58cEhFX", "duration_ms": 188733, "time_signature": 4}
+夏の日のメガドライブ (ザ・リーサルウェポンズ)
+{"danceability": 0.419, "energy": 0.874, "key": 0, "loudness": -2.963, "mode": 1, "speechiness": 0.0532, "acousticness": 0.000501, "instrumentalness": 0, "liveness": 0.513, "valence": 0.572, "tempo": 172.013, "type": "audio_features", "id": "4g6Nnme8LYTFsipyknfUJk", "uri": "spotify:track:4g6Nnme8LYTFsipyknfUJk", "track_href": "https://api.spotify.com/v1/tracks/4g6Nnme8LYTFsipyknfUJk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4g6Nnme8LYTFsipyknfUJk", "duration_ms": 195773, "time_signature": 4}
+やんなっちゃうよな(with meiyo) (Naoto Inti Raymi)
+{"danceability": 0.89, "energy": 0.816, "key": 11, "loudness": -4.872, "mode": 0, "speechiness": 0.0617, "acousticness": 0.0422, "instrumentalness": 0.000185, "liveness": 0.276, "valence": 0.812, "tempo": 126.051, "type": "audio_features", "id": "0sgJqWmPjHKkGW9zjXTrlV", "uri": "spotify:track:0sgJqWmPjHKkGW9zjXTrlV", "track_href": "https://api.spotify.com/v1/tracks/0sgJqWmPjHKkGW9zjXTrlV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0sgJqWmPjHKkGW9zjXTrlV", "duration_ms": 148095, "time_signature": 4}
+ドアをノックするのは誰だ? (Ozawa Kenji)
+{"danceability": 0.651, "energy": 0.73, "key": 2, "loudness": -8.843, "mode": 1, "speechiness": 0.0385, "acousticness": 0.0228, "instrumentalness": 0.000346, "liveness": 0.21, "valence": 0.848, "tempo": 98.048, "type": "audio_features", "id": "2OlGUqfT5U41GQLdEnYusD", "uri": "spotify:track:2OlGUqfT5U41GQLdEnYusD", "track_href": "https://api.spotify.com/v1/tracks/2OlGUqfT5U41GQLdEnYusD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2OlGUqfT5U41GQLdEnYusD", "duration_ms": 382131, "time_signature": 4}
+Kiss You (One Direction)
+{"danceability": 0.637, "energy": 0.93, "key": 4, "loudness": -2.632, "mode": 1, "speechiness": 0.0511, "acousticness": 0.0177, "instrumentalness": 0, "liveness": 0.452, "valence": 0.886, "tempo": 90.014, "type": "audio_features", "id": "4My8w8AA1JpG6E5SiAPvJL", "uri": "spotify:track:4My8w8AA1JpG6E5SiAPvJL", "track_href": "https://api.spotify.com/v1/tracks/4My8w8AA1JpG6E5SiAPvJL", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4My8w8AA1JpG6E5SiAPvJL", "duration_ms": 182867, "time_signature": 4}
+name: 君は1000% feat. ミズノマリ (from paris match)(PAPER MOON PROJECT)    https://open.spotify.com/track/7fbisFzuaxYSmIjhPhYotu
+name: Dance The Night - From Barbie The Album(Dua Lipa)    https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA
+name: Million Miles Away - Edit(Vantage)    https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW
+name: If I Only Knew(Tom Jones)    https://open.spotify.com/track/6yFn1gA36FwRVkbtZzXzAX
+name: 億劫(プランクトン)    https://open.spotify.com/track/2w65cyN27BCe45XnwCU30m
+name: 夜に駆ける(YOASOBI)    https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js
+name: U(millennium parade)    https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6
+name: 曖昧(WANIMA)    https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH
+name: トリコになれ(Macaroni Empitsu)    https://open.spotify.com/track/11ZLv1ZO8hTOkCZqkQ1qCR
+name: SEKAIJUUNO DARE YORI KITTO(Lil' Goldwell)    https://open.spotify.com/track/69wkJK3mWSuHDiuMkh9K90
+------------------<score>-----------------------
+score: 0

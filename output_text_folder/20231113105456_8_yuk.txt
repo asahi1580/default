@@ -1,0 +1,26 @@
+2023年11月13日 10:55:30
+yuk_score.py
+お気に入りソング❤︎  https://open.spotify.com/playlist/24NM1KCr8TWvD134lA5v1X
+必ず何かの天才 (Berry Goodman)
+{"danceability": 0.583, "energy": 0.802, "key": 11, "loudness": -4.649, "mode": 1, "speechiness": 0.111, "acousticness": 0.31, "instrumentalness": 0, "liveness": 0.0807, "valence": 0.528, "tempo": 88.182, "type": "audio_features", "id": "3JYBTC75xZAgYOs3pKiHX7", "uri": "spotify:track:3JYBTC75xZAgYOs3pKiHX7", "track_href": "https://api.spotify.com/v1/tracks/3JYBTC75xZAgYOs3pKiHX7", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JYBTC75xZAgYOs3pKiHX7", "duration_ms": 253052, "time_signature": 4}
+マダオワラナイ (Shota Shimizu)
+{"danceability": 0.539, "energy": 0.869, "key": 0, "loudness": -4.417, "mode": 0, "speechiness": 0.0641, "acousticness": 0.0799, "instrumentalness": 0.000608, "liveness": 0.299, "valence": 0.876, "tempo": 183.844, "type": "audio_features", "id": "6ySyKRXSLPozriNrlhDgeM", "uri": "spotify:track:6ySyKRXSLPozriNrlhDgeM", "track_href": "https://api.spotify.com/v1/tracks/6ySyKRXSLPozriNrlhDgeM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ySyKRXSLPozriNrlhDgeM", "duration_ms": 360307, "time_signature": 4}
+Love Song (Uru)
+{"danceability": 0.575, "energy": 0.583, "key": 9, "loudness": -4.72, "mode": 1, "speechiness": 0.0309, "acousticness": 0.569, "instrumentalness": 0, "liveness": 0.0894, "valence": 0.39, "tempo": 137.766, "type": "audio_features", "id": "2aAuO61alPO20xyePFHjdf", "uri": "spotify:track:2aAuO61alPO20xyePFHjdf", "track_href": "https://api.spotify.com/v1/tracks/2aAuO61alPO20xyePFHjdf", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2aAuO61alPO20xyePFHjdf", "duration_ms": 286413, "time_signature": 4}
+Darling (Kana Nishino)
+{"danceability": 0.592, "energy": 0.808, "key": 5, "loudness": -4.355, "mode": 1, "speechiness": 0.0361, "acousticness": 0.343, "instrumentalness": 1.58e-06, "liveness": 0.227, "valence": 0.787, "tempo": 159.851, "type": "audio_features", "id": "1xNuNkY51qJ3wIEUkjXN4o", "uri": "spotify:track:1xNuNkY51qJ3wIEUkjXN4o", "track_href": "https://api.spotify.com/v1/tracks/1xNuNkY51qJ3wIEUkjXN4o", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1xNuNkY51qJ3wIEUkjXN4o", "duration_ms": 256467, "time_signature": 4}
+ハート (Aimyon)
+{"danceability": 0.661, "energy": 0.448, "key": 6, "loudness": -5.761, "mode": 1, "speechiness": 0.0522, "acousticness": 0.543, "instrumentalness": 0, "liveness": 0.0818, "valence": 0.299, "tempo": 78.114, "type": "audio_features", "id": "6cvKfEw8rDcmXBslqSEC9G", "uri": "spotify:track:6cvKfEw8rDcmXBslqSEC9G", "track_href": "https://api.spotify.com/v1/tracks/6cvKfEw8rDcmXBslqSEC9G", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6cvKfEw8rDcmXBslqSEC9G", "duration_ms": 271280, "time_signature": 4}
+name: 幽霊船((sic)boy)    https://open.spotify.com/track/4O1RQ3hmsGrQ4zM00EO0VY
+name: BEAT(Ryuichi Kawamura)    https://open.spotify.com/track/2sPVZloQCeDVkNbuQkoVzO
+name: if(Kana Nishino)    https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P
+name: Suite Life (Familiar) - Bonus Track(FLO)    https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq
+name: Stay Alive (Prod. SUGA of BTS)(Jung Kook)    https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep
+name: 異星人と熱帯夜(Cody・Lee(李))    https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys
+name: ロビンソン(SPITZ)    https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws
+name: ダンデライオン(Da-iCE)    https://open.spotify.com/track/5BQ2xOi9ZLwLS79VHYsGzk
+name: サラ・ジェーン(サザンオールスターズ)    https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT
+name: 数センチメンタル(こはならむ)    https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf
+------------------<score>-----------------------
+if  https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P
+score: 1

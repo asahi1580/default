@@ -1,0 +1,25 @@
+2023年11月10日 14:35:01
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+始発とカフカ (n-buna)
+{"danceability": 0.636, "energy": 0.637, "key": 8, "loudness": -4.855, "mode": 1, "speechiness": 0.0454, "acousticness": 0.0274, "instrumentalness": 1.49e-05, "liveness": 0.069, "valence": 0.819, "tempo": 79.985, "type": "audio_features", "id": "3bIbUCSuc2sDZaJGPgM4Pb", "uri": "spotify:track:3bIbUCSuc2sDZaJGPgM4Pb", "track_href": "https://api.spotify.com/v1/tracks/3bIbUCSuc2sDZaJGPgM4Pb", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3bIbUCSuc2sDZaJGPgM4Pb", "duration_ms": 313305, "time_signature": 4}
+嗤うマネキン (MI8k)
+{"danceability": 0.471, "energy": 0.924, "key": 5, "loudness": -3.714, "mode": 0, "speechiness": 0.0868, "acousticness": 0.196, "instrumentalness": 6e-06, "liveness": 0.0901, "valence": 0.548, "tempo": 171.057, "type": "audio_features", "id": "5rlufCxBIuIJEmsfJgYVZ8", "uri": "spotify:track:5rlufCxBIuIJEmsfJgYVZ8", "track_href": "https://api.spotify.com/v1/tracks/5rlufCxBIuIJEmsfJgYVZ8", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rlufCxBIuIJEmsfJgYVZ8", "duration_ms": 210585, "time_signature": 4}
+Alice in 冷凍庫 (Orangestar)
+{"danceability": 0.557, "energy": 0.829, "key": 5, "loudness": -5.379, "mode": 1, "speechiness": 0.047, "acousticness": 0.0574, "instrumentalness": 0.814, "liveness": 0.145, "valence": 0.417, "tempo": 176.416, "type": "audio_features", "id": "4u4waEq8JvugyEW3rDTpKE", "uri": "spotify:track:4u4waEq8JvugyEW3rDTpKE", "track_href": "https://api.spotify.com/v1/tracks/4u4waEq8JvugyEW3rDTpKE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4u4waEq8JvugyEW3rDTpKE", "duration_ms": 343302, "time_signature": 4}
+ゴー・トゥ・大都会 (feat. GUMI) (月裏, ニャン・トンロン)
+{"danceability": 0.691, "energy": 0.773, "key": 8, "loudness": -5.873, "mode": 1, "speechiness": 0.0655, "acousticness": 0.242, "instrumentalness": 1.48e-06, "liveness": 0.0917, "valence": 0.484, "tempo": 128.01, "type": "audio_features", "id": "12epYxzmLOXyd3bMMM7ELE", "uri": "spotify:track:12epYxzmLOXyd3bMMM7ELE", "track_href": "https://api.spotify.com/v1/tracks/12epYxzmLOXyd3bMMM7ELE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/12epYxzmLOXyd3bMMM7ELE", "duration_ms": 170156, "time_signature": 4}
+ロールレスウエポン - 稲葉曇×Neru (稲葉曇)
+{"danceability": 0.495, "energy": 0.856, "key": 0, "loudness": -3.605, "mode": 1, "speechiness": 0.0913, "acousticness": 0.0361, "instrumentalness": 2.09e-06, "liveness": 0.115, "valence": 0.803, "tempo": 179.953, "type": "audio_features", "id": "4ddSGTnURIXSVvzTcPKsKV", "uri": "spotify:track:4ddSGTnURIXSVvzTcPKsKV", "track_href": "https://api.spotify.com/v1/tracks/4ddSGTnURIXSVvzTcPKsKV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ddSGTnURIXSVvzTcPKsKV", "duration_ms": 193316, "time_signature": 4}
+name: Actually...(Nogizaka46)    https://open.spotify.com/track/4pfJEUjNi65LLQcEBHaWAz
+name: A面で恋をして(NIAGARA TRIANGLE)    https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH
+name: ノンブレス・オブリージュ(PinocchioP)    https://open.spotify.com/track/5blgKDJ31u2C27jOcya3k9
+name: GOKU VIBES(DJ CHARI)    https://open.spotify.com/track/3ONpcsH0VHshaLqnghaq0S
+name: 未来で逢いたい(ケプラ)    https://open.spotify.com/track/7ECQe4BiTGhWxI8sq7AXbm
+name: 僕らまだアンダーグラウンド(Eve)    https://open.spotify.com/track/2G4pRFifFAlzozdqOq56uw
+name: いいわけ(Sharam Q)    https://open.spotify.com/track/0WslHz0nNPgbzTYYG50v24
+name: Let Me(Re:name)    https://open.spotify.com/track/6xa6JADVDyEVKV4QsMWj8U
+name: 笑顔(Ikimonogakari)    https://open.spotify.com/track/1dYFiDCkODoBht8HtTuW7E
+name: WanteD! WanteD! - Remastered 2020(Mrs. GREEN APPLE)    https://open.spotify.com/track/7bD8bySrIeSsJEQOwE6IDT
+------------------<score>-----------------------
+score: 0

@@ -1,0 +1,35 @@
+2023年11月10日 14:36:53
+yuk_score.py
+お気に入りの曲  https://open.spotify.com/playlist/3b42x8pAgQqj5Gc5mqLZ8R
+flos (R Sound Design)
+{"danceability": 0.617, "energy": 0.749, "key": 1, "loudness": -2.652, "mode": 0, "speechiness": 0.0518, "acousticness": 0.308, "instrumentalness": 0, "liveness": 0.0719, "valence": 0.757, "tempo": 118.031, "type": "audio_features", "id": "0qEvefkCUltXldv8EPOSDV", "uri": "spotify:track:0qEvefkCUltXldv8EPOSDV", "track_href": "https://api.spotify.com/v1/tracks/0qEvefkCUltXldv8EPOSDV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0qEvefkCUltXldv8EPOSDV", "duration_ms": 274577, "time_signature": 4}
+無辜のあなた (いよわ)
+{"danceability": 0.475, "energy": 0.703, "key": 2, "loudness": -7.405, "mode": 1, "speechiness": 0.0386, "acousticness": 0.0272, "instrumentalness": 0, "liveness": 0.361, "valence": 0.457, "tempo": 105.575, "type": "audio_features", "id": "57WCUB5ODiVKmdCGAIUJla", "uri": "spotify:track:57WCUB5ODiVKmdCGAIUJla", "track_href": "https://api.spotify.com/v1/tracks/57WCUB5ODiVKmdCGAIUJla", "analysis_url": "https://api.spotify.com/v1/audio-analysis/57WCUB5ODiVKmdCGAIUJla", "duration_ms": 295735, "time_signature": 4}
+Alice in 冷凍庫 (Orangestar)
+{"danceability": 0.557, "energy": 0.829, "key": 5, "loudness": -5.379, "mode": 1, "speechiness": 0.047, "acousticness": 0.0574, "instrumentalness": 0.814, "liveness": 0.145, "valence": 0.417, "tempo": 176.416, "type": "audio_features", "id": "4u4waEq8JvugyEW3rDTpKE", "uri": "spotify:track:4u4waEq8JvugyEW3rDTpKE", "track_href": "https://api.spotify.com/v1/tracks/4u4waEq8JvugyEW3rDTpKE", "analysis_url": "https://api.spotify.com/v1/audio-analysis/4u4waEq8JvugyEW3rDTpKE", "duration_ms": 343302, "time_signature": 4}
+未来創造日記 (はるな。)
+{"danceability": 0.496, "energy": 0.943, "key": 5, "loudness": -5.397, "mode": 1, "speechiness": 0.181, "acousticness": 0.000576, "instrumentalness": 0, "liveness": 0.337, "valence": 0.679, "tempo": 180.098, "type": "audio_features", "id": "77Su56tamEdzCnz0zGhptC", "uri": "spotify:track:77Su56tamEdzCnz0zGhptC", "track_href": "https://api.spotify.com/v1/tracks/77Su56tamEdzCnz0zGhptC", "analysis_url": "https://api.spotify.com/v1/audio-analysis/77Su56tamEdzCnz0zGhptC", "duration_ms": 179726, "time_signature": 4}
+気になるあの娘 (Soutaiseiriron)
+{"danceability": 0.622, "energy": 0.962, "key": 11, "loudness": -2.688, "mode": 0, "speechiness": 0.0365, "acousticness": 0.0279, "instrumentalness": 0, "liveness": 0.381, "valence": 0.895, "tempo": 95.969, "type": "audio_features", "id": "2kNN6WLD4SiWAtQNznYzAV", "uri": "spotify:track:2kNN6WLD4SiWAtQNznYzAV", "track_href": "https://api.spotify.com/v1/tracks/2kNN6WLD4SiWAtQNznYzAV", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2kNN6WLD4SiWAtQNznYzAV", "duration_ms": 182480, "time_signature": 4}
+name: 愛のしるし(森七菜)    https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA
+name: はじまりのセツナ(蝋梅学園中等部1年3組)    https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp
+name: Trickster(FIVE NEW OLD)    https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp
+name: 夏祭り(Whiteberry)    https://open.spotify.com/track/51hE2l7cmVXtEpmJ0AGh4R
+name: 波乗りジョニー(Keisuke Kuwata)    https://open.spotify.com/track/3hjHUf3frPoh9jcYDkqXUV
+name: CHEERS(Mrs. GREEN APPLE)    https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN
+name: 八月の陽炎(Macaroni Empitsu)    https://open.spotify.com/track/7a7lvYsKBCsZfuMfVsn5tw
+name: クラシックハイ(Genie High)    https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9
+name: WILD ANGEL(ALI)    https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM
+name: やってみよう(WANIMA)    https://open.spotify.com/track/5VBSeHT84TB0d6EcKt8VCk
+name: Rising Sun(EXILE)    https://open.spotify.com/track/4ux6NjzqD98nXZs4hMPrxA
+name: やってみよう(WANIMA)    https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz
+name: 愛言葉III(DECO*27)    https://open.spotify.com/track/226YA8Mae7EhLltchBcFQg
+name: Love so sweet(ARASHI)    https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm
+name: Love so sweet(ARASHI)    https://open.spotify.com/track/10G6iBGzoMi9qXgDV9qyBy
+name: シャルル(balloon)    https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h
+name: 恋愛ミリフィルム(halca)    https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L
+name: 魔法のコトバ(SPITZ)    https://open.spotify.com/track/6o6XNRr7tosVpTk6Ijuzbf
+name: ライラック(美波)    https://open.spotify.com/track/3WePQc3e2le4Vmh5W2idln
+name: CHAINSAW BLOOD(Vaundy)    https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+------------------<score>-----------------------
+score: 0

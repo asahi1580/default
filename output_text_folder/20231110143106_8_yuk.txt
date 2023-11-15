@@ -1,0 +1,26 @@
+2023年11月10日 14:31:39
+yuk_score.py
+何回きいても飽きない  https://open.spotify.com/playlist/1zpJrBgP4rH2ztxuSWaNNA
+夜明けまで強がらなくてもいい (Nogizaka46)
+{"danceability": 0.439, "energy": 0.855, "key": 11, "loudness": -2.476, "mode": 1, "speechiness": 0.043, "acousticness": 0.186, "instrumentalness": 0, "liveness": 0.257, "valence": 0.633, "tempo": 134.059, "type": "audio_features", "id": "6fLq9e3IPdHUwIeSR49n5e", "uri": "spotify:track:6fLq9e3IPdHUwIeSR49n5e", "track_href": "https://api.spotify.com/v1/tracks/6fLq9e3IPdHUwIeSR49n5e", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6fLq9e3IPdHUwIeSR49n5e", "duration_ms": 260560, "time_signature": 4}
+ホワイトキス (鈴木鈴木)
+{"danceability": 0.704, "energy": 0.797, "key": 1, "loudness": -4.7, "mode": 1, "speechiness": 0.0505, "acousticness": 0.133, "instrumentalness": 0, "liveness": 0.284, "valence": 0.619, "tempo": 110.003, "type": "audio_features", "id": "7sRYDTjWTX00fd9BCOflLo", "uri": "spotify:track:7sRYDTjWTX00fd9BCOflLo", "track_href": "https://api.spotify.com/v1/tracks/7sRYDTjWTX00fd9BCOflLo", "analysis_url": "https://api.spotify.com/v1/audio-analysis/7sRYDTjWTX00fd9BCOflLo", "duration_ms": 274860, "time_signature": 4}
+Valiant 2017 (BEK & Wallin)
+{"danceability": 0.637, "energy": 0.939, "key": 9, "loudness": -4.525, "mode": 1, "speechiness": 0.233, "acousticness": 0.174, "instrumentalness": 0, "liveness": 0.43, "valence": 0.671, "tempo": 155.111, "type": "audio_features", "id": "2v5s1nLQS6Z78a4QxxHoQY", "uri": "spotify:track:2v5s1nLQS6Z78a4QxxHoQY", "track_href": "https://api.spotify.com/v1/tracks/2v5s1nLQS6Z78a4QxxHoQY", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2v5s1nLQS6Z78a4QxxHoQY", "duration_ms": 165875, "time_signature": 4}
+サイレントマジョリティー (Keyakizaka46)
+{"danceability": 0.583, "energy": 0.952, "key": 1, "loudness": -2.491, "mode": 1, "speechiness": 0.0797, "acousticness": 0.261, "instrumentalness": 0, "liveness": 0.314, "valence": 0.81, "tempo": 123.015, "type": "audio_features", "id": "6vqGGV7ZGWYFRg5EtlcuN5", "uri": "spotify:track:6vqGGV7ZGWYFRg5EtlcuN5", "track_href": "https://api.spotify.com/v1/tracks/6vqGGV7ZGWYFRg5EtlcuN5", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6vqGGV7ZGWYFRg5EtlcuN5", "duration_ms": 265827, "time_signature": 4}
+ざぶんざざぶん (Nogizaka46)
+{"danceability": 0.521, "energy": 0.917, "key": 4, "loudness": -3.665, "mode": 1, "speechiness": 0.0497, "acousticness": 0.0958, "instrumentalness": 0, "liveness": 0.328, "valence": 0.557, "tempo": 92.501, "type": "audio_features", "id": "0iQoCcUjUcJx4GxFOBYcRg", "uri": "spotify:track:0iQoCcUjUcJx4GxFOBYcRg", "track_href": "https://api.spotify.com/v1/tracks/0iQoCcUjUcJx4GxFOBYcRg", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0iQoCcUjUcJx4GxFOBYcRg", "duration_ms": 228187, "time_signature": 4}
+name: キャラクター(Ryokuoushoku Shakai)    https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi
+name: キャラクター(Ryokuoushoku Shakai)    https://open.spotify.com/track/0O4YelF6Zneq7sk1Ye73N2
+name: NE-TAXI(Creep Hyp)    https://open.spotify.com/track/6OpAP8bcAgizcLl5e6RISs
+name: King of Light(Seraphilight)    https://open.spotify.com/track/6LyqX3djXJ58kCoSqmXLCf
+name: SPECIALZ(King Gnu)    https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF
+name: WILD ANGEL(ALI)    https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM
+name: 夜のピエロ - TeddyLoid Remix(Ado)    https://open.spotify.com/track/6OiZpa36iNzEmNiVszAkQv
+name: サイレントマジョリティー(Keyakizaka46)    https://open.spotify.com/track/6vqGGV7ZGWYFRg5EtlcuN5
+name: サイレントマジョリティー(Keyakizaka46)    https://open.spotify.com/track/07sSvnON76NcKWwh9wNsmy
+name: PHOENIX(BURNOUT SYNDROMES)    https://open.spotify.com/track/2c6LZVF5Q0rKAGmWOB0yM3
+------------------<score>-----------------------
+サイレントマジョリティー  https://open.spotify.com/track/6vqGGV7ZGWYFRg5EtlcuN5
+score: 1

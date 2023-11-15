@@ -1,0 +1,26 @@
+2023年11月13日 10:58:13
+yuk_score.py
+おきにいり  https://open.spotify.com/playlist/5wbUwYagqn4FW8uC5mpOlo
+沈丁花 (DISH//)
+{"danceability": 0.558, "energy": 0.835, "key": 8, "loudness": -3.81, "mode": 1, "speechiness": 0.0296, "acousticness": 0.0269, "instrumentalness": 0, "liveness": 0.342, "valence": 0.756, "tempo": 120.048, "type": "audio_features", "id": "6JpqwdFajjlWIWJ4QD6zBd", "uri": "spotify:track:6JpqwdFajjlWIWJ4QD6zBd", "track_href": "https://api.spotify.com/v1/tracks/6JpqwdFajjlWIWJ4QD6zBd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6JpqwdFajjlWIWJ4QD6zBd", "duration_ms": 232280, "time_signature": 4}
+沈丁花 (DISH//)
+{"danceability": 0.558, "energy": 0.835, "key": 8, "loudness": -3.81, "mode": 1, "speechiness": 0.0296, "acousticness": 0.0269, "instrumentalness": 0, "liveness": 0.342, "valence": 0.756, "tempo": 120.048, "type": "audio_features", "id": "6JpqwdFajjlWIWJ4QD6zBd", "uri": "spotify:track:6JpqwdFajjlWIWJ4QD6zBd", "track_href": "https://api.spotify.com/v1/tracks/6JpqwdFajjlWIWJ4QD6zBd", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6JpqwdFajjlWIWJ4QD6zBd", "duration_ms": 232280, "time_signature": 4}
+ベテルギウス (Yuuri)
+{"danceability": 0.432, "energy": 0.68, "key": 5, "loudness": -4.839, "mode": 1, "speechiness": 0.0431, "acousticness": 0.199, "instrumentalness": 0, "liveness": 0.481, "valence": 0.685, "tempo": 180.002, "type": "audio_features", "id": "2sf18cEv463VgqmdjDsFpw", "uri": "spotify:track:2sf18cEv463VgqmdjDsFpw", "track_href": "https://api.spotify.com/v1/tracks/2sf18cEv463VgqmdjDsFpw", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2sf18cEv463VgqmdjDsFpw", "duration_ms": 230394, "time_signature": 4}
+君の花になる (8LOOM)
+{"danceability": 0.569, "energy": 0.747, "key": 2, "loudness": -5.584, "mode": 1, "speechiness": 0.0568, "acousticness": 0.329, "instrumentalness": 0, "liveness": 0.34, "valence": 0.583, "tempo": 134.817, "type": "audio_features", "id": "6VDqgFHGHZhLWuT5vq0BnM", "uri": "spotify:track:6VDqgFHGHZhLWuT5vq0BnM", "track_href": "https://api.spotify.com/v1/tracks/6VDqgFHGHZhLWuT5vq0BnM", "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VDqgFHGHZhLWuT5vq0BnM", "duration_ms": 244078, "time_signature": 4}
+パラレルワールド (BAK)
+{"danceability": 0.556, "energy": 0.476, "key": 3, "loudness": -5.02, "mode": 1, "speechiness": 0.0279, "acousticness": 0.13, "instrumentalness": 0, "liveness": 0.301, "valence": 0.499, "tempo": 77.95, "type": "audio_features", "id": "0cAXK9udJrTR430JYSdlTD", "uri": "spotify:track:0cAXK9udJrTR430JYSdlTD", "track_href": "https://api.spotify.com/v1/tracks/0cAXK9udJrTR430JYSdlTD", "analysis_url": "https://api.spotify.com/v1/audio-analysis/0cAXK9udJrTR430JYSdlTD", "duration_ms": 241213, "time_signature": 4}
+name: 今宵の月のように(Elephant Kashimashi)    https://open.spotify.com/track/0wMfMGp7nz7JMNw7tei9f5
+name: 空の青さを知る人よ(Aimyon)    https://open.spotify.com/track/3u0e8pyoVc7l2u3T5thohY
+name: 考えないようにする(Nogizaka46)    https://open.spotify.com/track/5DlHJXMxEIrg46Mh05irIy
+name: 一番会いたい人(miwa)    https://open.spotify.com/track/5Uk74xpE1KXeGKsKLPpEZ9
+name: Lovers In Tokyo(THE CHARM PARK)    https://open.spotify.com/track/4C1t6lql5m1t790X8UJ2CH
+name: KANASHIBARI(RADWIMPS)    https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO
+name: ボーイズ・ミーツ・ワールド(Macaroni Empitsu)    https://open.spotify.com/track/3TWAkzdRvz36Tn0eGXIEW8
+name: 異邦人(Hiroji Miyamoto)    https://open.spotify.com/track/3dhTHxYRbJPbxtQI9fodYq
+name: More Than A Woman(Bee Gees)    https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE
+name: イエスタデイ(OFFICIAL HIGE DANDISM)    https://open.spotify.com/track/3S3DDZrPOYTirleXRyHnNM
+------------------<score>-----------------------
+考えないようにする  https://open.spotify.com/track/5DlHJXMxEIrg46Mh05irIy
+score: 1
